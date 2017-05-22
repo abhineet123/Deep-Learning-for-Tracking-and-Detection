@@ -11,7 +11,7 @@ Collection of papers and other resources for object detection and tracking using
   * Summary goes here...
 
 ## Datasets
-- **[traffic-surveillance-dataset collection](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
+- [traffic-surveillance-dataset collection](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 
 
 ## Need to decide:
