@@ -9,3 +9,6 @@ Collection of papers and other resources for object detection and tracking using
 ## Other potentially useful papers
 - **Deep Feature Flow for Video Recognition** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Kaiming%20He%2C%20Mask%20R-CNN%2C%202017.pdf), [arxiv](https://arxiv.org/abs/1611.07715), [github](https://github.com/msracver/Deep-Feature-Flow)) by Microsoft Research
   * Summary goes here...
+  
+## Datasets
+- **[traffic-surveillance-dataset collection](https://github.com/gustavovelascoh/traffic-surveillance-dataset)
