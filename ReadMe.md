@@ -4,7 +4,7 @@ Collection of papers and other resources for object detection and tracking using
 - **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Xizhou%20Zhu%2C%20Deep%20Feature%20Flow%20For%20Video%20Recognition%2C%202016.pdf), [arxiv](https://arxiv.org/abs/1703.06870), [github](https://github.com/CharlesShang/FastMaskRCNN)) by Facebook AI Research!
   * Summary goes here...
 ## Object Tracking
-- **Learning to Track: Online Multi-object Tracking by Decision Making** (ICCV 2015) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf), [github (Matlab)](https://github.com/yuxng/MDP_Tracking), [project page](https://yuxng.github.io/))
+- **Learning to Track: Online Multi-object Tracking by Decision Making** (ICCV 2015) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf), [github (Matlab)](https://github.com/yuxng/MDP_Tracking), [project page](https://yuxng.github.io/))
   * RL is used to learn to perform data association between detections and tracked objects;
   * general framework capable of using any existing single object trackers and detectors;
   * the problem of data association between the detector and tracker is cast as an MDP with 4 states (or subspaces of the state space) - active, inactive, tracked, lost
@@ -29,6 +29,8 @@ Collection of papers and other resources for object detection and tracking using
     * reset template for all assigned targets and move them to tracked state
   * all unassigned detections become new objects and start getting tracked
 
+- **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies** (arxiv April 2017) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Deep%20Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/))
+
 
 
 ## Other potentially useful papers
@@ -37,7 +39,11 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Datasets
 - [traffic-surveillance-dataset collection](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
+- [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
+- [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
 
+## Resources
+- [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
 
 ## Need to decide:
 - Data sets
