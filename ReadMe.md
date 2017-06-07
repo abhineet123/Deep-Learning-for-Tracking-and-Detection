@@ -78,7 +78,7 @@ Collection of papers and other resources for object detection and tracking using
   * Summary goes here...
 
 ## Datasets
-- [traffic-surveillance-dataset collection](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
+- [Traffic Surveillance Dataset Collection](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 - [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
 - [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
 - [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
