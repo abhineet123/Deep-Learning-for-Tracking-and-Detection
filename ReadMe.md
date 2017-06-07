@@ -85,6 +85,7 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Resources
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
+- [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)
 
 ## Need to decide:
 - Data sets
