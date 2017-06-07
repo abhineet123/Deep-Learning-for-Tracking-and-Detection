@@ -84,6 +84,8 @@ Collection of papers and other resources for object detection and tracking using
 - [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
 - [TRANCOS Dataset](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
 - [Urban Tracker Dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
+- [KIT-AKS Dataset](http://i21www.ira.uka.de/image_sequences/) (No ground truth)
+- [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint)
 - [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/) (No top down viewpoint)
 
 ## Resources
