@@ -81,7 +81,10 @@ Collection of papers and other resources for object detection and tracking using
 - [traffic-surveillance-dataset collection](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 - [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
 - [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
-- [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/)(No top down viewpoint)
+- [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
+- [TRANCOS Dataset](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
+- [Urban Tracker Dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
+- [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/) (No top down viewpoint)
 
 ## Resources
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
