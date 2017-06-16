@@ -85,8 +85,13 @@ Collection of papers and other resources for object detection and tracking using
 - [TRANCOS Dataset](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
 - [Urban Tracker Dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
 - [KIT-AKS Dataset](http://i21www.ira.uka.de/image_sequences/) (No ground truth)
-- [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint)
 - [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/) (No top down viewpoint)
+- [MOT 2015](https://motchallenge.net/data/2D_MOT_2015/) (mostly street level camera viewpoint)
+- [MOT 2016](https://motchallenge.net/data/MOT16/) (mostly street level camera viewpoint)
+- [MOT 2017](https://motchallenge.net/data/MOT17/) (mostly street level camera viewpoint)
+- [PETS 2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) (No vehicles)
+- [PETS 2017](https://motchallenge.net/data/PETS2017/) (Low density; mostly pedestrians)
+- [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
 
 ## Resources
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
