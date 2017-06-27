@@ -84,6 +84,7 @@ Collection of papers and other resources for object detection and tracking using
 - [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
 - [TRANCOS Dataset](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
 - [Urban Tracker Dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
+- [DARPA VIVID / PETS 2005 dataset](http://vision.cse.psu.edu/data/vividEval/datasets/datasets.html) (Non stationary camera)
 - [KIT-AKS Dataset](http://i21www.ira.uka.de/image_sequences/) (No ground truth)
 - [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/) (No top down viewpoint)
 - [MOT 2015](https://motchallenge.net/data/2D_MOT_2015/) (mostly street level camera viewpoint)
