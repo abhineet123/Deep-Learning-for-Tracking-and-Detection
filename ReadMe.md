@@ -117,4 +117,4 @@ Collection of papers and other resources for object detection and tracking using
 - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
 - [RNNexp](https://github.com/asheshjain399/RNNexp)
 - [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
-- [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/) (highest MT among open source trackers)
+- [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/) (highest MT on MOT2015 among open source trackers)
