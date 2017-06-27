@@ -97,7 +97,7 @@ Collection of papers and other resources for object detection and tracking using
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
 - [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)
 
-## Need to decide:
-- Data sets
-- Papers
-- Framework (Fixed to Tensorflow)
+## Tutorials
+- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+- [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
+
