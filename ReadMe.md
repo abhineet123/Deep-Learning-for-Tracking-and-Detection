@@ -78,7 +78,6 @@ Collection of papers and other resources for object detection and tracking using
   * Summary goes here...
 
 ## Datasets
-- [Traffic Surveillance Dataset Collection](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 - [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
 - [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
 - [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
@@ -95,6 +94,7 @@ Collection of papers and other resources for object detection and tracking using
 - [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
 
 ## Resources
+- [List of Traffic Surveillance Datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
 - [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)
 - [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
