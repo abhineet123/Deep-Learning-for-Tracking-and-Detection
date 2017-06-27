@@ -96,8 +96,23 @@ Collection of papers and other resources for object detection and tracking using
 ## Resources
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
 - [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)
+- [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 
 ## Tutorials
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 - [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
 
+## Code
+- [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking)
+- [Matchnet](https://github.com/hanxf/matchnet)
+- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
+- [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
+- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes! ](https://github.com/philipperemy/yolo-9000)
+- [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
+- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
+- [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet)
+- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
+- [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS)
+- [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
+- [RNNexp](https://github.com/asheshjain399/RNNexp)
+- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
