@@ -106,6 +106,7 @@ Collection of papers and other resources for object detection and tracking using
 - [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
 - [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)
+- [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
 - [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 
 ## Tutorials
