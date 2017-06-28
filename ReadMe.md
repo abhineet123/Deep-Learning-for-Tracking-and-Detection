@@ -73,6 +73,17 @@ Collection of papers and other resources for object detection and tracking using
 			- this O-RNN is also trained (?) to output a similarity score between the target and detection based on their feature vector
 		- both training stages use MOT15 and MOT16 datasets
 
+- **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor
+** (ICCV 2015) (NEC Labs) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Multi%20Target/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf), [author page](http://www-personal.umich.edu/~wgchoi/))
+  * [Summary](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Summary/NOMT.pdf)
+
+- **Deep Reinforcement Learning for Visual Object Tracking in Videos 
+** (arxiv April 2017) (USC-Santa Barbara, Samsung Research) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/))
+  * [Summary](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Summary/NOMT.pdf)
+  
+- **Visual Tracking by Reinforced Decision Making ** (arxiv February 2017) (Seoul National University, Chung-Ang University) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/))
+  * [Summary](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Summary/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17.pdf)
+  
 ## Other potentially useful papers
 - **Deep Feature Flow for Video Recognition** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Kaiming%20He%2C%20Mask%20R-CNN%2C%202017.pdf), [arxiv](https://arxiv.org/abs/1611.07715), [github](https://github.com/msracver/Deep-Feature-Flow)) by Microsoft Research
   * Summary goes here...
@@ -119,3 +130,13 @@ Collection of papers and other resources for object detection and tracking using
 - [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
 - [Multiple Hypothesis Tracking Revisited (ICCV 2015)](http://rehg.org/mht/) (highest MT on MOT2015 among open source trackers)
 - [Joint Tracking and Segmentation of Multiple Targets (CVPR 2015)](https://bitbucket.org/amilan/segtracking)
+- [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks (AAAI 2016)](https://github.com/pondruska/DeepTracking)
+- [Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)](https://github.com/jbhuang0604/CF2)
+- [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking (Winner of The VOT2015 Challenge)](https://github.com/HyeonseobNam/MDNet)
+- [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM)
+- [Visual Tracking with Fully Convolutional Networks (ICCV 2015)](https://github.com/scott89/FCNT)
+- [Fully-Convolutional Siamese Networks for Object Tracking (Tensor flow)](https://github.com/torrvision/siamfc-tf)
+- [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO)
+- [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016) (MATLAB)](https://github.com/martin-danelljan/Continuous-ConvOp)
+- [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)
+- [End-to-end representation learning for Correlation Filter based tracking (CVPR 21017)](https://github.com/bertinetto/cfnet)
