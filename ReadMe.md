@@ -104,7 +104,7 @@ Collection of papers and other resources for object detection and tracking using
 - [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
 
 ## Code
-- [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking)
+- [Learning to Track: Online Multi-Object Tracking by Decision Making (ICCV 2015)](https://github.com/yuxng/MDP_Tracking)
 - [Matchnet](https://github.com/hanxf/matchnet)
 - [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 - [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
@@ -117,4 +117,5 @@ Collection of papers and other resources for object detection and tracking using
 - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
 - [RNNexp](https://github.com/asheshjain399/RNNexp)
 - [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
-- [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/) (highest MT on MOT2015 among open source trackers)
+- [Multiple Hypothesis Tracking Revisited (ICCV 2015)](http://rehg.org/mht/) (highest MT on MOT2015 among open source trackers)
+- [Joint Tracking and Segmentation of Multiple Targets (CVPR 2015)](https://bitbucket.org/amilan/segtracking)
