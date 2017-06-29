@@ -68,6 +68,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016) (MATLAB)](https://github.com/martin-danelljan/Continuous-ConvOp)
 	- [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)
 	- [End-to-end representation learning for Correlation Filter based tracking (CVPR 21017)](https://github.com/bertinetto/cfnet)
+	- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
 - Object Detection and Matching
 	- [Matchnet](https://github.com/hanxf/matchnet)
 	- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
@@ -82,7 +83,6 @@ Collection of papers and other resources for object detection and tracking using
 - Misc
 	- [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet)
 	- [RNNexp](https://github.com/asheshjain399/RNNexp)
-	- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
 
 	
 
