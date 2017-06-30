@@ -79,6 +79,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 	- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
 	- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
+	- [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
 - Optical Flow
 	- [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS)
 	- [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
