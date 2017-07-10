@@ -75,12 +75,14 @@ Collection of papers and other resources for object detection and tracking using
 	- [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016) (MATLAB)](https://github.com/martin-danelljan/Continuous-ConvOp)
 	- [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)
 	- [End-to-end representation learning for Correlation Filter based tracking (CVPR 21017)](https://github.com/bertinetto/cfnet)
+	- [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp)[(ECCV 21016)][Matlab]
+	- [ECO: Efficient Convolution Operators for Tracking](https://github.com/martin-danelljan/ECO)[(CVPR 21017)][Matlab]
 	- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
 - Object Detection and Matching
 	- [Matchnet](https://github.com/hanxf/matchnet)
 	- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 	- [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
-	- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes! ](https://github.com/philipperemy/yolo-9000)
+	- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)
 	- [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 	- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
 	- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
