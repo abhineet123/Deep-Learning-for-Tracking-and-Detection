@@ -68,6 +68,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [Learning to Track: Online Multi-Object Tracking by Decision Making (ICCV 2015)](https://github.com/yuxng/MDP_Tracking)[MATLAB]
 	- [Multiple Hypothesis Tracking Revisited (ICCV 2015)](http://rehg.org/mht/) (highest MT on MOT2015 among open source trackers)[MATLAB]
 	- [Joint Tracking and Segmentation of Multiple Targets (CVPR 2015)](https://bitbucket.org/amilan/segtracking)[MATLAB]
+	- [High-Speed Tracking-by-Detection Without Using Image Information (AVSS 21017)](https://github.com/bochinski/iou-tracker)[Python]
 - Single Object Tracking
 	- [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks (AAAI 2016)](https://github.com/pondruska/DeepTracking)[Torch 7]
 	- [Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)](https://github.com/jbhuang0604/CF2)[Matlab]
@@ -79,7 +80,6 @@ Collection of papers and other resources for object detection and tracking using
 	- [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016)](https://github.com/martin-danelljan/Continuous-ConvOp)[MATLAB]
 	- [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
 	- [End-to-end representation learning for Correlation Filter based tracking (CVPR 21017)](https://github.com/bertinetto/cfnet)[MATLAB]
-	- [High-Speed Tracking-by-Detection Without Using Image Information (AVSS 21017)](https://github.com/bochinski/iou-tracker)[Python]
 	- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
 - Object Detection and Matching
 	- [Matchnet](https://github.com/hanxf/matchnet)
