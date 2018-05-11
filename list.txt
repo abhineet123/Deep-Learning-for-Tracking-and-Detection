@@ -1,0 +1,1665 @@
+H:\UofA\PhD\Literature\Alignment
+H:\UofA\PhD\Literature\AM
+H:\UofA\PhD\Literature\Autoencoder
+H:\UofA\PhD\Literature\Bayesian
+H:\UofA\PhD\Literature\Bio Inspired
+H:\UofA\PhD\Literature\Books
+H:\UofA\PhD\Literature\Captioning
+H:\UofA\PhD\Literature\Datasets
+H:\UofA\PhD\Literature\Denoising
+H:\UofA\PhD\Literature\Detection.lnk
+H:\UofA\PhD\Literature\DL
+H:\UofA\PhD\Literature\Evaluation
+H:\UofA\PhD\Literature\GAN
+H:\UofA\PhD\Literature\General Value Functions
+H:\UofA\PhD\Literature\Graph Theory
+H:\UofA\PhD\Literature\HMM
+H:\UofA\PhD\Literature\Image Matching
+H:\UofA\PhD\Literature\Libraries
+H:\UofA\PhD\Literature\Literature.mm
+H:\UofA\PhD\Literature\Misc
+H:\UofA\PhD\Literature\ML
+H:\UofA\PhD\Literature\MSc.lnk
+H:\UofA\PhD\Literature\NDP
+H:\UofA\PhD\Literature\Optical Flow
+H:\UofA\PhD\Literature\Optimization
+H:\UofA\PhD\Literature\Preprocessing
+H:\UofA\PhD\Literature\Recognition
+H:\UofA\PhD\Literature\Registration
+H:\UofA\PhD\Literature\Repo
+H:\UofA\PhD\Literature\RL
+H:\UofA\PhD\Literature\RNN
+H:\UofA\PhD\Literature\Segmentation
+H:\UofA\PhD\Literature\Siamese Networks and Learned AM
+H:\UofA\PhD\Literature\Similarity Metric
+H:\UofA\PhD\Literature\Sparse Coding
+H:\UofA\PhD\Literature\Tools
+H:\UofA\PhD\Literature\Tracking
+H:\UofA\PhD\Literature\Traffic Monitoring
+H:\UofA\PhD\Literature\Transfer Learning
+H:\UofA\PhD\Literature\Unsorted
+H:\UofA\PhD\Literature\Unsupervised
+H:\UofA\PhD\Literature\Video Synthesis
+H:\UofA\PhD\Literature\View Synthesis
+H:\UofA\PhD\Literature\Alignment\A Robust Method for Mosaicking Sequence Images Obtained from UAV icies10.pdf
+H:\UofA\PhD\Literature\Alignment\Face Alignment Across Large Poses A 3D Solution CVPR2016.pdf
+H:\UofA\PhD\Literature\Alignment\Large-pose Face Alignment via CNN-based Dense 3D Model Fitting CVPR2016.pdf
+H:\UofA\PhD\Literature\Alignment\PoseNet A Convolutional Network for Real-Time 6-DOF Camera Relocalization iccv15.pdf
+H:\UofA\PhD\Literature\AM\Large scale online learning of image similarity through ranking jmlr10.pdf
+H:\UofA\PhD\Literature\Autoencoder\Reducing the Dimensionality of Data with Neural Networks science0607.pdf
+H:\UofA\PhD\Literature\Bayesian\A practical Bayesian framework for backpropagation networks. nc92.pdf
+H:\UofA\PhD\Literature\Bayesian\Bayesian Learning for Neural Networks thesis_book95.pdf
+H:\UofA\PhD\Literature\Bayesian\Bayesian methods for adaptive models thesis_caltech92.pdf
+H:\UofA\PhD\Literature\Bayesian\Keeping the neural net- works simple by minimizing the description length of the weights colt93.pdf
+H:\UofA\PhD\Literature\Bayesian\Variational Inference A Review for Statisticians ax1712.pdf
+H:\UofA\PhD\Literature\Bayesian\Variational Inference A Review for Statisticians ax1712_2.pdf
+H:\UofA\PhD\Literature\Bio Inspired\A Bio-Inspired Robot with Visual Perception of Affordances eccv14.pdf
+H:\UofA\PhD\Literature\Bio Inspired\Human-level concept learning through probabilistic program induction.pdf
+H:\UofA\PhD\Literature\Bio Inspired\Lessons from the Primate Visual System eccv12.pdf
+H:\UofA\PhD\Literature\Bio Inspired\Visual parsing after recovery from blindness ps09.pdf
+H:\UofA\PhD\Literature\Books\Adaptive Representations for Reinforcement Learning SL 2010.pdf
+H:\UofA\PhD\Literature\Books\Algorithms for Reinforcement Learning.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles
+H:\UofA\PhD\Literature\Books\Reinforcement Learning An Introduction bookdraft2016aug.pdf
+H:\UofA\PhD\Literature\Books\Reinforcement Learning State-of-the-Art sl 2012.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\bfm%3A978-90-481-9707-1%2F1%2F1.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\bfm%3A978-90-481-9707-1%2F1.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\bfm%3A978-90-481-9707-1%2F2%2F1.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\bfm%3A978-90-481-9707-1%2F3%2F1.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\bfm%3A978-90-481-9707-1%2F4%2F1.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_116.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_121.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_130.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_132.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_133.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_134.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_135.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_53.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_54.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_55.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_56.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_6.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_71.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_83.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_84.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_91.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_92.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_93.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_94.pdf
+H:\UofA\PhD\Literature\Books\Handbook of Unmanned Aerial Vehicles\chp%3A10.1007%2F978-90-481-9707-1_96.pdf
+H:\UofA\PhD\Literature\Captioning\Motion Words for Videos eccv14.pdf
+H:\UofA\PhD\Literature\Captioning\Show, Attend and Tell Neural Image Caption Generation with Visual Attention xuc15.pdf
+H:\UofA\PhD\Literature\Datasets\Cats and Dogs cvpr12.pdf
+H:\UofA\PhD\Literature\Denoising\Patch-based video denoising with optical flow estimation tip16.pdf
+H:\UofA\PhD\Literature\Denoising\Polyview Fusion A Strategy to Enhance Video-Denoising Algorithms tip12.pdf
+H:\UofA\PhD\Literature\DL\A Theoretically Grounded Application of Dropout in Recurrent Neural Networks ax1610.pdf
+H:\UofA\PhD\Literature\DL\Adam A Method for Stochastic Optimization ax17_1.pdf
+H:\UofA\PhD\Literature\DL\Adaptive subgradient methods for online learning and stochastic optimization jmlr11.pdf
+H:\UofA\PhD\Literature\DL\Algorithms for Hyper-Parameter Optimization nips11.pdf
+H:\UofA\PhD\Literature\DL\Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift ax1503.pdf
+H:\UofA\PhD\Literature\DL\Convolutional neural networks on graphs with fast localized spectral filtering nips16.pdf
+H:\UofA\PhD\Literature\DL\Deep learning nature1505.pdf
+H:\UofA\PhD\Literature\DL\Deep Networks with Stochastic Depth arxiv16.pdf
+H:\UofA\PhD\Literature\DL\Densely Connected Convolutional Networks ax1801 cvpr17.pdf
+H:\UofA\PhD\Literature\DL\Dropout
+H:\UofA\PhD\Literature\DL\Evaluating the Robustness of Neural Networks An Extreme Value Theory Approach ax180131 iclr18.pdf
+H:\UofA\PhD\Literature\DL\Generalization without systematicity On the compositional skills of sequence-to-sequence recurrent networks ax1802121.pdf
+H:\UofA\PhD\Literature\DL\Geometric deep learning going beyond Euclidean data ax1705.pdf
+H:\UofA\PhD\Literature\DL\Inception
+H:\UofA\PhD\Literature\DL\Old
+H:\UofA\PhD\Literature\DL\Review
+H:\UofA\PhD\Literature\DL\Stereo Matching
+H:\UofA\PhD\Literature\DL\Still not systematic after all these years On the compositional skills of sequence-to-sequence recurrent networks 1710.pdf
+H:\UofA\PhD\Literature\DL\Understanding Deep Neural Networks with Rectified Linear Units ax1707.pdf
+H:\UofA\PhD\Literature\DL\Understanding the dif?culty of training deep feedforward neural networks icas10.pdf
+H:\UofA\PhD\Literature\DL\Weight Uncertainty in Neural Networks ax1505 icml15.pdf
+H:\UofA\PhD\Literature\DL\Xception Deep Learning with Depthwise Separable Convolutions ax161011.pdf
+H:\UofA\PhD\Literature\DL\Dropout\Dropout A Simple Way to Prevent Neural Networks from Over?tting jmlr14.pdf
+H:\UofA\PhD\Literature\DL\Dropout\Dropout as a Bayesian Approximation Appendix ax1605.pdf
+H:\UofA\PhD\Literature\DL\Dropout\Dropout as a Bayesian Approximation Representing Model Uncertainty in Deep Learning ax1610.pdf
+H:\UofA\PhD\Literature\DL\Dropout\Improving neural networks by preventing co-adaptation of feature detectors ax1207.pdf
+H:\UofA\PhD\Literature\DL\Dropout\Uncertainty in Deep Learning (PhD Thesis) cambridge1705.pdf
+H:\UofA\PhD\Literature\DL\Inception\Convolution in Convolution for Network in Network tnnls1805.pdf
+H:\UofA\PhD\Literature\DL\Inception\Going Deeper with Convolutions ax1409 cvpr15.pdf
+H:\UofA\PhD\Literature\DL\Inception\Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning ax1608 aaai17.pdf
+H:\UofA\PhD\Literature\DL\Inception\Network In Network ax1403.pdf
+H:\UofA\PhD\Literature\DL\Inception\Rethinking the Inception Architecture for Computer Vision ax1512 cvpr16.pdf
+H:\UofA\PhD\Literature\DL\Old\Learning representations by back-propagating errors nature86.pdf
+H:\UofA\PhD\Literature\DL\Review\Deep Learning for Computer Vision A Brief Review cin_hindawi18.pdf
+H:\UofA\PhD\Literature\DL\Stereo Matching\Efficient Deep Learning for Stereo Matching cvpr16.pdf
+H:\UofA\PhD\Literature\DL\Stereo Matching\MatchNet Unifying feature and metric learning for patch-based matching cvpr15.pdf
+H:\UofA\PhD\Literature\DL\Stereo Matching\Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches ax16_5.pdf
+H:\UofA\PhD\Literature\Evaluation\1 year, 1000 km The Oxford RobotCar dataset  ijrr16_11.pdf
+H:\UofA\PhD\Literature\Evaluation\A benchmark for comparison of cell tracking algorithms bioinformatics14.pdf
+H:\UofA\PhD\Literature\Evaluation\A Public Video Dataset for Road Transportation Applications (2013) .pdf
+H:\UofA\PhD\Literature\Evaluation\Detection
+H:\UofA\PhD\Literature\Evaluation\Ef?ciently scaling up crowdsourced video annotation ijcv13.pdf
+H:\UofA\PhD\Literature\Evaluation\Evaluating multiple object tracking performance the clear mot metrics eurasip08.pdf
+H:\UofA\PhD\Literature\Evaluation\Fully Automatic, Real-Time Vehicle Tracking for Surveillance Video crv17.pdf
+H:\UofA\PhD\Literature\Evaluation\MOT16 A Benchmark for Multi-Object Tracking ax16_5.pdf
+H:\UofA\PhD\Literature\Evaluation\MOTChallenge 2015 Towards a Benchmark for Multi-Target Tracking ax15_8.pdf
+H:\UofA\PhD\Literature\Evaluation\OverFeat Integrated Recognition, Localization and Detection using Convolutional Networks ax1402.pdf
+H:\UofA\PhD\Literature\Evaluation\Training a Convolutional Neural Network for Multi-Class Object Detection Using Solely Virtual World Data icavss16_8.pdf
+H:\UofA\PhD\Literature\Evaluation\Vehicle Tracking by Simultaneous Detection and Viewpoint Estimation iwinac13.pdf
+H:\UofA\PhD\Literature\Evaluation\Detection\Performance Evaluation of Object Detection and Tracking in Video TR2006-041.pdf
+H:\UofA\PhD\Literature\Evaluation\Detection\Performance Evaluation of Object Detection and Tracking in Video.pdf
+H:\UofA\PhD\Literature\Evaluation\Detection\Performance measures for object detection evaluation prl10_7.pdf
+H:\UofA\PhD\Literature\Evaluation\Detection\The PASCAL Visual Object Classes (VOC) Challenge ijcv_voc09.pdf
+H:\UofA\PhD\Literature\GAN\A Note on the Inception Score ax1801.pdf
+H:\UofA\PhD\Literature\GAN\Generative Adversarial Nets arxiv14.pdf
+H:\UofA\PhD\Literature\GAN\Improved Techniques for Training GANs ax1606.pdf
+H:\UofA\PhD\Literature\GAN\Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling.pdf
+H:\UofA\PhD\Literature\GAN\NIPS 2016 Tutorial Generative Adversarial Networks arxiv16.pdf
+H:\UofA\PhD\Literature\GAN\Render for CNN Viewpoint Estimation in Images Using CNNs Trained with Rendered 3D Model Views iccv.pdf
+H:\UofA\PhD\Literature\GAN\SEDS a Framework to Generate Stable, Adaptive, Reactive, and Human-Like Robot Reaching Motions 13_1.pdf
+H:\UofA\PhD\Literature\General Value Functions\horde1.pdf
+H:\UofA\PhD\Literature\General Value Functions\HSR12_Abeyruwan.pdf
+H:\UofA\PhD\Literature\General Value Functions\Sherstan_2014_AIROBOT.pdf
+H:\UofA\PhD\Literature\General Value Functions\Sherstan_2016_AGI_preprint.pdf
+H:\UofA\PhD\Literature\Graph Theory\Algorithm 447 Ef?cient algorithms for graph manipulation acm73.pdf
+H:\UofA\PhD\Literature\Graph Theory\An e?cient heuristic procedure for partitioning graphs 1970.pdf
+H:\UofA\PhD\Literature\Graph Theory\CRF
+H:\UofA\PhD\Literature\Graph Theory\The Junction Tree Algorithm.pdf
+H:\UofA\PhD\Literature\Graph Theory\The Junction Tree Algorithms.pdf
+H:\UofA\PhD\Literature\Graph Theory\The partition problem mp93.pdf
+H:\UofA\PhD\Literature\Graph Theory\CRF\An Introduction to Conditional Random Fields.pdf
+H:\UofA\PhD\Literature\Graph Theory\CRF\Conditional Random Fields An Introduction cambridge04.pdf
+H:\UofA\PhD\Literature\Graph Theory\CRF\Integer Linear Programming Inference for Conditional Random Fields icml05.pdf
+H:\UofA\PhD\Literature\Graph Theory\CRF\Tutorial on Conditional Random Fields for Sequence Prediction.pdf
+H:\UofA\PhD\Literature\HMM\The Forward-Backward Algorithm.pdf
+H:\UofA\PhD\Literature\Image Matching\AnchorNet A Weakly Supervised Network to Learn Geometry-sensitive Features For Semantic Matching ax1704.pdf
+H:\UofA\PhD\Literature\Image Matching\Learning Image Matching by Simply Watching Video eccv16.pdf
+H:\UofA\PhD\Literature\Image Matching\Local Convolutional Features With Unsupervised Training for Image Retrieval iccv15.pdf
+H:\UofA\PhD\Literature\Libraries\A new approach towards implementing arti?cial neural networks.pdf
+H:\UofA\PhD\Literature\Misc\A simple method for fitting of bounding rectangle to closed regions pr07.pdf
+H:\UofA\PhD\Literature\Misc\Algorithms for the assignment and transportation problems jsiam57.pdf
+H:\UofA\PhD\Literature\Misc\Line intersections
+H:\UofA\PhD\Literature\Misc\The Multiplicative Weights Update Method A Meta-Algorithm and Applications toc1205.pdf
+H:\UofA\PhD\Literature\Misc\Line intersections\python - Numpy and line intersections - Stack Overflow.mht
+H:\UofA\PhD\Literature\Misc\Line intersections\x06-sweepline.pdf
+H:\UofA\PhD\Literature\ML\Online passive-aggressive algorithms jmlr06.pdf
+H:\UofA\PhD\Literature\NDP\Comparing neuro-dynamic programming algorithms for the vehicle routing problem with stochastic demands cor00.pdf
+H:\UofA\PhD\Literature\NDP\Neuro-Dynamic Programming An Overview 1995 Slides.pdf
+H:\UofA\PhD\Literature\NDP\Neuro-Dynamic Programming An Overview 1995.pdf
+H:\UofA\PhD\Literature\Optical Flow\Beyond Pixels Exploring New Representations and Applications for Motion Analysis phd_mit09.pdf
+H:\UofA\PhD\Literature\Optical Flow\Deep discrete ?ow accv16.pdf
+H:\UofA\PhD\Literature\Optical Flow\Deep End2End Voxel2Voxel Prediction ax1511 cvprw16.pdf
+H:\UofA\PhD\Literature\Optical Flow\DeepFlow Large Displacement Optical Flow with Deep Matching iccv13.pdf
+H:\UofA\PhD\Literature\Optical Flow\DeepMatching Hierarchical Deformable Dense Matching ijcv16.pdf
+H:\UofA\PhD\Literature\Optical Flow\Dense Optical Flow Prediction From a Static Image iccv15.pdf
+H:\UofA\PhD\Literature\Optical Flow\Evaluation
+H:\UofA\PhD\Literature\Optical Flow\FlowNet 2.0 Evolution of Optical Flow Estimation with Deep Networks cvpr17.pdf
+H:\UofA\PhD\Literature\Optical Flow\FlowNet Learning Optical Flow With Convolutional Networks iccv15.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL
+H:\UofA\PhD\Literature\Optical Flow\Evaluation\A Database and Evaluation Methodology for Optical Flow iccv07.pdf
+H:\UofA\PhD\Literature\Optical Flow\Evaluation\A database and evaluation methodology for optical flow ijcv11.pdf
+H:\UofA\PhD\Literature\Optical Flow\Evaluation\A naturalistic open source movie for optical ?ow evaluation eccv12.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\A Duality Based Approach for Realtime TV-L1 Optical Flow dagm07.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\A Filter Formulation for Computing Real Time Optical Flow ral16.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\An Efficient Event-Based Optical Flow Implementation in CC++ and CUDA report2015_7.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\An Improved Algorithm for TV-L1 Optical Flow sgavmn09.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\Fast Optical Flow using Dense Inverse Search eccv16.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\Flow Fields Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation iccv15.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\High accuracy optical ?ow estimation based on a theory for warping eccv04.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\Large displacement optical flow cvpr09.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\Large displacement optical ?ow descriptor matching in variational motion estimation tpami11.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\Learning to Extract Motion from Videos in Convolutional Neural Networks ax1601.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\Motion Detail Preserving Optical Flow Estimation tpami12.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\Motion detail preserving optical ?ow estimation. cvpr10.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\Parallel Implementation of a Robust Optical Flow Technique techreport CTIM_1_2012.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\PatchBatch a Batch Augmented Loss for Optical Flow ax1604 cvpr16.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\SimpleFlow A non-iterative, sublinear optical ?ow algorithm cgf12.pdf
+H:\UofA\PhD\Literature\Optical Flow\Non DL\TV-L1 Optical Flow Estimation ipol13.pdf
+H:\UofA\PhD\Literature\Optimization\Evolution Strategies as a Scalable Alternative to Reinforcement Learning ax1709.pdf
+H:\UofA\PhD\Literature\Preprocessing\Scale-space and edge detection using anisotropic diffusion tpami90.pdf
+H:\UofA\PhD\Literature\Recognition\Accurate and E?cient Image Classi?cation by Exploiting Sparsity Homa_Candidacy.pdf
+H:\UofA\PhD\Literature\Recognition\Activity
+H:\UofA\PhD\Literature\Recognition\Animal
+H:\UofA\PhD\Literature\Recognition\Anytime recognition of objects and scenes cvpr14.pdf
+H:\UofA\PhD\Literature\Recognition\Deep Residual Learning for Image Recognition ax1509.pdf
+H:\UofA\PhD\Literature\Recognition\Multi-Scale Dense Networks for Resource Efficient Image Classification ax1711.pdf
+H:\UofA\PhD\Literature\Recognition\SVM
+H:\UofA\PhD\Literature\Recognition\Thermal Imaging
+H:\UofA\PhD\Literature\Recognition\Video
+H:\UofA\PhD\Literature\Recognition\Visual object-action recognition Inferring object affordances from human demonstration cviu_11.pdf
+H:\UofA\PhD\Literature\Recognition\Activity\Continuous Learning of Human Activity Models Using Deep Nets  eccv14.pdf
+H:\UofA\PhD\Literature\Recognition\Animal\Learning to Recognize Animals by Watching Documentaries Using Subtitles as Weak Supervision 17.pdf
+H:\UofA\PhD\Literature\Recognition\SVM\A tutorial on support vector machines for pattern recognition.pdf
+H:\UofA\PhD\Literature\Recognition\SVM\SVM.pdf
+H:\UofA\PhD\Literature\Recognition\SVM\svm15.pdf
+H:\UofA\PhD\Literature\Recognition\Thermal Imaging\Deep Thermal Imaging Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns ax1803.pdf
+H:\UofA\PhD\Literature\Recognition\Video\Beyond Short Snippets Deep Networks for Video Classi?cation cvpr15.pdf
+H:\UofA\PhD\Literature\Recognition\Video\Deep Learning from Temporal Coherence in Video icml09.pdf
+H:\UofA\PhD\Literature\Registration\Deep Image Homography Estimation ax1606.pdf
+H:\UofA\PhD\Literature\Registration\End-to-end weakly-supervised semantic alignment ax1712.pdf
+H:\UofA\PhD\Literature\Registration\Estimating Camera Tilt from Motion without Tracking crv17.pdf
+H:\UofA\PhD\Literature\Registration\Homography Estimation from Image Pairs with Hierarchical Convolutional Networks iccv17.pdf
+H:\UofA\PhD\Literature\Registration\Homography Estimation using  Deep Learning for Registering All- 22 Football Video Frames thesis17.pdf
+H:\UofA\PhD\Literature\Registration\Inverse Compositional Spatial Transformer Networks ax1612.pdf
+H:\UofA\PhD\Literature\Registration\Robust Projective Template Matching tis1610.pdf
+H:\UofA\PhD\Literature\Registration\Unsupervised Deep Homography A Fast and Robust Homography Estimation Model ax171229.pdf
+H:\UofA\PhD\Literature\Registration\WILDCAT Weakly Supervised Learning of Deep ConvNets for Image Classi?cation, Pointwise Localization and Segmentation cvpr17.pdf
+H:\UofA\PhD\Literature\Repo\.gitignore
+H:\UofA\PhD\Literature\Repo\Deep RL
+H:\UofA\PhD\Literature\Repo\Detection
+H:\UofA\PhD\Literature\Repo\gitu.bat
+H:\UofA\PhD\Literature\Repo\list.txt
+H:\UofA\PhD\Literature\Repo\Readings
+H:\UofA\PhD\Literature\Repo\ReadMe.md
+H:\UofA\PhD\Literature\Repo\Tracking
+H:\UofA\PhD\Literature\Repo\.git\COMMIT_EDITMSG
+H:\UofA\PhD\Literature\Repo\.git\config
+H:\UofA\PhD\Literature\Repo\.git\description
+H:\UofA\PhD\Literature\Repo\.git\FETCH_HEAD
+H:\UofA\PhD\Literature\Repo\.git\HEAD
+H:\UofA\PhD\Literature\Repo\.git\hooks
+H:\UofA\PhD\Literature\Repo\.git\index
+H:\UofA\PhD\Literature\Repo\.git\info
+H:\UofA\PhD\Literature\Repo\.git\logs
+H:\UofA\PhD\Literature\Repo\.git\objects
+H:\UofA\PhD\Literature\Repo\.git\ORIG_HEAD
+H:\UofA\PhD\Literature\Repo\.git\refs
+H:\UofA\PhD\Literature\Repo\.git\hooks\applypatch-msg.sample
+H:\UofA\PhD\Literature\Repo\.git\hooks\commit-msg.sample
+H:\UofA\PhD\Literature\Repo\.git\hooks\post-update.sample
+H:\UofA\PhD\Literature\Repo\.git\hooks\pre-applypatch.sample
+H:\UofA\PhD\Literature\Repo\.git\hooks\pre-commit.sample
+H:\UofA\PhD\Literature\Repo\.git\hooks\pre-push.sample
+H:\UofA\PhD\Literature\Repo\.git\hooks\pre-rebase.sample
+H:\UofA\PhD\Literature\Repo\.git\hooks\prepare-commit-msg.sample
+H:\UofA\PhD\Literature\Repo\.git\hooks\update.sample
+H:\UofA\PhD\Literature\Repo\.git\info\exclude
+H:\UofA\PhD\Literature\Repo\.git\logs\HEAD
+H:\UofA\PhD\Literature\Repo\.git\logs\refs
+H:\UofA\PhD\Literature\Repo\.git\logs\refs\heads
+H:\UofA\PhD\Literature\Repo\.git\logs\refs\remotes
+H:\UofA\PhD\Literature\Repo\.git\logs\refs\heads\master
+H:\UofA\PhD\Literature\Repo\.git\logs\refs\remotes\origin
+H:\UofA\PhD\Literature\Repo\.git\logs\refs\remotes\origin\master
+H:\UofA\PhD\Literature\Repo\.git\objects\00
+H:\UofA\PhD\Literature\Repo\.git\objects\01
+H:\UofA\PhD\Literature\Repo\.git\objects\02
+H:\UofA\PhD\Literature\Repo\.git\objects\03
+H:\UofA\PhD\Literature\Repo\.git\objects\04
+H:\UofA\PhD\Literature\Repo\.git\objects\06
+H:\UofA\PhD\Literature\Repo\.git\objects\07
+H:\UofA\PhD\Literature\Repo\.git\objects\08
+H:\UofA\PhD\Literature\Repo\.git\objects\09
+H:\UofA\PhD\Literature\Repo\.git\objects\0a
+H:\UofA\PhD\Literature\Repo\.git\objects\0b
+H:\UofA\PhD\Literature\Repo\.git\objects\0c
+H:\UofA\PhD\Literature\Repo\.git\objects\0d
+H:\UofA\PhD\Literature\Repo\.git\objects\0e
+H:\UofA\PhD\Literature\Repo\.git\objects\0f
+H:\UofA\PhD\Literature\Repo\.git\objects\10
+H:\UofA\PhD\Literature\Repo\.git\objects\11
+H:\UofA\PhD\Literature\Repo\.git\objects\12
+H:\UofA\PhD\Literature\Repo\.git\objects\14
+H:\UofA\PhD\Literature\Repo\.git\objects\15
+H:\UofA\PhD\Literature\Repo\.git\objects\16
+H:\UofA\PhD\Literature\Repo\.git\objects\17
+H:\UofA\PhD\Literature\Repo\.git\objects\18
+H:\UofA\PhD\Literature\Repo\.git\objects\19
+H:\UofA\PhD\Literature\Repo\.git\objects\1a
+H:\UofA\PhD\Literature\Repo\.git\objects\1b
+H:\UofA\PhD\Literature\Repo\.git\objects\1c
+H:\UofA\PhD\Literature\Repo\.git\objects\1d
+H:\UofA\PhD\Literature\Repo\.git\objects\1e
+H:\UofA\PhD\Literature\Repo\.git\objects\1f
+H:\UofA\PhD\Literature\Repo\.git\objects\20
+H:\UofA\PhD\Literature\Repo\.git\objects\21
+H:\UofA\PhD\Literature\Repo\.git\objects\22
+H:\UofA\PhD\Literature\Repo\.git\objects\23
+H:\UofA\PhD\Literature\Repo\.git\objects\24
+H:\UofA\PhD\Literature\Repo\.git\objects\25
+H:\UofA\PhD\Literature\Repo\.git\objects\26
+H:\UofA\PhD\Literature\Repo\.git\objects\27
+H:\UofA\PhD\Literature\Repo\.git\objects\28
+H:\UofA\PhD\Literature\Repo\.git\objects\29
+H:\UofA\PhD\Literature\Repo\.git\objects\2a
+H:\UofA\PhD\Literature\Repo\.git\objects\2b
+H:\UofA\PhD\Literature\Repo\.git\objects\2c
+H:\UofA\PhD\Literature\Repo\.git\objects\2d
+H:\UofA\PhD\Literature\Repo\.git\objects\2e
+H:\UofA\PhD\Literature\Repo\.git\objects\2f
+H:\UofA\PhD\Literature\Repo\.git\objects\30
+H:\UofA\PhD\Literature\Repo\.git\objects\31
+H:\UofA\PhD\Literature\Repo\.git\objects\33
+H:\UofA\PhD\Literature\Repo\.git\objects\34
+H:\UofA\PhD\Literature\Repo\.git\objects\35
+H:\UofA\PhD\Literature\Repo\.git\objects\36
+H:\UofA\PhD\Literature\Repo\.git\objects\37
+H:\UofA\PhD\Literature\Repo\.git\objects\38
+H:\UofA\PhD\Literature\Repo\.git\objects\39
+H:\UofA\PhD\Literature\Repo\.git\objects\3a
+H:\UofA\PhD\Literature\Repo\.git\objects\3c
+H:\UofA\PhD\Literature\Repo\.git\objects\3d
+H:\UofA\PhD\Literature\Repo\.git\objects\3e
+H:\UofA\PhD\Literature\Repo\.git\objects\3f
+H:\UofA\PhD\Literature\Repo\.git\objects\40
+H:\UofA\PhD\Literature\Repo\.git\objects\41
+H:\UofA\PhD\Literature\Repo\.git\objects\42
+H:\UofA\PhD\Literature\Repo\.git\objects\43
+H:\UofA\PhD\Literature\Repo\.git\objects\45
+H:\UofA\PhD\Literature\Repo\.git\objects\46
+H:\UofA\PhD\Literature\Repo\.git\objects\47
+H:\UofA\PhD\Literature\Repo\.git\objects\48
+H:\UofA\PhD\Literature\Repo\.git\objects\49
+H:\UofA\PhD\Literature\Repo\.git\objects\4a
+H:\UofA\PhD\Literature\Repo\.git\objects\4b
+H:\UofA\PhD\Literature\Repo\.git\objects\4c
+H:\UofA\PhD\Literature\Repo\.git\objects\4d
+H:\UofA\PhD\Literature\Repo\.git\objects\4e
+H:\UofA\PhD\Literature\Repo\.git\objects\4f
+H:\UofA\PhD\Literature\Repo\.git\objects\50
+H:\UofA\PhD\Literature\Repo\.git\objects\51
+H:\UofA\PhD\Literature\Repo\.git\objects\52
+H:\UofA\PhD\Literature\Repo\.git\objects\53
+H:\UofA\PhD\Literature\Repo\.git\objects\54
+H:\UofA\PhD\Literature\Repo\.git\objects\55
+H:\UofA\PhD\Literature\Repo\.git\objects\56
+H:\UofA\PhD\Literature\Repo\.git\objects\57
+H:\UofA\PhD\Literature\Repo\.git\objects\58
+H:\UofA\PhD\Literature\Repo\.git\objects\5a
+H:\UofA\PhD\Literature\Repo\.git\objects\5b
+H:\UofA\PhD\Literature\Repo\.git\objects\5c
+H:\UofA\PhD\Literature\Repo\.git\objects\5d
+H:\UofA\PhD\Literature\Repo\.git\objects\5e
+H:\UofA\PhD\Literature\Repo\.git\objects\5f
+H:\UofA\PhD\Literature\Repo\.git\objects\60
+H:\UofA\PhD\Literature\Repo\.git\objects\61
+H:\UofA\PhD\Literature\Repo\.git\objects\62
+H:\UofA\PhD\Literature\Repo\.git\objects\64
+H:\UofA\PhD\Literature\Repo\.git\objects\65
+H:\UofA\PhD\Literature\Repo\.git\objects\66
+H:\UofA\PhD\Literature\Repo\.git\objects\67
+H:\UofA\PhD\Literature\Repo\.git\objects\68
+H:\UofA\PhD\Literature\Repo\.git\objects\69
+H:\UofA\PhD\Literature\Repo\.git\objects\6a
+H:\UofA\PhD\Literature\Repo\.git\objects\6b
+H:\UofA\PhD\Literature\Repo\.git\objects\6c
+H:\UofA\PhD\Literature\Repo\.git\objects\6d
+H:\UofA\PhD\Literature\Repo\.git\objects\6e
+H:\UofA\PhD\Literature\Repo\.git\objects\70
+H:\UofA\PhD\Literature\Repo\.git\objects\71
+H:\UofA\PhD\Literature\Repo\.git\objects\72
+H:\UofA\PhD\Literature\Repo\.git\objects\73
+H:\UofA\PhD\Literature\Repo\.git\objects\74
+H:\UofA\PhD\Literature\Repo\.git\objects\75
+H:\UofA\PhD\Literature\Repo\.git\objects\76
+H:\UofA\PhD\Literature\Repo\.git\objects\77
+H:\UofA\PhD\Literature\Repo\.git\objects\79
+H:\UofA\PhD\Literature\Repo\.git\objects\7a
+H:\UofA\PhD\Literature\Repo\.git\objects\7b
+H:\UofA\PhD\Literature\Repo\.git\objects\7c
+H:\UofA\PhD\Literature\Repo\.git\objects\7d
+H:\UofA\PhD\Literature\Repo\.git\objects\7e
+H:\UofA\PhD\Literature\Repo\.git\objects\7f
+H:\UofA\PhD\Literature\Repo\.git\objects\80
+H:\UofA\PhD\Literature\Repo\.git\objects\81
+H:\UofA\PhD\Literature\Repo\.git\objects\82
+H:\UofA\PhD\Literature\Repo\.git\objects\83
+H:\UofA\PhD\Literature\Repo\.git\objects\84
+H:\UofA\PhD\Literature\Repo\.git\objects\85
+H:\UofA\PhD\Literature\Repo\.git\objects\86
+H:\UofA\PhD\Literature\Repo\.git\objects\87
+H:\UofA\PhD\Literature\Repo\.git\objects\88
+H:\UofA\PhD\Literature\Repo\.git\objects\89
+H:\UofA\PhD\Literature\Repo\.git\objects\8a
+H:\UofA\PhD\Literature\Repo\.git\objects\8b
+H:\UofA\PhD\Literature\Repo\.git\objects\8c
+H:\UofA\PhD\Literature\Repo\.git\objects\8d
+H:\UofA\PhD\Literature\Repo\.git\objects\8e
+H:\UofA\PhD\Literature\Repo\.git\objects\8f
+H:\UofA\PhD\Literature\Repo\.git\objects\90
+H:\UofA\PhD\Literature\Repo\.git\objects\91
+H:\UofA\PhD\Literature\Repo\.git\objects\92
+H:\UofA\PhD\Literature\Repo\.git\objects\93
+H:\UofA\PhD\Literature\Repo\.git\objects\94
+H:\UofA\PhD\Literature\Repo\.git\objects\95
+H:\UofA\PhD\Literature\Repo\.git\objects\97
+H:\UofA\PhD\Literature\Repo\.git\objects\98
+H:\UofA\PhD\Literature\Repo\.git\objects\99
+H:\UofA\PhD\Literature\Repo\.git\objects\9a
+H:\UofA\PhD\Literature\Repo\.git\objects\9b
+H:\UofA\PhD\Literature\Repo\.git\objects\9c
+H:\UofA\PhD\Literature\Repo\.git\objects\9d
+H:\UofA\PhD\Literature\Repo\.git\objects\9e
+H:\UofA\PhD\Literature\Repo\.git\objects\9f
+H:\UofA\PhD\Literature\Repo\.git\objects\a0
+H:\UofA\PhD\Literature\Repo\.git\objects\a1
+H:\UofA\PhD\Literature\Repo\.git\objects\a2
+H:\UofA\PhD\Literature\Repo\.git\objects\a3
+H:\UofA\PhD\Literature\Repo\.git\objects\a5
+H:\UofA\PhD\Literature\Repo\.git\objects\a6
+H:\UofA\PhD\Literature\Repo\.git\objects\a7
+H:\UofA\PhD\Literature\Repo\.git\objects\a8
+H:\UofA\PhD\Literature\Repo\.git\objects\a9
+H:\UofA\PhD\Literature\Repo\.git\objects\aa
+H:\UofA\PhD\Literature\Repo\.git\objects\ab
+H:\UofA\PhD\Literature\Repo\.git\objects\ac
+H:\UofA\PhD\Literature\Repo\.git\objects\ad
+H:\UofA\PhD\Literature\Repo\.git\objects\ae
+H:\UofA\PhD\Literature\Repo\.git\objects\af
+H:\UofA\PhD\Literature\Repo\.git\objects\b0
+H:\UofA\PhD\Literature\Repo\.git\objects\b1
+H:\UofA\PhD\Literature\Repo\.git\objects\b2
+H:\UofA\PhD\Literature\Repo\.git\objects\b3
+H:\UofA\PhD\Literature\Repo\.git\objects\b5
+H:\UofA\PhD\Literature\Repo\.git\objects\b6
+H:\UofA\PhD\Literature\Repo\.git\objects\b7
+H:\UofA\PhD\Literature\Repo\.git\objects\b8
+H:\UofA\PhD\Literature\Repo\.git\objects\b9
+H:\UofA\PhD\Literature\Repo\.git\objects\ba
+H:\UofA\PhD\Literature\Repo\.git\objects\bb
+H:\UofA\PhD\Literature\Repo\.git\objects\bc
+H:\UofA\PhD\Literature\Repo\.git\objects\bd
+H:\UofA\PhD\Literature\Repo\.git\objects\be
+H:\UofA\PhD\Literature\Repo\.git\objects\bf
+H:\UofA\PhD\Literature\Repo\.git\objects\c0
+H:\UofA\PhD\Literature\Repo\.git\objects\c1
+H:\UofA\PhD\Literature\Repo\.git\objects\c2
+H:\UofA\PhD\Literature\Repo\.git\objects\c3
+H:\UofA\PhD\Literature\Repo\.git\objects\c4
+H:\UofA\PhD\Literature\Repo\.git\objects\c5
+H:\UofA\PhD\Literature\Repo\.git\objects\c6
+H:\UofA\PhD\Literature\Repo\.git\objects\c7
+H:\UofA\PhD\Literature\Repo\.git\objects\c8
+H:\UofA\PhD\Literature\Repo\.git\objects\c9
+H:\UofA\PhD\Literature\Repo\.git\objects\ca
+H:\UofA\PhD\Literature\Repo\.git\objects\cb
+H:\UofA\PhD\Literature\Repo\.git\objects\cd
+H:\UofA\PhD\Literature\Repo\.git\objects\ce
+H:\UofA\PhD\Literature\Repo\.git\objects\d0
+H:\UofA\PhD\Literature\Repo\.git\objects\d1
+H:\UofA\PhD\Literature\Repo\.git\objects\d3
+H:\UofA\PhD\Literature\Repo\.git\objects\d4
+H:\UofA\PhD\Literature\Repo\.git\objects\d5
+H:\UofA\PhD\Literature\Repo\.git\objects\d6
+H:\UofA\PhD\Literature\Repo\.git\objects\d7
+H:\UofA\PhD\Literature\Repo\.git\objects\d8
+H:\UofA\PhD\Literature\Repo\.git\objects\d9
+H:\UofA\PhD\Literature\Repo\.git\objects\da
+H:\UofA\PhD\Literature\Repo\.git\objects\db
+H:\UofA\PhD\Literature\Repo\.git\objects\dc
+H:\UofA\PhD\Literature\Repo\.git\objects\dd
+H:\UofA\PhD\Literature\Repo\.git\objects\de
+H:\UofA\PhD\Literature\Repo\.git\objects\df
+H:\UofA\PhD\Literature\Repo\.git\objects\e0
+H:\UofA\PhD\Literature\Repo\.git\objects\e1
+H:\UofA\PhD\Literature\Repo\.git\objects\e2
+H:\UofA\PhD\Literature\Repo\.git\objects\e3
+H:\UofA\PhD\Literature\Repo\.git\objects\e4
+H:\UofA\PhD\Literature\Repo\.git\objects\e5
+H:\UofA\PhD\Literature\Repo\.git\objects\e6
+H:\UofA\PhD\Literature\Repo\.git\objects\e7
+H:\UofA\PhD\Literature\Repo\.git\objects\e8
+H:\UofA\PhD\Literature\Repo\.git\objects\e9
+H:\UofA\PhD\Literature\Repo\.git\objects\ea
+H:\UofA\PhD\Literature\Repo\.git\objects\eb
+H:\UofA\PhD\Literature\Repo\.git\objects\ed
+H:\UofA\PhD\Literature\Repo\.git\objects\ee
+H:\UofA\PhD\Literature\Repo\.git\objects\ef
+H:\UofA\PhD\Literature\Repo\.git\objects\f0
+H:\UofA\PhD\Literature\Repo\.git\objects\f1
+H:\UofA\PhD\Literature\Repo\.git\objects\f2
+H:\UofA\PhD\Literature\Repo\.git\objects\f4
+H:\UofA\PhD\Literature\Repo\.git\objects\f5
+H:\UofA\PhD\Literature\Repo\.git\objects\f6
+H:\UofA\PhD\Literature\Repo\.git\objects\f7
+H:\UofA\PhD\Literature\Repo\.git\objects\f8
+H:\UofA\PhD\Literature\Repo\.git\objects\f9
+H:\UofA\PhD\Literature\Repo\.git\objects\fa
+H:\UofA\PhD\Literature\Repo\.git\objects\fb
+H:\UofA\PhD\Literature\Repo\.git\objects\fc
+H:\UofA\PhD\Literature\Repo\.git\objects\fd
+H:\UofA\PhD\Literature\Repo\.git\objects\fe
+H:\UofA\PhD\Literature\Repo\.git\objects\ff
+H:\UofA\PhD\Literature\Repo\.git\objects\info
+H:\UofA\PhD\Literature\Repo\.git\objects\pack
+H:\UofA\PhD\Literature\Repo\.git\objects\00\6bd64fb599a696ecbe42079d74690c9c3d5d00
+H:\UofA\PhD\Literature\Repo\.git\objects\00\8f963ebfac4078b9b93dec7c778a685c62196d
+H:\UofA\PhD\Literature\Repo\.git\objects\01\49461ba10cdb2c89532cd5fadfc3772089eb9d
+H:\UofA\PhD\Literature\Repo\.git\objects\02\30a9406536be160a1dd85763fbb8ce9255eccd
+H:\UofA\PhD\Literature\Repo\.git\objects\02\42189dea761ab309c65f50540d6c4c9d3cddb0
+H:\UofA\PhD\Literature\Repo\.git\objects\02\8b0bbf0055562f989721e09c6a550b9d2a13c5
+H:\UofA\PhD\Literature\Repo\.git\objects\02\9a1f5506ce97cdd6f1bb6600fcdb315a830ff4
+H:\UofA\PhD\Literature\Repo\.git\objects\03\43e893a8595551608f7c92dbe58d01dd5ff0a1
+H:\UofA\PhD\Literature\Repo\.git\objects\03\5c13c544a93987e753261b87b61774ccb3a171
+H:\UofA\PhD\Literature\Repo\.git\objects\03\d1e96d513ef27a77b504c2168fa5ce2a012564
+H:\UofA\PhD\Literature\Repo\.git\objects\03\dd6bb20b82dc59251c91aaf0dbdd05beaa984e
+H:\UofA\PhD\Literature\Repo\.git\objects\04\15a3fdd6f3153e8aa0d8af8d608a12ca475c93
+H:\UofA\PhD\Literature\Repo\.git\objects\04\3cda303b273aad6ad2d05539916d4fb696295c
+H:\UofA\PhD\Literature\Repo\.git\objects\04\80b450be657bebc12b98f64350b48a59f7bc7a
+H:\UofA\PhD\Literature\Repo\.git\objects\04\8152c8b825265ebe32cd301f6ca3ccc4f12d52
+H:\UofA\PhD\Literature\Repo\.git\objects\04\eb622a2e88930ba75b8cabdde548a5468767bf
+H:\UofA\PhD\Literature\Repo\.git\objects\06\0497742fe97407038c73056ca11026eed354d7
+H:\UofA\PhD\Literature\Repo\.git\objects\06\79bb12759c12af5ccf2723d52a4329b897d17c
+H:\UofA\PhD\Literature\Repo\.git\objects\06\aad9911011e5ce741d7994e39ff391f7d9cfea
+H:\UofA\PhD\Literature\Repo\.git\objects\07\378f2e4d9e9374718faae769952402ec5b5851
+H:\UofA\PhD\Literature\Repo\.git\objects\08\f59d3e10ad576ceaa27da7baa86f09669708de
+H:\UofA\PhD\Literature\Repo\.git\objects\09\ed66cb9f4e064dc0c035f64614f09986aad1c8
+H:\UofA\PhD\Literature\Repo\.git\objects\09\fbccbd2740b2eb49aa10bf6083313428aea02c
+H:\UofA\PhD\Literature\Repo\.git\objects\0a\77d8a8153e47cf51c902a026e8c71a31f9e895
+H:\UofA\PhD\Literature\Repo\.git\objects\0a\fda1a519f26ea9edddaba40867bfbb195a0545
+H:\UofA\PhD\Literature\Repo\.git\objects\0b\6511b863a490d7322d60761fa468b0a1411ca4
+H:\UofA\PhD\Literature\Repo\.git\objects\0b\911f46d286d18fa18e21b16898ab7758646b27
+H:\UofA\PhD\Literature\Repo\.git\objects\0b\924bef6c72199f2a16a06ecbcef0a4f8746599
+H:\UofA\PhD\Literature\Repo\.git\objects\0c\1d82c3e27778eb00c62ce1664e23408a557bf9
+H:\UofA\PhD\Literature\Repo\.git\objects\0c\b0ed091a5628ff817b0f52be99156c0d109b58
+H:\UofA\PhD\Literature\Repo\.git\objects\0d\2d5bb7171fb865bd238231417852e6cc41cb5b
+H:\UofA\PhD\Literature\Repo\.git\objects\0d\499ce6d24d2cf3e41405bfd9f7ef7c1d02bdba
+H:\UofA\PhD\Literature\Repo\.git\objects\0d\8b95c38299f2e9b92b6f15a91b8f2e61b4c06c
+H:\UofA\PhD\Literature\Repo\.git\objects\0d\a6a189ced65d646f3a13a2fea046f23f8ca181
+H:\UofA\PhD\Literature\Repo\.git\objects\0d\b4be68b7f1ab5b004c1a2b4cd306eaa0e7a9e8
+H:\UofA\PhD\Literature\Repo\.git\objects\0d\bb89435f58e1e433ae48759330406e1af5846a
+H:\UofA\PhD\Literature\Repo\.git\objects\0d\f52e3067818d9be77bfe98e94e1ff03e321057
+H:\UofA\PhD\Literature\Repo\.git\objects\0e\abdf9d20c4b460e5dc3a5109835711fd988ad0
+H:\UofA\PhD\Literature\Repo\.git\objects\0f\8d123f0d923e28a14a18cc72cd1f3353119958
+H:\UofA\PhD\Literature\Repo\.git\objects\0f\bfe1e9e260df083a5cf6ce2f49ae4aa00ac054
+H:\UofA\PhD\Literature\Repo\.git\objects\10\12c3b37f2749c6993a100f71ea4640d002827e
+H:\UofA\PhD\Literature\Repo\.git\objects\10\65b2065847d2dbf58a82661a82730d628fe9f5
+H:\UofA\PhD\Literature\Repo\.git\objects\10\6f3dba6d6fe79b0690f9cd261dd1306ecd8ad1
+H:\UofA\PhD\Literature\Repo\.git\objects\11\0c9d8857f96296406c08687156a84e1e065c31
+H:\UofA\PhD\Literature\Repo\.git\objects\11\3e1b557c6794bf8a40054d246886e41d55aa95
+H:\UofA\PhD\Literature\Repo\.git\objects\11\ba45bc63e7b8a1594e8c7d90c8e603a3b047de
+H:\UofA\PhD\Literature\Repo\.git\objects\11\cb50bc5a327a9fe5e2d81c5976027736f9aeb2
+H:\UofA\PhD\Literature\Repo\.git\objects\11\decb04065fc52190b3653fcc2846c3e116d866
+H:\UofA\PhD\Literature\Repo\.git\objects\12\17b9bc94b76a39e9abf7669aa4dc1f6160c3e0
+H:\UofA\PhD\Literature\Repo\.git\objects\12\2f270494a29c8625c9a4a25c3bb173de809263
+H:\UofA\PhD\Literature\Repo\.git\objects\12\3036fb334c8c2e9da6c2f02e74a15329870447
+H:\UofA\PhD\Literature\Repo\.git\objects\12\4e0bc2e8ec049156abf54ccd174143803e8fd6
+H:\UofA\PhD\Literature\Repo\.git\objects\12\7020a2e52276d0b1addf76a46bf75d31ec2b36
+H:\UofA\PhD\Literature\Repo\.git\objects\12\a60f22cdddb0ade4e18a240c0d4ae72f320ad2
+H:\UofA\PhD\Literature\Repo\.git\objects\14\20d5519618f9b2d6ec8a2929335fd69a53dde1
+H:\UofA\PhD\Literature\Repo\.git\objects\14\9220c6835c420c98a24eb4d52c66442cffc527
+H:\UofA\PhD\Literature\Repo\.git\objects\15\ac79ac70fe6d2d2c1c896bf3baa08e9f1bdb44
+H:\UofA\PhD\Literature\Repo\.git\objects\15\e01988815be83bad004f2a8e392537a8d04de1
+H:\UofA\PhD\Literature\Repo\.git\objects\15\f1f19101eff1d8152a277462bd9b0509b96fce
+H:\UofA\PhD\Literature\Repo\.git\objects\16\4fca4a3c2aa2d9ac1ecfd2b517aac6145cc264
+H:\UofA\PhD\Literature\Repo\.git\objects\16\a7bb2cf22de8b38fb07c6b14c78e8c60365c49
+H:\UofA\PhD\Literature\Repo\.git\objects\16\b1c60e8895cd7a8c2b994219fbe212e47decde
+H:\UofA\PhD\Literature\Repo\.git\objects\16\b9ba08cb3a43b9857b107538998f920296f44a
+H:\UofA\PhD\Literature\Repo\.git\objects\17\348d8b90baeee3e345a470277c31da42d5cb0b
+H:\UofA\PhD\Literature\Repo\.git\objects\18\25090f89d644e0247c9730c92b3452c289cb76
+H:\UofA\PhD\Literature\Repo\.git\objects\18\94bb6b4ccde2646aa90ef0fa8064ee9a84ff67
+H:\UofA\PhD\Literature\Repo\.git\objects\18\9c0f825d68d5fe94d094604279ce1e66f0cdac
+H:\UofA\PhD\Literature\Repo\.git\objects\18\c7af8a839735345eae62460959901426559129
+H:\UofA\PhD\Literature\Repo\.git\objects\18\f8f78dde74308920e418cb5a94b29ea8cec615
+H:\UofA\PhD\Literature\Repo\.git\objects\18\ff0f6a7054a38dfca96e789ee35c4a73537177
+H:\UofA\PhD\Literature\Repo\.git\objects\19\cb9d2a3439b3dd9acff13a2f4cf40edf98cdee
+H:\UofA\PhD\Literature\Repo\.git\objects\1a\2b4b841be977073b6f779cf5ea72340f7d95dd
+H:\UofA\PhD\Literature\Repo\.git\objects\1a\bba4062629698a16f1df5ff28d2554c1beeb01
+H:\UofA\PhD\Literature\Repo\.git\objects\1b\eab3b62965ba5b3d2ca240295f132e794e7511
+H:\UofA\PhD\Literature\Repo\.git\objects\1c\0b1c11c53b74a91338b149566f698b0af9a62a
+H:\UofA\PhD\Literature\Repo\.git\objects\1c\c9cbe98d48635ce38c4aefe9dcf62b5739fc46
+H:\UofA\PhD\Literature\Repo\.git\objects\1c\f250abdedb981ea19a2c549096bd4777afebe1
+H:\UofA\PhD\Literature\Repo\.git\objects\1d\26079ca0c0f2cad1fc0bd3c64d58d3d7e01ce7
+H:\UofA\PhD\Literature\Repo\.git\objects\1d\4e33b074a682b482bd2eba1388f427ef97e4e2
+H:\UofA\PhD\Literature\Repo\.git\objects\1d\887622487668d6bdff25c05bd05253a96b4122
+H:\UofA\PhD\Literature\Repo\.git\objects\1d\abd6caa821644d097516c2aa00090f04fc5e1a
+H:\UofA\PhD\Literature\Repo\.git\objects\1d\e66c7f380e8605cc6d9f2b09efab5c29e0e03a
+H:\UofA\PhD\Literature\Repo\.git\objects\1e\f9511d110fa42cef67307fdc43576aa6b8a607
+H:\UofA\PhD\Literature\Repo\.git\objects\1f\7f0c49aec51fd23984ef13decce47af4370102
+H:\UofA\PhD\Literature\Repo\.git\objects\1f\c44c8bf62f3c56a7916e97bd4748760e32ed99
+H:\UofA\PhD\Literature\Repo\.git\objects\20\8fb72cc77040a0cda47396fa2a073cd5850812
+H:\UofA\PhD\Literature\Repo\.git\objects\21\55212cdcb7b40cfde9cd99050f202a0cedb1e4
+H:\UofA\PhD\Literature\Repo\.git\objects\21\a2dd7c3e78d14820dd6d8a989b25ba471e1e28
+H:\UofA\PhD\Literature\Repo\.git\objects\22\228332b2896700b906419e8e2d9329add0ccbb
+H:\UofA\PhD\Literature\Repo\.git\objects\22\c305c34b9f896aee951604bcc6829ee574ea2d
+H:\UofA\PhD\Literature\Repo\.git\objects\23\143787cede531f8d6fb9383ed0502bebae7bba
+H:\UofA\PhD\Literature\Repo\.git\objects\23\4129df78e5bf801255c536d63356b0ca1276ea
+H:\UofA\PhD\Literature\Repo\.git\objects\23\96a64a73a53acf2c2a69096f2b93a151c955d1
+H:\UofA\PhD\Literature\Repo\.git\objects\23\d9866103676f128e2c68f170aab06ad7d7884f
+H:\UofA\PhD\Literature\Repo\.git\objects\24\4288042dab95dda810bccbe1161c9b2e3e976f
+H:\UofA\PhD\Literature\Repo\.git\objects\24\ae1a84a63961681ba7921f17927b10e1e03751
+H:\UofA\PhD\Literature\Repo\.git\objects\24\b1e2d8e225872050d66590b73ffdacd9f9fc37
+H:\UofA\PhD\Literature\Repo\.git\objects\25\67abaf7584d1ae2d42a1ef556d4351252e3125
+H:\UofA\PhD\Literature\Repo\.git\objects\25\7334e3c50a625190976ccbeda75555ca9d91ee
+H:\UofA\PhD\Literature\Repo\.git\objects\26\a1af8864f39db7fbaf85f5b48330b665a75723
+H:\UofA\PhD\Literature\Repo\.git\objects\26\f75e12c84ee34d41e3df9e865c97eef988fc3b
+H:\UofA\PhD\Literature\Repo\.git\objects\27\b7e5ede614f5e65878d2b76d88fb75ae46f573
+H:\UofA\PhD\Literature\Repo\.git\objects\28\156e9d663842914527db083dcd0921652d06b5
+H:\UofA\PhD\Literature\Repo\.git\objects\28\2ea4ae023b1757a77fddc433c7e1e63d2a8600
+H:\UofA\PhD\Literature\Repo\.git\objects\28\844a6bb309ca7309972866b1fa7e7e6f88672c
+H:\UofA\PhD\Literature\Repo\.git\objects\28\8f37ee229323add27d9450f3357603446792d3
+H:\UofA\PhD\Literature\Repo\.git\objects\28\a7e1b8b80152e438e4885ff14d8833582f23c0
+H:\UofA\PhD\Literature\Repo\.git\objects\29\2408bb97d05b546fcf7f59004fd3a4d3986202
+H:\UofA\PhD\Literature\Repo\.git\objects\29\96c3b959ed59df7c90dfd2de08bdf61764a191
+H:\UofA\PhD\Literature\Repo\.git\objects\2a\8f0a64d009df27ffab9b3701ee7ac5b8143887
+H:\UofA\PhD\Literature\Repo\.git\objects\2a\ba016c27d2c18087ab796582557bc72bb2a21d
+H:\UofA\PhD\Literature\Repo\.git\objects\2a\c68999cef113d9262047e369e3555069b5b746
+H:\UofA\PhD\Literature\Repo\.git\objects\2a\ce594abe2f4b2d810d903c8d98739d7881406c
+H:\UofA\PhD\Literature\Repo\.git\objects\2b\2af94cf7aad02da56dc2305107d43c29f36cca
+H:\UofA\PhD\Literature\Repo\.git\objects\2b\cbe6952ad8dfcee6e1668c0698e9b1803bbe18
+H:\UofA\PhD\Literature\Repo\.git\objects\2b\ea12e2dce6196ac369c8c90d21a24da50ebe00
+H:\UofA\PhD\Literature\Repo\.git\objects\2c\4e45573406963cefb231646cf2696fa2d31d0e
+H:\UofA\PhD\Literature\Repo\.git\objects\2c\d337f25fb2f7760873a23744ba66a7ff3d86c0
+H:\UofA\PhD\Literature\Repo\.git\objects\2c\d928b497a85d9a649f37aa60a612566abb970f
+H:\UofA\PhD\Literature\Repo\.git\objects\2c\e4fe74f5dff871089f1f1a0d1a60d442c3f75a
+H:\UofA\PhD\Literature\Repo\.git\objects\2c\e6552ed0b96b9557808b639e828f8e2b1f207a
+H:\UofA\PhD\Literature\Repo\.git\objects\2d\74d8a7f5fe26aea9db9225df50251c387ed28d
+H:\UofA\PhD\Literature\Repo\.git\objects\2d\a731778b2c7c757981458ee3428b74216ce0be
+H:\UofA\PhD\Literature\Repo\.git\objects\2e\77e0e5ff8c2b634114e6ca8cd522fae4aa684f
+H:\UofA\PhD\Literature\Repo\.git\objects\2f\1197c3ca090eaba07c0430782b8b24288a2ef3
+H:\UofA\PhD\Literature\Repo\.git\objects\2f\39414d7ffb25c0fbd95a9ea73fb007bf2ce177
+H:\UofA\PhD\Literature\Repo\.git\objects\2f\41fcbaff406bef5b6af6b4ff2bffc302fb2512
+H:\UofA\PhD\Literature\Repo\.git\objects\2f\8a866a6317e8b470b7dbe303c5ae130cfa2841
+H:\UofA\PhD\Literature\Repo\.git\objects\2f\a196a0f2907d1b5837b9b1ff094acf30646cba
+H:\UofA\PhD\Literature\Repo\.git\objects\2f\ab6a23186ee1cb301399c84591ba14ea6834bf
+H:\UofA\PhD\Literature\Repo\.git\objects\2f\d3b2543bec136eca1d233f1e06d74ebe864123
+H:\UofA\PhD\Literature\Repo\.git\objects\30\2e09d1645e6c02abe4771b3a75dafba4e4ca2c
+H:\UofA\PhD\Literature\Repo\.git\objects\30\bd49ed136d0324dca689cc138833ff9fd265e6
+H:\UofA\PhD\Literature\Repo\.git\objects\30\c61d84639c4cc3932f9326c417e1e0d0b1a0d2
+H:\UofA\PhD\Literature\Repo\.git\objects\30\ea923733aba788d591c38c9f16bd83c932df0a
+H:\UofA\PhD\Literature\Repo\.git\objects\31\7b1c0736480fb04b82ca126e644cc4410f2ae7
+H:\UofA\PhD\Literature\Repo\.git\objects\33\5e68a33b50615086247cd410e363284f52ce68
+H:\UofA\PhD\Literature\Repo\.git\objects\33\98149c3df3d08d9fd3821e662ba8cb70c1d090
+H:\UofA\PhD\Literature\Repo\.git\objects\33\9d44af2c08289fbd50257ec47dae4cb548d950
+H:\UofA\PhD\Literature\Repo\.git\objects\34\3775fe4f3b2c683a7a9138d363217c9f84b852
+H:\UofA\PhD\Literature\Repo\.git\objects\34\3b9a1fe918f3644d038bd68963897af84f8c15
+H:\UofA\PhD\Literature\Repo\.git\objects\34\a68f97a16570698fe0920a970665df1d357116
+H:\UofA\PhD\Literature\Repo\.git\objects\34\bf70771d772c8921fc895d0afee5d4f125a197
+H:\UofA\PhD\Literature\Repo\.git\objects\34\f2b497a383efd0502f9dbc2a9dc44f44ee82d4
+H:\UofA\PhD\Literature\Repo\.git\objects\35\1279b9608a43e3a690b08b8a9e7ca4a402a2b9
+H:\UofA\PhD\Literature\Repo\.git\objects\35\3c102dd2c15720c644dc1787a0804835b395af
+H:\UofA\PhD\Literature\Repo\.git\objects\36\45767ae4df81aa98efd39a62d10df00e84fb14
+H:\UofA\PhD\Literature\Repo\.git\objects\36\715e7a79c063e01c9f8930284e13d6ffd36d8e
+H:\UofA\PhD\Literature\Repo\.git\objects\36\a8378bd6e7f2968c2636296fd84fdaec201cf3
+H:\UofA\PhD\Literature\Repo\.git\objects\36\de6689190419ffbebc8ec7e5638d25410e0d57
+H:\UofA\PhD\Literature\Repo\.git\objects\36\e7616b88afbdac19c743ffba5ed23335fbdf20
+H:\UofA\PhD\Literature\Repo\.git\objects\37\25b62186e7f86037c24734b79c3dc31606b8d7
+H:\UofA\PhD\Literature\Repo\.git\objects\37\45fa006fe0812db59a6412d72d102caf08727a
+H:\UofA\PhD\Literature\Repo\.git\objects\37\cda5680dd6db043e60f18b7095cbeb6c4c7535
+H:\UofA\PhD\Literature\Repo\.git\objects\38\1536acc48c2d32f3646e9c480b0ea87e3a4b03
+H:\UofA\PhD\Literature\Repo\.git\objects\38\9bc2f0d7cf96e17a7196ac62d1d6d96d7fccc1
+H:\UofA\PhD\Literature\Repo\.git\objects\38\dbef36cb582950352f4a837cddcd256d94ae2c
+H:\UofA\PhD\Literature\Repo\.git\objects\39\36f146aa0a043497d8ca5222fbadc02fc2d4d6
+H:\UofA\PhD\Literature\Repo\.git\objects\39\3aa8d3ba0b315cfd0d3711c7fb9deb9db7b58b
+H:\UofA\PhD\Literature\Repo\.git\objects\39\4b9d6f0f30f2d35e8766a97334c36d124fdbcd
+H:\UofA\PhD\Literature\Repo\.git\objects\39\dcaa6c82204121b1fc32ff2305fb42f3a27c43
+H:\UofA\PhD\Literature\Repo\.git\objects\39\e08dccdb4d4c2e5ccc863bb6a96f819e3de06a
+H:\UofA\PhD\Literature\Repo\.git\objects\3a\3cf6ef8d0d702f59873065eb9c1909cdcca787
+H:\UofA\PhD\Literature\Repo\.git\objects\3a\bd9fef434b8f7b8c23154eba270243036ca96b
+H:\UofA\PhD\Literature\Repo\.git\objects\3c\465825db3e2313db1b223d81a18eca8bbae802
+H:\UofA\PhD\Literature\Repo\.git\objects\3c\b092a0721dfd63166dfcb15a8127d3a90f9c60
+H:\UofA\PhD\Literature\Repo\.git\objects\3d\15da7938f699bd13511fba64968c22f3658c99
+H:\UofA\PhD\Literature\Repo\.git\objects\3d\3fee2f452d9946be13168d62e438892c69e308
+H:\UofA\PhD\Literature\Repo\.git\objects\3d\967da59a2074b7c7097c12af6a77fc26e97fd7
+H:\UofA\PhD\Literature\Repo\.git\objects\3d\d60b61f727400e795a27749e61d0a4982bb4e2
+H:\UofA\PhD\Literature\Repo\.git\objects\3e\278d11e876fe2a9a6557607bf48f7141912009
+H:\UofA\PhD\Literature\Repo\.git\objects\3e\50f51641330c8de76ad1b3c63cfaa992121efa
+H:\UofA\PhD\Literature\Repo\.git\objects\3e\68826d32ec53c9d4e7d0c800cf6a727dff765e
+H:\UofA\PhD\Literature\Repo\.git\objects\3e\831c8f24f5ed269c3ae2e02476a2d275334b8a
+H:\UofA\PhD\Literature\Repo\.git\objects\3f\246c2c29a5736dceff640840a97275b0a6539f
+H:\UofA\PhD\Literature\Repo\.git\objects\3f\3e77536cb1a4f53f3b839eaed3b64ff078c4a8
+H:\UofA\PhD\Literature\Repo\.git\objects\3f\c74766cf2fa5e09dea34e0f79948848d68b34a
+H:\UofA\PhD\Literature\Repo\.git\objects\40\b4a4654c738b14d0478763fb8176c520c99013
+H:\UofA\PhD\Literature\Repo\.git\objects\40\b5bdc72c577ce47800af51de5a26e116d9b928
+H:\UofA\PhD\Literature\Repo\.git\objects\41\7a61880203f1b598ae38d92544df649099b95a
+H:\UofA\PhD\Literature\Repo\.git\objects\42\68cd64761d47a97196c8513cb763fb0f061580
+H:\UofA\PhD\Literature\Repo\.git\objects\42\6a7b58e57c2ead1a5a0cc6909972ae20613afe
+H:\UofA\PhD\Literature\Repo\.git\objects\42\a620d81537b679e3b68dd18a93f291419e90ff
+H:\UofA\PhD\Literature\Repo\.git\objects\42\b4433829d5da740892984f35f48d8e499a2646
+H:\UofA\PhD\Literature\Repo\.git\objects\42\fe9ba6276ae653e6e05980609c97eb1188e62c
+H:\UofA\PhD\Literature\Repo\.git\objects\43\74827996446b60b7c732e95b650a464dc400cd
+H:\UofA\PhD\Literature\Repo\.git\objects\43\86056b93219c4c5f9fc3f4a06098835b1c336b
+H:\UofA\PhD\Literature\Repo\.git\objects\43\91e3964cbc26231fd2f2996752deb9333158d8
+H:\UofA\PhD\Literature\Repo\.git\objects\43\9766a5ee81ab0bb2a23cc3f588a7c7e6cd1e26
+H:\UofA\PhD\Literature\Repo\.git\objects\43\e02ca61db002d0cd52a15ed09e3d2e8155d030
+H:\UofA\PhD\Literature\Repo\.git\objects\43\eb5ae3984d23ca289b01d1afdde3b8c069293c
+H:\UofA\PhD\Literature\Repo\.git\objects\45\077a6ba06033ae9844d7418435e17f345aeb75
+H:\UofA\PhD\Literature\Repo\.git\objects\45\3088de86aee358879c8d4fb750836581092545
+H:\UofA\PhD\Literature\Repo\.git\objects\45\abcdd3e3bf72f942e2e540bf7e55d281fbf09d
+H:\UofA\PhD\Literature\Repo\.git\objects\45\d91935fed20e2f95c76122ea4b68614a81eb48
+H:\UofA\PhD\Literature\Repo\.git\objects\45\ee9c58af49518f3418d104b1144adc293c9e3c
+H:\UofA\PhD\Literature\Repo\.git\objects\46\fc3e21696cde1f9484a908f9b30dffbb76f2a2
+H:\UofA\PhD\Literature\Repo\.git\objects\47\0be5b6167b305bbaba96c22e2883e820899946
+H:\UofA\PhD\Literature\Repo\.git\objects\47\b5aecc8275f6c023e9ae0b5cff2d523862edce
+H:\UofA\PhD\Literature\Repo\.git\objects\47\f355023b2528941a5300e151bf2b91519e83c8
+H:\UofA\PhD\Literature\Repo\.git\objects\48\466fca245c19f7342596c18ac33b27b6192030
+H:\UofA\PhD\Literature\Repo\.git\objects\48\6fd3337d4e36949ebeb28b6afc615d46252ecf
+H:\UofA\PhD\Literature\Repo\.git\objects\48\9e9d10fd76cb5bfa89945c101ffd1e9569f48b
+H:\UofA\PhD\Literature\Repo\.git\objects\48\cf4365d3073833f7837e08ab19d7c88df57350
+H:\UofA\PhD\Literature\Repo\.git\objects\49\09d2ae8d2390fd8f5aed28da02eb9dafbfe6d4
+H:\UofA\PhD\Literature\Repo\.git\objects\49\36eb71ed02b01d285fe0776dc8bab430e4804f
+H:\UofA\PhD\Literature\Repo\.git\objects\4a\bbc25e21e9f41924938aec05096ab980274eed
+H:\UofA\PhD\Literature\Repo\.git\objects\4a\e1ad85fc6f822e9ab5eb02a4e690a24f85eaf6
+H:\UofA\PhD\Literature\Repo\.git\objects\4b\0071e68dd0bb5fe8160fc00f26ce04e00e9452
+H:\UofA\PhD\Literature\Repo\.git\objects\4b\886263b4cac9b7809ecdafb5a6fa4fe49711af
+H:\UofA\PhD\Literature\Repo\.git\objects\4b\e1251b1e2acd2081bc2d95a4c13ea5a69cb55d
+H:\UofA\PhD\Literature\Repo\.git\objects\4c\00885a1ecb003bac6b6d1f779e18692bc81b5d
+H:\UofA\PhD\Literature\Repo\.git\objects\4c\6df88cbc0dee84843f6d749355ab297809501b
+H:\UofA\PhD\Literature\Repo\.git\objects\4c\9d743ba959b436b9a7189708cf5e0f94af0b13
+H:\UofA\PhD\Literature\Repo\.git\objects\4d\583f71c3a50db0a5fb368a75a72935af38d859
+H:\UofA\PhD\Literature\Repo\.git\objects\4d\846fb04115cd0f6c04851e59cf7d7b0cc21f8e
+H:\UofA\PhD\Literature\Repo\.git\objects\4d\ae968385301d02fcfd737930593b9a9eb3fdeb
+H:\UofA\PhD\Literature\Repo\.git\objects\4e\cbd74c5a1c0b106e999fc88e93d583b4d97eac
+H:\UofA\PhD\Literature\Repo\.git\objects\4f\a2dea8c1997f2deb32e7341f96fbf0f1be8820
+H:\UofA\PhD\Literature\Repo\.git\objects\4f\c88696cb3917049f63d632f1c91cedd755ef4a
+H:\UofA\PhD\Literature\Repo\.git\objects\50\12551a0310dae75fbaffaacab9601b8e049016
+H:\UofA\PhD\Literature\Repo\.git\objects\51\2e2e69c3a6b92e2b29fcd8a580f39ad527268c
+H:\UofA\PhD\Literature\Repo\.git\objects\51\56bf7b004e47850de717d4170b07c408b6a546
+H:\UofA\PhD\Literature\Repo\.git\objects\52\81e36f957589ef137c32cddb0f72548d82bfab
+H:\UofA\PhD\Literature\Repo\.git\objects\53\17ab7555fb56db9739ecdae0efc868b8fa32a7
+H:\UofA\PhD\Literature\Repo\.git\objects\53\4a94c9ba84a10946da2a5dd6c5e98c721e712b
+H:\UofA\PhD\Literature\Repo\.git\objects\53\5ef0a400c5cf4b9ee9d2e9a9bc0660b9c53928
+H:\UofA\PhD\Literature\Repo\.git\objects\53\73f6b98780d37617b9933549057ba9f18889d8
+H:\UofA\PhD\Literature\Repo\.git\objects\54\524c928a84bd232b2c3a3d8e3e473dd2452966
+H:\UofA\PhD\Literature\Repo\.git\objects\54\7f1f80cf9461f8e05afbba9ed676269cdba7f3
+H:\UofA\PhD\Literature\Repo\.git\objects\55\89a36ad65dea04b967766cc527c62fc7ff6a73
+H:\UofA\PhD\Literature\Repo\.git\objects\55\aae09894540feef55d39d9c3e58973e248a7fa
+H:\UofA\PhD\Literature\Repo\.git\objects\55\d91af0a4b8e3875f53c7cc2803d8ea5cbafec7
+H:\UofA\PhD\Literature\Repo\.git\objects\56\5ef2a92171413f810b4ee641c658bc8f0c28a9
+H:\UofA\PhD\Literature\Repo\.git\objects\56\7901fa341981e988cfdbaf0e256683ad9e8d84
+H:\UofA\PhD\Literature\Repo\.git\objects\56\a102af0f16a13c28d0af0b3420421bd34da1b5
+H:\UofA\PhD\Literature\Repo\.git\objects\56\c35d58f2b68f7c45395627e9dcc8e40c990840
+H:\UofA\PhD\Literature\Repo\.git\objects\56\e97821a01086956a3191612c8057a8c51fce2a
+H:\UofA\PhD\Literature\Repo\.git\objects\57\5bac1f2037e83622ce82036416fb438b799835
+H:\UofA\PhD\Literature\Repo\.git\objects\57\8f5a5213ee2d2bfa2aef1ed94071c95c0a8909
+H:\UofA\PhD\Literature\Repo\.git\objects\58\1e702212649e3d8c4593f315e707b869122a3f
+H:\UofA\PhD\Literature\Repo\.git\objects\58\98c3b1cb95b2e3f9a02aa718dd70d844a1a618
+H:\UofA\PhD\Literature\Repo\.git\objects\5a\0617d1a29c0593d8a4b0aad8747e40c6d707e3
+H:\UofA\PhD\Literature\Repo\.git\objects\5a\291f5c4634168dcd7bb9c40cde900b043d63e1
+H:\UofA\PhD\Literature\Repo\.git\objects\5a\71a99c157738729431fa973a2c1d592dd728f2
+H:\UofA\PhD\Literature\Repo\.git\objects\5a\9417c8f93668f108ee7e4c8eba5e260a4bd5df
+H:\UofA\PhD\Literature\Repo\.git\objects\5a\bf4dcc0887b890a81b1f2fa9004736dcd94c54
+H:\UofA\PhD\Literature\Repo\.git\objects\5a\d003dcd6c1a85e484972a6a3eb711fa40098d5
+H:\UofA\PhD\Literature\Repo\.git\objects\5b\2a91ff5f285dd0d94bf2d0e5d9bdfab9a89549
+H:\UofA\PhD\Literature\Repo\.git\objects\5b\449952ac6a0b16bcd94642a491305dae7a8094
+H:\UofA\PhD\Literature\Repo\.git\objects\5b\53af0257f6cd5eb4fef7da375f6e2249d4538b
+H:\UofA\PhD\Literature\Repo\.git\objects\5b\6a2a0fc9224d5aefeda4b34ef417dfa2e9fa8a
+H:\UofA\PhD\Literature\Repo\.git\objects\5b\be26261bca31c4496b6d6e3d558ef536108fc0
+H:\UofA\PhD\Literature\Repo\.git\objects\5b\e4dbbcfce6bf93dd15a581e4b2cb56d95b5416
+H:\UofA\PhD\Literature\Repo\.git\objects\5c\533df96f4f44a8f9e5fa881635b3bc1b013009
+H:\UofA\PhD\Literature\Repo\.git\objects\5c\599509ee5fb59e2cee20f4e734d1682f7e7bed
+H:\UofA\PhD\Literature\Repo\.git\objects\5c\e845ac29ae57fb3da674fb9292f561315e8849
+H:\UofA\PhD\Literature\Repo\.git\objects\5d\1360a609827999e3193f48916d32c9565e73f6
+H:\UofA\PhD\Literature\Repo\.git\objects\5d\24e336c786ed16262bd333e1752c3bae2aa819
+H:\UofA\PhD\Literature\Repo\.git\objects\5d\5789b7c78344f4d93c06341b05cdb7a600b229
+H:\UofA\PhD\Literature\Repo\.git\objects\5d\b86f98e2f15425a87d4152ecd612babf9b391d
+H:\UofA\PhD\Literature\Repo\.git\objects\5d\c3e9263328afc8b2a01c55d0dbad949abd0f5a
+H:\UofA\PhD\Literature\Repo\.git\objects\5e\78a1170ce30e3a8590be2680ae1acacc558ef0
+H:\UofA\PhD\Literature\Repo\.git\objects\5f\bd34957b038c3320cfd438d12db151e8719fdc
+H:\UofA\PhD\Literature\Repo\.git\objects\60\2b511ca5f256f60ce9d019cc29ffbd09397cd5
+H:\UofA\PhD\Literature\Repo\.git\objects\60\46533af7924a4f03e694b07eb7808c1aedaeec
+H:\UofA\PhD\Literature\Repo\.git\objects\60\8abff90a84ef5493cff0884bb0458fd61960ab
+H:\UofA\PhD\Literature\Repo\.git\objects\61\c0a0fceb7cc8d485771eb1029c7c521e42c53f
+H:\UofA\PhD\Literature\Repo\.git\objects\62\8ae614b12b61961770afcbafdd50e01fee3bde
+H:\UofA\PhD\Literature\Repo\.git\objects\62\b02d4cefa8f404c04e1d1e35ae41963cb7eabe
+H:\UofA\PhD\Literature\Repo\.git\objects\62\bf5b30c9f783fc22144ed3988e988f9f6c0c55
+H:\UofA\PhD\Literature\Repo\.git\objects\62\ce116fd9cccf0cfb6298b470200014a319251b
+H:\UofA\PhD\Literature\Repo\.git\objects\62\dbab0c82e75a6b801c2ed37aa2cff8afa85f70
+H:\UofA\PhD\Literature\Repo\.git\objects\62\ed4efcfc6bcef0ec772c042212c455f1e570d5
+H:\UofA\PhD\Literature\Repo\.git\objects\64\4c80ff68ca4fce900d585cc048527a8fff496d
+H:\UofA\PhD\Literature\Repo\.git\objects\64\6e5035cd25d36d40d8cc8b2da2dd89796059b8
+H:\UofA\PhD\Literature\Repo\.git\objects\64\7c218e6c2226671ce5bc79a762117bf911d278
+H:\UofA\PhD\Literature\Repo\.git\objects\64\acf8a625ad6fe5ea20b76f5833b1a9de00ce69
+H:\UofA\PhD\Literature\Repo\.git\objects\65\3972e60d87565fc3f1d2bc07bbd15e27700f4e
+H:\UofA\PhD\Literature\Repo\.git\objects\65\47af65c9bb545d55c2829d7133930e8ee15399
+H:\UofA\PhD\Literature\Repo\.git\objects\65\4c5529bb5b577401079d837ae847ca317c2efd
+H:\UofA\PhD\Literature\Repo\.git\objects\65\85dec2493081a6704e1d1c453d01fb49681653
+H:\UofA\PhD\Literature\Repo\.git\objects\65\e4a02293949e519aeae2702736a82189b90461
+H:\UofA\PhD\Literature\Repo\.git\objects\65\ea310e349fe599ca376d47a9881dae9ad19e48
+H:\UofA\PhD\Literature\Repo\.git\objects\66\05ffd73d0c1ae4ba54e18e5f4c8ad6575d2a5e
+H:\UofA\PhD\Literature\Repo\.git\objects\66\35564d08eeed3e09bd84b3949caa2288d862e9
+H:\UofA\PhD\Literature\Repo\.git\objects\66\53c744b84cbf8b747d5861cfd9a02cda8ac926
+H:\UofA\PhD\Literature\Repo\.git\objects\66\b1a7f94bc5cb2b611cb3d77f081d3be56d8497
+H:\UofA\PhD\Literature\Repo\.git\objects\66\e60ba762df6d9a72e76cae2dc85ce437c4f11d
+H:\UofA\PhD\Literature\Repo\.git\objects\66\e60daeb317bfe9c35028a12a5cfd29e9c5059b
+H:\UofA\PhD\Literature\Repo\.git\objects\67\41d711aaaed596bc94498a37c6540b03357bb1
+H:\UofA\PhD\Literature\Repo\.git\objects\67\4a84c6a544be74aaca4013ca62c53240ae02e0
+H:\UofA\PhD\Literature\Repo\.git\objects\67\546e7ab066e9ffad9d470034829f84b56f0d42
+H:\UofA\PhD\Literature\Repo\.git\objects\67\89dd1c5d5d616f441fe70b811314b2ae34a51e
+H:\UofA\PhD\Literature\Repo\.git\objects\67\967c773aee58564e266f37605d45b4498ba711
+H:\UofA\PhD\Literature\Repo\.git\objects\68\71c023d079d01c0d162d302c9afe8291311bb9
+H:\UofA\PhD\Literature\Repo\.git\objects\69\0537cf472df4881606dafed94f7fdb31f1357a
+H:\UofA\PhD\Literature\Repo\.git\objects\69\9d29089215e90d18114877b8e7c2af1be8bed8
+H:\UofA\PhD\Literature\Repo\.git\objects\6a\f84d281f263c410e50fafd64cfb25bca243fdb
+H:\UofA\PhD\Literature\Repo\.git\objects\6b\03714288696dbefdd13750cd40d55142ba364f
+H:\UofA\PhD\Literature\Repo\.git\objects\6b\17d91ea55a77657f5293bf23c3cca11d9cb957
+H:\UofA\PhD\Literature\Repo\.git\objects\6b\d27c5b876330efa8842b9c4e2515101450f02d
+H:\UofA\PhD\Literature\Repo\.git\objects\6b\d788f1e8f184fa72147d76a461fd76e6e76348
+H:\UofA\PhD\Literature\Repo\.git\objects\6c\217fff0b485a1690e3f3e26e4dc990bb9acd19
+H:\UofA\PhD\Literature\Repo\.git\objects\6c\24dbe4758d553d3109a411a8f8bcabed4599c9
+H:\UofA\PhD\Literature\Repo\.git\objects\6c\316ce6de96e05d0f1b419cfe0802a41acd7ec3
+H:\UofA\PhD\Literature\Repo\.git\objects\6c\e3a1b5d8756e89567067478b3657eb4d9dad0f
+H:\UofA\PhD\Literature\Repo\.git\objects\6d\a93b4dac7e0bb6c03a0ddba68c93ce71892399
+H:\UofA\PhD\Literature\Repo\.git\objects\6d\c2e6b403a83a34707975865b79c38054ecf79a
+H:\UofA\PhD\Literature\Repo\.git\objects\6d\edf3fef0f096c0cc82d7524228b4104cb780c8
+H:\UofA\PhD\Literature\Repo\.git\objects\6e\1fa8fbe8be6fc71d356ff27dbc9b530709ede0
+H:\UofA\PhD\Literature\Repo\.git\objects\6e\8c772cf2d04d1f6dc40f3656597dc796697367
+H:\UofA\PhD\Literature\Repo\.git\objects\6e\ce54a30c9cdbc076f24f38fe821dad4c5223e7
+H:\UofA\PhD\Literature\Repo\.git\objects\6e\f5fde88a8074ef61c1844b8cc91f4892065eaa
+H:\UofA\PhD\Literature\Repo\.git\objects\70\03209a364f13ffa45e92126b0b8b66c675d86f
+H:\UofA\PhD\Literature\Repo\.git\objects\70\d784999fcdf172c79f993a6e73dcee66105823
+H:\UofA\PhD\Literature\Repo\.git\objects\71\4ab77d25c2bc026b5caed3c4bd222dc9714e60
+H:\UofA\PhD\Literature\Repo\.git\objects\71\56a2784cef30ad8c3601b6e0f39495e2d74b3a
+H:\UofA\PhD\Literature\Repo\.git\objects\71\e7511620f1ce17accd805b486b49cf35724595
+H:\UofA\PhD\Literature\Repo\.git\objects\71\f7a1f9d39e361d29dab027b35b5e3a442ee610
+H:\UofA\PhD\Literature\Repo\.git\objects\71\fb052546630c1a4c982c9201a2c64d2d0c6456
+H:\UofA\PhD\Literature\Repo\.git\objects\72\61f13c32cac8be92511459da07b1df3407882e
+H:\UofA\PhD\Literature\Repo\.git\objects\73\1c19252f4a3e672c4b73df654b27c696a43eac
+H:\UofA\PhD\Literature\Repo\.git\objects\74\2ba80b781c93d04b8353c580185cdd93184b95
+H:\UofA\PhD\Literature\Repo\.git\objects\74\447c17b64ac1e64bd0d00d0e543f26f829592c
+H:\UofA\PhD\Literature\Repo\.git\objects\74\4f8d342626909b160d7c48ab06eca8ba0fe565
+H:\UofA\PhD\Literature\Repo\.git\objects\74\923cf12be4f66b194b8378c3dfe5e6b0fd17f7
+H:\UofA\PhD\Literature\Repo\.git\objects\75\1728bf035a7d62888fe570081e22624c8a14cf
+H:\UofA\PhD\Literature\Repo\.git\objects\76\cd95128973e58d4dc49fc66218744c2f7ddd0e
+H:\UofA\PhD\Literature\Repo\.git\objects\77\0daf743d4d07b1a6f3c672e09c082dd94a1fba
+H:\UofA\PhD\Literature\Repo\.git\objects\77\2b4e9e58d0257cb8dec097a5069a8fd48b7f00
+H:\UofA\PhD\Literature\Repo\.git\objects\77\9f70e7ba07732ad1132ea3d5441520bdb04af4
+H:\UofA\PhD\Literature\Repo\.git\objects\77\cb92a812ce19450a4ddde540c5b237ef648667
+H:\UofA\PhD\Literature\Repo\.git\objects\77\dfe8e59362c17c3be02b947936bccf8c08844b
+H:\UofA\PhD\Literature\Repo\.git\objects\79\463c9e317ec948a790ce672605dada18cb5003
+H:\UofA\PhD\Literature\Repo\.git\objects\79\af0774ea60e59d672063165c8e4f0f04b77859
+H:\UofA\PhD\Literature\Repo\.git\objects\7a\011087c95f03764767a12f5b259cce771ae3c7
+H:\UofA\PhD\Literature\Repo\.git\objects\7a\d2498d71c5ef89c1ab1965d5e5563cc79b0a81
+H:\UofA\PhD\Literature\Repo\.git\objects\7b\40be23974ee815d1746839dcd2cbe3060a6937
+H:\UofA\PhD\Literature\Repo\.git\objects\7c\23c6c1075b543edbaa12c7cc8b81414a89aca3
+H:\UofA\PhD\Literature\Repo\.git\objects\7c\3cd91409de2fe7717a62c07e80a928091e5f3d
+H:\UofA\PhD\Literature\Repo\.git\objects\7d\325099784cd485eadb1f18e09072d947cba670
+H:\UofA\PhD\Literature\Repo\.git\objects\7d\7ce3df656a9ceb5d0ac24b94f33b2ca342fb4c
+H:\UofA\PhD\Literature\Repo\.git\objects\7d\a8fc40fad95b353531fed4434e8f2116c5da9e
+H:\UofA\PhD\Literature\Repo\.git\objects\7e\5000ba5f40d7a0a4900c9d8ba2fe2a3664d0d0
+H:\UofA\PhD\Literature\Repo\.git\objects\7e\9420ff9eee76d4662e3695d8aace03e2fb30a3
+H:\UofA\PhD\Literature\Repo\.git\objects\7e\a2cd10f81db532ae00eee05d42d043cbfc1d27
+H:\UofA\PhD\Literature\Repo\.git\objects\7f\201bd2204a29c1a9cdc9bd13cd0e81b7cd53f2
+H:\UofA\PhD\Literature\Repo\.git\objects\7f\3892077e2c274984d0db21ac5bfdff454e4768
+H:\UofA\PhD\Literature\Repo\.git\objects\7f\662c9ed07a65708c423b51458c52f6898e731a
+H:\UofA\PhD\Literature\Repo\.git\objects\80\5ab692415814108ff12a470bd756ec05762b2d
+H:\UofA\PhD\Literature\Repo\.git\objects\80\b19ed3a6b4591aa2f13be626c8c72942ec746a
+H:\UofA\PhD\Literature\Repo\.git\objects\80\c5a9654fd2a8b6681ab0e51c515424d326a1f9
+H:\UofA\PhD\Literature\Repo\.git\objects\80\d8edf01fa478103c0fef74cd48e291be6f8635
+H:\UofA\PhD\Literature\Repo\.git\objects\81\0d324d50f867a9d0c33274170e6d023f11e5c7
+H:\UofA\PhD\Literature\Repo\.git\objects\81\32af5957af1e02e2a5123b67a005d9b73a1771
+H:\UofA\PhD\Literature\Repo\.git\objects\81\7dfb5194838e9f71186eed6bad4121cf60b69b
+H:\UofA\PhD\Literature\Repo\.git\objects\81\c45c3c07a23e15a764da04ee3aea8b9a829694
+H:\UofA\PhD\Literature\Repo\.git\objects\81\ee5b998b65a48ea89725ff1915f1cad537b1ea
+H:\UofA\PhD\Literature\Repo\.git\objects\81\fd1fa581dd7b2cca73ea20f5d0897a962fa43f
+H:\UofA\PhD\Literature\Repo\.git\objects\82\07696a130a6770b948e327260c639403e42788
+H:\UofA\PhD\Literature\Repo\.git\objects\82\244c2d7c81e6e7155f54472d501822b832f1a7
+H:\UofA\PhD\Literature\Repo\.git\objects\82\26c0d206eecded39f5da64e4761605180a07a0
+H:\UofA\PhD\Literature\Repo\.git\objects\82\2771cffd83c6472e37c336d88851359d1a6d8d
+H:\UofA\PhD\Literature\Repo\.git\objects\82\9c64065a3a8eac8fc5e73d2b6b76603edac77a
+H:\UofA\PhD\Literature\Repo\.git\objects\82\daa8aa0a7e49e08bb88fcbd47cfecb5ef29d95
+H:\UofA\PhD\Literature\Repo\.git\objects\83\1b915301175e29b42e8a62e61bc56e9119706e
+H:\UofA\PhD\Literature\Repo\.git\objects\83\25e2ac838d9eaa2519a6a7cc1b6bbf6164a4cb
+H:\UofA\PhD\Literature\Repo\.git\objects\83\26945c04a0fdb6c005d30e4a3e369e36710326
+H:\UofA\PhD\Literature\Repo\.git\objects\83\36fe66ac657af4884efc93d11ef1c6f31cc47f
+H:\UofA\PhD\Literature\Repo\.git\objects\83\763dbabe2ef86f4abc6716c4c25043d6c8cd0e
+H:\UofA\PhD\Literature\Repo\.git\objects\83\c02a50ff5074dbdd09c253d36a63fd401b9528
+H:\UofA\PhD\Literature\Repo\.git\objects\84\1132746b5446f3fbe677bc5d00b6e400528596
+H:\UofA\PhD\Literature\Repo\.git\objects\84\4087085b912b1db2bd6509f2d85d4f5e9c82f1
+H:\UofA\PhD\Literature\Repo\.git\objects\84\c763b87b163b184b83270e82dd8b1a2bcb55e2
+H:\UofA\PhD\Literature\Repo\.git\objects\85\77a7ef6ac17475ed1ff57838db0167672d7e27
+H:\UofA\PhD\Literature\Repo\.git\objects\85\7b3e593f54c7275ff53fd644791c19f6df7014
+H:\UofA\PhD\Literature\Repo\.git\objects\85\fb1a17d0984428a051211a6e3e6846c6bb4632
+H:\UofA\PhD\Literature\Repo\.git\objects\86\27bce5f4c1d0df02a908ed8a16109ee6bd1367
+H:\UofA\PhD\Literature\Repo\.git\objects\86\db2f0ecac0bc7aaa9593ec6f7d586c1544f3ca
+H:\UofA\PhD\Literature\Repo\.git\objects\87\46e7796975dea21ab847aa57db5686bcd3defc
+H:\UofA\PhD\Literature\Repo\.git\objects\87\85b2a74ab0ca8cc85c72a3d4eba9944e826dcb
+H:\UofA\PhD\Literature\Repo\.git\objects\87\c115c579da89a02eeb750721411471ad513483
+H:\UofA\PhD\Literature\Repo\.git\objects\87\febc53cfdf30913f11c6b4525991f87a110fa4
+H:\UofA\PhD\Literature\Repo\.git\objects\88\311b530a67cbe46d08e5e8d27ac173236cc5b1
+H:\UofA\PhD\Literature\Repo\.git\objects\88\353fa6840d2f52b19fa333f16f7fa960fd2ca3
+H:\UofA\PhD\Literature\Repo\.git\objects\88\49b1a59e8cf9b7515553496e7696093aa6e21b
+H:\UofA\PhD\Literature\Repo\.git\objects\88\796245c7d45b27a42c7beb40f4058f0b082935
+H:\UofA\PhD\Literature\Repo\.git\objects\88\9a15a188f87d10fdb318a451422c9eca533706
+H:\UofA\PhD\Literature\Repo\.git\objects\89\a55ea622a9301517f845b61ddb500a81b95e91
+H:\UofA\PhD\Literature\Repo\.git\objects\89\af95ce2d95a2a9694801e511a698e4437bdccb
+H:\UofA\PhD\Literature\Repo\.git\objects\89\b695d0cb792fb99445a323d1828bfa9f0ec1a4
+H:\UofA\PhD\Literature\Repo\.git\objects\8a\081ebe80e2db935d01649e5f9826fdfc2d8a45
+H:\UofA\PhD\Literature\Repo\.git\objects\8a\86b6175cb94aa97c25c905f405472c11ad176b
+H:\UofA\PhD\Literature\Repo\.git\objects\8a\8d3dd8a7a4eab760e309f7642af173bc6d0dac
+H:\UofA\PhD\Literature\Repo\.git\objects\8b\0e3ff98d5f2be1b28dc8de1c06152d3dd1e02e
+H:\UofA\PhD\Literature\Repo\.git\objects\8b\1897cd7b4c3083d91d717175389a6064fa93d5
+H:\UofA\PhD\Literature\Repo\.git\objects\8c\f8df672a35305b330486ac36f109a0d2c13d20
+H:\UofA\PhD\Literature\Repo\.git\objects\8d\a16af43326f1ab14127d83899a9d01777077e1
+H:\UofA\PhD\Literature\Repo\.git\objects\8d\b84a52de6031c5291b202cfbba9c400b3681a6
+H:\UofA\PhD\Literature\Repo\.git\objects\8d\d7d4420d918d5d7cccb9e7801a91efc5e7d365
+H:\UofA\PhD\Literature\Repo\.git\objects\8e\43937f0a10f15ff104acd9c199632e49ad4a2a
+H:\UofA\PhD\Literature\Repo\.git\objects\8e\f4bbbed88d56a658e70c03731490330e9361a0
+H:\UofA\PhD\Literature\Repo\.git\objects\8f\8d48c39849e26bd2d9a43867d0f03041bfdc15
+H:\UofA\PhD\Literature\Repo\.git\objects\8f\a99bd228b663164372992b8ebd5959b1ee1b69
+H:\UofA\PhD\Literature\Repo\.git\objects\8f\d9dc44e20d20db93b79d66cfed2f9631255836
+H:\UofA\PhD\Literature\Repo\.git\objects\8f\e912c0dc155ec36528224d3c5e5691a6fdd599
+H:\UofA\PhD\Literature\Repo\.git\objects\90\292674e9d99e36ba95c2a1303092fceff20233
+H:\UofA\PhD\Literature\Repo\.git\objects\91\88bd08a3aeabe66b305643960cdcb67c87d363
+H:\UofA\PhD\Literature\Repo\.git\objects\91\d5d5dcf5f29bb446f5a103a2c5bf12ecb52841
+H:\UofA\PhD\Literature\Repo\.git\objects\92\0123ba11b38c580121203fa34344df4ea188c0
+H:\UofA\PhD\Literature\Repo\.git\objects\92\25e59eeccb40f060c199cab0235a3fd949bafc
+H:\UofA\PhD\Literature\Repo\.git\objects\92\af0d6fa94c5c02ac64962c919bee4176ef6b1c
+H:\UofA\PhD\Literature\Repo\.git\objects\93\312c7395ffb84741063c3ff26241d78ee21635
+H:\UofA\PhD\Literature\Repo\.git\objects\93\362899d1efde20a3885f7977a3554646241d11
+H:\UofA\PhD\Literature\Repo\.git\objects\93\58015181ee9d38954fbe01c8078e6ffb03c931
+H:\UofA\PhD\Literature\Repo\.git\objects\93\cb6e116da35f9d1c236883b60c0c84f9e73cef
+H:\UofA\PhD\Literature\Repo\.git\objects\93\ece90db3221aafe7ce046dd5e7d64d8ed7b5db
+H:\UofA\PhD\Literature\Repo\.git\objects\94\30b9a0b1280f78b32032d994226aa426b8387d
+H:\UofA\PhD\Literature\Repo\.git\objects\94\527750dc2c51c42fe2e00cb37ec18b1ec643f8
+H:\UofA\PhD\Literature\Repo\.git\objects\94\aa76be74a89f92b9723a9ddaa80b7b27897eba
+H:\UofA\PhD\Literature\Repo\.git\objects\94\c2ca1b6e71f89236250f96a98c935a665b1051
+H:\UofA\PhD\Literature\Repo\.git\objects\95\454dcfe2aae1152c9c7b328816282813e6f483
+H:\UofA\PhD\Literature\Repo\.git\objects\95\bb88a0c66cf885dcd762f039e33dad7354bf76
+H:\UofA\PhD\Literature\Repo\.git\objects\97\5d691d7a688e3dec45fae2ae37700ec77a6060
+H:\UofA\PhD\Literature\Repo\.git\objects\97\8ecf6662931ab10a8a87e2d68eb183da16291b
+H:\UofA\PhD\Literature\Repo\.git\objects\97\acf96aa12d181dae50379a2cc1f750a1089f19
+H:\UofA\PhD\Literature\Repo\.git\objects\98\142d246217aeb65e260288025235d2e67690b1
+H:\UofA\PhD\Literature\Repo\.git\objects\99\2599eb02e2e82b6f22813b4cea3f9094312afe
+H:\UofA\PhD\Literature\Repo\.git\objects\99\2f43152c35916c10904ee1aedfbdae0e2fd01a
+H:\UofA\PhD\Literature\Repo\.git\objects\99\5257aef1305902f65b31f75eab98e7d201bcf1
+H:\UofA\PhD\Literature\Repo\.git\objects\99\7acdd1ae071f2f6eaa2d30aecbf60f3c92cba9
+H:\UofA\PhD\Literature\Repo\.git\objects\99\8c001ba1a623a93a6e511f5ec3ea9fb54db74a
+H:\UofA\PhD\Literature\Repo\.git\objects\9a\5e2414693e4868179f1be62a477bb1cf0767e4
+H:\UofA\PhD\Literature\Repo\.git\objects\9a\ce640dbe32f87e74661facd5a5e64369b2fd0b
+H:\UofA\PhD\Literature\Repo\.git\objects\9b\72c52f39026bb299c30221eb654f5dcf1a2983
+H:\UofA\PhD\Literature\Repo\.git\objects\9b\87ab67058d8bc110ae03509d9c1760f93ad91a
+H:\UofA\PhD\Literature\Repo\.git\objects\9c\19f347417c9c88f5289b2e45b7c02ab668a18c
+H:\UofA\PhD\Literature\Repo\.git\objects\9c\6f5c465b8ee68eb6a7b8ee1e751e3c7727122f
+H:\UofA\PhD\Literature\Repo\.git\objects\9d\61e32b7cb4ade555daea53474af20bc739c900
+H:\UofA\PhD\Literature\Repo\.git\objects\9d\82fc64e59c508c07d99ce820db999eb694db7a
+H:\UofA\PhD\Literature\Repo\.git\objects\9d\8d5e4e449768d2c6d57de2a88b4bd5fad3f8fc
+H:\UofA\PhD\Literature\Repo\.git\objects\9e\213f44ac3e3f037be8232c7ad20b1dd9d00429
+H:\UofA\PhD\Literature\Repo\.git\objects\9e\4611bba81d6fe53344fad4179415ebae6ee9e1
+H:\UofA\PhD\Literature\Repo\.git\objects\9f\7cada38c6d2b7049c4835000d1d15571a67131
+H:\UofA\PhD\Literature\Repo\.git\objects\9f\ae5cfc16cec5014c07ebf149ebae110e014edf
+H:\UofA\PhD\Literature\Repo\.git\objects\9f\c19feff73d2346fd2a79afde6571805988fc1d
+H:\UofA\PhD\Literature\Repo\.git\objects\9f\ecbe7129f5b2fbaa35458081bc6522cc198599
+H:\UofA\PhD\Literature\Repo\.git\objects\a0\3e149242ecbf7dca800f295e6548cfb5d0dd0b
+H:\UofA\PhD\Literature\Repo\.git\objects\a0\4d54a6aa3541fcaaf724b22d7fa463e3f90daa
+H:\UofA\PhD\Literature\Repo\.git\objects\a0\ee06e012343bbca40d090ef5d7c75628cd0d82
+H:\UofA\PhD\Literature\Repo\.git\objects\a1\904335b9ababfa9e4df1ac61b49182a0a64612
+H:\UofA\PhD\Literature\Repo\.git\objects\a1\ab01541b16b1f0270bbdf6e6b0eca95b39d698
+H:\UofA\PhD\Literature\Repo\.git\objects\a2\1eff3620f05c34612b7252701589acb36b2932
+H:\UofA\PhD\Literature\Repo\.git\objects\a2\71276a8610346ab634e4164ddfad92d3cf440a
+H:\UofA\PhD\Literature\Repo\.git\objects\a2\748ea0cddebff47b7a38750fa8b9b4d7b6de8f
+H:\UofA\PhD\Literature\Repo\.git\objects\a2\980208bd8fc07aafb0a65155b8ab0809503fa6
+H:\UofA\PhD\Literature\Repo\.git\objects\a2\e54a16512a8ad0539fa592f7e3a6ee99043b28
+H:\UofA\PhD\Literature\Repo\.git\objects\a3\1bcafb6f81ee7cd8302783482814e7825958d5
+H:\UofA\PhD\Literature\Repo\.git\objects\a3\c5302f40813d8d3cbe132c6faf9cd161e18f40
+H:\UofA\PhD\Literature\Repo\.git\objects\a5\1132914bce5cdbabfea6ae45aad938c34401c0
+H:\UofA\PhD\Literature\Repo\.git\objects\a5\23c5478e40e1285b712a6a0cf108ea434e6ca6
+H:\UofA\PhD\Literature\Repo\.git\objects\a5\41d1829fb6722c0b13970102714c3d5b102d94
+H:\UofA\PhD\Literature\Repo\.git\objects\a5\78210ec9ccde0a6cebd304c32e864835129e92
+H:\UofA\PhD\Literature\Repo\.git\objects\a5\c05edc94706f9acea46a3101221d1b18035770
+H:\UofA\PhD\Literature\Repo\.git\objects\a5\ee4ebcb06ba553ddd36633999b928a6e17eed0
+H:\UofA\PhD\Literature\Repo\.git\objects\a6\018a29fd37cda651e9f615187ba6d7d21a9cbb
+H:\UofA\PhD\Literature\Repo\.git\objects\a6\07241520123bd58d60a77971db5301e2bda4f4
+H:\UofA\PhD\Literature\Repo\.git\objects\a6\0df110c290048b34cedc6ca652607a8abb7c63
+H:\UofA\PhD\Literature\Repo\.git\objects\a6\a399c9b04ac341e58d70f27e6b89fbf07485ac
+H:\UofA\PhD\Literature\Repo\.git\objects\a7\54248fddac4a9f780060a9c779b36904e6e274
+H:\UofA\PhD\Literature\Repo\.git\objects\a8\deb77dbf18a2e5188c297daccef9351d79b66d
+H:\UofA\PhD\Literature\Repo\.git\objects\a9\2eebcf69a50019ff46266f49ff79892a592f67
+H:\UofA\PhD\Literature\Repo\.git\objects\a9\bb0f56e55374d76788538c7761f4c4ebc4f909
+H:\UofA\PhD\Literature\Repo\.git\objects\a9\bfa56676facbc48cff44fe6c40f75e2de10956
+H:\UofA\PhD\Literature\Repo\.git\objects\aa\1451779892098e0621ec5a0550f4f1360412ce
+H:\UofA\PhD\Literature\Repo\.git\objects\aa\2469e41a46385b27d02215f1641b0f2b562094
+H:\UofA\PhD\Literature\Repo\.git\objects\aa\47cede466c89acde237e94e53c97acfb744819
+H:\UofA\PhD\Literature\Repo\.git\objects\ab\1f3b54dad6d3569a67686d9dda9885973275bb
+H:\UofA\PhD\Literature\Repo\.git\objects\ab\d122468f4d445ed760b875a5e5c04622349cb7
+H:\UofA\PhD\Literature\Repo\.git\objects\ab\dad82b164fe12c8d5250229d8b27c4bc387fcc
+H:\UofA\PhD\Literature\Repo\.git\objects\ac\23ea6ef1d32778cf544354cb64af49ccc04bc4
+H:\UofA\PhD\Literature\Repo\.git\objects\ad\1dd35b8503692d033791696a34e93123f5ea04
+H:\UofA\PhD\Literature\Repo\.git\objects\ad\2add0b15108c1216616f1d59ea9967479598b6
+H:\UofA\PhD\Literature\Repo\.git\objects\ad\40dc21672c5663dc3c875e1a9a9067adb21e47
+H:\UofA\PhD\Literature\Repo\.git\objects\ad\98352a0501c946bb7026bd3734b010c5972dce
+H:\UofA\PhD\Literature\Repo\.git\objects\ad\c9da5a648d2a2e4ed39bccb6786c0f4c5b296c
+H:\UofA\PhD\Literature\Repo\.git\objects\ae\14df36452cf05f181f9cefeb5c0e40af0f125e
+H:\UofA\PhD\Literature\Repo\.git\objects\af\0164e189010e373f29d0f7a409e6578312ee17
+H:\UofA\PhD\Literature\Repo\.git\objects\b0\fd7cadfe010119cb1f3f5ab1fea183b4edd8a4
+H:\UofA\PhD\Literature\Repo\.git\objects\b1\284349b652e9212f5f58e74f4379cad292ab1e
+H:\UofA\PhD\Literature\Repo\.git\objects\b1\978563557933ee5c434557d44fa1981ee4b9cd
+H:\UofA\PhD\Literature\Repo\.git\objects\b1\a6e63c57efcaaa6492335b472d32b9869518fa
+H:\UofA\PhD\Literature\Repo\.git\objects\b1\a83a64d9e5e6621564fbfbd73ccd694fd9e01b
+H:\UofA\PhD\Literature\Repo\.git\objects\b1\be1369761c9dc4d96c1ad14824ca0ef575d90c
+H:\UofA\PhD\Literature\Repo\.git\objects\b2\0c58e342b1bffffd61e5097ba782067597262c
+H:\UofA\PhD\Literature\Repo\.git\objects\b2\570cd1eae243eb3807b4726c5bc4347afb0870
+H:\UofA\PhD\Literature\Repo\.git\objects\b2\9d44110281a39f0392c1b3a43ac23b93a53ff5
+H:\UofA\PhD\Literature\Repo\.git\objects\b2\b953ce4d4bc0938423f7780bdc78e3fb2e5d11
+H:\UofA\PhD\Literature\Repo\.git\objects\b2\ba2e393bfa6bd327531144bb8b840bceafd034
+H:\UofA\PhD\Literature\Repo\.git\objects\b2\e6685ef44d34b6b80ba57e5493d9b3734d6f09
+H:\UofA\PhD\Literature\Repo\.git\objects\b3\5490f7486c1b44bdcf44bbe8607c69bcb9ee9d
+H:\UofA\PhD\Literature\Repo\.git\objects\b5\4aae57517d8c96b2023ac9e9fa1d8a93c69b86
+H:\UofA\PhD\Literature\Repo\.git\objects\b6\03b271b455484f0a63898336fd7a8c673b77f7
+H:\UofA\PhD\Literature\Repo\.git\objects\b6\9d7b1a7ea762fe06c50c7c18e8cad68651400a
+H:\UofA\PhD\Literature\Repo\.git\objects\b6\d4c339271b3bd2bdb4f30187e2ae9a2b24fe2e
+H:\UofA\PhD\Literature\Repo\.git\objects\b7\00f11316ae5d48569a066f9b81f257222e12e9
+H:\UofA\PhD\Literature\Repo\.git\objects\b7\97c1fa1d9e923bc43b46e09f7608faa5db6052
+H:\UofA\PhD\Literature\Repo\.git\objects\b7\9bc8dc3ec4bbf360ae7ed88e8c94264eeb4778
+H:\UofA\PhD\Literature\Repo\.git\objects\b7\b76dece68f165fea9fd6bf4f5d7ea0f6a79206
+H:\UofA\PhD\Literature\Repo\.git\objects\b7\f64bcc55f43fb64bbc2f4bfd939a8d87e1b39e
+H:\UofA\PhD\Literature\Repo\.git\objects\b8\9066c05acd2d653259778c9dcef7de845f0db5
+H:\UofA\PhD\Literature\Repo\.git\objects\b8\c9dc2aec9a1dff9cbf945ac644ba7c2556ab7c
+H:\UofA\PhD\Literature\Repo\.git\objects\b8\e6986ec1d0c430987cc705a468ec7396530da1
+H:\UofA\PhD\Literature\Repo\.git\objects\b8\e83fa08ae1dcee6b823a4769adc8f6500b3801
+H:\UofA\PhD\Literature\Repo\.git\objects\b9\020a616fa9357a73389cca59cbac426170045a
+H:\UofA\PhD\Literature\Repo\.git\objects\b9\51e800ba2e08b8a4f5a3925d1bb45259ef2e6d
+H:\UofA\PhD\Literature\Repo\.git\objects\b9\7c0550b43552054b80df896ee069380b712dd4
+H:\UofA\PhD\Literature\Repo\.git\objects\ba\ceb31292137c7224252e6f2bde32247b184486
+H:\UofA\PhD\Literature\Repo\.git\objects\ba\ef6b9a9f3bf7b8b14a71beccc24a91b2bbcf18
+H:\UofA\PhD\Literature\Repo\.git\objects\bb\24d2300269b4321e6c67157972e139c8c8b6fd
+H:\UofA\PhD\Literature\Repo\.git\objects\bb\86cc3228acb4216978820cc4b50388da6826d0
+H:\UofA\PhD\Literature\Repo\.git\objects\bb\a4e6ddf90ba6e811d0547556f09a98591ba59e
+H:\UofA\PhD\Literature\Repo\.git\objects\bc\65b40a0d2938cd1f3011f908e447271223edbf
+H:\UofA\PhD\Literature\Repo\.git\objects\bd\8bc94c2f2e318e4e425375944649a8f493d425
+H:\UofA\PhD\Literature\Repo\.git\objects\be\c2f6bf0aaa699f9a56c7429788edaa73775d94
+H:\UofA\PhD\Literature\Repo\.git\objects\bf\30dd800322855a915a562a5135413010065ec0
+H:\UofA\PhD\Literature\Repo\.git\objects\c0\b2849c17acf22a4ef3d15c8ea84f281fbd577b
+H:\UofA\PhD\Literature\Repo\.git\objects\c0\e4ef496a38a0ede736081009e4428d182a140a
+H:\UofA\PhD\Literature\Repo\.git\objects\c1\70d7b5e037ca6bae897dfab99a55586db1e6e2
+H:\UofA\PhD\Literature\Repo\.git\objects\c2\035dc598dd7b2702b5769b6869e3b4a2d2bad9
+H:\UofA\PhD\Literature\Repo\.git\objects\c3\49693986f4d9b86b40463227de6920a540e920
+H:\UofA\PhD\Literature\Repo\.git\objects\c3\86becac1a8e2899ce6ed63f6018fa521ec24af
+H:\UofA\PhD\Literature\Repo\.git\objects\c4\3c3a8c6fa9758891604714ecd543187479ddd9
+H:\UofA\PhD\Literature\Repo\.git\objects\c4\676450225fdf8ffec26c1b8bce02267f63551a
+H:\UofA\PhD\Literature\Repo\.git\objects\c4\b6304745183cd4b5fb1fbd84f0da8cdfba0a2e
+H:\UofA\PhD\Literature\Repo\.git\objects\c5\3756802ed2f83e4d81c0ec5d4d63d746f926bb
+H:\UofA\PhD\Literature\Repo\.git\objects\c6\002e8705dbab7588dcf8c77607746a5bf8b060
+H:\UofA\PhD\Literature\Repo\.git\objects\c6\aed6880e3bee1514990e576e16958ee0ca000d
+H:\UofA\PhD\Literature\Repo\.git\objects\c6\b81df02b796103324895429732284c04948b93
+H:\UofA\PhD\Literature\Repo\.git\objects\c7\0216814e02953b3cc3d88b837a415d5331282d
+H:\UofA\PhD\Literature\Repo\.git\objects\c7\69c63d95d9c626f2a5da1752bde735ae24c13e
+H:\UofA\PhD\Literature\Repo\.git\objects\c7\8af1df40c92f751e6842dc756b9d8e08daa38e
+H:\UofA\PhD\Literature\Repo\.git\objects\c7\f87b83d905d5d9298b5ef52261fe428bb7a09c
+H:\UofA\PhD\Literature\Repo\.git\objects\c8\50b67f094cefb35adcf867d7abbda6b62e8932
+H:\UofA\PhD\Literature\Repo\.git\objects\c8\c3836503fe6878c7e6683ab15f192ece55aa46
+H:\UofA\PhD\Literature\Repo\.git\objects\c8\edef0e0b2bf79536475cf60fa659c1bfe1e2d1
+H:\UofA\PhD\Literature\Repo\.git\objects\c8\f4596e086450d50baa22dc017ac416b140153c
+H:\UofA\PhD\Literature\Repo\.git\objects\c9\06100ee663350ee009632aaf5772ecde4b8adf
+H:\UofA\PhD\Literature\Repo\.git\objects\c9\50210bf7d08e7b6fd3f196d148edc53959bacf
+H:\UofA\PhD\Literature\Repo\.git\objects\c9\81c8e6d7b7729cc23c3af7ba237eedddf4e1e9
+H:\UofA\PhD\Literature\Repo\.git\objects\c9\b70f61124adc18a59293adc1491104e4b1f986
+H:\UofA\PhD\Literature\Repo\.git\objects\c9\bbc26efc401d22ac7b9032cea689c6cd67e65c
+H:\UofA\PhD\Literature\Repo\.git\objects\c9\fa91331b1ce5604acb92e4a3af65af75baf9c5
+H:\UofA\PhD\Literature\Repo\.git\objects\ca\9784a25551acf059aa3b620f40cfe33e8ce98c
+H:\UofA\PhD\Literature\Repo\.git\objects\ca\f86639666e24bffb4bcc99fc0e9ef7385602c8
+H:\UofA\PhD\Literature\Repo\.git\objects\cb\3e8d223ee453c48893e0e1f5c8a5187fdc0c86
+H:\UofA\PhD\Literature\Repo\.git\objects\cb\403d4d76b78beeb9cde49c1d4290c6d837a9ba
+H:\UofA\PhD\Literature\Repo\.git\objects\cb\b2d564b099101127716c709bc31b6588de0713
+H:\UofA\PhD\Literature\Repo\.git\objects\cd\04b55c5c7904e3cd0fda86736df50445efcff3
+H:\UofA\PhD\Literature\Repo\.git\objects\cd\66775d52bce44eda6d6ecf9e8a1d76220317b7
+H:\UofA\PhD\Literature\Repo\.git\objects\cd\8686f713214a4832af3113cbf4687834b7078d
+H:\UofA\PhD\Literature\Repo\.git\objects\ce\2f83df3210a71f84320c74421ae1c417b14899
+H:\UofA\PhD\Literature\Repo\.git\objects\ce\5c67f3f31ad873cde152d9baf26866002445dd
+H:\UofA\PhD\Literature\Repo\.git\objects\ce\8ce2fb90667b507c1b66548b4e287adedd1693
+H:\UofA\PhD\Literature\Repo\.git\objects\ce\f73d46747a10446304cc99c2fdbf1dbace5acf
+H:\UofA\PhD\Literature\Repo\.git\objects\d0\0a8cdfc5522f4a74f71476ad2ac4e09fe9e6d1
+H:\UofA\PhD\Literature\Repo\.git\objects\d1\1b6ed24345cd138817bea3021bef58516b6430
+H:\UofA\PhD\Literature\Repo\.git\objects\d1\459921596a95fe75afecd92d49f3a41f0b7565
+H:\UofA\PhD\Literature\Repo\.git\objects\d1\51e535c3a1272b9570ee5673cccc265c6dbe3c
+H:\UofA\PhD\Literature\Repo\.git\objects\d1\64419af22f921e86ad21b2d28043a42a76dd67
+H:\UofA\PhD\Literature\Repo\.git\objects\d3\2c05554786884e3e450841e1e8736c6531fff8
+H:\UofA\PhD\Literature\Repo\.git\objects\d3\bc7d3b3b4fa234d27e91ccf41b657826095005
+H:\UofA\PhD\Literature\Repo\.git\objects\d3\cc2f77a85c905c6ee2cc64aa846a22236e90ef
+H:\UofA\PhD\Literature\Repo\.git\objects\d3\deb427202fea5df1733175440e758bcfafc778
+H:\UofA\PhD\Literature\Repo\.git\objects\d4\dfea47b695d21a05e95e48db8313ea6b5597d9
+H:\UofA\PhD\Literature\Repo\.git\objects\d4\f28a28eee7c93c7012ce6032b04037e3f57723
+H:\UofA\PhD\Literature\Repo\.git\objects\d5\14e3c92b37ca3cef11a8df38c70a2398f94ff4
+H:\UofA\PhD\Literature\Repo\.git\objects\d6\ead7617a036f98624eaa9e6a3f5d3816f949f1
+H:\UofA\PhD\Literature\Repo\.git\objects\d7\338ea7e0274615c7c195f6cf166b816461cf92
+H:\UofA\PhD\Literature\Repo\.git\objects\d7\613eab175e29fb5942b56586adffd7553a5811
+H:\UofA\PhD\Literature\Repo\.git\objects\d7\8a14dd97c90c093b39a52972515f286e2bcb08
+H:\UofA\PhD\Literature\Repo\.git\objects\d7\991d8e9865c527da231f42821f4cabbe90abc1
+H:\UofA\PhD\Literature\Repo\.git\objects\d7\b8bbd80e03eedc1e215552e6e90baf96527883
+H:\UofA\PhD\Literature\Repo\.git\objects\d7\d6cb4a505519696e0cc9a34e23fadf146b702d
+H:\UofA\PhD\Literature\Repo\.git\objects\d8\0b51079f695130ca92622e7b184d903452ff30
+H:\UofA\PhD\Literature\Repo\.git\objects\d9\62126864ed1f8608df5012991534858482966c
+H:\UofA\PhD\Literature\Repo\.git\objects\d9\773d6949d6cf2a4d64a0665e1c21b538520f2c
+H:\UofA\PhD\Literature\Repo\.git\objects\d9\aebbb9e3f69e058cdfb5da4716798ccfe8eec7
+H:\UofA\PhD\Literature\Repo\.git\objects\d9\be68464ab2f7ec3b2a0b15d8dd859016487e95
+H:\UofA\PhD\Literature\Repo\.git\objects\da\8b29b53f3d12650f7adb329c9ce221bde42aaf
+H:\UofA\PhD\Literature\Repo\.git\objects\da\bdfa837cd927d4af6fd6011668dd2e67327ae2
+H:\UofA\PhD\Literature\Repo\.git\objects\db\11cbe699663bbee4034ea87a5077f2aee59981
+H:\UofA\PhD\Literature\Repo\.git\objects\db\2832cced931e7e8589df1d55bfa245dbb9225e
+H:\UofA\PhD\Literature\Repo\.git\objects\db\53b55c61b4d9dc39ef3d8103f948f401942d92
+H:\UofA\PhD\Literature\Repo\.git\objects\db\ed4426efe3e639ed6137b646f1ac3f28beecd0
+H:\UofA\PhD\Literature\Repo\.git\objects\dc\04bd4ad33791489964e109bdac9a051f124832
+H:\UofA\PhD\Literature\Repo\.git\objects\dc\edae3e6c9457fa22a7e1d1487015905e62205c
+H:\UofA\PhD\Literature\Repo\.git\objects\dd\656efc80733bfea09da071919c20bd7cc38a76
+H:\UofA\PhD\Literature\Repo\.git\objects\dd\9aec8f665352ec38f774f7366738293fa9e1bc
+H:\UofA\PhD\Literature\Repo\.git\objects\dd\a006325b9d920c78e58d3c2bb02ba182e1716f
+H:\UofA\PhD\Literature\Repo\.git\objects\dd\d1fa3ec8c1c748cf73e58b19c6041f328f8db6
+H:\UofA\PhD\Literature\Repo\.git\objects\dd\da00929a12f37d12df43c350f5b3aebc289f00
+H:\UofA\PhD\Literature\Repo\.git\objects\de\0e8611fccf7ba5f88a495bff0590d8faf8776d
+H:\UofA\PhD\Literature\Repo\.git\objects\de\4c3029dc13fe197dab57732f7e927114160eae
+H:\UofA\PhD\Literature\Repo\.git\objects\de\c33c12b7614aa6977a8f660750166669ff8cfa
+H:\UofA\PhD\Literature\Repo\.git\objects\de\f80d349cd92ab8fb039c4e72390dbba396b385
+H:\UofA\PhD\Literature\Repo\.git\objects\df\0ee92f6fb7373b1e068b2862396a5830025ae7
+H:\UofA\PhD\Literature\Repo\.git\objects\df\1b610dd7d3bb5b99f073997f90ca5e3c023d5c
+H:\UofA\PhD\Literature\Repo\.git\objects\df\657653b2ca4154cf15fb6ef921aa8006f3f665
+H:\UofA\PhD\Literature\Repo\.git\objects\df\69325eff5747acf76c2c4c1ff059aeb598b865
+H:\UofA\PhD\Literature\Repo\.git\objects\df\73067050ae72a5e262b82c5ff1fc7d336018a4
+H:\UofA\PhD\Literature\Repo\.git\objects\df\85d769e8a6376fa6209c6e8e73487b37407720
+H:\UofA\PhD\Literature\Repo\.git\objects\e0\78ef4625caf34eeb50293fad4ee28cebb65754
+H:\UofA\PhD\Literature\Repo\.git\objects\e1\4042b56366ee277800d14c73b758fa41da41a6
+H:\UofA\PhD\Literature\Repo\.git\objects\e1\645cd5d0a7f472d69763f5c13a6a9bca00ea01
+H:\UofA\PhD\Literature\Repo\.git\objects\e1\653292f717d4b33dc516571265ee2c521113d6
+H:\UofA\PhD\Literature\Repo\.git\objects\e1\f7ac6a6d92a7f9200e31542dac920e1e4a6de2
+H:\UofA\PhD\Literature\Repo\.git\objects\e2\b377a582ed7a8f76c6f4902664051785fe3786
+H:\UofA\PhD\Literature\Repo\.git\objects\e2\e7a9c76d846e1f11fb5977eef87f96f410527c
+H:\UofA\PhD\Literature\Repo\.git\objects\e3\073e256893c69db03981d4388e9b2e94462f3e
+H:\UofA\PhD\Literature\Repo\.git\objects\e3\f46828db68b8ea1f2a45010321441889c763b7
+H:\UofA\PhD\Literature\Repo\.git\objects\e4\2e1d8efeeeaa86dd521cfa34db81e4de4d798d
+H:\UofA\PhD\Literature\Repo\.git\objects\e4\cb2906b0f9b166a5e025a51635890b5c8b9a0e
+H:\UofA\PhD\Literature\Repo\.git\objects\e5\1fa13157ed679394f0a914ca43591f031a0ae8
+H:\UofA\PhD\Literature\Repo\.git\objects\e5\3eaa41fb1bfd193308b882c1440ef18d9a8660
+H:\UofA\PhD\Literature\Repo\.git\objects\e5\4545c77d5c89202c4389a16b709b64d48b7309
+H:\UofA\PhD\Literature\Repo\.git\objects\e5\e7fc1020e4446dd5e3569207e12d94c3e55d3c
+H:\UofA\PhD\Literature\Repo\.git\objects\e6\b167cf3bf5d6b1e2f3be4720049e75bc676cbd
+H:\UofA\PhD\Literature\Repo\.git\objects\e7\07dbf690859f8f4538141cf39c4cc029dc6b76
+H:\UofA\PhD\Literature\Repo\.git\objects\e7\936c1f697f50abf9510c4d3210c9e7329062a2
+H:\UofA\PhD\Literature\Repo\.git\objects\e8\40573c4d14217b80d91ab1cbd6968367c3f5fd
+H:\UofA\PhD\Literature\Repo\.git\objects\e8\58518701b9e2133ce387b685d603300528e26d
+H:\UofA\PhD\Literature\Repo\.git\objects\e8\62dcef685a16ac8096c60f79a1123af82f046a
+H:\UofA\PhD\Literature\Repo\.git\objects\e8\63ca23cb62d63742300b3ea7f9f888df8a3a98
+H:\UofA\PhD\Literature\Repo\.git\objects\e8\f53d223d475c7c90aa50e843a66e65a4cb9d0c
+H:\UofA\PhD\Literature\Repo\.git\objects\e9\1d0d4e0bef53e3113d9d70ad74f76c39aba0ee
+H:\UofA\PhD\Literature\Repo\.git\objects\ea\5f3564672ce0a1b084b78a4320e411b177f625
+H:\UofA\PhD\Literature\Repo\.git\objects\ea\d5ff9624ad4f4208d148aac601c872749901fe
+H:\UofA\PhD\Literature\Repo\.git\objects\eb\cad601dcfe209ca1df6cc3fcc57bd45e032d9b
+H:\UofA\PhD\Literature\Repo\.git\objects\ed\505e5fa4ef910841af87938245bf24db80271d
+H:\UofA\PhD\Literature\Repo\.git\objects\ee\3b21080b9b4e37a39402d1db3dc870dc5707ef
+H:\UofA\PhD\Literature\Repo\.git\objects\ef\032ddbafc12e8952a2c02f2506349d8f676e76
+H:\UofA\PhD\Literature\Repo\.git\objects\ef\21719ddc1044433a4a549d1754cd60b7edfcf8
+H:\UofA\PhD\Literature\Repo\.git\objects\ef\93a22872aefa0f1f3f4e66f268681f77711d49
+H:\UofA\PhD\Literature\Repo\.git\objects\ef\eb23c77e5c761cb4abfe969cff689eca3ddb44
+H:\UofA\PhD\Literature\Repo\.git\objects\f0\1dd44a4e7da5e8b61142d05da480c819ba21bc
+H:\UofA\PhD\Literature\Repo\.git\objects\f1\47312ffaf58205602f0f4d0115d64a91d2191b
+H:\UofA\PhD\Literature\Repo\.git\objects\f2\4cc068cc2baa4f65caa05112bb5559c13fe67a
+H:\UofA\PhD\Literature\Repo\.git\objects\f2\7afc81e726e6097572c3629809e83dc2a86ee2
+H:\UofA\PhD\Literature\Repo\.git\objects\f4\cd9943c60827478f78fad30aa66becdfe07167
+H:\UofA\PhD\Literature\Repo\.git\objects\f4\d21395ba6621a6210f2503fda61fded449b894
+H:\UofA\PhD\Literature\Repo\.git\objects\f4\d856115af6bfbf11d0d21bc7ae243675ae59c3
+H:\UofA\PhD\Literature\Repo\.git\objects\f5\93e1b2f99218e92f028842d63a0f8688f2a586
+H:\UofA\PhD\Literature\Repo\.git\objects\f5\b3c2fe92246333854029448af623be3e69f752
+H:\UofA\PhD\Literature\Repo\.git\objects\f6\1761ab4182c65e122ed2aedc2aa24ae8c6eac0
+H:\UofA\PhD\Literature\Repo\.git\objects\f6\32263aca75a49fec814bcbf4271b93a5ad8589
+H:\UofA\PhD\Literature\Repo\.git\objects\f6\a7155b7b9f202166d740fc782e2ad0d716f6ed
+H:\UofA\PhD\Literature\Repo\.git\objects\f7\5b63e498908b5c253ebb01a9da77be5ace12d3
+H:\UofA\PhD\Literature\Repo\.git\objects\f8\56c9cabb307bac2407539be66470ac50a20dd5
+H:\UofA\PhD\Literature\Repo\.git\objects\f8\ba388fbabaa59bc5e6d71cabc329e0bccbc71b
+H:\UofA\PhD\Literature\Repo\.git\objects\f8\ef01228d3f39900fa320323fce2565510e16eb
+H:\UofA\PhD\Literature\Repo\.git\objects\f9\1c43beb6ee179595228a7150f03b389650ee71
+H:\UofA\PhD\Literature\Repo\.git\objects\f9\d6a231ebbd659aaf58941326fb38bd3a37630a
+H:\UofA\PhD\Literature\Repo\.git\objects\fa\19a9527b230998de89de97c8d084ee9e37dba9
+H:\UofA\PhD\Literature\Repo\.git\objects\fa\ea6c44768bfa9b10cdbfe98533703da9161f6b
+H:\UofA\PhD\Literature\Repo\.git\objects\fb\1f7c50e2cbe6a38c42fa98514f111dafd5db50
+H:\UofA\PhD\Literature\Repo\.git\objects\fb\350f880f63fa1207c9089b5e2f966476acc77a
+H:\UofA\PhD\Literature\Repo\.git\objects\fb\75a9bd022cb44f9c5d919610363d07df38a68f
+H:\UofA\PhD\Literature\Repo\.git\objects\fb\d8da5f09a4e3f461e00c318c165c55227c4fe0
+H:\UofA\PhD\Literature\Repo\.git\objects\fb\fb2565bcfe4abf7330a6c0d4196c1ce4b3f3f9
+H:\UofA\PhD\Literature\Repo\.git\objects\fc\35317963af405934a5f631f73b22b2d5e65a32
+H:\UofA\PhD\Literature\Repo\.git\objects\fd\015bf730018e87d00f1192a243a9e47f5e9801
+H:\UofA\PhD\Literature\Repo\.git\objects\fd\1ff677f8b4d3f95e11e879dd05bbec2f626489
+H:\UofA\PhD\Literature\Repo\.git\objects\fd\85a154308d42dec993a4200c3830abe93d56c7
+H:\UofA\PhD\Literature\Repo\.git\objects\fe\7c93f6c8f06c4576389517b05eaf6cc5147647
+H:\UofA\PhD\Literature\Repo\.git\objects\fe\a1eaa23a8183034b18b644d4ad318dd3e39a4e
+H:\UofA\PhD\Literature\Repo\.git\objects\ff\09f14a08b6305a3194916c31a892ab3b962a6b
+H:\UofA\PhD\Literature\Repo\.git\objects\ff\5a42eeaae61e4c8f15c6df5e9d4d3b814c91f6
+H:\UofA\PhD\Literature\Repo\.git\objects\ff\6bb46caa7fe9dd6c59a73fb5355cc7c7afbdfb
+H:\UofA\PhD\Literature\Repo\.git\objects\ff\aa297710bd45aa830504c9212dcf7fd499a0b7
+H:\UofA\PhD\Literature\Repo\.git\objects\ff\cdf663d1c8f243539c03576b6683b8e50ae80f
+H:\UofA\PhD\Literature\Repo\.git\refs\heads
+H:\UofA\PhD\Literature\Repo\.git\refs\remotes
+H:\UofA\PhD\Literature\Repo\.git\refs\tags
+H:\UofA\PhD\Literature\Repo\.git\refs\heads\master
+H:\UofA\PhD\Literature\Repo\.git\refs\remotes\origin
+H:\UofA\PhD\Literature\Repo\.git\refs\remotes\origin\master
+H:\UofA\PhD\Literature\Repo\Deep RL\Active Object Localization With Deep Reinforcement Learning iccv15.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Asynchronous Methods for Deep Reinforcement Learning ax16_6.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Benchmarking Deep Reinforcement Learning for Continuous Control icml16.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments ax180223 iclr18.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Continuous control with deep reinforcement learning iclr16 ax1602.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Continuous Deep Q-Learning with Model-based Acceleration ax1603.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\DEEP REINFORCEMENT LEARNING AN OVERVIEW ax1709.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Deep Reinforcement Learning An Overview ax17_1.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Deep Reinforcement Learning that Matters ax1711.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Deep Reinforcement Learning with Double Q-learning corr15 ax15_12.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Deterministic Policy Gradient Algorithms icml14.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Dueling Network Architectures for Deep Reinforcement Learning ax16_5.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\End-to-End Training of Deep Visuomotor Policies arxiv16_4.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Human-level control through deep reinforcement learning nature1502.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Human-level control through deep reinforcement learning nature15_2.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Imagination-Augmented Agents for Deep Reinforcement Learning ax180214.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Mastering the game of Go with deep neural networks and tree search nature16_1.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning ax1712.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Playing Atari with Deep Reinforcement Learning nips13 ax13_9.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Proximal Policy Optimization Algorithms ax1708.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Rainbow Combining Improvements in Deep Reinforcement Learning ax1710.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Reinforcement and Deep Reinforcement Machine Learning sl rhml17.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Stable reinforcement learning with recurrent neural networks SL jcta11.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Temporal Difference Models Model-Free Deep RL for Model-Based Control iclr18_ur.pdf
+H:\UofA\PhD\Literature\Repo\Deep RL\Three DeepRL Seminars - asingh1@ualberta.ca - University of Alberta Mail.mht
+H:\UofA\PhD\Literature\Repo\Deep RL\Trust Region Policy Optimization ax17_4.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Action
+H:\UofA\PhD\Literature\Repo\Detection\Animal
+H:\UofA\PhD\Literature\Repo\Detection\Background Subtraction
+H:\UofA\PhD\Literature\Repo\Detection\Classic
+H:\UofA\PhD\Literature\Repo\Detection\Deep Feature Flow For Video Recognition cvpr17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Deep Learning for Human Part Discovery in Images icra16.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Deep Learning for Robust Road Object Detection msc_thes17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Deep Regionlets for Object Detection ax1712.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Enriching object detection with 2D-3D registration and continuous viewpoint estimation cvpr15.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Fast Feature pyramid for object detection tpami14.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Fast R-CNN ax1509 iccv15.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks nips15 arxiv15.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17 ax16_1.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Feature Pyramid Networks for Object Detection ax17_4.pdf
+H:\UofA\PhD\Literature\Repo\Detection\High-for-Low and Low-for-High Efficient Boundary Detection From Deep Object Features and its Applications to High-Level Vision  iccv15.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Learning Region Features for Object Detection ax180319.pdf
+H:\UofA\PhD\Literature\Repo\Detection\LSDA Large scale detection through adaptation nips14 ax14_11.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Mask R-CNN ax17_4.pdf
+H:\UofA\PhD\Literature\Repo\Detection\MODNet Moving Object Detection Network with Motion and Appearance for Autonomous Driving ax1711.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Object recognition and detection with deep learning for autonomous driving applications sage_1706.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Region-Based Convolutional Networks for Accurate Object Detection and Segmentation  tpami16_1.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Relation Networks for Object Detection ax171130 cvpr18.pdf
+H:\UofA\PhD\Literature\Repo\Detection\RFCN - Object Detection via Region-based Fully Convolutional Networks nips16.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Rich feature hierarchies for accurate object detection and semantic segmentation ax141022 cvpr14.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Selective Search for Object Recognition ijcv2013.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Selective Search for Object Recognition ppt ijcv12.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Sensor Fusion
+H:\UofA\PhD\Literature\Repo\Detection\Speed accuracy trade-offs for modern convolutional object detectors ax1704 cvpr17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Squeezedet Uni?ed, small, low power fully convolutional neural net- works for real-time object detection for autonomous driving cvprw17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\SSD Single Shot MultiBox Detector eccv16_ax16_12.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection wacv17 ax17_3.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video
+H:\UofA\PhD\Literature\Repo\Detection\YOLO9000 Better, Faster, Stronger ax16_12.pdf
+H:\UofA\PhD\Literature\Repo\Detection\YOLOv3 An Incremental Improvement ax180408.pdf
+H:\UofA\PhD\Literature\Repo\Detection\You Only Look Once Unified, Real-Time Object Detection ax1605.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Action\Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos ax1708.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Animal\Animal Recognition and Identification with Deep Convolutional Neural Networks for Automated Wildlife Monitoring  DSAA17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Animal\Animal Recognition System Based  on Convolutional Neural Network aeee17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Animal\Automated Detection and Recognition of Wildlife Using Thermal Cameras sensors14.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Animal\Automatic Detection and Recognition of Individuals in Patterned Species ecmlpkdd17_iiitd.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Animal\Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning ax171115.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Animal\Deep Learning Object Detection Methods for Ecological Camera Trap Data ax180328.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Animal\Where's the Bear - Automating Wildlife Image Processing Using IoT and Edge Cloud Systems  ioTDI17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Background Subtraction\ANOMALY DETECTION IN SURVEILLANCE VIDEOS USING DEEP RESIDUAL NETWORKS mscthes1702.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Classic\dpm-slides-ross-girshick.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Classic\Object Detection with Discriminatively Trained Part Based Models tpami10.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Classic\Regionlets for Generic Object Detection iccv13.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Sensor Fusion\Deep Learning for Person Detection in Multi-Spectral Videos mscthes17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Sensor Fusion\Object Detection from a Vehicle using Deep Learning Network  and Future Integration with Multi-Sensor Fusion Algorithm 17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Context Matters Re?ning Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Deep Learning-based Multiple Pedestrians Detection-Tracking Framework HCIK16_ACM.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Improving a real-time object detector with compact temporal information iccvw17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Learning to Segment Moving Objects in Videos ax1505 cvpr15.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Moving object detection in videos using principal component pursuit and convolutional neural networks  globalsip1711.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Object Detection from Video Sequences Using Deep Learning An Overview AISC1710_SPRINGER.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Object Tracking in Video with TensorFlow msc_thes1610.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Online Video Object Detection using Association LSTM iccv17.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Recurrent neural networks for object detection in video sequences msc_thes170321.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Towards High Performance Video Object Detection ax171130 microsoft.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Towards High Performance Video Object Detection for Mobiles ax180416 microsoft.pdf
+H:\UofA\PhD\Literature\Repo\Detection\Video\Video Object Detection for Tractability with Deep Learning Method  CBD17.pdf
+H:\UofA\PhD\Literature\Repo\Readings\17_5_22 Learning to Track Online Multi-object Tracking by Decision Making  iccv15
+H:\UofA\PhD\Literature\Repo\Readings\17_5_22 Learning to Track Online Multi-object Tracking by Decision Making  iccv15\mdp_tracking.pptx
+H:\UofA\PhD\Literature\Repo\Tracking\Attention
+H:\UofA\PhD\Literature\Repo\Tracking\Batch
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target
+H:\UofA\PhD\Literature\Repo\Tracking\RL
+H:\UofA\PhD\Literature\Repo\Tracking\Summary
+H:\UofA\PhD\Literature\Repo\Tracking\Attention\Learning Attentional Policies for Tracking and Recognition in Video icml11.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Batch\A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects ax16_9 [best MT on MOT15].pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Batch\Continuous energy minimization for multitarget tracking tpami14.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Batch\Learning an image-based motion context for multiple people tracking cvpr14.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Batch\Multi-target tracking by lagrangian relaxation to min-cost network ?ow cvpr13.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Batch\Multiple hypothesis tracking revisited iccv15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Batch\Multiple Object Tracking Using K-Shortest Paths Optimization  tpami11.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\CNNTracker Online discriminative object tracking via deep convolutional neural network ASC16.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Correlation
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Deep Learning of Appearance Models for Online Object Tracking ax16_7.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Deep Metric Learning for Visual Tracking tcsvt16_11.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Fully-Convolutional Siamese Networks for Object Tracking eccv16_9.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Learning a deep compact image representation for visual tracking nips13.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\LEARNING A REAL-TIME GENERIC TRACKER USING CONVOLUTIONAL NEURAL NETWORKS ICME2017.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Learning by tracking Siamese CNN for robust target association ax16_8.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Learning Multi-Domain Convolutional Neural Networks for Visual Tracking cvpr16 ax16_1.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Learning to Track at 100 FPS with Deep Regression Networks arxiv16.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Localization-based Visual Tracking with Convolutional Neural Networks icee16.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Modeling and Propagating CNNs in a Tree Structure for Visual Tracking arxiv16 (vot16 winner).pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Old
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Once for All a Two-flow Convolutional Neural Network for Visual Tracking ax16_4.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Online Object Tracking Based on CNN with Metropolis-Hasting Re-Sampling acm mm15_9.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Online video tracking using collaborative convolutional networks  icme16_7.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Review
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\RNN
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Robust Visual Tracking via Convolutional Networks ax15_8.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Robust Visual Tracking via Convolutional Networks Without Training  tip16_4.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Siamese Instance Search for Tracking cvpr16 ax16_5.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Transfer
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Visual tracking with VG-RAM Weightless Neural Networks sd nc16_3.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Correlation\Beyond Correlation Filters Learning Continuous Convolution Operators for Visual Tracking eccv16 ax16_8.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Correlation\Convolutional features for correlation ?lter based visual tracking iccvw15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Correlation\ECO Efficient Convolution Operators for Tracking cvpr17 ax17_4.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Correlation\End-To-End Representation Learning for Correlation Filter Based Tracking cvpr17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Old\Design-and-Implementation-of-a-Neural-Network-for-Real-Time-Object-Tracking 2007.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Review\A Review of Visual Tracking with Deep Learning aiie16.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\RNN\Deep Tracking Seeing Beyond Seeing Using Recurrent Neural Networks ax16_3 aaai16_2.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\RNN\First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks ax15_11.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\RNN\RATM Recurrent Attentive Tracking Model ax16_4.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\RNN\Re3 Real-Time Recurrent Regression Networks for Object Tracking ax17_3.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\RNN\Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ax16_7.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Transfer\Online tracking by learning discriminative saliency map with convolutional neural network icml15 ax15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Transfer\Transfer learning based visual tracking with Gaussian processes regression eccv14.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Deep Learning\Transfer\Transferring Rich Feature Hierarchies for Robust Visual Tracking ax15_4.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\A Novel Multi-Detector Fusion Framework for Multi-Object Tracking ax17_9.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Continuous energy minimization for multitarget tracking tpami14_1.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Cyclist Detection, Tracking, and Trajectory Analysis in Urban Traffic Video Data msc_thes1708.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\DL
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Fully Automatic, Real-Time Vehicle Tracking for Surveillance Video crv17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\High-Speed Tracking-by-Detection Without Using Image Information avss17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Joint tracking and segmentation of multiple targets cvpr15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Learning an image-based motion context for multiple people tracking cvpr14.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Multi-Class Multi-Object Tracking using Changing Point Detection ax16_8.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Multi-commodity network flow for tracking multiple people tpami14.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Multiple Object Tracking A Literature Review ax17_5.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Multiple Object Tracking A Review ax14.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Multiple Object Tracking with Kernelized Correlation Filters in Urban Mixed Traf?c crv17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Near-online multi-target tracking with aggregated local ?ow descriptor iccv15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Old
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Online Multi-Object Tracking based on Hierarchical Association Framework  cvprw16_7.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Online multi-object tracking by detection based on generative appearance models cviu16_11.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Online Multi-target Tracking with Strong and Weak Detections eccv16.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Real-Time Multiple Object Tracking - A Study on the Importance of Speed ax17_10 thesis.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Subgraph decomposition for multi-object tracking cvpr15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Target identity-aware network flow for online multiple target tracking cvpr15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Tracking multi-object using tracklet and Faster R-CNN icdsc16_9.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Tracking the Trackers An Analysis of the State of the Art in Multiple Object Tracking ax17_4.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Tracklet association by online target-speci?c metric learning and coherent dynamics estimation tpami17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\DL\Deep Network Flow for Multi-Object Tracking cvpr17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\DL\Online Multi-Target Tracking Using Recurrent Neural Networks ax16_12 aaai17_2.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\DL\Tracking millions of humans Elsevier_17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\DL\Tracking of Humans in Video Stream Using LSTM Recurrent Neural Network mml_thes1708.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\DL\Tracking The Untrackable Learning To Track Multiple Cues with Long-Term Dependencies ax17_4.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Old\Global data association for multi-object tracking using network ?ows cvpr08.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Old\Learning to associate HybridBoosted multi-target tracker for crowded scene cvpr09.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Old\Markov chain monte carlo data association for multi-target tracking tac09.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Old\MCMC-based particle filtering for tracking a variable number of interacting targets  tpami05.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Old\Multi-target tracking by online learned discriminative appearance models. cvpr10.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Old\Multiple Object Tracking using K-Shortest Paths pami11.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Multi Target\Old\Online multi-target tracking by large margin structured learning accv12.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning  cvpr17 supplementaqry.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning  cvpr17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Deep Reinforcement Learning for Visual Object Tracking in Videos ax17_4.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\End-to-end Active Object Tracking via Reinforcement Learning ax17_5.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Learning to Track Online Multi-object Tracking by Decision Making  iccv15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Learning to Track Online Multi-Object Tracking by Decision Making_iccv15 supplementary.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Reinforcement Learning for Robust and Efficient Real-World Tracking icpr10.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Visual Tracking by Reinforced Decision Making ax17_2.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Active tracking and pursuit under different levels of occlusion a two-layer approach sl mva14.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Cooperative target searching and tracking via UCT with probability distribution model  dsp16.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Design and implementation of multi-robot cooperative tracking  cscwd10.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Experimenting WNN support in object tracking systems sd nc16_3.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Policy gradient based Reinforcement Learning for real autonomous underwater cable tracking iros08.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Policy learning for autonomous feature tracking sl ar13.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Reinforcement learning of cooperative behaviors for multi-robot tracking of multiple moving targets  iros05.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Reinforcement learning-based feature learning for object tracking  icpr04.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Tracking strategy based on reinforcement learning and intention inference ccc14.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\RL\Misc\Two steps natural actor critic learning for underwater cable tracking  icra10.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Summary\Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Summary\A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Summary\Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Summary\Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Summary\NOMT.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Summary\Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf
+H:\UofA\PhD\Literature\Repo\Tracking\Summary\Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf
+H:\UofA\PhD\Literature\RL\A self-organizing neural architecture integrating desire, intention and reinforcement learning sd nc10.pdf
+H:\UofA\PhD\Literature\RL\Actor-critic
+H:\UofA\PhD\Literature\RL\Algorithms for inverse reinforcement learning icml00.pdf
+H:\UofA\PhD\Literature\RL\APPRENTICESHIP LEARNING AND REINFORCEMENT LEARNING WITH APPLICATION TO ROBOTIC CONTROL thesis08.pdf
+H:\UofA\PhD\Literature\RL\Apprenticeship Learning via Inverse Reinforcement Learning icml04.pdf
+H:\UofA\PhD\Literature\RL\Bayesian Nonparametric Inverse Reinforcement Learning sl ecmlpkdd12.pdf
+H:\UofA\PhD\Literature\RL\Behavior Adaptation by Means of Reinforcement Learning SL12.pdf
+H:\UofA\PhD\Literature\RL\BQN
+H:\UofA\PhD\Literature\RL\Building Machines That Learn and Think Like People arxiv16_11.pdf
+H:\UofA\PhD\Literature\RL\Control
+H:\UofA\PhD\Literature\RL\Control policy with autocorrelated noise in reinforcement learning for robotics ijmlc15.pdf
+H:\UofA\PhD\Literature\RL\Deep
+H:\UofA\PhD\Literature\RL\Density Matching Reward Learning ax16_8.pdf
+H:\UofA\PhD\Literature\RL\Effective learning in dynamic environments by explicit context tracking sl ecml93.pdf
+H:\UofA\PhD\Literature\RL\Evolution and Learning in an Intrinsically Motivated Reinforcement Learning Robot sl ecal07.pdf
+H:\UofA\PhD\Literature\RL\Fast gradient-descent methods for temporal-difference learning with linear function approximation icml09.pdf
+H:\UofA\PhD\Literature\RL\Fuzzy Policy Reinforcement Learning in Cooperative Multi-robot Systems sl jirs07.pdf
+H:\UofA\PhD\Literature\RL\Gradient Estimation Using Stochastic Computation Graphs arxiv16_1.pdf
+H:\UofA\PhD\Literature\RL\High-Dimensional Continuous Control Using Generalized Advantage Estimation arxiv 16_9.pdf
+H:\UofA\PhD\Literature\RL\Hindsight Experience Replay ax180223.pdf
+H:\UofA\PhD\Literature\RL\Imperfect Models
+H:\UofA\PhD\Literature\RL\Incorporating Expert Advice into Reinforcement Learning Using Constructive Neural Networks sl cnn09.pdf
+H:\UofA\PhD\Literature\RL\Learning and Querying Fast Generative Models for Reinforcement Learning 1802.pdf
+H:\UofA\PhD\Literature\RL\Learning Grammars for Architecture-Specific Facade Parsing.IJCV-2016-Gadde-et-al.pdf
+H:\UofA\PhD\Literature\RL\Learning to Navigate in Complex Environments ax170113.pdf
+H:\UofA\PhD\Literature\RL\Learning What Data to Learn ax17_2.pdf
+H:\UofA\PhD\Literature\RL\Misc
+H:\UofA\PhD\Literature\RL\Model-free reinforcement learning with continuous action in practice acc12.pdf
+H:\UofA\PhD\Literature\RL\Multi-agent Reinforcement Learning An Overview SL 10.pdf
+H:\UofA\PhD\Literature\RL\Neural Architecture Search with Reinforcement Learning ax170215.pdf
+H:\UofA\PhD\Literature\RL\Neural Turing Machines arxiv14_12.pdf
+H:\UofA\PhD\Literature\RL\Online Learning of a Memory for Learning Rates ax1710.pdf
+H:\UofA\PhD\Literature\RL\Online Q-Learning using Connectionist Systems 94.pdf
+H:\UofA\PhD\Literature\RL\Policy gradient methods for reinforcement learning with function approximation nips99.pdf
+H:\UofA\PhD\Literature\RL\Regularized Evolution for Image Classifier Architecture Search 180301.pdf
+H:\UofA\PhD\Literature\RL\Reinforcement Learning Neural Turing Machines - Revised arxiv16_1.pdf
+H:\UofA\PhD\Literature\RL\Reinforcement Learning with Neural Networks Tricks of the Trade sl13.pdf
+H:\UofA\PhD\Literature\RL\Reinforcement Learning with Self-Modifying Policies sl ltl98.pdf
+H:\UofA\PhD\Literature\RL\Reinforcement Learning with Unsupervised Auxiliary Tasks ax1611.pdf
+H:\UofA\PhD\Literature\RL\Reluctant Reinforcement Learning sl rdis14.pdf
+H:\UofA\PhD\Literature\RL\Self-organizing Neural Architecture for Reinforcement Learning sl isnn06.pdf
+H:\UofA\PhD\Literature\RL\Simple statistical gradient-following algorithms for connectionist reinforcement learning ml92.pdf
+H:\UofA\PhD\Literature\RL\Survey
+H:\UofA\PhD\Literature\RL\Target Following
+H:\UofA\PhD\Literature\RL\Toward off-policy learning control with function approximation icml10.pdf
+H:\UofA\PhD\Literature\RL\Trust Region Policy Optimization arxiv16_6.pdf
+H:\UofA\PhD\Literature\RL\Using Advice to Transfer Knowledge Acquired in One Reinforcement Learning Task to Another sl ecml05.pdf
+H:\UofA\PhD\Literature\RL\Actor-critic\Linear off-policy actor-critic icml12.pdf
+H:\UofA\PhD\Literature\RL\Actor-critic\Off-Policy Actor-Critic ax1306.pdf
+H:\UofA\PhD\Literature\RL\BQN\Bayesian Q-learning aaai98.pdf
+H:\UofA\PhD\Literature\RL\BQN\Bayesian Q-learning with Assumed Density Filtering ax1712 nipsw17.pdf
+H:\UofA\PhD\Literature\RL\Control\A combined reactive and reinforcement learning controller for an autonomous tracked vehicle sd ras12.pdf
+H:\UofA\PhD\Literature\RL\Control\Coordinated learning based on time-sharing tracking framework and Gaussian regression for continuous multi-agent systems sd eaai15.pdf
+H:\UofA\PhD\Literature\RL\Control\Model-Based Reinforcement Learning for Infinite-Horizon Approximate Optimal Tracking  tnnls17.pdf
+H:\UofA\PhD\Literature\RL\Control\Model-based reinforcement learning in differential graphical games ax17_2.pdf
+H:\UofA\PhD\Literature\RL\Control\Model-free linear quadratic tracking control for unmanned helicopters using reinforcement learning icara11.pdf
+H:\UofA\PhD\Literature\RL\Control\Optimal control of eye-movements during visual search ax17_4.pdf
+H:\UofA\PhD\Literature\RL\Imperfect Models\Reinforcement Learning with Misspeci?ed Model Classes icra13_mit.pdf
+H:\UofA\PhD\Literature\RL\Misc\A new reinforcement learning vehicle control architecture for vision-based road following  tvt00.pdf
+H:\UofA\PhD\Literature\RL\Misc\A Tutorial on Thompson Sampling ax1711.pdf
+H:\UofA\PhD\Literature\RL\Misc\Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving ax16_12.pdf
+H:\UofA\PhD\Literature\RL\Misc\Cross-entropy method - Wikipedia.mht
+H:\UofA\PhD\Literature\RL\Misc\Deep reinforcement learning with visual attention for vehicle classification  tcds16.pdf
+H:\UofA\PhD\Literature\RL\Misc\Deep spatial autoencoders for visuomotor learning  icra16.pdf
+H:\UofA\PhD\Literature\RL\Misc\Deep Spatial Autoencoders for Visuomotor Learning ax16_3.pdf
+H:\UofA\PhD\Literature\RL\Misc\Ensemble Learning for Object Recognition and Tracking sl 11.pdf
+H:\UofA\PhD\Literature\RL\Misc\Online Evolution of Deep Convolutional Network for Vision-Based Reinforcement Learning sl sab14.pdf
+H:\UofA\PhD\Literature\RL\Misc\Predicting Future Agent Motions for Dynamic Environments  icmla16.pdf
+H:\UofA\PhD\Literature\RL\Misc\Reinforcement learning for hierarchical and modular neural network in autonomous robot navigation  jcnn03.pdf
+H:\UofA\PhD\Literature\RL\Misc\Self-learning navigation algorithm for vision-based mobile robots using machine learning algorithms jmst11.pdf
+H:\UofA\PhD\Literature\RL\Misc\The Linear Quadratic Tracking Problem.pdf
+H:\UofA\PhD\Literature\RL\Survey\A Short Tutorial on Reinforcement Learning iip05.pdf
+H:\UofA\PhD\Literature\RL\Survey\New Trends in Robotic Reinforcement Learning Single and Multi-robot Case SL 09.pdf
+H:\UofA\PhD\Literature\RL\Survey\Reinforcement learning in feedback control ml11.pdf
+H:\UofA\PhD\Literature\RL\Survey\Reinforcement Learning in Robotics A Survey sl 12.pdf
+H:\UofA\PhD\Literature\RL\Survey\Reinforcement Learning in Robotics A Survey SL 14.pdf
+H:\UofA\PhD\Literature\RL\Survey\Reinforcement learning, conditioning, and the brain Successes and challenges sl cabn12_09.pdf
+H:\UofA\PhD\Literature\RL\Survey\Survey of Model-Based Reinforcement Learning Applications on Robotics sl jirs17.pdf
+H:\UofA\PhD\Literature\RL\Target Following\Robotic Target Tracking with Approximation Space-Based Feedback During Reinforcement Learning SL 07.pdf
+H:\UofA\PhD\Literature\RL\Target Following\Target following for an autonomous underwater vehicle using regularized ELM-based reinforcement learning  oceans15.pdf
+H:\UofA\PhD\Literature\RNN\A Clockwork RNN ax14_2.pdf
+H:\UofA\PhD\Literature\RNN\A Recurrent Latent Variable Model for Sequential Data ax15_6.pdf
+H:\UofA\PhD\Literature\RNN\An Empirical Exploration of Recurrent Network Architectures icml15.pdf
+H:\UofA\PhD\Literature\RNN\Conditional Random Fields as Recurrent Neural Networks  iccv15.pdf
+H:\UofA\PhD\Literature\RNN\Depth-Gated Recurrent Neural Networks ax15_8.pdf
+H:\UofA\PhD\Literature\RNN\DRAW A Recurrent Neural Network For Image Generation ax15_7.pdf
+H:\UofA\PhD\Literature\RNN\Grid Long Short-Term Memory ax15_7.pdf
+H:\UofA\PhD\Literature\RNN\Learning long-term dependencies with gradient descent is difficult tnn94.pdf
+H:\UofA\PhD\Literature\RNN\Learning Phrase Representations using RNN Encoder-Decoder ax14_9 (GRU).pdf
+H:\UofA\PhD\Literature\RNN\LEARNING STOCHASTIC RECURRENT NETWORKS ax15_3.pdf
+H:\UofA\PhD\Literature\RNN\LONG SHORT-TERM MEMORY jnc97.pdf
+H:\UofA\PhD\Literature\RNN\Long-term recurrent convolutional networks for visual recognition and description cvpr15.pdf
+H:\UofA\PhD\Literature\RNN\LSTM A Search Space Odyssey ax15_3.pdf
+H:\UofA\PhD\Literature\RNN\Recurrent Models of Visual Attention arxiv14_6.pdf
+H:\UofA\PhD\Literature\RNN\Recurrent nets that time and count IJCNN2000.pdf
+H:\UofA\PhD\Literature\RNN\Recurrent Network Models for Human Dynamics  iccv15.pdf
+H:\UofA\PhD\Literature\RNN\SeppHochreiter1991ThesisAdvisorSchmidhuber.pdf
+H:\UofA\PhD\Literature\RNN\Show, Attend and Tell Neural Image Caption Generation with Visual Attention ax15_2.pdf
+H:\UofA\PhD\Literature\RNN\Structural-RNN Deep Learning on Spatio-Temporal Graphs cvpr16 ax16_4.pdf
+H:\UofA\PhD\Literature\RNN\Visualizing and Understanding Recurrent Networks ax15_11.pdf
+H:\UofA\PhD\Literature\RNN\You Only Look Once Unified, Real-Time Object Detection cvpr16 ax16_5.pdf
+H:\UofA\PhD\Literature\Segmentation\Deep Fusion Net for Multi-Atlas Segmentation Application to Cardiac MR Images.pdf
+H:\UofA\PhD\Literature\Segmentation\DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs ax17_5.pdf
+H:\UofA\PhD\Literature\Segmentation\End-to-end Learning of Driving Models from Large-scale Video Datasets arxiv16_12.pdf
+H:\UofA\PhD\Literature\Segmentation\Fast R-CNN arxiv15.pdf
+H:\UofA\PhD\Literature\Segmentation\Fast R-CNN iccv15.pdf
+H:\UofA\PhD\Literature\Segmentation\Fast R-CNN Object detection with Caffe cvpr15 ppt.pdf
+H:\UofA\PhD\Literature\Segmentation\Interactive image segmentation by maximal similarity based region merging pr09.pdf
+H:\UofA\PhD\Literature\Segmentation\Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs ax16_6 iclr15.pdf
+H:\UofA\PhD\Literature\Segmentation\Superpixel clustering with deep features for unsupervised road segmentation ax1711.pdf
+H:\UofA\PhD\Literature\Segmentation\Video
+H:\UofA\PhD\Literature\Segmentation\Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation ax15_11.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\A Video Representation Using Temporal Superpixels cvpr13.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017
+H:\UofA\PhD\Literature\Segmentation\Video\DEEP CONVOLUTIONAL NEURAL NETWORKS FOR SEMANTIC VIDEO OBJECT SEGMENTATION mscthes16.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\Learning to Segment Moving Objects in Videos cvpr15.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\Learning Video Object Segmentation from Static Images cvpr17 masktrack.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\Motion trajectory segmentation via minimum cost multicuts iccv15.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\Online Adaptation of Convolutional Neural Networks for Video Object Segmentation ax1708 bmvc17.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\Online Video Object Segmentation via Convolutional Trident Network cvpr17.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks ax1708 iccv17.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\Segmentation of Moving Objects by Long Term Video Analysis tpami14.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\Instance Re-Identification Flow for Video Object Segmentation DAVIS-Challenge-3rd-Team.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\Learning to Segment Instances in Videos with Spatial Propagation Network cvprw17DAVIS-Challenge-6th-Team.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\Lucid Data Dreaming for Object Tracking cvprw17 DAVIS-Challenge-2nd-Team.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\Multiple-Instance Video Segmentation with Sequence-Specific Object Proposals cvprw17DAVIS-Challenge-4th-Team.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\One-Shot Video Object Segmentation with Iterative Online Fine-Tuning cvprw17DAVIS-Challenge-8th-Team.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\Online Adaptation of Convolutional Neural Networks for the 2017 DAVIS Challenge cvprw17 DAVIS-Challenge-5th-Team.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\Some Promising Ideas about Multi-instance Video Segmentation cvprw17DAVIS-Challenge-7th-Team.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\Video Object Segmentation using Tracked Object Proposals cvprw17 DAVIS-Challenge-9th-Team.pdf
+H:\UofA\PhD\Literature\Segmentation\Video\DAVIS 2017\Video Object Segmentation with Re-identification cvprw17 DAVIS-Challenge-1st-Team.pdf
+H:\UofA\PhD\Literature\Siamese Networks and Learned AM\Deep metric learning using Triplet network.pdf
+H:\UofA\PhD\Literature\Siamese Networks and Learned AM\Learning a Similarity Metric Discriminatively, with Application to Face Veri?cation 05.pdf
+H:\UofA\PhD\Literature\Siamese Networks and Learned AM\Siamese Neural Networks for One-Shot Image Recognition msc-thesis.pdf
+H:\UofA\PhD\Literature\Siamese Networks and Learned AM\Siamese Neural Networks for One-shot Image Recognition.pdf
+H:\UofA\PhD\Literature\Similarity Metric\Best-buddies similarity for robust template matching cvpr15.pdf
+H:\UofA\PhD\Literature\Sparse Coding\A survey of sparse representation algorithms and applications ax16.pdf
+H:\UofA\PhD\Literature\Sparse Coding\Algorithms for First-order Sparse Reinforcement Learning phd16.pdf
+H:\UofA\PhD\Literature\Sparse Coding\Boss_1.ppt
+H:\UofA\PhD\Literature\Sparse Coding\Greedy Algorithms for Sparse Reinforcement Learning icml2012.pdf
+H:\UofA\PhD\Literature\Sparse Coding\Learning Fast Approximations of Sparse Coding icml10.pdf
+H:\UofA\PhD\Literature\Sparse Coding\Learning Sparse Representations in Reinforcement Learning with Sparse Coding ax1707.pdf
+H:\UofA\PhD\Literature\Sparse Coding\Learning Sparse Representations in Reinforcement Learning with Sparse Coding ijcai17.pdf
+H:\UofA\PhD\Literature\Sparse Coding\Sparse Multi-Task Reinforcement Learning.pdf
+H:\UofA\PhD\Literature\Tools\A Survey of Semantic Image and Video Annotation Tools 2011.pdf
+H:\UofA\PhD\Literature\Tools\matconvnet-manual.pdf
+H:\UofA\PhD\Literature\Tools\TensorFlow 15_9.pdf
+H:\UofA\PhD\Literature\Tracking\3D
+H:\UofA\PhD\Literature\Tracking\Batch.lnk
+H:\UofA\PhD\Literature\Tracking\Deep Learning.lnk
+H:\UofA\PhD\Literature\Tracking\Misc
+H:\UofA\PhD\Literature\Tracking\Motion
+H:\UofA\PhD\Literature\Tracking\Multi Target.lnk
+H:\UofA\PhD\Literature\Tracking\Registration
+H:\UofA\PhD\Literature\Tracking\RGB-D
+H:\UofA\PhD\Literature\Tracking\RL.lnk
+H:\UofA\PhD\Literature\Tracking\Trajectory
+H:\UofA\PhD\Literature\Tracking\3D\3D Pose Tracking Using a Recovered 3D Model jcsc18_ws.pdf
+H:\UofA\PhD\Literature\Tracking\3D\A Direct 3D Object Tracking Method Based on Dynamic Textured Model Rendering and Extended Dense Feature Fields tcsvt1707.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\An enhanced adaptive coupled-layer LGTracker ++ iccv13.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\Compressive perceptual hashing tracking sd nc17_5.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\Long-term Correlation Tracking cvpr15.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\One-Class Multiple Instance Learning and Applications to Target Tracking sdl accv12.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\Robust visual tracking using joint scale-spatial correlation filters icip15.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\Staple Complementary Learners for Real-Time Tracking ax16_4.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\Tracking with General Regression mva2008.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\Tracking-by-Segmentation with Online Gradient Boosting Decision Tree iccv15.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\Understanding and Diagnosing Visual Tracking Systems arxiv15.pdf
+H:\UofA\PhD\Literature\Tracking\Misc\Visual tracking with sparse correlation filters  icip16.pdf
+H:\UofA\PhD\Literature\Tracking\Motion\Detection free tracking Exploiting motion and topology for segmenting and tracking under entanglement cvpr11.pdf
+H:\UofA\PhD\Literature\Tracking\Motion\Two-granularity tracking Mediating trajectory and detection graphs for tracking under occlusions eccv12.pdf
+H:\UofA\PhD\Literature\Tracking\Registration\Deep 6-DOF Tracking ax1708 tvcg17.pdf
+H:\UofA\PhD\Literature\Tracking\Registration\Illumination Insensitive Efficient Second-order Minimization for Planar Object Tracking icra17.pdf
+H:\UofA\PhD\Literature\Tracking\Registration\Robust Tracking of Planar Objects in Low Light and Sudden Illumination Changes 3dv16.pdf
+H:\UofA\PhD\Literature\Tracking\Registration\[27] Scale-space and edge detection using anisotropic diffusion tpami90.lnk
+H:\UofA\PhD\Literature\Tracking\RGB-D\A Comparative Study of Registration Methods for RGB-D Video of Static Scenes sensors-14-08547.pdf
+H:\UofA\PhD\Literature\Tracking\RGB-D\Real-time Joint Tracking of a Hand Manipulating an Object from RGB-D Input eccv16.pdf
+H:\UofA\PhD\Literature\Tracking\RGB-D\Real-time RGB- D Tracking with Depth Scaling Kernelised Correlation Filters and Occlusion Handling bmvc15.pdf
+H:\UofA\PhD\Literature\Tracking\RGB-D\RealtimeHO_ECCV2016_SM.pdf
+H:\UofA\PhD\Literature\Tracking\RGB-D\Robust Odometry Estimation for RGB-D Cameras icra13.pdf
+H:\UofA\PhD\Literature\Tracking\Trajectory\Learning Social Etiquette Human Trajectory Prediction In Crowded Scenes eccv16.pdf
+H:\UofA\PhD\Literature\Tracking\Trajectory\Social LSTM Human Trajectory Prediction in Crowded Spaces cvpr16.pdf
+H:\UofA\PhD\Literature\Tracking\Trajectory\Who are you with and where are you going cvpr11.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\A computer vision system for the detection and classification of vehicles at urban road intersections paa05.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\A real-time computer vision system for vehicle tracking and traffic surveillance tret98.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\A taxonomy and analysis of camera calibration methods for traf?c monitoring applications itst10.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\An Overview of Image processing for traffic applications iosr14.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Automated Road Safety Analysis Using Video Sensors trb07.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Biologically Inspired Composite Vision System for Multiple Depth-of-?eld Vehicle Tracking and Speed Detection accvw14.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Biologically inspired composite vision system for traffic monitoring icca16.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Biologically-Inspired Long-Range Traffic  Monitoring System with Basler ace USB 3.0 Camera.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Camera calibration for urban traf?c scenes Practical issues and a robust approach trbam10.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Commercial
+H:\UofA\PhD\Literature\Traffic Monitoring\Computer Vision on Embedded Sensors for Traffic Flow Monitoring itsc15.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\In vehicle
+H:\UofA\PhD\Literature\Traffic Monitoring\Learning, Modeling, and Understanding Vehicle Surround Using Multi-Modal Sensing dissertation.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Matching vehicles under large pose transformations using approximate 3D models and piecewise MRF model cvpr08.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Real-time Vehicle Detection and Tracking Using Stereo Vision and Multi-View AdaBoost itsc-11.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Road intersection monitoring from video with large perspective deformation itswc14.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Semantic
+H:\UofA\PhD\Literature\Traffic Monitoring\Street Viewer An Autonomous Vision Based Traf?c Tracking System sensors16.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey
+H:\UofA\PhD\Literature\Traffic Monitoring\Traffic monitoring and accident detection at intersections itst00.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV
+H:\UofA\PhD\Literature\Traffic Monitoring\ViBe A universal background subtraction algorithm for video sequences tip11.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Vision-based scale-adaptive vehicle detection and tracking for intelligent traffic monitoring robio14.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Vision-based traf?c measurement system icpr04.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Commercial\GridSmart.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Commercial\THE PROMETHEUS  PROGRAMME  92.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\In vehicle\A System for Real-time Detection and Tracking of Vehicles from a Single Car-mounted Camera itsc112.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\In vehicle\Combining Monocular and Stereo-Vision for Real-Time Vehicle Ranging and Tracking on Multilane Highways itsc11.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\In vehicle\Vehicle detection and tracking in car video based on motion model itst11.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Semantic\A real-time computer vision system for measuring traffic parameters cvpr97.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Semantic\Large Scale Automated Analysis of Vehicle Interactions and Collisions.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Semantic\Real-Time Video-Based Traf?c Measurement and Visualization System for EnergyEmissions itst12.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Semantic\Video processing techniques for traffic information acquisition using uncontrolled video streams itsc09.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos cviu14.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\A review of computer vision techniques for the analysis of urban traf?c itst11.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\A survey of video processing techniques for traffic applications ivc03.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\A Survey of Vision-Based Traffic Monitoring of Road Intersections itst16.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\A survey on visual surveillance of object motion and behaviors tsmc04.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\Background subtraction for automated multisensor surveillance A comprehensive review eurasip jasp10.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\Looking at Vehicles on the Road A Survey of Vision-Based Vehicle Detection, Tracking, and Behavior Analysis itst13.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\On-Road Vehicle Detection Using Optical Sensors A Review pami06.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\Tracking all traffic computer vision algorithms for monitoring vehicles, individuals, and crowds iram05.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\Traffic Monitoring and Control Using Machine Vision A Survey  TIE85.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\Traffic monitoring with computer vision sami09.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\Traffic Surveillance A Review of Vision Based Vehicle Detection,  Recognition and Tracking ijaerv11n1_108.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\Survey\Video processing techniques for traffic flow monitoring A survey  itsc11.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\01570387.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\05279483.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\07090517.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\07311600.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\07546916.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\A pan-tilt camera fuzzy vision controller on an unmanned aerial vehicle iros09.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\Computer vision based general object following for gps-denied multirotor unmanned vehicles acc14.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\Efficient Road Detection and Tracking for Unmanned Aerial Vehicle itst16.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\Estimating speed profiles from aerial vision - A comparison of regression based sampling techniques med16.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\From images to traffic behavior - A UAV tracking and monitoring application icif07.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\Minimum Time UAV Pursuit of a Moving Ground Target Using Partial Information icuas15.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\Motion-vector clustering for traffic speed detection from UAV video isc216.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\Surveillance from above A detection-and-prediction based multiple target tracking method on aerial videos icns16.pdf
+H:\UofA\PhD\Literature\Traffic Monitoring\UAV\Vehicle detection methods from an unmanned aerial vehicle platform icves12.pdf
+H:\UofA\PhD\Literature\Transfer Learning\Bringing Impressionism to Life with Neural Style Transfer in Come Swim arxiv17.pdf
+H:\UofA\PhD\Literature\Transfer Learning\How transferable are features in deep neural networks nips14.pdf
+H:\UofA\PhD\Literature\Transfer Learning\Unsupervised Image-to-Image Translation Networks ax180215.pdf
+H:\UofA\PhD\Literature\Unsorted\Harmonization_SIG10.pdf
+H:\UofA\PhD\Literature\Unsorted\Harmonization_SIG10_supplementary.pdf
+H:\UofA\PhD\Literature\Unsorted\Phase-Based_Video.pdf
+H:\UofA\PhD\Literature\Unsorted\sun10.pdf
+H:\UofA\PhD\Literature\Unsupervised\Representation Learning A Review and New Perspectives ax1404 tpami13.pdf
+H:\UofA\PhD\Literature\Video Synthesis\Deep multi-scale video prediction beyond mean square error ax1602 iclr16.pdf
+H:\UofA\PhD\Literature\Video Synthesis\list.txt
+H:\UofA\PhD\Literature\View Synthesis\list.txt
