@@ -84,7 +84,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
 	- [End-to-end representation learning for Correlation Filter based tracking (CVPR 21017)](https://github.com/bertinetto/cfnet)[MATLAB]
 	- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
-- Object Detection and Matching
+- Static Object Detection and Matching
 	- [Matchnet](https://github.com/hanxf/matchnet)
 	- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 	- [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
@@ -93,6 +93,10 @@ Collection of papers and other resources for object detection and tracking using
 	- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
 	- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
 	- [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
+- Video Object Detection
+	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
+	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[Python]
+	- [Flow-Guided Feature Aggregation for Video Object Detection (NIPS 2016 / ICCV 2017)](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[Python/CUDA]
 - Optical Flow
 	- [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS)
 	- [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
