@@ -1,1 +1,10 @@
+*/
+!Detection/
+!Tracking
+!Deep RL/
+!Readings/
 *.bat
+*.dat
+*.lnk
+*.nm
+list.txt
