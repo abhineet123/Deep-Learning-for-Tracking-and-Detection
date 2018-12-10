@@ -12,7 +12,6 @@ Collection of papers and other resources for object detection and tracking using
 - RetinaNet
     - **Feature Pyramid Networks for Object Detection ax170419** ([notes](static_detection/Notes/FPN.pdf))
     - **Focal Loss for Dense Object Detection ax180207** ([notes](static_detection/Notes/focal_loss.pdf))	  	  
-- Tensorflow object detection API: https://github.com/tensorflow/models/tree/master/object_detection. Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
 
 ## Video Detection
 - Tubelet
@@ -116,6 +115,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
 	- [Multiscale Combinatorial Grouping - Object Proposals and Segmentation
 ](https://github.com/jponttuset/mcg) [tpami16/cvpr14] [matlab]
+	- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection): Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
 - Video Object Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
 	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[Python]
