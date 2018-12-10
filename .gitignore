@@ -1,6 +1,17 @@
 */
 !Detection/
 !Multi Object Tracking/
+!Multi Object Tracking/Tracklet
+!Multi Object Tracking/DL
+!Multi Object Tracking/Embedded
+!Multi Object Tracking/Misc
+!Multi Object Tracking/Network Flow
+!Multi Object Tracking/Notes
+!Multi Object Tracking/Old
+!Multi Object Tracking/RL
+!Multi Object Tracking/RNN
+!Multi Object Tracking/Segmentation
+!Multi Object Tracking/Survey
 !Single Object Tracking/
 !Deep RL/
 !Readings/
