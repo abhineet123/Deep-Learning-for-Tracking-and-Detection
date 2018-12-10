@@ -1,48 +1,55 @@
 Collection of papers and other resources for object detection and tracking using deep learning
 
-## Object Detection
+## Static Detection
 - RCNN
     - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Detection/Notes/Faster_R-CNN.pdf)
+	  * [Notes](static_detection/Notes/Faster_R-CNN.pdf)
     - **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1703.06870), [github](https://github.com/CharlesShang/FastMaskRCNN)) [Facebook AI Research]
 
 - SSD
     - **SSD Single Shot MultiBox Detector eccv16_ax16_12**
-	  * [Notes](Detection/Notes/SSD.pdf)
+	  * [Notes](static_detection/Notes/SSD.pdf)
     - **DSSD  Deconvolutional Single Shot Detector ax1701.06659**
-	  * [Notes](Detection/Notes/DSSD.pdf)
+	  * [Notes](static_detection/Notes/DSSD.pdf)
 - RetinaNet
     - **Feature Pyramid Networks for Object Detection ax170419**
-	  * [Notes](Detection/Notes/FPN.pdf)
+	  * [Notes](static_detection/Notes/FPN.pdf)
     - **Focal Loss for Dense Object Detection ax180207**
-	  * [Notes](Detection/Notes/focal_loss.pdf)
+	  * [Notes](static_detection/Notes/focal_loss.pdf)
 	  	  
 - Tensorflow object detection API: https://github.com/tensorflow/models/tree/master/object_detection. Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
-## Object Tracking
-- Multi Object Tracking
-	- **Learning to Track: Online Multi-object Tracking by Decision Making** (ICCV 2015) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf), [github (Matlab)](https://github.com/yuxng/MDP_Tracking), [project page](https://yuxng.github.io/))
-	  * [Notes](multi_object_tracking/Notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf)
 
-	- **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies** (arxiv April 2017) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Deep%20Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/))
-	  * [Notes](multi_object_tracking/Notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
+## Video Detection
+- Tubelet
+    - **Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16**
+	  * [Notes](video_detection/Notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf)
+    - **Object Detection in Videos with Tubelet Proposal Networks ax1704 cvpr17**
+	  * [Notes](video_detection/Notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf)
 
-	- **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor** (ICCV 2015) (NEC Labs) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Multi%20Target/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf), [author page](http://www-personal.umich.edu/~wgchoi/))
-	  * [Notes](multi_object_tracking/Notes/NOMT.pdf)
+##  Multi Object Tracking
+- **Learning to Track: Online Multi-object Tracking by Decision Making** (ICCV 2015) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf), [github (Matlab)](https://github.com/yuxng/MDP_Tracking), [project page](https://yuxng.github.io/))
+  * [Notes](multi_object_tracking/Notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf)
+
+- **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies** (arxiv April 2017) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Deep%20Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/))
+  * [Notes](multi_object_tracking/Notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
+
+- **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor** (ICCV 2015) (NEC Labs) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Multi%20Target/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf), [author page](http://www-personal.umich.edu/~wgchoi/))
+  * [Notes](multi_object_tracking/Notes/NOMT.pdf)
+  
+- **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects** (highest MT on MOT2015) (University of Freiburg, Germany) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf), [arxiv](https://arxiv.org/abs/1607.06317), [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html))
+  * [Notes](multi_object_tracking/Notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf)
 	  
-	- **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects** (highest MT on MOT2015) (University of Freiburg, Germany) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf), [arxiv](https://arxiv.org/abs/1607.06317), [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html))
-	  * [Notes](multi_object_tracking/Notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf)
-	  
-- Single Object Tracking
-	- **Deep Reinforcement Learning for Visual Object Tracking in Videos** (arxiv April 2017) (USC-Santa Barbara, Samsung Research) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/))
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf)
-	  
-	- **Visual Tracking by Reinforced Decision Making** (arxiv February 2017) (Seoul National University, Chung-Ang University) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/))
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf)
+## Single Object Tracking
+- **Deep Reinforcement Learning for Visual Object Tracking in Videos** (arxiv April 2017) (USC-Santa Barbara, Samsung Research) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/))
+  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf)
+  
+- **Visual Tracking by Reinforced Decision Making** (arxiv February 2017) (Seoul National University, Chung-Ang University) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/))
+  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf)
 
-	- **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning** (CVPR 2017) (Seoul National University) ([pdf](https://drive.google.com/open?id=0B34VXh5mZ22cZUs2Umc1cjlBMFU), [project page](https://sites.google.com/view/cvpr2017-adnet)) 
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf)
+- **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning** (CVPR 2017) (Seoul National University) ([pdf](https://drive.google.com/open?id=0B34VXh5mZ22cZUs2Umc1cjlBMFU), [project page](https://sites.google.com/view/cvpr2017-adnet)) 
+  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf)
 
-	- **End-to-end Active Object Tracking via Reinforcement Learning** (arxiv 30 May 2017) (Peking University, Tencent AI Lab) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf), [arxiv](https://arxiv.org/abs/1705.10561)
+- **End-to-end Active Object Tracking via Reinforcement Learning** (arxiv 30 May 2017) (Peking University, Tencent AI Lab) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/RL/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf), [arxiv](https://arxiv.org/abs/1705.10561)
 
 ## Other potentially useful papers
 - **Deep Feature Flow for Video Recognition** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Kaiming%20He%2C%20Mask%20R-CNN%2C%202017.pdf), [arxiv](https://arxiv.org/abs/1611.07715), [github](https://github.com/msracver/Deep-Feature-Flow)) by Microsoft Research
