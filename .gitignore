@@ -22,41 +22,41 @@
 !Detection/SSD
 !Detection/Vehicle
 !Detection/Video
-!Multi Object Tracking/
-!Multi Object Tracking/Tracklet
-!Multi Object Tracking/DL
-!Multi Object Tracking/Embedded
-!Multi Object Tracking/Misc
-!Multi Object Tracking/Network Flow
-!Multi Object Tracking/Notes
-!Multi Object Tracking/Old
-!Multi Object Tracking/RL
-!Multi Object Tracking/RNN
-!Multi Object Tracking/Segmentation
-!Multi Object Tracking/Survey
-!Single Object Tracking/
-!Single Object Tracking/Unsupervised
-!Single Object Tracking/3D
-!Single Object Tracking/Adversarial
-!Single Object Tracking/Attention
-!Single Object Tracking/Batch
-!Single Object Tracking/Camera
-!Single Object Tracking/Correlation
-!Single Object Tracking/DL
-!Single Object Tracking/Fusion
-!Single Object Tracking/Gaze
-!Single Object Tracking/Misc
-!Single Object Tracking/Motion
-!Single Object Tracking/Notes
-!Single Object Tracking/PF
-!Single Object Tracking/Registration
-!Single Object Tracking/RGB-D
-!Single Object Tracking/RL
-!Single Object Tracking/RNN
-!Single Object Tracking/Segmentation
-!Single Object Tracking/Siamese
-!Single Object Tracking/Trajectory
-!Single Object Tracking/Unsorted
+!multi_object_tracking/
+!multi_object_tracking/Tracklet
+!multi_object_tracking/DL
+!multi_object_tracking/Embedded
+!multi_object_tracking/Misc
+!multi_object_tracking/Network Flow
+!multi_object_tracking/Notes
+!multi_object_tracking/Old
+!multi_object_tracking/RL
+!multi_object_tracking/RNN
+!multi_object_tracking/Segmentation
+!multi_object_tracking/Survey
+!single_object_tracking/
+!single_object_tracking/Unsupervised
+!single_object_tracking/3D
+!single_object_tracking/Adversarial
+!single_object_tracking/Attention
+!single_object_tracking/Batch
+!single_object_tracking/Camera
+!single_object_tracking/Correlation
+!single_object_tracking/DL
+!single_object_tracking/Fusion
+!single_object_tracking/Gaze
+!single_object_tracking/Misc
+!single_object_tracking/Motion
+!single_object_tracking/Notes
+!single_object_tracking/PF
+!single_object_tracking/Registration
+!single_object_tracking/RGB-D
+!single_object_tracking/RL
+!single_object_tracking/RNN
+!single_object_tracking/Segmentation
+!single_object_tracking/Siamese
+!single_object_tracking/Trajectory
+!single_object_tracking/Unsorted
 !Deep RL/
 !Readings/
 *.bat
