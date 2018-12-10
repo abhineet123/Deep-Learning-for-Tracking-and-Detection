@@ -30,30 +30,22 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Video Detection
 - Tubelet
-    - **Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16** (
-	[pdf](video_detection/Tubelets/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf),
-	[notes](video_detection/Notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf)
-	)
-	
-    - **Object Detection in Videos with Tubelet Proposal Networks ax1704 cvpr17**(
-	[pdf](video_detection/Tubelets/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf),
-	[notes](video_detection/Notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf)
-	)
+    - **Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16** ([pdf](video_detection/Tubelets/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf),
+	[notes](video_detection/Notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf))
+    - **Object Detection in Videos with Tubelet Proposal Networks ax1704 cvpr17**([pdf](video_detection/Tubelets/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf),
+	[notes](video_detection/Notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf))
 
 ##  Multi Object Tracking
 - **Learning to Track: Online Multi-object Tracking by Decision Making** (ICCV 2015) (Stanford) ([pdf](multi_object_tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
 [github (Matlab)](https://github.com/yuxng/MDP_Tracking),
 [project page](https://yuxng.github.io/),
 [notes](multi_object_tracking/Notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
-
 - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies** (arxiv April 2017) (Stanford) ([pdf](multi_object_tracking/Deep%20Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
 [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
 [notes](multi_object_tracking/Notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
-
 - **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor** (ICCV 2015) (NEC Labs) ([pdf](multi_object_tracking/Multi%20Target/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf),
 [author page](http://www-personal.umich.edu/~wgchoi/),
-[notes](multi_object_tracking/Notes/NOMT.pdf))
-  
+[notes](multi_object_tracking/Notes/NOMT.pdf))  
 - **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects** (highest MT on MOT2015) (University of Freiburg, Germany) ([pdf](multi_object_tracking/Batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf),
 [arxiv](https://arxiv.org/abs/1607.06317),
 [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html),
@@ -70,7 +62,7 @@ Collection of papers and other resources for object detection and tracking using
 [arxiv](https://arxiv.org/abs/1705.10561))
 
 ## Other potentially useful papers
-- **Deep Feature Flow for Video Recognition** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Kaiming%20He%2C%20Mask%20R-CNN%2C%202017.pdf), [arxiv](https://arxiv.org/abs/1611.07715), [github](https://github.com/msracver/Deep-Feature-Flow)) by Microsoft Research
+- **Deep Feature Flow for Video Recognition** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Kaiming%20He%2C%20Mask%20R-CNN%2C%202017.pdf), [arxiv](https://arxiv.org/abs/1611.07715), [github](https://github.com/msracver/Deep-Feature-Flow)) [Microsoft Research]
 
 ## Datasets
 - [IDOT dataset](https://www.cs.uic.edu/Bits/YanziJin)
