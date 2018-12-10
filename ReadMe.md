@@ -2,30 +2,16 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Static Detection
 - RCNN
-    - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**(
-	[notes](static_detection/Notes/Faster_R-CNN.pdf)
-	)
-    - **Mask R-CNN** (
-	[pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf),
+    - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**([notes](static_detection/Notes/Faster_R-CNN.pdf))
+    - **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf),
 	[arxiv](https://arxiv.org/abs/1703.06870),
-	[github](https://github.com/CharlesShang/FastMaskRCNN)
-	) [Facebook AI Research]
-
+	[github](https://github.com/CharlesShang/FastMaskRCNN)) [Facebook AI Research]
 - SSD
-    - **SSD Single Shot MultiBox Detector eccv16_ax16_12**(
-	[notes](static_detection/Notes/SSD.pdf)
-	)
-    - **DSSD  Deconvolutional Single Shot Detector ax1701.06659**(
-	[notes](static_detection/Notes/DSSD.pdf)
-	)
+    - **SSD Single Shot MultiBox Detector eccv16_ax16_12**([notes](static_detection/Notes/SSD.pdf))
+    - **DSSD  Deconvolutional Single Shot Detector ax1701.06659**([notes](static_detection/Notes/DSSD.pdf))
 - RetinaNet
-    - **Feature Pyramid Networks for Object Detection ax170419**(
-	[notes](static_detection/Notes/FPN.pdf)
-	)
-    - **Focal Loss for Dense Object Detection ax180207**(
-	[notes](static_detection/Notes/focal_loss.pdf)
-	)
-	  	  
+    - **Feature Pyramid Networks for Object Detection ax170419**([notes](static_detection/Notes/FPN.pdf))
+    - **Focal Loss for Dense Object Detection ax180207**([notes](static_detection/Notes/focal_loss.pdf))	  	  
 - Tensorflow object detection API: https://github.com/tensorflow/models/tree/master/object_detection. Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
 
 ## Video Detection
