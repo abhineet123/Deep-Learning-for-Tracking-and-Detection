@@ -4,27 +4,27 @@ Collection of papers and other resources for object detection and tracking using
 - RCNN
     - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**
 	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Detection/Notes/Faster_R-CNN.pdf)
-    - **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1703.06870), [github](https://github.com/CharlesShang/FastMaskRCNN)) by Facebook AI Research!
+    - **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1703.06870), [github](https://github.com/CharlesShang/FastMaskRCNN)) [Facebook AI Research]
 
 - SSD
     - **SSD Single Shot MultiBox Detector eccv16_ax16_12**
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Detection/Notes/SSD.pdf)
+	  * [Notes](Detection/Notes/SSD.pdf)
     - **DSSD  Deconvolutional Single Shot Detector ax1701.06659**
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Detection/Notes/DSSD.pdf)
+	  * [Notes](Detection/Notes/DSSD.pdf)
 - RetinaNet
     - **Feature Pyramid Networks for Object Detection ax170419**
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Detection/Notes/SSD.pdf)
+	  * [Notes](Detection/Notes/FPN.pdf)
     - **Focal Loss for Dense Object Detection ax180207**
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Detection/Notes/DSSD.pdf)
+	  * [Notes](Detection/Notes/focal_loss.pdf)
 	  	  
 - Tensorflow object detection API: https://github.com/tensorflow/models/tree/master/object_detection. Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
 ## Object Tracking
 - Multi Object Tracking
 	- **Learning to Track: Online Multi-object Tracking by Decision Making** (ICCV 2015) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf), [github (Matlab)](https://github.com/yuxng/MDP_Tracking), [project page](https://yuxng.github.io/))
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf)
+	  * [Notes](Multi Object Tracking/Notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf)
 
 	- **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies** (arxiv April 2017) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Deep%20Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/))
-	  * [Notes](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
+	  * [Notes](Multi Object Tracking/Notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
 
 	- **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor** (ICCV 2015) (NEC Labs) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Multi%20Target/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf), [author page](http://www-personal.umich.edu/~wgchoi/))
 	  * [Notes](Multi Object Tracking/Notes/NOMT.pdf)
