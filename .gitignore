@@ -23,6 +23,7 @@
 !static_detection/Vehicle
 !video_detection/
 !video_detection/Action
+!video_detection/Notes
 !multi_object_tracking/
 !multi_object_tracking/Tracklet
 !multi_object_tracking/DL
