@@ -1,6 +1,7 @@
 */
 !Detection/
-!Tracking
+!Multi Object Tracking/
+!Single Object Tracking/
 !Deep RL/
 !Readings/
 *.bat
