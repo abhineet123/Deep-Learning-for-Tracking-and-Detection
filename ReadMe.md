@@ -101,6 +101,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
 - Static Object Detection and Matching
 	- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection): Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
+	- [Detectron](https://github.com/facebookresearch/Detectron)
 	- [Matchnet](https://github.com/hanxf/matchnet)
 	- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 	- [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
