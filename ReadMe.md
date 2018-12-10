@@ -3,7 +3,7 @@ Collection of papers and other resources for object detection and tracking using
 ## Static Detection
 - RCNN
     - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17** ([notes](static_detection/Notes/Faster_R-CNN.pdf))
-    - **Mask R-CNN** ([pdf](static_detection/Mask%20R-CNN%20ax17_4.pdf),
+    - **Mask R-CNN** ([pdf](static_detection/RCNN/Mask%20R-CNN%20ax17_4.pdf),
 	[arxiv](https://arxiv.org/abs/1703.06870),
 	[github](https://github.com/CharlesShang/FastMaskRCNN)) [Facebook AI Research]
 - SSD
