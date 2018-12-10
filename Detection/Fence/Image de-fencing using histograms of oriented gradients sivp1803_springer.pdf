@@ -7251,3 +7251,260 @@ trailer
 startxref
 116
 %%EOF
+1078 0 obj
+<<
+/Dest (subsection.3.2)
+/C [0 0 0]
+/Parent 1067 0 R
+/Prev 1068 0 R
+/F 0
+/dcr_uid (3342864894406964171)
+/Next 1077 0 R
+/Title (þÿ 3 . 2   R e s u l t s   a n d   d i s c u s s i o n)
+/Count 0
+>>
+endobj
+1072 0 obj
+<<
+/Dest (subsection.2.5)
+/C [0 0 0]
+/Parent 1070 0 R
+/Prev 1074 0 R
+/F 0
+/dcr_uid (9054059913528789754)
+/Title (þÿ 2 . 5   R e s t o r a t i o n)
+/Count 0
+>>
+endobj
+1066 0 obj
+<<
+/Dest (section.4)
+/C [0 0 0]
+/Parent 1063 0 R
+/Prev 1067 0 R
+/F 0
+/dcr_uid (2631290064052979079)
+/Next 1065 0 R
+/Title (þÿ 4   C o n c l u s i o n   a n d   f u t u r e   w o r k)
+/Count 0
+>>
+endobj
+1074 0 obj
+<<
+/Dest (subsection.2.4)
+/C [0 0 0]
+/Parent 1070 0 R
+/Prev 1075 0 R
+/F 0
+/dcr_uid (8202245186000473138)
+/Next 1072 0 R
+/Title (þÿ 2 . 4   P o s t p r o c e s s i n g)
+/Count 0
+>>
+endobj
+1069 0 obj
+<<
+/Dest (subsection.3.4)
+/C [0 0 0]
+/Parent 1067 0 R
+/Prev 1077 0 R
+/F 0
+/dcr_uid (2441618265760534154)
+/Title (þÿ 3 . 4   C o m p a r i s o n   w i t h   s t a t e - o f - t h e - a r t   t e c h n i q u e s)
+/Count 0
+>>
+endobj
+1065 0 obj
+<<
+/Dest (myseccnt.1)
+/C [0 0 0]
+/Parent 1063 0 R
+/Prev 1066 0 R
+/F 0
+/dcr_uid (8729540310490819777)
+/Title (þÿ R e f e r e n c e s)
+/Count 0
+>>
+endobj
+1073 0 obj
+<<
+/Dest (section.1)
+/C [0 0 0]
+/Parent 1063 0 R
+/Prev 1064 0 R
+/F 0
+/dcr_uid (5437294929181563445)
+/Next 1070 0 R
+/Title (þÿ 1   I n t r o d u c t i o n)
+/Count 0
+>>
+endobj
+1070 0 obj
+<<
+/Dest (section.2)
+/Last 1072 0 R
+/C [0 0 0]
+/Parent 1063 0 R
+/Prev 1073 0 R
+/F 0
+/dcr_uid (3991644942258359161)
+/Next 1067 0 R
+/Title (þÿ 2   T h e   a p p r o a c h)
+/Count -5
+/First 1071 0 R
+>>
+endobj
+1076 0 obj
+<<
+/Dest (subsection.2.2)
+/C [0 0 0]
+/Parent 1070 0 R
+/Prev 1071 0 R
+/F 0
+/dcr_uid (7001436295400630195)
+/Next 1075 0 R
+/Title (þÿ 2 . 2   T r a i n i n g / l e a r n i n g)
+/Count 0
+>>
+endobj
+1063 0 obj
+<<
+/Dest (Doc-Start)
+/Last 1065 0 R
+/C [0 0 0]
+/Parent 1062 0 R
+/F 0
+/dcr_uid (1871522264653259267)
+/Title (þÿ I m a g e   d e - f e n c i n g   u s i n g   h i s t o g r a m s   o f   o r i e n t e d   g r a d i e n t s)
+/Count -6
+/First 1064 0 R
+>>
+endobj
+1071 0 obj
+<<
+/Dest (subsection.2.1)
+/C [0 0 0]
+/Parent 1070 0 R
+/F 0
+/dcr_uid (6633546452957928568)
+/Next 1076 0 R
+/Title (þÿ 2 . 1   T h e   f e a t u r e   s e t)
+/Count 0
+>>
+endobj
+1077 0 obj
+<<
+/Dest (subsection.3.3)
+/C [0 0 0]
+/Parent 1067 0 R
+/Prev 1078 0 R
+/F 0
+/dcr_uid (6323000542732489534)
+/Next 1069 0 R
+/Title (þÿ 3 . 3   Q u a n t i t a t i v e   a n a l y s i s)
+/Count 0
+>>
+endobj
+1075 0 obj
+<<
+/Dest (subsection.2.3)
+/C [0 0 0]
+/Parent 1070 0 R
+/Prev 1076 0 R
+/F 0
+/dcr_uid (132600150029156156)
+/Next 1074 0 R
+/Title (þÿ 2 . 3   F e n c e   d e t e c t i o n)
+/Count 0
+>>
+endobj
+307 0 obj
+<<
+/CreationDate (D:20180312151633+05'30')
+/Keywords (Image de-fencing,Histograms of oriented gradients,Supervised learning and classification,Object detection,Image inpainting,Fence removal)
+/Title (Image de-fencing using histograms of oriented gradients)
+/Creator (Springer)
+/Subject (Signal, Image and Video Processing, https://doi.org/10.1007/s11760-018-1266-0)
+/CrossMarkDomains#5B1#5D (springer.com)
+/CrossMarkDomains#5B2#5D (springerlink.com)
+/Producer (Acrobat Distiller 10.1.8 \(Windows\))
+/Author (Madiha Khalid )
+/CrossmarkDomainExclusive (true)
+/ModDate (D:20181022134653-06'00')
+/robots (noindex)
+/CrossmarkMajorVersionDate (2010-04-23)
+/doi (10.1007/s11760-018-1266-0)
+>>
+endobj
+1064 0 obj
+<<
+/Dest (abscnt.1)
+/C [0 0 0]
+/Parent 1063 0 R
+/F 0
+/dcr_uid (8462953305767077569)
+/Next 1073 0 R
+/Title (þÿ A b s t r a c t)
+/Count 0
+>>
+endobj
+1067 0 obj
+<<
+/Dest (section.3)
+/Last 1069 0 R
+/C [0 0 0]
+/Parent 1063 0 R
+/Prev 1070 0 R
+/F 0
+/dcr_uid (5869826393121335993)
+/Next 1066 0 R
+/Title (þÿ 3   E v a l u a t i o n)
+/Count -4
+/First 1068 0 R
+>>
+endobj
+1068 0 obj
+<<
+/Dest (subsection.3.1)
+/C [0 0 0]
+/Parent 1067 0 R
+/F 0
+/dcr_uid (3389652203336908197)
+/Next 1078 0 R
+/Title (þÿ 3 . 1   D a t a s e t)
+/Count 0
+>>
+endobj
+xref
+0 1
+0000000000 65535 f
+307 1
+0001639562 00000 n
+1063 16
+0001638646 00000 n
+0001640283 00000 n
+0001637824 00000 n
+0001637134 00000 n
+0001640452 00000 n
+0001640680 00000 n
+0001637571 00000 n
+0001638197 00000 n
+0001638928 00000 n
+0001636945 00000 n
+0001637999 00000 n
+0001637360 00000 n
+0001639350 00000 n
+0001638429 00000 n
+0001639125 00000 n
+0001636718 00000 n
+trailer
+<<
+/ID [<540614FBECC26D908EC6CCD27E44703E> (+®?Ró\)—ÿÉ{• p)]
+/Root 309 0 R
+/Info 307 0 R
+/Prev 116
+/Size 1080
+>>
+startxref
+1640861
+%%EOF

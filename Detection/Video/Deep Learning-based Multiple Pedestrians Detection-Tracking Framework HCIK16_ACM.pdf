@@ -5028,3 +5028,323 @@ trailer
 startxref
 1059548
 %%EOF
+1192 0 obj
+<<
+/A 1216 0 R
+/Parent 1186 0 R
+/Prev 1188 0 R
+/dcr_uid (7695261667016108174)
+/Next 1214 0 R
+/Title (Fast Kernel Regression)
+>>
+endobj
+1186 0 obj
+<<
+/A 1187 0 R
+/Last 1189 0 R
+/Parent 11 0 R
+/Prev 1190 0 R
+/dcr_uid (5261708833584387855)
+/Next 1182 0 R
+/Title (Kernelized correlation filter with kalman filter: KK Tracker)
+/Count 5
+/First 1188 0 R
+>>
+endobj
+1202 0 obj
+<<
+/A 1211 0 R
+/Parent 1190 0 R
+/Prev 1200 0 R
+/dcr_uid (4144732368808417002)
+/Next 1197 0 R
+/Title (Multi-task loss)
+>>
+endobj
+1200 0 obj
+<<
+/A 1212 0 R
+/Parent 1190 0 R
+/Prev 1196 0 R
+/dcr_uid (6488856242120175733)
+/Next 1202 0 R
+/Title (Initializing from pre-trained networks)
+>>
+endobj
+1188 0 obj
+<<
+/A 1191 0 R
+/Parent 1186 0 R
+/dcr_uid (1228798141721053259)
+/Next 1192 0 R
+/Title (Kernelized Correlation Filter)
+>>
+endobj
+1182 0 obj
+<<
+/A 1185 0 R
+/Parent 11 0 R
+/Prev 1186 0 R
+/dcr_uid (3055366618858599683)
+/Next 1178 0 R
+/Title (The proposed framework)
+>>
+endobj
+1198 0 obj
+<<
+/A 1203 0 R
+/Parent 11 0 R
+/Prev 1204 0 R
+/dcr_uid (3980043862819343268)
+/Next 1190 0 R
+/Title (selective search for object localisation)
+>>
+endobj
+1176 0 obj
+<<
+/A 1177 0 R
+/Parent 11 0 R
+/Prev 1178 0 R
+/dcr_uid (3584254138372941549)
+/Next 1174 0 R
+/Title (conclusion and future work)
+>>
+endobj
+1197 0 obj
+<<
+/A 1201 0 R
+/Parent 1190 0 R
+/Prev 1202 0 R
+/dcr_uid (8177473391436915346)
+/Title (Fast R-CNN detection)
+>>
+endobj
+1207 0 obj
+<<
+/A 1209 0 R
+/Parent 1172 0 R
+/dcr_uid (1428459313278989138)
+/Next 1208 0 R
+/Title (Author Keywords)
+>>
+endobj
+1169 0 obj
+<<
+/A 1171 0 R
+/Parent 11 0 R
+/dcr_uid (8651521537648679940)
+/Next 1172 0 R
+/Title (Deep Learning-based Multiple Pedestrians Detection-Tracking Framework)
+>>
+endobj
+1170 0 obj
+<<
+/A 1173 0 R
+/Parent 11 0 R
+/Prev 1174 0 R
+/dcr_uid (4797341869599185716)
+/Title (References)
+>>
+endobj
+1178 0 obj
+<<
+/A 1179 0 R
+/Last 1181 0 R
+/Parent 11 0 R
+/Prev 1182 0 R
+/dcr_uid (88835342988327336)
+/Next 1176 0 R
+/Title (experiments)
+/Count 2
+/First 1180 0 R
+>>
+endobj
+1208 0 obj
+<<
+/A 1210 0 R
+/Parent 1172 0 R
+/Prev 1207 0 R
+/dcr_uid (7026126069132803701)
+/Title (ACM Classification Keywords)
+>>
+endobj
+1194 0 obj
+<<
+/A 1213 0 R
+/Parent 1186 0 R
+/Prev 1214 0 R
+/dcr_uid (8268054844039760396)
+/Next 1189 0 R
+/Title (Kalman Filter)
+>>
+endobj
+1181 0 obj
+<<
+/A 1184 0 R
+/Parent 1178 0 R
+/Prev 1180 0 R
+/dcr_uid (7786103580681521776)
+/Title (Evaluation)
+>>
+endobj
+1172 0 obj
+<<
+/A 1206 0 R
+/Last 1208 0 R
+/Parent 11 0 R
+/Prev 1169 0 R
+/dcr_uid (1290127397550046270)
+/Next 1204 0 R
+/Title (ABSTRACT)
+/Count 2
+/First 1207 0 R
+>>
+endobj
+1180 0 obj
+<<
+/A 1183 0 R
+/Parent 1178 0 R
+/dcr_uid (1682675983550276561)
+/Next 1181 0 R
+/Title (Implementation Details)
+>>
+endobj
+11 0 obj
+<<
+/A 1168 0 R
+/Last 1170 0 R
+/Parent 6 0 R
+/dcr_uid (5205446044375824072)
+/Title (PR_009)
+/Count 24
+/First 1169 0 R
+>>
+endobj
+1196 0 obj
+<<
+/A 1199 0 R
+/Parent 1190 0 R
+/dcr_uid (4580715731418217304)
+/Next 1200 0 R
+/Title (The RoI pooling layer)
+>>
+endobj
+1204 0 obj
+<<
+/A 1205 0 R
+/Parent 11 0 R
+/Prev 1172 0 R
+/dcr_uid (5239735058137561596)
+/Next 1198 0 R
+/Title (INTRODUCTION)
+>>
+endobj
+1189 0 obj
+<<
+/A 1193 0 R
+/Parent 1186 0 R
+/Prev 1194 0 R
+/dcr_uid (8352755491888009854)
+/Title (Our tracker: KK Tracker)
+>>
+endobj
+4 0 obj
+<<
+/CreationDate (D:20160128183025+09'00')
+/Producer (Adobe Acrobat Pro DC 15.10.20056)
+/Author (SIGCHI)
+/Creator (Adobe Acrobat Pro DC 15.10.20056)
+/ModDate (D:20181022134721-06'00')
+>>
+endobj
+1174 0 obj
+<<
+/A 1175 0 R
+/Parent 11 0 R
+/Prev 1176 0 R
+/dcr_uid (2596638469853027857)
+/Next 1170 0 R
+/Title (ACKNOWLEDGMENTS)
+>>
+endobj
+1190 0 obj
+<<
+/A 1195 0 R
+/Last 1197 0 R
+/Parent 11 0 R
+/Prev 1198 0 R
+/dcr_uid (3256589237688324755)
+/Next 1186 0 R
+/Title (Fast region-based convolutional network)
+/Count 4
+/First 1196 0 R
+>>
+endobj
+1214 0 obj
+<<
+/A 1215 0 R
+/Parent 1186 0 R
+/Prev 1192 0 R
+/dcr_uid (3320464953103921782)
+/Next 1194 0 R
+/Title (Fast Detection)
+>>
+endobj
+xref
+0 1
+0000000000 65535 f
+4 1
+0001087472 00000 n
+11 1
+0001086901 00000 n
+1169 2
+0001085663 00000 n
+0001085848 00000 n
+1172 1
+0001086578 00000 n
+1174 1
+0001087683 00000 n
+1176 1
+0001085234 00000 n
+1178 1
+0001085974 00000 n
+1180 3
+0001086761 00000 n
+0001086450 00000 n
+0001084908 00000 n
+1186 1
+0001084205 00000 n
+1188 3
+0001084761 00000 n
+0001087331 00000 n
+0001087830 00000 n
+1192 1
+0001084049 00000 n
+1194 1
+0001086303 00000 n
+1196 3
+0001087048 00000 n
+0001085392 00000 n
+0001085062 00000 n
+1200 1
+0001084589 00000 n
+1202 1
+0001084440 00000 n
+1204 1
+0001087187 00000 n
+1207 2
+0001085530 00000 n
+0001086158 00000 n
+1214 1
+0001088044 00000 n
+trailer
+<<
+/ID [<DCC014A64693F044AD605F1E79041B70> (xUOtê­éµý\t¹øÎ‚®)]
+/Root 1 0 R
+/Info 4 0 R
+/Prev 1059548
+/Size 1217
+>>
+startxref
+1088192
+%%EOF

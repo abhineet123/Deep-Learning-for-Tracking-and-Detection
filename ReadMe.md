@@ -93,6 +93,10 @@ Collection of papers and other resources for object detection and tracking using
 	- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
 	- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
 	- [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
+	- [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn)[cvpr18][TensorFlow]
+	- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes)[icme18][Caffe/Python]
+	- [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning)[NCA18][TensorFlow]
+	- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection)[cvpr18][MXNet]
 - Video Object Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
 	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[Python]

@@ -42808,3 +42808,69 @@ trailer
 startxref
 1639415
 %%EOF
+17 0 obj
+<<
+/A <<
+/S /GoTo
+/D [10 0 R /XYZ 0 640.503662 null]
+>>
+/Parent 4 0 R
+/Prev 6 0 R
+/dcr_uid (3342893100277062909)
+/Next 7 0 R
+/Title (3. Method Description)
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /GoTo
+/D [8 0 R /XYZ 0 729.483765 null]
+>>
+/Parent 4 0 R
+/dcr_uid (7373413521454159055)
+/Next 17 0 R
+/Title (Abstract)
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /GoTo
+/D [13 0 R /XYZ 0 478.26828 null]
+>>
+/Parent 4 0 R
+/Prev 17 0 R
+/dcr_uid (6625771686013471724)
+/Title (4. Experiments)
+>>
+endobj
+1 0 obj
+<<
+/Producer (PyPDF2)
+/Author (Bichen Wu, Forrest Iandola, Peter H. Jin, Kurt Keutzer)
+/Title (SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving)
+/ModDate (D:20181022134654-06'00')
+/Subject (2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0001656594 00000 n
+6 2
+0001656266 00000 n
+0001656427 00000 n
+17 1
+0001656078 00000 n
+trailer
+<<
+/ID [(†\nw¸tâ”BlÊñæÞÌâ) (†\nw¸tâ”BlÊñæÞÌâ)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 1639415
+/Size 829
+>>
+startxref
+1656965
+%%EOF
