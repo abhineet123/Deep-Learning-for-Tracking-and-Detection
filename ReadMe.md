@@ -21,10 +21,9 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Video Detection
 - Tubelet
-    - **Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16**
-	  * [Notes](video_detection/Notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf)
-    - **Object Detection in Videos with Tubelet Proposal Networks ax1704 cvpr17**
-	  * [Notes](video_detection/Notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf)
+    - **Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16** ([pdf](video_detection/Tubelets/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf), [notes](video_detection/Notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf)
+	
+    - **Object Detection in Videos with Tubelet Proposal Networks ax1704 cvpr17**([pdf](video_detection/Tubelets/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf), [notes](video_detection/Notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf)
 
 ##  Multi Object Tracking
 - **Learning to Track: Online Multi-object Tracking by Decision Making** (ICCV 2015) (Stanford) ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf), [github (Matlab)](https://github.com/yuxng/MDP_Tracking), [project page](https://yuxng.github.io/))
