@@ -1,5 +1,27 @@
 */
 !Detection/
+!Detection/YOLO
+!Detection/Action
+!Detection/Animal
+!Detection/Background Subtraction
+!Detection/Boundary
+!Detection/Classic
+!Detection/Fence
+!Detection/Hard Negative Mining
+!Detection/Human
+!Detection/Mobile
+!Detection/Notes
+!Detection/RCNN
+!Detection/Region Proposal
+!Detection/RetinaNet
+!Detection/Review
+!Detection/RNN
+!Detection/Road
+!Detection/Sensor Fusion
+!Detection/Single Stage
+!Detection/SSD
+!Detection/Vehicle
+!Detection/Video
 !Multi Object Tracking/
 !Multi Object Tracking/Tracklet
 !Multi Object Tracking/DL
@@ -13,6 +35,28 @@
 !Multi Object Tracking/Segmentation
 !Multi Object Tracking/Survey
 !Single Object Tracking/
+!Single Object Tracking/Unsupervised
+!Single Object Tracking/3D
+!Single Object Tracking/Adversarial
+!Single Object Tracking/Attention
+!Single Object Tracking/Batch
+!Single Object Tracking/Camera
+!Single Object Tracking/Correlation
+!Single Object Tracking/DL
+!Single Object Tracking/Fusion
+!Single Object Tracking/Gaze
+!Single Object Tracking/Misc
+!Single Object Tracking/Motion
+!Single Object Tracking/Notes
+!Single Object Tracking/PF
+!Single Object Tracking/Registration
+!Single Object Tracking/RGB-D
+!Single Object Tracking/RL
+!Single Object Tracking/RNN
+!Single Object Tracking/Segmentation
+!Single Object Tracking/Siamese
+!Single Object Tracking/Trajectory
+!Single Object Tracking/Unsorted
 !Deep RL/
 !Readings/
 *.bat

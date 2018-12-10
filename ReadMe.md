@@ -110,7 +110,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
 	- [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
 	- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
-	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling
+	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
 	- [Multiscale Combinatorial Grouping - Object Proposals and Segmentation
 ](https://github.com/jponttuset/mcg) [tpami16/cvpr14] [matlab]
 - Video Object Detection
