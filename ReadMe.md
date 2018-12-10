@@ -1,8 +1,11 @@
 Collection of papers and other resources for object detection and tracking using deep learning
 
 ## Object Detection
-- **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1703.06870), [github](https://github.com/CharlesShang/FastMaskRCNN)) by Facebook AI Research!
-  * Summary goes here...
+- RCNN
+    - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**
+	  * [Summary](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Tracking/Summary/Faster_R-CNN.pdf)
+    - **Mask R-CNN** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Mask%20R-CNN%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1703.06870), [github](https://github.com/CharlesShang/FastMaskRCNN)) by Facebook AI Research!
+	  * Summary goes here...
 - Tensorflow object detection API: https://github.com/tensorflow/models/tree/master/object_detection. Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
 ## Object Tracking
 - Multi Object Tracking
@@ -97,6 +100,8 @@ Collection of papers and other resources for object detection and tracking using
 	- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes)[icme18][Caffe/Python]
 	- [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning)[NCA18][TensorFlow]
 	- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection)[cvpr18][MXNet]
+	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling
+](https://github.com/lachlants/denet)[iccv17][Theano]
 - Video Object Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
 	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[Python]
