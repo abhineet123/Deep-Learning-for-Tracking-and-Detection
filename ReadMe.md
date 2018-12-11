@@ -45,6 +45,13 @@ Collection of papers and other resources for object detection and tracking using
     - **Towards High Performance Video Object Detection ax171130 microsoft**
 	([pdf](video_detection/FGFA/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf),
 	[notes](video_detection/Notes/Towards High Performance Video Object Detection ax171130 microsoft.pdf))
+- RNN
+    - **Online Video Object Detection using Association LSTM iccv17**
+	([pdf](video_detection/RNN/Online%20Video%20Object%20Detection%20using%20Association%20LSTM%20iccv17.pdf),
+	[notes](video_detection/Notes/Online%20Video%20Object%20Detection%20using%20Association%20LSTM%20iccv17.pdf))
+    - **Context Matters Reﬁning Object Detection in Video with Recurrent Neural Networks bmvc16**
+	([pdf](video_detection/RNN/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf),
+	[notes](video_detection/Notes/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf))
 
 
 ##  Multi Object Tracking
