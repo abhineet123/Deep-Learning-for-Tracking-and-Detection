@@ -20,8 +20,8 @@ Collection of papers and other resources for object detection and tracking using
 	[Facebook AI Research]
 - YOLO
     - **You Only Look Once Unified, Real-Time Object Detection ax1605**
-	([pdf](static_detection/YOLO/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf.pdf),
-	[notes](static_detection/Notes/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf.pdf))
+	([pdf](static_detection/YOLO/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf),
+	[notes](static_detection/Notes/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf))
     - **YOLO9000 Better, Faster, Stronger ax16_12**
 	([pdf](static_detection/YOLO/YOLO9000%20Better,%20Faster,%20Stronger%20ax16_12.pdf),
 	[notes](static_detection/Notes/YOLO9000%20Better,%20Faster,%20Stronger%20ax16_12.pdf))
