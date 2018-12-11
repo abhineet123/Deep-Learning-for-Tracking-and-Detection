@@ -166,7 +166,10 @@ Collection of papers and other resources for object detection and tracking using
 	- [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO)[Tensor flow]
 	- [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016)](https://github.com/martin-danelljan/Continuous-ConvOp)[MATLAB]
 	- [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
-	- [End-to-end representation learning for Correlation Filter based tracking (CVPR 21017)](https://github.com/bertinetto/cfnet)[MATLAB]
+	- [End-to-end representation learning for Correlation Filter based tracking (CVPR 2017)](https://github.com/bertinetto/cfnet)[MATLAB]
+	- [Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
+	- [Simple Online Realtime Tracking with a Deep Association Metric
+ (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
 	- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
 - Static Object Detection and Matching
 	- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
