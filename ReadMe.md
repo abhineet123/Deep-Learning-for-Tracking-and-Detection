@@ -41,7 +41,14 @@ Collection of papers and other resources for object detection and tracking using
 	[notes](static_detection/Notes/FPN.pdf))
     - **Focal Loss for Dense Object Detection ax180207**
 	([pdf](static_detection/RetinaNet/Focal%20Loss%20for%20Dense%20Object%20Detection%20ax180207%20iccv17.pdf),
-	[notes](static_detection/Notes/focal_loss.pdf))
+	[notes](static_detection/Notes/focal_loss.pdf))	
+- Misc
+    - **OverFeat Integrated Recognition, Localization and Detection using Convolutional Networks ax1402 iclr14**
+	([pdf](static_detection/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf),
+	[notes](static_detection/Notes/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf))
+    - **LSDA Large scale detection through adaptation nips14 ax14_11**
+	([pdf](static_detection/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf),
+	[notes](static_detection/Notes/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf))
 	
 ## Video Detection
 - Tubelet
