@@ -1,6 +1,14 @@
 Collection of papers and other resources for object detection and tracking using deep learning
 
 ## Static Detection
+
+- Region Proposal
+    - **Scalable Object Detection Using Deep Neural Networks cvpr14**
+	([pdf](static_detection/Region%20Proposal/Scalable%20Object%20Detection%20Using%20Deep%20Neural%20Networks%20cvpr14.pdf),
+	[notes](static_detection/Notes/Scalable%20Object%20Detection%20Using%20Deep%20Neural%20Networks%20cvpr14.pdf))
+    - **Selective Search for Object Recognition ijcv2013**
+	([pdf](static_detection/Region%20Proposal/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf),
+	[notes](static_detection/Notes/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf))
 - RCNN
     - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**
 	([pdf](static_detection/RCNN/Faster%20R-CNN%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks%20tpami17%20ax16_1.pdf),
@@ -10,6 +18,16 @@ Collection of papers and other resources for object detection and tracking using
 	[arxiv](https://arxiv.org/abs/1703.06870),
 	[github](https://github.com/CharlesShang/FastMaskRCNN))
 	[Facebook AI Research]
+- YOLO
+    - **You Only Look Once Unified, Real-Time Object Detection ax1605**
+	([pdf](static_detection/YOLO/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf.pdf),
+	[notes](static_detection/Notes/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf.pdf))
+    - **YOLO9000 Better, Faster, Stronger ax16_12**
+	([pdf](static_detection/YOLO/YOLO9000%20Better,%20Faster,%20Stronger%20ax16_12.pdf),
+	[notes](static_detection/Notes/YOLO9000%20Better,%20Faster,%20Stronger%20ax16_12.pdf))
+    - **YOLOv3 An Incremental Improvement ax180408**
+	([pdf](static_detection/YOLO/YOLOv3%20An%20Incremental%20Improvement%20ax180408.pdf),
+	[notes](static_detection/Notes/YOLOv3%20An%20Incremental%20Improvement%20ax180408.pdf))
 - SSD
     - **SSD Single Shot MultiBox Detector eccv16_ax16_12**
 	([pdf](static_detection/SSD/SSD%20Single%20Shot%20MultiBox%20Detector%20eccv16_ax16_12.pdf),
@@ -52,6 +70,7 @@ Collection of papers and other resources for object detection and tracking using
     - **Context Matters Reﬁning Object Detection in Video with Recurrent Neural Networks bmvc16**
 	([pdf](video_detection/RNN/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf),
 	[notes](video_detection/Notes/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf))
+
 
 
 ##  Multi Object Tracking
