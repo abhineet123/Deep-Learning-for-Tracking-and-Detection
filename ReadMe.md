@@ -187,8 +187,8 @@ Collection of papers and other resources for object detection and tracking using
 	- [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
 	- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
 	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
-	- [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg) [tpami16/cvpr14] [python] [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
-	- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB) [tpami18/eccv16] [matlab/caffe] [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)
+	- [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
+	- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
 	- [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
 
 - Video Object Detection
