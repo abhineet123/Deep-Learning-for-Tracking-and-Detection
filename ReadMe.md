@@ -185,7 +185,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
 	- [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
 
-- Static Object Detection and Matching
+- Static Detection and Matching
 	- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
 	  * Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
 	- [Detectron](https://github.com/facebookresearch/Detectron)
@@ -206,7 +206,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
 	- [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
 
-- Video Object Detection
+- Video Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
 	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[Python]
 	- [Flow-Guided Feature Aggregation for Video Object Detection (NIPS 2016 / ICCV 2017)](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[Python/CUDA]
