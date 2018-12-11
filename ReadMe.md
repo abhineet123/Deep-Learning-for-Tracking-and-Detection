@@ -16,7 +16,7 @@ Collection of papers and other resources for object detection and tracking using
     - **Mask R-CNN**
 	([pdf](static_detection/RCNN/Mask%20R-CNN%20ax17_4.pdf),
 	[arxiv](https://arxiv.org/abs/1703.06870),
-	[code (keras)](https://github.com/matterport/Mask_RCNN))
+	[code (keras)](https://github.com/matterport/Mask_RCNN),
 	[code (tensorflow)](https://github.com/CharlesShang/FastMaskRCNN))
 	[Facebook AI Research]
 - YOLO
@@ -204,7 +204,8 @@ Collection of papers and other resources for object detection and tracking using
 	- [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 	- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
 	- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
-	- [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
+	- [Mask R-CNN](https://github.com/CharlesShang/FastMaskRCNN) [TensorFlow]
+	- [Mask R-CNN](https://github.com/matterport/Mask_RCNN) [keras]
 	- [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]
 	- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
 	- [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
@@ -213,7 +214,6 @@ Collection of papers and other resources for object detection and tracking using
 	- [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
 	- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
 	- [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
-	- [Mask R-CNN](https://github.com/matterport/Mask_RCNN) [keras]
 
 - Video Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
