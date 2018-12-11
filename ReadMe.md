@@ -2,53 +2,95 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Static Detection
 - RCNN
-    - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17** ([notes](static_detection/Notes/Faster_R-CNN.pdf))
-    - **Mask R-CNN** ([pdf](static_detection/RCNN/Mask%20R-CNN%20ax17_4.pdf),
+    - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**
+	([pdf](static_detection/RCNN/Faster%20R-CNN%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks%20tpami17%20ax16_1.pdf),
+	[notes](static_detection/Notes/Faster_R-CNN.pdf))
+    - **Mask R-CNN**
+	([pdf](static_detection/RCNN/Mask%20R-CNN%20ax17_4.pdf),
 	[arxiv](https://arxiv.org/abs/1703.06870),
-	[github](https://github.com/CharlesShang/FastMaskRCNN)) [Facebook AI Research]
+	[github](https://github.com/CharlesShang/FastMaskRCNN))
+	[Facebook AI Research]
 - SSD
-    - **SSD Single Shot MultiBox Detector eccv16_ax16_12** ([pdf](static_detection/SSD/SSD%20Single%20Shot%20MultiBox%20Detector%20eccv16_ax16_12.pdf),
+    - **SSD Single Shot MultiBox Detector eccv16_ax16_12**
+	([pdf](static_detection/SSD/SSD%20Single%20Shot%20MultiBox%20Detector%20eccv16_ax16_12.pdf),
 	[notes](static_detection/Notes/SSD.pdf))
-    - **DSSD  Deconvolutional Single Shot Detector ax1701.06659** ([notes](static_detection/Notes/DSSD.pdf))
+    - **DSSD  Deconvolutional Single Shot Detector ax1701.06659**
+	([pdf](static_detection/SSD/DSSD%20Deconvolutional%20Single%20Shot%20Detector%20ax1701.06659.pdf),
+	[notes](static_detection/Notes/DSSD.pdf))
 - RetinaNet
-    - **Feature Pyramid Networks for Object Detection ax170419** ([notes](static_detection/Notes/FPN.pdf))
-    - **Focal Loss for Dense Object Detection ax180207** ([notes](static_detection/Notes/focal_loss.pdf))	  	  
-
+    - **Feature Pyramid Networks for Object Detection ax170419**
+	([pdf](static_detection/RetinaNet/Feature%20Pyramid%20Networks%20for%20Object%20Detection%20ax170419.pdf),
+	[notes](static_detection/Notes/FPN.pdf))
+    - **Focal Loss for Dense Object Detection ax180207**
+	([pdf](static_detection/RetinaNet/Focal%20Loss%20for%20Dense%20Object%20Detection%20ax180207%20iccv17.pdf),
+	[notes](static_detection/Notes/focal_loss.pdf))
+	
 ## Video Detection
 - Tubelet
-    - **Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16** ([pdf](video_detection/Tubelets/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf),
+    - **Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16**
+	([pdf](video_detection/Tubelets/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf),
 	[notes](video_detection/Notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf))
-    - **Object Detection in Videos with Tubelet Proposal Networks ax1704 cvpr17** ([pdf](video_detection/Tubelets/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf),
+    - **Object Detection in Videos with Tubelet Proposal Networks ax1704 cvpr17**
+	([pdf](video_detection/Tubelets/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf),
 	[notes](video_detection/Notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf))
+- FGFA
+    - **Deep Feature Flow for Video Recognition**
+    ([pdf](video_detection/FGFA/Deep%20Feature%20Flow%20For%20Video%20Recognition%20cvpr17.pdf),
+	[arxiv](https://arxiv.org/abs/1611.07715),
+	[code](https://github.com/msracver/Deep-Feature-Flow))
+	[Microsoft Research]
+    - **Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17**
+	([pdf](video_detection/FGFA/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf),
+	[notes](video_detection/Notes/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf))
+    - **Towards High Performance Video Object Detection ax171130 microsoft**
+	([pdf](video_detection/FGFA/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf),
+	[notes](video_detection/Notes/Towards High Performance Video Object Detection ax171130 microsoft.pdf))
+
 
 ##  Multi Object Tracking
-- **Learning to Track: Online Multi-object Tracking by Decision Making** (ICCV 2015) (Stanford) ([pdf](multi_object_tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
-[github (Matlab)](https://github.com/yuxng/MDP_Tracking),
+- **Learning to Track: Online Multi-object Tracking by Decision Making**
+(ICCV 2015) (Stanford)
+([pdf](multi_object_tracking/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
+[code (Matlab)](https://github.com/yuxng/MDP_Tracking),
 [project page](https://yuxng.github.io/),
 [notes](multi_object_tracking/Notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
-- **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies** (arxiv April 2017) (Stanford) ([pdf](multi_object_tracking/Deep%20Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
+- **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
+(arxiv April 2017) (Stanford)
+([pdf](multi_object_tracking/Deep%20Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
 [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
 [notes](multi_object_tracking/Notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
-- **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor** (ICCV 2015) (NEC Labs) ([pdf](multi_object_tracking/Multi%20Target/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf),
+- **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor**
+(ICCV 2015) (NEC Labs)
+([pdf](multi_object_tracking/Multi%20Target/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf),
 [author page](http://www-personal.umich.edu/~wgchoi/),
 [notes](multi_object_tracking/Notes/NOMT.pdf))  
-- **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects** (highest MT on MOT2015) (University of Freiburg, Germany) ([pdf](multi_object_tracking/Batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf),
+- **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects**
+(highest MT on MOT2015) (University of Freiburg, Germany)
+([pdf](multi_object_tracking/Batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf),
 [arxiv](https://arxiv.org/abs/1607.06317),
 [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html),
 [notes](multi_object_tracking/Notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
 	  
 ## Single Object Tracking
-- **Deep Reinforcement Learning for Visual Object Tracking in Videos** (arxiv April 2017) (USC-Santa Barbara, Samsung Research) ([pdf](single_object_tracking/RL/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/),
+- **Deep Reinforcement Learning for Visual Object Tracking in Videos**
+(arxiv April 2017) (USC-Santa Barbara, Samsung Research)
+([pdf](single_object_tracking/RL/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/),
 [notes](single_object_tracking/Notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf))  
-- **Visual Tracking by Reinforced Decision Making** (arxiv February 2017) (Seoul National University, Chung-Ang University) ([pdf](single_object_tracking/RL/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/),
+- **Visual Tracking by Reinforced Decision Making**
+(arxiv February 2017) (Seoul National University, Chung-Ang University)
+([pdf](single_object_tracking/RL/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/),
 [notes](single_object_tracking/Notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf))
-- **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning** (CVPR 2017) (Seoul National University) ([pdf](https://drive.google.com/open?id=0B34VXh5mZ22cZUs2Umc1cjlBMFU), [project page](https://sites.google.com/view/cvpr2017-adnet),
+- **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning**
+(CVPR 2017) (Seoul National University)
+([pdf](https://drive.google.com/open?id=0B34VXh5mZ22cZUs2Umc1cjlBMFU), [project page](https://sites.google.com/view/cvpr2017-adnet),
 [notes](single_object_tracking/Notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf)) 
-- **End-to-end Active Object Tracking via Reinforcement Learning** (arxiv 30 May 2017) (Peking University, Tencent AI Lab) ([pdf](single_object_tracking/RL/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
+- **End-to-end Active Object Tracking via Reinforcement Learning**
+(arxiv 30 May 2017) (Peking University, Tencent AI Lab)
+([pdf](single_object_tracking/RL/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
 [arxiv](https://arxiv.org/abs/1705.10561))
 
 ## Other potentially useful papers
-- **Deep Feature Flow for Video Recognition** ([pdf](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/Object%20Detection/Kaiming%20He%2C%20Mask%20R-CNN%2C%202017.pdf), [arxiv](https://arxiv.org/abs/1611.07715), [github](https://github.com/msracver/Deep-Feature-Flow)) [Microsoft Research]
+
 
 ## Datasets
 - [IDOT dataset](https://www.cs.uic.edu/Bits/YanziJin)
