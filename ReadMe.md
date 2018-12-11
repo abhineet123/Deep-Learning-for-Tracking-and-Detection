@@ -7,7 +7,7 @@ Collection of papers and other resources for object detection and tracking using
 	[arxiv](https://arxiv.org/abs/1703.06870),
 	[github](https://github.com/CharlesShang/FastMaskRCNN)) [Facebook AI Research]
 - SSD
-    - **SSD Single Shot MultiBox Detector eccv16_ax16_12** ([pdf](static_detection/SSD/SSD Single Shot MultiBox Detector eccv16_ax16_12.pdf),
+    - **SSD Single Shot MultiBox Detector eccv16_ax16_12** ([pdf](static_detection/SSD/SSD%20Single%20Shot%20MultiBox%20Detector%20eccv16_ax16_12.pdf),
 	[notes](static_detection/Notes/SSD.pdf))
     - **DSSD  Deconvolutional Single Shot Detector ax1701.06659** ([notes](static_detection/Notes/DSSD.pdf))
 - RetinaNet
