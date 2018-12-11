@@ -170,7 +170,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ROLO) (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
 	- [Simple Online Realtime Tracking with a Deep Association Metric (Deep SORT)
  (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
-	- [A collection of common tracking algorithms](https://github.com/zenhacker/TrackingAlgoCollection)
+	- [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection)
 - Static Object Detection and Matching
 	- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
 	  * Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
