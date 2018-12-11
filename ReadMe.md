@@ -189,7 +189,8 @@ Collection of papers and other resources for object detection and tracking using
 	- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
 	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
 	- [Multiscale Combinatorial Grouping - Object Proposals and Segmentation
-](https://github.com/jponttuset/mcg) [tpami16/cvpr14] [matlab]
+	- [Light-head R-CNN
+](https://github.com/zengarden/light_head_rcnn) [arxiv Nov 2017] [python]
 
 - Video Object Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
