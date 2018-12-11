@@ -156,6 +156,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [High-Speed Tracking-by-Detection Without Using Image Information (AVSS 2017)](https://github.com/bochinski/iou-tracker)[Python]
 	- [Continuous Energy Minimization for Multitarget Tracking (TPAMI  2014 / CVPR 2011 / ICCV 2011)](https://bitbucket.org/amilan/contracking)[MATLAB]
 - Single Object Tracking
+	- [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection)
 	- [Detect to Track and Track to Detect (ICCV 2017)](https://github.com/feichtenhofer/Detect-Track)[MATLAB]
 	- [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks (AAAI 2016)](https://github.com/pondruska/DeepTracking)[Torch 7]
 	- [Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)](https://github.com/jbhuang0604/CF2)[Matlab]
@@ -163,14 +164,13 @@ Collection of papers and other resources for object detection and tracking using
 	- [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM)[Python]
 	- [Visual Tracking with Fully Convolutional Networks (ICCV 2015)](https://github.com/scott89/FCNT)[Matlab]
 	- [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/torrvision/siamfc-tf)[Tensor flow]
-	- [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO)[Tensor flow]
 	- [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016)](https://github.com/martin-danelljan/Continuous-ConvOp)[MATLAB]
 	- [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
 	- [End-to-end representation learning for Correlation Filter based tracking (CVPR 2017)](https://github.com/bertinetto/cfnet)[MATLAB]
 	- [Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ROLO) (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
 	- [Simple Online Realtime Tracking with a Deep Association Metric (Deep SORT)
  (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
-	- [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection)
+
 - Static Object Detection and Matching
 	- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
 	  * Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
