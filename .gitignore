@@ -1,67 +1,8 @@
 */
 !static_detection/
-!static_detection/YOLO
-!static_detection/Action
-!static_detection/Animal
-!static_detection/Background Subtraction
-!static_detection/Boundary
-!static_detection/Classic
-!static_detection/Fence
-!static_detection/Hard Negative Mining
-!static_detection/Human
-!static_detection/Mobile
-!static_detection/Notes
-!static_detection/RCNN
-!static_detection/Region Proposal
-!static_detection/RetinaNet
-!static_detection/Review
-!static_detection/RNN
-!static_detection/Road
-!static_detection/Sensor Fusion
-!static_detection/Single Stage
-!static_detection/SSD
-!static_detection/Vehicle
 !video_detection/
-!video_detection/Action
-!video_detection/FGFA
-!video_detection/RNN
-!video_detection/Tubelets
-!video_detection/Notes
 !multi_object_tracking/
-!multi_object_tracking/Tracklet
-!multi_object_tracking/DL
-!multi_object_tracking/Embedded
-!multi_object_tracking/Misc
-!multi_object_tracking/Network Flow
-!multi_object_tracking/Notes
-!multi_object_tracking/Old
-!multi_object_tracking/RL
-!multi_object_tracking/RNN
-!multi_object_tracking/Segmentation
-!multi_object_tracking/Survey
 !single_object_tracking/
-!single_object_tracking/Unsupervised
-!single_object_tracking/3D
-!single_object_tracking/Adversarial
-!single_object_tracking/Attention
-!single_object_tracking/Batch
-!single_object_tracking/Camera
-!single_object_tracking/Correlation
-!single_object_tracking/DL
-!single_object_tracking/Fusion
-!single_object_tracking/Gaze
-!single_object_tracking/Misc
-!single_object_tracking/Motion
-!single_object_tracking/Notes
-!single_object_tracking/PF
-!single_object_tracking/Registration
-!single_object_tracking/RGB-D
-!single_object_tracking/RL
-!single_object_tracking/RNN
-!single_object_tracking/Segmentation
-!single_object_tracking/Siamese
-!single_object_tracking/Trajectory
-!single_object_tracking/Unsorted
 !deep_RL/
 !Readings/
 *.bat
