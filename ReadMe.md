@@ -200,7 +200,7 @@ Collection of papers and other resources for object detection and tracking using
 		- [Detectron](https://github.com/facebookresearch/Detectron)
 	- SSD
 		- [SSD-Tensorflow](https://github.com/HiKapok/SSD.TensorFlow) [tensorflow]
-		- [SSD-Tensorflow (tf.estimator)](https://github.com/balancap/SSD-Tensorflow) [tensorflow slim]
+		- [SSD-Tensorflow (tf.estimator)](https://github.com/balancap/SSD-Tensorflow) [tensorflow estimator]
 		- [SSD-Tensorflow (tf.slim)](https://github.com/balancap/SSD-Tensorflow) [tensorflow slim]
 		- [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
 		- [SSD-Pytorch](https://github.com/amdegroot/ssd.pytorch) [pytorch]
