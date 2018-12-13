@@ -217,14 +217,18 @@ Collection of papers and other resources for object detection and tracking using
 		- [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet) [c/python]
 		- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)
 		- [Darkflow](https://github.com/thtrieu/darkflow) [tensorflow]
+		- [Pytorch Yolov2 ](https://github.com/marvis/pytorch-yolo2) [pytorch]
 	- Region Proposal	
 		- [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
 		- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
 		- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
+	- FPN
+		- [Feature Pyramid Networks for Object Detection](https://github.com/unsky/FPN) [caffe/python]
 	- Misc	
 		- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
 		- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
 		- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
+		
 
 - Video Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
