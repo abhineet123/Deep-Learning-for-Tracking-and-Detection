@@ -152,9 +152,6 @@ Collection of papers and other resources for object detection and tracking using
 - [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 
 ## Tutorials
-- Deep RL
-    - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
-    - [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
 - Static Detection
     - [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
     - [Review of Deep Learning Algorithms for Object Detection](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)	
@@ -168,6 +165,9 @@ Collection of papers and other resources for object detection and tracking using
     - [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
 - Video Detection
     - [How Microsoft Does Video Object Detection - Unifying the Best Techniques in Video Object Detection Architectures in a Single Model](https://medium.com/nurture-ai/how-microsoft-does-video-object-detection-unifying-the-best-techniques-in-video-object-detection-b78b63e3f1d8)
+- Deep RL
+    - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+    - [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
 
 
 ## Code
@@ -194,26 +194,37 @@ Collection of papers and other resources for object detection and tracking using
 	- [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
 
 - Static Detection and Matching
-	- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
-	  * Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
-	- [Detectron](https://github.com/facebookresearch/Detectron)
-	- [Matchnet](https://github.com/hanxf/matchnet)
-	- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
-	- [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
-	- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)
-	- [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
-	- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
-	- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
-	- [Mask R-CNN](https://github.com/CharlesShang/FastMaskRCNN) [TensorFlow]
-	- [Mask R-CNN](https://github.com/matterport/Mask_RCNN) [keras]
-	- [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]
-	- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
-	- [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
-	- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
-	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
-	- [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
-	- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
-	- [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
+	- Frameworks
+		- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
+		  * Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
+		- [Detectron](https://github.com/facebookresearch/Detectron)
+	- SSD
+		- [SSD-Tensorflow](https://github.com/HiKapok/SSD.TensorFlow) [tensorflow]
+		- [SSD-Tensorflow (tf.estimator)](https://github.com/balancap/SSD-Tensorflow) [tensorflow slim]
+		- [SSD-Tensorflow (tf.slim)](https://github.com/balancap/SSD-Tensorflow) [tensorflow slim]
+		- [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
+		- [SSD-Pytorch](https://github.com/amdegroot/ssd.pytorch) [pytorch]
+		- [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
+	- RCNN
+		- [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
+		- [Mask R-CNN TensorFlow](https://github.com/CharlesShang/FastMaskRCNN) [TensorFlow]
+		- [Mask R-CNN Keras](https://github.com/matterport/Mask_RCNN) [keras]
+		- [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]	
+	- Matching	
+		- [Matchnet](https://github.com/hanxf/matchnet)
+		- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
+	- YOLO	
+		- [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet) [c/python]
+		- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)
+		- [Darkflow](https://github.com/thtrieu/darkflow) [tensorflow]
+	- Region Proposal	
+		- [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
+		- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
+		- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
+	- Misc	
+		- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
+		- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
+		- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
 
 - Video Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
@@ -222,8 +233,10 @@ Collection of papers and other resources for object detection and tracking using
 - Optical Flow
 	- [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS)
 	- [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
+- Deep RL
+	- [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
 - Misc
-	- [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet)
+	- [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 	- [RNNexp](https://github.com/asheshjain399/RNNexp)
 
 	
