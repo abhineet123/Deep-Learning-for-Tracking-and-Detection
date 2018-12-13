@@ -210,12 +210,9 @@ Collection of papers and other resources for object detection and tracking using
 		- [Mask R-CNN TensorFlow](https://github.com/CharlesShang/FastMaskRCNN) [TensorFlow]
 		- [Mask R-CNN Keras](https://github.com/matterport/Mask_RCNN) [keras]
 		- [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]	
-	- Matching	
-		- [Matchnet](https://github.com/hanxf/matchnet)
-		- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 	- YOLO	
 		- [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet) [c/python]
-		- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)
+		- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)  [c/python]
 		- [Darkflow](https://github.com/thtrieu/darkflow) [tensorflow]
 		- [Pytorch Yolov2 ](https://github.com/marvis/pytorch-yolo2) [pytorch]
 	- Region Proposal	
@@ -228,6 +225,9 @@ Collection of papers and other resources for object detection and tracking using
 		- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
 		- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
 		- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
+	- Matching	
+		- [Matchnet](https://github.com/hanxf/matchnet)
+		- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 		
 
 - Video Detection
