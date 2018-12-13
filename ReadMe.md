@@ -210,6 +210,7 @@ Collection of papers and other resources for object detection and tracking using
 		- [Mask R-CNN TensorFlow](https://github.com/CharlesShang/FastMaskRCNN) [TensorFlow]
 		- [Mask R-CNN Keras](https://github.com/matterport/Mask_RCNN) [keras]
 		- [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]	
+		- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
 	- YOLO	
 		- [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet) [c/python]
 		- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)  [c/python]
@@ -218,7 +219,6 @@ Collection of papers and other resources for object detection and tracking using
 	- Region Proposal	
 		- [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
 		- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
-		- [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
 	- FPN
 		- [Feature Pyramid Networks for Object Detection](https://github.com/unsky/FPN) [caffe/python]
 	- Misc	
