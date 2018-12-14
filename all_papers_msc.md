@@ -1,0 +1,1269 @@
+Updated on: 181214 092359
+- 3D/
+    - Ef?cient variants of the ICP algorithm.pdf
+    - [1] Using prediction to enhance remote robot supervision across time delay.pdf
+    - [20] A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms.pdf
+    - [2] The phantom robot predictive displays for teleoperation with time delay.pdf
+    - [5] Performance  evaluation of monocular predictive display.pdf
+    - Code/
+    - Misc/
+        - Video-rate Localization in Multiple Maps for Wearable Augmented Reality 2008.pdf
+    - Mosaicing/
+        - Construction of panoramic image mosaics with global and local alignment 2000.pdf
+        - Image Mosaicing for Tele-Reality Applications 1994.pdf
+    - PD/
+        - Paper Incremental Free-Space Carving for Real-Time 3D Reconstruction.pdf
+        - Predictive Display for Mobile Manipulators in Unknown Environments Using Online Vision-based Monocular Modeling and Localization 2010.pdf
+        - Predictive Display from Computer Vision Models 2010.pdf
+        - Predictive display system based on online real-time reconstruction  2014.pdf
+        - Predictive Display System for Tele-manipulation using Image-Based Modeling and Rendering iros03.pdf
+        - Thesis Incremental Free-Space Carving for Real-Time 3D Reconstruction.pdf
+        - Tracking and Predictive Display for a Remote Operated Robot using Uncalibrated Video icra05.pdf
+    - PTAM/
+        - A Square Root Unscented Kalman Filter for Visual MonoSLAM 2008.pdf
+        - An O(N2) Square Root Unscented Kalman Filter for Visual Simultaneous Localization and Mapping 2008.pdf
+        - Bundle Adjustment — A Modern Synthesis.pdf
+        - Compositing for Small Cameras 2008.pdf
+        - DPPTAM Dense piecewise planar tracking and mapping from a monocular sequence iros15.pdf
+        - DTAM Dense tracking and mapping in real-time iccv11.pdf
+        - Improving the Agility of Keyframe-based SLAM 2008.pdf
+        - Motion and structure from motion in a piecewise planar environment 1988.pdf
+        - Multi-Camera Tracking and Mapping for Unmanned Aerial Vehicles in Unstructured Environments ijrs15.pdf
+        - Parallel Tracking and Mapping for Small AR Workspaces 2007.pdf
+        - Parallel Tracking and Mapping on a Camera Phone 2009.pdf
+        - Video-rate Localization in Multiple Maps for Wearable Augmented Reality 2008.pdf
+    - SLAM/
+        - A benchmark for the evaluation of RGB-D SLAM systems iros12.pdf
+        - A solution to the simultaneous localisation and mapping (SLAM) problem 2001.pdf
+        - A Square Root Unscented Kalman Filter for visual monoSLAM 2008.pdf
+        - Active Pose SLAM iros12.pdf
+        - Appearance-based SLAM in a Network Space icra15.pdf
+        - Dense Visual SLAM for RGB-D Cameras.pdf
+        - Directed Sonar Sensing for Mobile Robot Navigation 1992.pdf
+        - Estimating uncertain spatial relationships in robotics 1990.pdf
+        - Fast- SLAM 2.0 An improved particle ?ltering algorithm for simultaneous localization and mapping that provably converges 2003.pdf
+        - Fast- SLAM A factored solution to the simultaneous localization and mapping problem.pdf
+        - Introducing SLAMBench, a performance and accuracy benchmarking methodology for SLAM icra15.pdf
+        - Large-scale direct SLAM for omnidirectional cameras iros15.pdf
+        - Mobile Robot Localization and Mapping with Uncertainty using Scale-Invariant Visual Landmarks 2002.pdf
+        - Simultaneous Localisation and Mapping (SLAM) Part I The Essential Algorithms 2006.pdf
+        - Simultaneous Localisation and Mapping (SLAM) Part II State of the Art 2006.pdf
+        - SLAM for Dummies.pdf
+        - SLAM in realistic environments.pdf
+        - SLAM++ Simultaneous Localisation and Mapping at the Level of Objects cvpr13.pdf
+        - SVO Fast semi-direct monocular visual odometry icra14.pdf
+- Advances in Tracking/
+    - 3D/
+        - Dense Continuous-Time Tracking and Mapping With Rolling Shutter RGB-D Cameras iccv15.pdf
+        - Dynamic visual localization and tracking method based on RGB-D information  icra14.pdf
+        - RGB-D edge detection and edge-based registration iros13.pdf
+        - STAR3D Simultaneous Tracking and Reconstruction of 3D Objects Using RGB-D Data iccv13.pdf
+    - Correlation Filters/
+        - A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration eccv14.pdf
+        - Adaptive Color Attributes for Real-Time Visual Tracking cvpr14.pdf
+        - Average of synthetic exact filters cvpr09.pdf
+        - Chaining Convolution and Correlation in Practice A Case Study in Visual Tracking  dicta13.pdf
+        - Convolutional Features for Correlation Filter Based Visual Tracking iccv15w.pdf
+        - Effiient feature extraction and likelihood fusion for vehicle tracking in low frame rate airborne video fusion10.pdf
+        - Exploiting the circulant structure of tracking-by-detection with kernels. eccv12.pdf
+        - Fast visual tracking via dense spatio-temporal context learning STC_eccv14 (vot).pdf
+        - High-Speed Tracking with Kernelized Correlation Filters arxiv14.pdf
+        - High-Speed Tracking with Kernelized Correlation Filters tpami15.pdf
+        - Learning Spatially Regularized Correlation Filters for Visual Tracking iccv15.pdf
+        - Long-Term Correlation Tracking cvpr15.pdf
+        - Multi-Kernel Correlation Filter for Visual Tracking iccv15.pdf
+        - OACF  The importance of estimating object extent when tracking with correlation filters preprint15.pdf
+        - Object Tracking in Nonuniform Illumination Using Space-Variant Correlation Filters ppr13.pdf
+        - Real-Time Part-Based Visual Tracking via Adaptive Correlation Filters cvpr15.pdf
+        - Target tracking with dynamically adaptive correlation OC16.pdf
+        - Visual object tracking using adaptive correlation filters cvpr10.pdf
+        - Background/
+            - Correlation and Convolution.pdf
+            - Fourier series and transforms.pdf
+            - Fourier Transforms Derivation.pdf
+            - Circulant Matrices/
+                - Toeplitz and Circulant Matrices A review 2006.pdf
+    - Deep Learning/
+        - A robust tracking algorithm for 3D hand gesture with rapid hand motion through deep learning icmew14.pdf
+        - CNNTracker Online discriminative object tracking via deep convolutional neural network asc16.pdf
+        - Deep Metric Learning for Visual Tracking tcsvt15.pdf
+        - Dropout A Simple Way to Prevent Neural Networks from Over?tting jmlr14.pdf
+        - Hierarchical Convolutional Features for Visual Tracking iccv15.pdf
+        - Learning a Deep Compact Image Representation for Visual Tracking nips13.pdf
+        - Learning Deep Features for Multiple Object Tracking by Using a Multi-Task Learning Strategy icip14.pdf
+        - Learning multi-domain convolutional neural networks for visual tracking corr15 (vot).pdf
+        - Regional deep learning model for visual tracking neuro16.pdf
+        - Video Tracking Using Learned Hierarchical Features tip15.pdf
+        - Visual Tracking With Fully Convolutional Networks iccv15.pdf
+    - Detection/
+        - Beyond sliding windows Object localization by ef?cient subwindow search cvpr08.pdf
+        - Edge Boxes Locating Object Proposals from Edges eccv14.pdf
+        - How Good Are Edge Boxes, Really.pdf
+    - Doubtful/
+        - Adaptive Object Tracking by Learning Hybrid Template Online tcsvt11.pdf
+        - Evaluating template rescaling in short-term single-object tracking  avss15.pdf
+        - Online Tracking and Reacquisition Using Co-trained Generative and Discriminative Trackers eccv08.pdf
+    - Drift/
+        - A robust template tracking algorithm with weighted active drift correction pr11.pdf
+        - Active drift correction template tracking algorithm icip12.pdf
+        - Drift-correcting template update strategy for precision feature point tracking ivc11.pdf
+        - Robust Object Tracking Against Template Drift icip07.pdf
+        - Robust Occlusion Handling in Object Tracking cvpr07.pdf
+    - Features/
+        - A novel method for redundant feature rejection in correspondence problem ncc14.pdf
+        - A Robust Tracking Algorithm Based on HOGs Descriptor ppr14.pdf
+        - Color Invariant SURF in Discriminative Object Tracking eccv10.pdf
+        - FaceHugger The ALIEN Tracker Applied to Faces eccv12.pdf
+        - Learning Visual Feature Descriptors for Dynamic Lighting Conditions iros14.pdf
+        - Online learning of multi-feature weights for robust object tracking  icip15.pdf
+        - Online multiple instance gradient feature selection for robust visual tracking pr12.pdf
+        - Real-time and model-free object tracking using particle filter with Joint Color-Spatial Descriptor iros15.pdf
+        - Real-time object tracking via optimal feature subspace  icip14.pdf
+        - Robust illumination-invariant tracking algorithm based on HOGs  spi adip15.pdf
+        - Saliency Modeling from Image Histograms eccv12.pdf
+        - Scale Invariant Feature Transform Based Image Matching and Registration  icsip14.pdf
+        - Speeding Up Tracking by Ignoring Features cvpr14.pdf
+        - Supervised Earth Mover’s Distance Learning and Its Computer Vision Applications eccv12.pdf
+        - Visual-tracking-and-learning-using-speeded-up-robust-features_2012_Pattern-Recognition-Letters.pdf
+    - Generative/
+        - Object Tracking via Partial Least Squares Analysis tip12.pdf
+    - Kernels/
+        - Exploiting the circulant structure of tracking-by-detection with kernels eccv12.pdf
+        - Generic realtime kernel based tracking icra12.pdf
+        - Struck Structured output tracking with kernels iccv11.pdf
+        - Struck Structured output tracking with kernels tpami15.pdf
+    - Learning/
+        - Linearization to Nonlinear Learning for Visual Tracking iccv15.pdf
+        - Online Tracking and Reacquisition Using Co-trained Generative and Discriminative Trackers eccv08.pdf
+        - Robust object tracking using semi-supervised appearance dictionary learning  prl15.pdf
+        - Robust visual tracking via transfer learning  icip11.pdf
+    - LK/
+        - A tracking and registration method based on ORB and KLT for augmented reality system wocc13.pdf
+        - Better Feature Tracking Through Subspace Constraints cvpr14.pdf
+        - Dynamically Removing False Features in Pyramidal Lucas-Kanade Registration tip14.pdf
+        - Efficient compositional approaches for real-time robust direct visual odometry from RGB-D data iros13.pdf
+        - Extended Lucas-Kanade Tracking eccv14.pdf
+        - Feature-Based Lucas–Kanade and Active Appearance Models tip15.pdf
+        - Fourier Lucas-Kanade Algorithm tpami12.pdf
+        - Generalizing the Lucas–Kanade algorithm for histogram-based tracking pr08.pdf
+        - Good Edgels to Track Beating the Aperture Problem with Epipolar Geometry eccv14.pdf
+        - Least Trimmed Squares Approach to Lucas-Kanade Algorithm in Object Tracking Problems.pdf
+        - On Compositional Image Alignment, with an Application to Active Appearance Models cvpr09.pdf
+        - Robust Registration-Based Tracking by Sparse Representation with Model Update accv12.pdf
+        - Tracking Feature Points in Uncalibrated Images with Radial Distortion eccv12.pdf
+    - Misc/
+        - A computer vision algorithm for real-time tracking of the positions of non-rigid objects in successive images of a video sequence under conditions where the background scene may be changing patent13.pdf
+        - Comparison-of-stochastic-filtering-methods-for-3D-tracking_2011_Pattern-Recognition eccv14.pdf
+        - Efficient Visual Object Tracking with Online Nearest Neighbor Classifier accv10.pdf
+        - Exploiting spatial overlap to ef?ciently compute appearance distances between image win- dows nips11.pdf
+        - Exploring Causal Relationships in Visual Object Tracking iccv15.pdf
+        - Extended fast compressive tracking with weighted multi-frame template matching for fast motion tracking prl16.pdf
+        - E?cient Learning of Linear Predictors for Template Tracking ijcv15.pdf
+        - Fast planar object detection and tracking via edgel templates wacv12.pdf
+        - Learning real-time perspective patch recti?cation ijcv11.pdf
+        - Least Soft-Threshold Squares Tracking cvpr13.pdf
+        - Multilayer adaptive linear predictors for real-time tracking tpami13.pdf
+        - Multiple classifier systems for improved visual tracking in aerial imagery robio14.pdf
+        - Online Spatio-temporal Structural Context Learning for Visual Tracking eccv12.pdf
+        - Real-Time Camera Tracking When is High Frame-Rate Best eccv12.pdf
+        - Real-time tracking using A heuristic search and template updating ietcv11.pdf
+        - Real-time-visual-tracking-via-online-weighted-multiple-instance-learning_2013_Pattern-Recognition.pdf
+        - Robust model-based tracking considering changes in the measurable DoF of the target object  icpr12.pdf
+        - Robust tracking via saliency-based appearance model  icip14.pdf
+        - Robust visual tracking via multi-graph ranking neuro15.pdf
+        - Robust Visual Tracking with Double Bounding Box Model eccv14.pdf
+        - SOWP Spatially Ordered and Weighted Patch Descriptor for Visual Tracking iccv15.pdf
+        - Struck Structured output tracking with kernels iccv11.pdf
+        - Superpixel tracking iccv11.pdf
+        - Tracking by sampling trackers iccv11.pdf
+        - Tracking Using Multilevel Quantizations eccv14.pdf
+        - Visual Tracking via Adaptive Tracker Selection with Multiple Features eccv12.pdf
+        - #New Papers/
+            - Dense non-rigid visual tracking with a robust similarity function  10.2014.pdf
+            - Discriminative multi-task objects tracking with active feature selection and drift correction 6.2014.pdf
+            - Efficient Learning of Linear Predictors for Template Tracking 5.2014.pdf
+            - Graph-Embedding-Based Learning for Robust Object Tracking 2.2014.pdf
+            - Multiple object tracking with partial occlusion handling using salient feature points 3.2014.pdf
+            - Object tracking based on an online learning network with total error rate minimization 8.2014.pdf
+            - Object tracking using learned feature manifolds 9.2013.pdf
+            - Recent advances and trends in visual tracking A review 7.2011.pdf
+            - Robust visual tracking based on online learning sparse representation 11.2011.pdf
+            - Visual Tracking via Online Nonnegative Matrix Factorization 3.2014.pdf
+            - CVPR14/
+                - A Compact and Discriminative Face Track Descriptor_cvpr14.pdf
+                - Large-scale Video Classi?cation with Convolutional Neural Networks_cvpr14.pdf
+                - Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks_cvpr14.pdf
+                - Local Layering for Joint Motion Estimation and Occlusion Detection_cvpr14.pdf
+                - Multi-Object Tracking via Constrained Sequential Labeling_cvpr14.pdf
+                - Tracking indistinguishable translucent objects over time using weakly supervised structured learning_cvpr14.pdf
+            - ECCV 2014/
+                - bok%3A978-3-319-10590-1.pdf
+                - bok%3A978-3-319-10605-2.pdf
+            - ieee/
+                - Adaptive visual tracking based on discriminative feature selection for mobile robot 6.2014.pdf
+                - Learning visual feature descriptors for dynamic lighting conditions iros_9.2014.pdf
+                - Optimal control for robot-hand manipulation of an object using dynamic visual servoin 9.2014.pdf
+                - Real-Time Visual Target Tracking in RGB-D Data for Person-Following Robots icpr_8.2014.pdf
+                - Towards an accurate tracking of liver tumors for augmented reality in robotic assisted surgery icra_7.2014.pdf
+            - Misc/
+                - Visual estimation of pointed targets for robot guidance via fusion of face pose and hand orientation 3.2014.pdf
+    - Non Discriminative/
+        - Distribution ?elds for tracking cvpr12.pdf
+        - Online robust image alignment via iterative convex optimization cvpr12.pdf
+    - Optical Flow/
+        - A Complete Confidence Framework for Optical Flow eccv12.pdf
+        - EpicFlow Edge-Preserving Interpolation of Correspondences for Optical Flow cvpr15.pdf
+        - Lessons and Insights from Creating a Synthetic Optical Flow Benchmark eccv12.pdf
+        - Online Object Tracking With Proposal Selection iccv15.pdf
+        - Optical Flow Estimation Using Laplacian Mesh Energy cvpr13.pdf
+        - Optical Flow Estimation with Channel Constancy eccv14.pdf
+        - Registration of region of interest for object tracking applications in wide area motion imagery aipr12.pdf
+        - Robust PCA-Based Visual Tracking by Adaptively Maximizing the Matching Residual Likelihood crv13.pdf
+        - Scale Invariant Optical Flow eccv12.pdf
+    - Particle Filter/
+        - A Geometric Particle Filter for Template-Based Visual Tracking  tpami14 supplement.pdf
+        - A Geometric Particle Filter for Template-Based Visual Tracking  tpami14.pdf
+        - Adaptive on-line similarity measure for direct visual tracking ivc14.pdf
+        - Combining particle MCMC with Rao-Blackwellized Monte Carlo data association for parameter estimation in multiple target tracking dsp16.pdf
+        - Covariance Tracking via Geometric Particle Filtering eurasip10.pdf
+        - Ef?cient Object Tracking by Incremental Self-Tuning Particle Filtering on the Af?ne Group tip12.pdf
+        - Locally Orderless Tracking ijcv15.pdf
+        - Particle Filter With a Mode Tracker for Visual Tracking Across Illumination Changes tip2011.pdf
+        - Particle Filter with Affine Transformation for Multiple Key Points Tracking te12.pdf
+        - Particle filtering on the Euclidean group framework and applications robotica07.pdf
+        - Particle filtering on the Euclidean group icra07.pdf
+        - Real time non-rigid 3D surface tracking using particle filter cviu15.pdf
+        - Reliable Patch Trackers Robust Visual Tracking by Exploiting Reliable Patches cvpr15.pdf
+        - Robust 3D visual tracking using particle filtering on the SE(3) group icra11.pdf
+        - Robust 3D visual tracking using particle ?ltering on the special Euclidean group A combined approach of keypoint and edge features ijrr12.pdf
+        - Switching-particle-filters-for-efficient-visual-tracking_2006_Robotics-and-Autonomous-Systems.pdf
+        - Tracking by local structural manifold learning in a new SSIR particle filter neuro15.pdf
+        - Visual tracking via geometric particle filtering on the affine group with optimal importance functions cvpr09.pdf
+        - Visual Tracking via Incremental Self-tuning Particle Filtering on the Af?ne Group cvpr10.pdf
+        - Visual tracking via particle filtering on the affine group IJRR10.pdf
+        - Background/
+            - Combined parameter and state estimation in simulation-based ?ltering smcmp01.pdf
+            - How to Put Probablilities on Homographies tpami05.pdf
+            - Logarithms and Square Roots of Real Matrices TR08.pdf
+            - Means and Averaging in the Group of Rotations siam_jmaa_02.pdf
+            - Monte Carlo ?ltering on Lie groups icdc00.pdf
+            - Nonlinear Mean Shift over Riemannian Manifolds ijcv09.pdf
+            - On Sequential Monte Carlo Sampling Methods for Bayesian Filtering Statistics and Computing (2000).pdf
+            - On the generalization of AR process to riemannian manifolds icassp2006a.pdf
+            - The Matrix Logarithm from Theory to Computation.pdf
+    - Registration/
+        - A contextual maximum likelihood framework for modeling image registration cvpr12.pdf
+        - Automatic coarse-to-precise subpixel multi-band SAR images co-registration based affine SIFT and radial base function(RBF)  apsar15.pdf
+        - Deep Sparse Representation for Robust Image Registration cvpr15.pdf
+        - Dense Image Registration and Deformable Surface Reconstruction in Presence of Occlusions and Minimal Texture iccv15.pdf
+        - E?cient and Reliable Methods for Direct Parameterized Image Registration thes08.pdf
+        - Feature-based Recursive Observer Design for Homography Estimation arxiv16.pdf
+        - Globally Optimal 2D-3D Registration From Points or Lines Without Correspondences iccv15.pdf
+        - In Defence of RANSAC for Outlier Rejection in Deformable Registration accv12.pdf
+        - Non-Rigid Registration of Images With Geometric and Photometric Deformation by Using Local Affine Fourier-Moment Matching cvpr15.pdf
+        - Pyramid-based Visual Tracking Using Sparsity Represented Mean Transform cvpr14.pdf
+        - Visual Tracking Using a Pixelwise Spatiotemporal Oriented Energy Representation eccv10.pdf
+        - 3D/
+            - A GPU-based adaptive algorithm for non-rigid surface registration vr15.pdf
+            - Camera localization using mutual information-based multiplane tracking iros13.pdf
+            - Dtam Dense tracking and mapping in real-time iccv10.pdf
+            - Incremental registration of RGB-D images icra12.pdf
+            - MobileFusion Real-Time Volumetric Surface Reconstruction and Dense Tracking on Mobile Phones tvcg15.pdf
+            - Pixel-wise closed-loop registration in video-based augmented reality ismar14.pdf
+            - Replacing Projective Data Association with Lucas-Kanade for KinectFusion icra13.pdf
+            - RGB-D object tracking A particle filter approach on GPU iros13.pdf
+            - Robust 3D Tracking with Descriptor Fields cvpr14.pdf
+            - SDF Tracker A parallel algorithm for on-line pose estimation and scene reconstruction from depth images iros13.pdf
+            - Tissue Tracking and Registration for Image-Guided Surgery TMI12.pdf
+            - Toward mutual information based automatic registration of 3D point clouds iros12.pdf
+            - Tracking complex targets for space rendezvous and debris removal applications  iros12.pdf
+        - Brute Force/
+        - Old/
+            - Ef?cient visual servoing with the ABCshift tracking algorithm icra08.pdf
+            - Fast cross-spectral image registration using new robust correlation jrtip06.pdf
+            - Joint tracking and video registration by factorial Hidden Markov models icassp08.pdf
+            - Parameterized Kernel Principal Component Analysis Theory and applications to supervised and unsupervised image alignment cvpr08.pdf
+            - Spatiotemporal Oriented Energy Features for Visual Tracking accv07.pdf
+    - Sparse Representation/
+        - Collaborating frames Temporally weighted sparse representation for visual tracking  icip14.pdf
+        - Discriminative Object Tracking via Sparse Representation and Online Dictionary Learning tcyber14.pdf
+        - Inverse Sparse Tracker With a Locally Weighted Distance Metric tip15.pdf
+        - L0-Regularized Object Representation for Visual Tracking bmvc14.pdf
+        - Learning Local Appearances With Sparse Representation for Robust and Fast Visual Tracking tcyber15.pdf
+        - Low-Rank Sparse Learning for Robust Visual Tracking eccv12.pdf
+        - Object tracking via appearance modeling and sparse representation ivc11.pdf
+        - Object Tracking With Joint Optimization of Representation and Classification tcsvt15.pdf
+        - Online discriminative object tracking with local sparse representation wacv12.pdf
+        - Online Robust Non-negative Dictionary Learning for Visual Tracking iccv13.pdf
+        - Robust and fast visual tracking using constrained sparse coding and dictionary learning iros12.pdf
+        - Robust object tracking using semi-supervised appearance dictionary learning  prl15.pdf
+        - Robust Tracking Using Local Sparse Appearance Model and K-Selection cvpr11.pdf
+        - Robust visual tracking via CAMShift and structural local sparse appearance model jvcir16.pdf
+        - Robust-visual-tracking-based-on-online-learning-sparse-representation_2013_Neurocomputing.pdf
+        - Robust-visual-tracking-with-structured-sparse-representation-appearance-model_2012_Pattern-Recognition.pdf
+        - Sparse-coding-based-visual-tracking-Review-and-experimental-comparison_2013_Pattern-Recognition.pdf
+        - Structural Sparse Tracking cvpr15.pdf
+        - Structured sparse representation appearance model for robust visual tracking icra11.pdf
+        - Vision-based hyper-real-time object tracker for robotic applications iros12.pdf
+        - Visual tracking based on online sparse feature learning ivc15.pdf
+        - Visual Tracking via Temporally Smooth Sparse Coding spl15.pdf
+        - Visual-object-tracking-via-sample-based-Adaptive-Sparse-Representation-AdaSR-_2011_Pattern-Recognition.pdf
+    - Two Layered/
+        - An Enhanced Adaptive Coupled-Layer LGTracker++ iccv13w.pdf
+        - Clustering local motion estimates for robust and ef?cient object tracking eccv14.pdf
+        - Fast compressive tracking tpami14 (vot).pdf
+        - Robust Visual Tracking Using an Adaptive Coupled-Layer Visual Model tpami13  (vot).pdf
+        - Robust visual tracking using template anchors wacv16.pdf
+        - The Enhanced Flock of Trackers rriv14  (vot).pdf
+        - Tracking by an Optimal Sequence of Linear Predictors pami09.pdf
+    - VOT/
+        - Enhanced distribution field tracking using channel representations iccv13w.pdf
+        - Long-term tracking through failure cases iccv13w.pdf
+        - MATRIOSKA A Multi-level Approach to Fast Tracking by Learning iciap13.pdf
+        - MUlti-Store Tracker (MUSTer) A Cognitive Psychology Inspired Approach to Object Tracking cvpr15.pdf
+        - Visual tracking by partition-based histogram backprojection and maximum support criteria robio11.pdf
+    - VS/
+        - 6D image-based visual servoing for robot manipulators with uncalibrated stereo cameras  iros14.pdf
+        - Direct visual servoing based on multiple intensity histograms icra15.pdf
+        - Uncalibrated image-based visual servoing icra13.pdf
+        - Visual servoing control of a 9-DoF WMRA to perform ADL tasks icra12.pdf
+        - Visual servoing using the sum of conditional variance iros12.pdf
+        - Visual servoing when visual information is missing Experimental comparison of visual feature prediction schemes icra15.pdf
+- AM/
+    - 9781420042474%2Efmatt.pdf
+    - A Comparison of Histogram Distance Metrics for  Content-Based Image Retrieval.pdf
+    - A Hybrid Approach to Aerial Video Image Registration thesis16.pdf
+    - A Novel similarity measure based on eigenvalue distribution 2016.pdf
+    - Cross-correlation digital registration techniques for multispectral cell images 1978.pdf
+    - DFM Report.pdf
+    - Distance Measures.pdf
+    - distance measures_2.pdf
+    - Efficient image alignment using linear appearance models cvpr09.pdf
+    - Ef?cient, robust and accurate ?tting of a 3D morphable model iccv03.pdf
+    - Image Comparison by Compound Disjoint Information with Applications to Perceptual Visual Quality Assessment, Image Registration and Tracking ijcv10.pdf
+    - Mass-preserving registration of medical images 2010.pdf
+    - Measures of distance between samples Euclidean.pdf
+    - Medical Image Registration.pdf
+    - On measuring the distance between histograms.pdf
+    - On the uni?cation of line processes, outlier rejection, and robust statistics with applications in early vision ijcv96.pdf
+    - Parametric Image Alignment Using Enhanced Correlation Coefficient Maximization ttpami08.pdf
+    - Registration Methodology  Concepts and AIgorithms.pdf
+    - Robust online appearance models for visual tracking pami03.pdf
+    - Robust Similarity Measures for Gradient-based Direct Visual Tracking techreport.pdf
+    - SecondPartial.pdf
+    - Selective image similarity measure for bronchoscope tracking based on image registration mia09.pdf
+    - SIMILARITY MEASURES.pdf
+    - The earth mover’s distance as a metric for image retrieval ijcv00.pdf
+    - Toward a better comprehension of similarity measures used in medical image registration miccai99.pdf
+    - AAM/
+        - A Review of Active Appearance Models tsmc10.pdf
+        - Active appearance models 1998.pdf
+        - Active Appearance Models Revisited 2003.pdf
+        - Active appearance models with occlusion ivc08.pdf
+        - Active blobs 1998.pdf
+        - Bayesian Active Appearance Models cvpr14.pdf
+    - CCRE/
+        - Cumulative residual entropy, a new measure of information & its application to image alignment iccv03.pdf
+        - Cumulative Residual Entropy, a New Measure of Information JIT2004.pdf
+        - Generalized cumulative residual entropy for distributions with unrestricted supports rlsp08.pdf
+        - Non-rigid multi-modal image registration using cross- cumulative residual entropy ijcv07.pdf
+        - Overlap Invariance of Cumulative Residual Entropy Measures for Multimodal Image Alignment SPIE_Feb_2009.pdf
+        - Registration of hyperspectral and trichromatic images via cross cumulative residual entropy minimisation icip10.pdf
+        - Robust Automatic Registration of Multimodal Satellite Images Using CCRE With Partial Volume Interpolation tgrs12.pdf
+    - CR/
+        - Multimodal Image Registration by Maximization of the Correlation Ratio inria98.pdf
+        - The correlation ratio as a new similarity measure for multimodal image registration miccai98.pdf
+    - Illumination/
+        - A Gauss–Newton approach to joint image registration and intensity correction cmpb13.pdf
+        - Color constancy  generalized diagonal transforms suffice 94.pdf
+        - Comparing Images Under Variable Illumination cvpr98.pdf
+        - Diagonal Transforms Suffice for  Color Constancy  iccv93.pdf
+    - KLD/
+        - KL-divergence.pdf
+        - lecture-28.pdf
+    - Misc/
+        - A pixel dissimilarity measure that is insensitive to image sampling pami98.pdf
+        - An Optimal Alignment.pdf
+        - Distance measures.pdf
+        - Histogram Equalization.pdf
+    - NGF/
+        - A fast and accurate parallel algorithm for non-linear image registration using Normalized Gradient fields isbi14.pdf
+        - A fully parallel algorithm for multimodal image registration using normalized gradient ?elds isbi13.pdf
+        - An ITK implementation of the Normalized Gradient Field Image to Image Metric.pdf
+        - Beyond Mutual Information A Simple and Robust Alternative.pdf
+        - GPU Based Affine Linear Image Registration using Normalized Gradient Fields.pdf
+        - Intensity gradient based registration and fusion of multi-modal images miccai06.pdf
+        - Mathematics Meets Medicine An Optimal Alignment.pdf
+        - Modersitzki-2009-FAIR Flexible Algorithms for Image Registration.pdf
+        - Multi-Modal Image Registration using Normal Gradient Fields.pdf
+        - Nonparametric Image Registration of Airborne LiDAR, Hyperspectral and Photographic Imagery of Wooded Landscapes tgrs15.pdf
+        - Normalized   gradient   ?elds   for   nonlinear   motion   correction   of DCE-MRI   time   series.pdf
+        - Parallel and memory efficient multimodal image registration for radiotherapy using normalized gradient fields isbi15.pdf
+        - Insight Journal_714_1/
+    - RIU/
+        - Automated image registration I. General methods and intrasubject, intramodality validation. jcat98.pdf
+        - Automated Image Registration II. Intersubject Validation of Linear and Nonlinear Models jcat98.pdf
+        - MRI-PET Registration with Automated Algorithm jcat98.pdf
+- CNN/
+    - Real-Time Grasp Detection Using Convolutional Neural Networks 2014.pdf
+- Difference Decomposition/
+    - A  Differential Approach to  Graphical Interaction thesis 94.pdf
+    - Hyperplane approximation for template matching 2002.pdf
+    - Projective registration with difference decomposition. 1997.pdf
+- Dirac/
+    - delta.pdf
+    - Dirac delta functions and distributions.pdf
+    - Estevez_Delta_Dirac.pdf
+    - The Dirac Delta Function.pdf
+- Drift/
+    - Feature Selection for Reliable Tracking using Template Matching 2003.pdf
+    - Semi-supervised on-line boosting for robust tracking 2008.pdf
+    - The template update problem 2004.pdf
+- Features/
+    - BRIEF Binary Robust Independent Elementary Features eccv10.pdf
+    - BRISK Binary Robust Invariant Scalable Keypoints iccv11.pdf
+    - Distinctive image features from scale-invariant keypoints 2004.pdf
+    - Fast Keypoint Recognition in Ten Lines of Code cvpr07.pdf
+    - Gist Descriptor - Small codes and large image databases for recognition 2008.pdf
+    - Keypoint Recognition Using Randomized Trees tpami06.pdf
+    - Lecture 08 - Feature Tracking and Optical Flow - Vision_Spring2012.pdf
+    - Machine learning for high- speed corner detection eccv 2006.pdf
+    - Making good features track better.pdf
+    - ORB An efficient alternative to SIFT or SURF iccv11.pdf
+    - PCA-SIFT A More Distinctive Representation for Local Image Descriptors cvpr2004.pdf
+    - Rapid object detection using a boosted cascade of simple features cvpr01.pdf
+    - SIFT, SURF GLOH descriptors.pdf
+    - Stable 2D Feature Tracking for Long Video Tracking.pdf
+    - Visual Tracking via Locality Sensitive Histograms cvpr13.pdf
+    - Feature Learning/
+    - GIST/
+        - Classifying traf?c scenes using the GIST image descriptor ccvw13.pdf
+        - Evaluation of GIST descriptors for web-scale image search djsas09.pdf
+        - Modeling the shape of the scene a holistic representation of the spatial envelope IJCV01-Oliva-Torralba.pdf
+    - HOG/
+        - Histograms of oriented gradients for human detection 2005.pdf
+        - Object Detection with Discriminatively Trained Part Based Models pami10.pdf
+        - Representing shape with a spatial pyramid kernel 2007.pdf
+    - LBP/
+        - Multiresolution gray-scale and rotation invariant texture classi?cation with local binary patterns PAMI 2002.pdf
+    - LESH/
+        - LESH HEAD POSE ESTIMATION IN FACE RECOGNITION ACROSS  POSE SCENARIOS.pdf
+    - Receptive Field Histograms/
+        - Composed Complex-Cue Histograms An Investigation of the Information Content in Receptive Field Based Image Descriptors for Object Recognition 2012.pdf
+        - Object Recognition Using Composed Receptive Field Histograms of Higher Dimensionality 2004.pdf
+    - SIFT/
+        - Coloring Local Feature Extraction 2006.pdf
+        - Compact Object Descriptors from Local Colour Invariant Histograms 2006.pdf
+        - Evaluation of Color Descriptors for Object and Scene.pdf
+        - Improving the SIFT descriptor with smooth derivative ?lters.pdf
+        - Object recognition from local scale-invariant features 1999.pdf
+    - SURF/
+        - SURF Speeded Up Robust Features 2006.pdf
+    - Survey/
+        - A Performance Evaluation of Local Descriptors 2005.pdf
+        - All About Direct Methods 1999.pdf
+        - Feature Based Methods for Structure and Motion Estimation 1999.pdf
+        - Local invariant feature detectors A survey 2007.pdf
+        - Performance evaluation of local colour invariants 2009.pdf
+    - Textons/
+        - Contour and texture analysis for image segmentation 2001.pdf
+        - Recognizing surfaces using three-dimensional tex- tons 1999.pdf
+    - Wavelets/
+        - A Really Friendly Guide to Wavelets.pdf
+        - A Tutorial of the Wavelet Transform.pdf
+        - A Tutorial on Wavelets and their Applications.pdf
+        - THE WAVELET TUTORIAL PART I .pdf
+        - WAVELETS FOR KIDS.pdf
+- Image Registration/
+    - A Multistage Approach for Image Registration itc16.pdf
+    - A ROBUST AFFINE IMAGE REGISTRATION METHOD.pdf
+    - A Survey of Medical  Image Registration on  Multicore and the GPU ispm10.pdf
+    - A Survey of Recent and Classical Image Registration Methods.pdf
+    - A Survey on Evaluation Methods for Medical Image Registration icme07.pdf
+    - Breast image registration techniques a survey mbec06.pdf
+    - EFFICIENT OPTIMIZATION TECHNIQUES FOR LOCALIZATION AND REGISTRATION OF IMAGES Thesis.pdf
+    - Fourier Methods for Nonparametric Image Registration  IRF_June_2007.pdf
+    - Future of Image Registration.pdf
+    - Image Registration by Simulating Human Vision .pdf
+    - Image registration methods a survey ivc03.pdf
+    - Image Registration Techniques An overview  2009.pdf
+    - Medical Image Registration A Review crc2013c.pdf
+    - Medical Image Registration using Evolutionary Computation An Experimental Survey.pdf
+    - Non-rigid registration of medical images purpose and methods, a short survey isbi02.pdf
+    - Optimal Parameters Selection for Non-parametric Image Registration Methods.pdf
+    - OVERVIEW ON IMAGE REGISTRATION medcom14.pdf
+    - Remote Sensing Image Registration Techniques   A Survey .pdf
+    - Survey of Non-Rigid Registration Tools in Medicine jdi.pdf
+    - Target Tracking in Aerial Videos Using Image  Registration Techniques .pdf
+- IPCA/
+    - A Novel Incremental Principal Component Analysis and Its Application for Face Recognition 2007.pdf
+    - Candid Covariance-Free Incremental Principal Component Analysis 2003.pdf
+- Matching/
+    - Limits on super-resolution and how to break them 2000.pdf
+    - Stereo matching with transparency and matting 1998.pdf
+- Math/
+    - A Mathematical Introduction to Robotic Manipulation.pdf
+    - Derivatives/
+        - Finding the Second Partial Derivative Using the Chain Rule.pdf
+        - Higher Order Partial Derivatives.pdf
+    - Matrix Calculus/
+        - MatrixCalculus.pdf
+        - matrixcookbook.pdf
+- Medical Imaging/
+    - Graph-Based Label Propagation in Fetal Brain MR Images MLMI2014.pdf
+    - Patch-based segmentation using expert priors Application to hippocampus and ventricle segmentation Neuroimage2011.pdf
+- Motion Models/
+    - Adaptive Motion Model for Human Tracking Using Particle Filter  2010.pdf
+    - Combining local and global motion models for feature point tracking 2007.pdf
+    - Comparison and Evaluation of Advanced Motion Models for Vehicle Tracking 2008.pdf
+    - Discriminative Learning of Dynamical Systems for Motion Tracking.pdf
+    - Hierarchical model-based motion estimation ECCV92.pdf
+    - Integrating Motion and Illumination Models for 3D Tracking.pdf
+    - Linear dynamical models, Kalman ?ltering and statistics Lecture notes.pdf
+    - Motion Model Selection in Tracking Humans 2006.pdf
+    - Particle Filter with Multiple Motion Models for Object Tracking in Diving Video Sequences 2008.pdf
+    - Physically-based Motion Models for 3D Tracking A Convex Formulation.pdf
+    - The robust estimation of multiple motions parametric and piecewise-smooth ?ow ?elds cviu.63.1.1996.pdf
+    - TRACKING OBJECTS IN VIDEO USING MOTION AND APPEARANCE MODELS.pdf
+    - Vision based autonomous vehicles target visual tracking with multiple dynamics models 2005.pdf
+    - Visual Tracking Using Compensated Motion Model for Mobile Cameras  2011.pdf
+    - Chapters/
+        - Dynamic linear models Chapter.pdf
+        - Motion Models for People Tracking.pdf
+        - Tracking with Non-Linear Dynamic Models Chapter.pdf
+    - ScienceDirect/
+        - A hybrid motion and appearance prediction model for robust visual object tracking 2012.pdf
+        - A local-motion-based probabilistic model for visual tracking 2009.pdf
+    - Springer/
+        - A novel particle ?lter with implicit dynamic model for irregular motion tracking 2013.pdf
+        - Joint Random Sample Consensus and Multiple Motion Models for Robust Video Tracking 2009 S.pdf
+        - Learning and Regularizing Motion Models for Enhancing Particle Filter-Based Target Tracking 2012.pdf
+        - Object joint detection and tracking using adaptive multiple motion models 2014 S.pdf
+        - Real-Time Visual Tracking Based on an Appearance Model and a Motion Mode 2013 S.pdf
+        - Vehicle Tracking Based on Nonlinear Chapter S.pdf
+- Object Detection/
+    - A snowbased face detector nip 2000.pdf
+    - A statistical method for 3D object detection applied to faces and cars. iccv 2000.pdf
+    - Coarse-to-?ne face detection ijcv 2001.pdf
+    - Neural network-based face detection CVPR 1996.pdf
+- Optical Flow/
+    - A Duality Based Approach for Realtime TV-L1 Optical Flow dagm07.pdf
+    - Adapting Optical Flow to Measure Object Motion in Reflectance and X-Ray Image Sequences 1983.pdf
+    - Comparing optical ?ow algorithms using 6-dof motion of real-world rigid objects smc12.pdf
+    - Computing optical ?ow with physical models of brightness variation cvpr00.pdf
+    - Computing optical ?ow with physical models of brightness variation tpami01.pdf
+    - Determining optical ?ow ai1981.pdf
+    - Optical Flow Estimation.pdf
+    - OPTICAL FLOW USING COLOR INFORMATION 2008.pdf
+    - Performance of optical ?ow techniques ijcv-94.pdf
+    - Polynomial Expansion for Orientation and Motion Estimation.pdf
+    - Reliable Estimation of Dense Optical Flow Fields with Large Displacements  ijcv00.pdf
+    - Revised de?nition of optical ?ow Integration of radiometric and geometric cues for dynamic scene analysis tpami98.pdf
+    - SimpleFlow A Non-iterative, Sublinear Optical Flow Algorithm cgf12.pdf
+    - The Computation of Optical Flow.pdf
+    - TV-L1 Optical Flow Estimation  2013.pdf
+    - Two-Frame Motion Estimation Based on Polynomial Expansion 2003.pdf
+    - Variational/
+        - High accuracy optical ?ow estimation based on a theory for warping eccv04.pdf
+        - Variational space-time motion segmentation iccv03.pdf
+- Optimization/
+    - A Simplex Method for Function Minimization 1965.pdf
+- Scale Space/
+    - A computational theory of visual receptive ?elds 2013.pdf
+    - Generalized axiomatic scale-space theory 2013.pdf
+    - Image Matching using Generalized Scale-Space Interest Points 2013.pdf
+    - Invariance of visual operations at the level of receptive fields 2013.pdf
+    - Scale Selection Properties of Generalized Scale-Space Interest Point Detectors 2013.pdf
+    - Scale Selection Reference Guide 2014.pdf
+    - Scale-space Encyclopaedia 2008.pdf
+- SM/
+    - Projective registration with difference decomposition cvpr97.pdf
+- SSM/
+    - Hierarchical model-based motion estimation ECCV92.pdf
+    - Least Median of Squares Regression 1984.pdf
+    - Q-warping direct computation of quadratic reference surfaces tpami01.pdf
+    - Spline-based image registration CRL-94-1.pdf
+    - Spline-Based Image Registration ijcv97.pdf
+    - spline.pdf
+    - Homography/
+        - A Survey of Planar Homography Estimation Techniques.pdf
+        - Homography Estimation MSc Thesis.pdf
+        - Parameterizing Homographies baker_simon_2006_1.pdf
+    - TPS/
+        - Approximate Thin Plate Spline Mappings.pdf
+        - Bijective Image Registration using Thin-Plate Splines icpr06.pdf
+        - Evaluating thin-plate spline registration of the breast PMB6Patient.pdf
+        - Image Registration Based on Thin-Plate Splines and Local Estimates of Anisotropic Landmark Lo calization Uncertainties miccai98.pdf
+        - Image Registration by Combining Thin-Plate Splines With a 3D Morphable Model ICIP06.pdf
+        - Principal warps  Thin-plate splines and the decomposition of deformations pami89.pdf
+        - Thin-plate spline (TPS).pdf
+        - Thin-Plate Spline Approximation for Image Registration iembs96.pdf
+        - Thin-Plate Splines.pdf
+- Stitching/
+    - Automatic Panoramic Image Stitching using Invariant Features ijcv 8.2007.pdf
+- Subspaces/
+    - Online Learning of Probabilistic Appearance Manifolds for Video-based Recognition and Tracking 2005.pdf
+    - Online tracking and reacquistion using co-trained generative and discriminative trackers 2008.pdf
+- Tools/
+    - 3D is here Point Cloud Library (PCL)_icra2011.pdf
+    - A maximum likelihood framework for determining moving edges tpami89.pdf
+    - A survey and comparison of commercial and open-source robotic simulator software petra11.pdf
+    - ROS an open-source Robot Operating System icraoss09.pdf
+    - Survey of popular robotics simulators, frameworks, and toolkits 2011.pdf
+    - ViSP for visual servoing a generic software platform with a wide class of robot control skills iram05.pdf
+    - XVision  A  Portable  Substrate  for Real-Time Vision Applications 1998 2.pdf
+    - XVision  A  Portable  Substrate  for Real-Time Vision Applications 1998.pdf
+- Tracking-3D/
+    - 3D SSD Tracking from Uncalibrated Video eccv04.pdf
+    - 3D SSD Tracking from Uncalibrated Video.pdf
+    - A direct approach for ef?ciently tracking with 3D Morphable Models iccv09.pdf
+    - Real-time markerless tracking for augmented reality the virtual visual servoing framework itvcg06.pdf
+    - Real-time visual tracking of complex structures pami02.pdf
+    - Tracking the Pose of Objects through Subspace scia03.pdf
+- Tracking-Applications/
+    - Marker-less registration based on template tracking for augmented reality MMTA2008_AR.pdf
+    - Multi-target multi-object tracking, sensor fusion of radar and infrared ivs04.pdf
+    - Particle Filtering for Multiple Object Tracking in Dynamic Fluorescence Microscopy Images Application to Microtubule Growth Analysis tma08.pdf
+    - Tracking and object classification for automated surveillance eccv02.pdf
+- Tracking-Boosting/
+    - Ensemble Tracking 2005.pdf
+    - Ensemble tracking pami 2007.pdf
+    - On-line boosting and vision cvpr 2006.pdf
+    - Real-Time Tracking via On-line Boosting BMVC_2006.pdf
+    - Semi-supervised On-Line Boosting for Robust Tracking ECCV_2008.pdf
+    - Boosting/
+        - A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting 1997.pdf
+        - AdaBoost and the super bowl of classifiers a tutorial introduction to adaptive boosting 2009.pdf
+        - Additive logistic regression a statistical view of boosting 2000.pdf
+        - Boosting Algorithms as Gradient Descent NIPS 2000.pdf
+        - Gradient Feature Selection for Online Boosting ICCV_10_2007.pdf
+        - Greedy function approximation A gradient boosting machine.pdf
+        - The  Strength  of Weak Learnability 1990.pdf
+        - Thoughts on Hypothesis Boosting 1988.pdf
+        - Object Detection/
+            - Multiple instance boosting for object detection NIPS_2005.pdf
+            - Rapid object detection using a boosted cascade of simple features CVPR 2001.pdf
+            - Robust Real-Time Face Detection ICCV 2001.pdf
+- Tracking-Color/
+    - Adaptive Color Attributes for Real-Time Visual Tracking_cvpr14.pdf
+    - Color-Based Probabilistic Tracking eccv02.pdf
+    - Tracking Colour Objects Using Adaptive Mixture Models ivc99.pdf
+- Tracking-Composite/
+    - 3D SSD Tracking from Uncalibrated Video eccv04.pdf
+    - Tracking and Predictive Display for a Remote Operated Robot using Uncalibrated Video icra05.pdf
+    - Tracking the Invisible Learning Where the Object Might be cvpr10.pdf
+- Tracking-Contour/
+    - A framework for spatio-temporal control in the tracking of visual contours 1993.pdf
+    - Learning dynamics of complex motions from image sequences 1996.pdf
+    - Learning to track the visual motion of contours 1995.pdf
+- Tracking-Correlation/
+    - Accurate Scale Estimation for Robust Visual Tracking bmvc14.pdf
+    - Average of synthetic exact ?lters cvpr09.pdf
+    - Convolutional Features for Correlation Filter Based Visual Tracking iccv15.pdf
+    - Correlation Filters for Object Alignment cvpr13.pdf
+    - Discriminative Scale Space Tracking tpami14.pdf
+    - Exploiting the Circulant Structure of Tracking-by-detection with Kernels eccv12.pdf
+    - High-Speed Tracking with Kernelized Correlation Filters tpami15.pdf
+    - Learning a scale-and-rotation correlation filter for robust visual tracking icip16.pdf
+    - Multi-store tracker (muster) A cognitive psychology inspired approach to object tracking cvpr15.pdf
+    - Real-time RGB-D Tracking with Depth Scaling Kernelised Correlation Filters and Occlusion Handling bmvc15.pdf
+    - Visual object tracking using adaptive correlation ?lters cvpr10.pdf
+    - Correlation/
+        - Correlation and Convolution.pdf
+    - Exploiting the Circulant Structure of Tracking-by-detection with Kernels eccv12/
+        - henriques_eccv2012_poster.pdf
+        - henriques_eccv2012_supplement.pdf
+        - henriques_eccv2012_supplement2.pdf
+- Tracking-Covariance/
+    - Covariance tracking using model update based on lie algebra 2006.pdf
+    - Real-time visual tracking via Incremental Covariance Tensor Learning  2009.pdf
+- Tracking-Detection/
+    - Keypoint recognition using randomized trees tpami06.pdf
+    - Multiresolution EOIR Target Tracking and Identi?cation 2005.pdf
+    - Object tracking and detection after occlusion via numerical hybrid local and global mode-seeking 2008.pdf
+    - On-Line Selection of Discriminative Tracking Features 2003.pdf
+    - Online Tracking and Reacquisition Using Co-trained Generative and Discriminative Trackers 2008.pdf
+- Tracking-DFT/
+    - Dense Methods for Image Alignment with an Application to 3D Tracking epfl tr14.pdf
+    - Robust 3D Tracking with Descriptor Fields cvpr14.pdf
+    - Tracking texture-less, shiny objects with descriptor fields demo ismar14.pdf
+- Tracking-EigenTracking/
+    - Eigentracking Robust matching and tracking of articulated objects using view- based representation 1996.pdf
+- Tracking-ESM/
+    - A unified approach to visual tracking and servoing ras05.pdf
+    - Accurate and robust planar tracking based on a model of image sampling and reconstruction process ismar11.pdf
+    - An Efficient Direct Approach to Visual SLAM tir08.pdf
+    - An Efficient Direct Method for Improving visual SLAM icra07.pdf
+    - Constrained Multiple Planar Template Tracking for Central Catadioptric Cameras bmvc06.pdf
+    - Diffeomorphic demons Efficient non-parametric image registration 2008.pdf
+    - Efficient Homography-Based Tracking and 3-D Reconstruction for Single-Viewpoint Sensors tr08.pdf
+    - Ef?cient Homography-based Tracking and 3-D Reconstruction for Single Viewpoint Sensors ITRO08.pdf
+    - ESM-Blur Handling & Rendering Blur in 3D Tracking and Augmentation ismar09.pdf
+    - Fast motion estimation using bi-directional gradient methods tip04.pdf
+    - Generalizing Inverse Compositional and ESM Image Alignment ijcv10.pdf
+    - Handling Motion-Blur in 3D Tracking and Rendering for Augmented Reality tvcg11.pdf
+    - Homography-based 2d visual tracking and servoing ijrr07.pdf
+    - Improving vision-based control using efficient second-order minimization techniques 2004.pdf
+    - Integration of euclidean constraints in template-based visual tracking of piecewise-planar scenes iirs06.pdf
+    - On visual servoing based on efficient second order minimization 2010.pdf
+    - Photogeometric direct visual tracking for central omnidirectional cameras jmiv14.pdf
+    - Real-time image-based tracking of planes using efficient second-order minimization 2004.pdf
+    - Real-time visual tracking under arbitrary illumination changes cvpr07.pdf
+    - Surface interpolation with radial basis functions for medical imaging tmi97.pdf
+    - The Bi-directional Framework for Unifying Parametric Image Alignment Approaches eccv08.pdf
+    - Uni?ed direct visual tracking of rigid and deformable surfaces under generic illumination changes in grayscale and color images ijcv10.pdf
+    - Visual servoing from robust direct color image registration iros09.pdf
+- Tracking-Evaluation/
+    - A Dataset and Evaluation Methodology for Template-based Tracking Algorithms ismar09.pdf
+    - A Novel Performance Evaluation Methodology for Single-Target Trackers 3_15.pdf
+    - A Novel Performance Evaluation Methodology for Single-Target Trackers tpami16.pdf
+    - A protocol for evaluating video trackers under real-world conditions ip13.pdf
+    - A survey of datasets for visual tracking mva16.pdf
+    - Adaptive online performance evaluation of video trackers ip12.pdf
+    - An Open Source Tracking Testbed and Evaluation Web Site 2005.pdf
+    - Benchmarking in Manipulation Research The YCB Object and Model Set and Benchmarking Protocols.pdf
+    - Development of the Tracking Database.pdf
+    - Evaluation of Interest Point Detectors and Feature Descriptors for Visual Tracking ijcv11.pdf
+    - Finding the Best from the Second Bests Inhibiting Subjective Bias in Evaluation of Visual Tracking Algorithms iccv13.pdf
+    - Is my new tracker really better than yours wacv_3.2014.pdf
+    - Measuring complete ground-truth data and error estimates for real video sequences, for performance evaluation of tracking, camera pose and motion estimation algorithms iccv05.pdf
+    - Object tracking benchmark tpami15.pdf
+    - Online Empirical Evaluation of Tracking Algorithms pami10.pdf
+    - Tracking Benchmark and Evaluation for Manipulation Tasks ICRA2015.pdf
+    - Tracking by an Optimal Sequence of Linear Predictors pami09.pdf
+    - Tracking Manipulation Tasks (TMT) Benchmark and Evaluation.pdf
+    - Unbiased Look at Dataset Bias cvpr11.pdf
+    - Video with ground-truth for validation of visual registration, tracking and navigation algorithms crv05.pdf
+    - Visual object tracking performance measures revisited 2_15.pdf
+    - Visual object tracking performance measures revisited tpami16.pdf
+    - GT/
+        - A tool for fast ground truth generation for object detection and tracking from video icip14.pdf
+        - Generation of Ground Truth for Object Detection While Playing an Online Game Productive Gaming or Recreational Working cvpr13.pdf
+        - Ground Truth Verification Tool (GTVT) for Video Surveillance Systems.pdf
+- Tracking-Feature Selection/
+    - Online selecting discriminative tracking features using particle ?lter cvpr 2005.pdf
+    - Online selection of discriminative tracking features. 2005.pdf
+- Tracking-FragTrack/
+    - Integral histogram A fast way to extract histograms in cartesian spaces cvpr05.pdf
+    - Robust Fragments-based Tracking using the Integral Histogram CVPR 2006.pdf
+- Tracking-Fusion/
+    - A probabilistic approach to integrating multiple cues in visual tracking 2008.pdf
+    - Learning to track with multiple observers 2009.pdf
+- Tracking-GKT/
+    - Generalized Kernel-based Visual Tracking 2010.pdf
+- Tracking-IVT/
+    - Incremental Learning for Robust Visual Tracking 2008.pdf
+    - Probabilistic principal component analysis. 1999.pdf
+    - Probabilistic visual learning for object detection 1995.pdf
+    - Real-time tracking of image regions with changes in geometry and illumination 1996.pdf
+    - EigenBasis/
+        - Adding and subtracting eigenspaces with eigenvalue decomposition and singular value decomposition 2002.pdf
+        - eigenbasis.pdf
+    - Subspace Representations/
+        - Visual learning and recognition of 3d objects from appearance 1995.pdf
+        - What is the set of images of an object under all possible lighting conditions 1998.pdf
+- Tracking-Kalman Filter/
+    - Fast occluded object tracking by a robust appearance ?lter tpami04.pdf
+    - Kalman ?lter- based algorithms for estimating depth from image sequences ijcv89.pdf
+    - Visual Tracking of High DOF Articulated Structures an Application to Human Hand Tracking eccv94.pdf
+    - Visual tracking of known three-dimensional objects ijcv92.pdf
+    - Kalman Filters/
+        - A New Extension of the Kalman Filter to Nonlinear Systems 1997.pdf
+        - Extended Kalman Filter Tutorial.pdf
+        - Kalman and Extended Kalman Filters Concept, Derivation and Properties.pdf
+        - Kalman Filter for Robot Vision A Survey tie12.pdf
+        - The Kalman Filter An Introduction to Concepts.pdf
+        - Unscented Kalman Filters and Particle Filter Methods for Nonlinear State Estimation.pdf
+        - Unscented ?ltering and nonlinear estimation. ieee04.pdf
+- Tracking-Kernel/
+    - Generalized Kernel-based Visual Tracking arxiv09.pdf
+- Tracking-L1/
+    - An Interior-Point Method for Large-Scale l1-Regularized Least Squares 2007.pdf
+    - Ef?cient Minimum Error Bounded Particle Resampling L1 Tracker with Occlusion Detection 2013.pdf
+    - Minimum Error Bounded Efficient L1 Tracker with Occlusion Detection cvpr11.pdf
+    - Real time robust L1 tracker using accelerated proximal gradient approach cvpr12.pdf
+    - Real-time compressive tracking eccv12.pdf
+    - Real-time visual tracking using compressive sensing cvcpr_6.2011.pdf
+    - Robust and Fast Collaborative Tracking with Two Stage Sparse Optimization 2010.pdf
+    - Robust infrared vehicle tracking across target pose change using L1 regularization 2010.pdf
+    - Robust Visual Tracking and Vehicle Classification via Sparse Representation 2011.pdf
+    - Robust Visual Tracking using l1 Minimization iccv2009.pdf
+    - Minimization Algorithms/
+        - Fast l1- minimization algorithms and an application in robust face recognition a review 2010.pdf
+        - On accelerated proximal gradient methods for convex-concave optimization 2008.pdf
+- Tracking-Learning/
+    - Clustering of Static-Adaptive Correspondences for Deformable Object Tracking cvpr_2015.pdf
+    - Learning to Track at 100 FPS with Deep Regression Networks arxiv16.pdf
+    - Learning to Track at 100 FPS with Deep Regression Networks eccv16.pdf
+    - Real-time compressive tracking eccv12.pdf
+    - Real-time compressive tracking eccv12_supp.pdf
+    - Struck Structured Output Tracking with Kernels iccv11.pdf
+    - Struck Structured Output Tracking with Kernels tpami16-author.pdf
+    - Struck Structured Output Tracking with Kernels tpami16.pdf
+    - Compressed Sensing/
+        - Compressed sensing tit06.pdf
+        - Decoding by linear programing tit05.pdf
+        - Near optimal signal recovery from random projections and universal encoding strategies tit06.pdf
+        - Real-time visual tracking using compressive sensing cvpr11.pdf
+    - Deep/
+        - Ca?e Convolutional architecture for fast feature embedding aicm14.pdf
+        - Imagenet large scale visual recognition challenge ijcv14.pdf
+    - Structrured SVM/
+        - Large margin methods for structured and interdependent output variables jmlr05.pdf
+        - Learning to localize objects with structured output regression eccv08.pdf
+        - Sequence labelling SVMs trained in one pass ecml-2008.pdf
+        - Solving multi- class support vector machines with LaRank icml07.pdf
+- Tracking-Lie/
+    - Complexity accuracy tradeo?s of Lie operators in motion estimation pr07.pdf
+    - Learning on Lie Groups for Invariant Detection and Tracking tr08.pdf
+    - Learning on Riemannian Manifolds for Interpretation of Visual Environments thesis.pdf
+    - Learning Visual Flows A Lie Algebraic Approach cvpr09.pdf
+    - Lie Algebra and System Identification Techniques for 3D Rigid Motion Estimation and Monocular Tracking jmiv06.pdf
+    - Lie algebra approach for tracking and 3D motion estimation using monocular vision ivc07.pdf
+    - Lie algebra template tracking  icpr04.pdf
+    - Optimization on Lie Manifolds and Projective  Tracking iccss08.pdf
+    - Projective Tracking Based on Second-Order Optimization on Lie Manifolds ccpr08.pdf
+    - Template tracking with lie algebras icra04.pdf
+    - Visual Tracking and Control using Lie Algebras cvpr99.pdf
+    - Differential Geometric Methods for Shape Analysis and Activity Recognition cvpr12/
+        - Part1.pdf
+        - Part2.pdf
+        - Part3.pdf
+        - Part4.pdf
+        - Part5.pdf
+    - Lie Groups/
+        - 7. LIE GROUPS AND LIE ALGEBRAS.pdf
+        - An Elementary Introduction to Groups and Representations.pdf
+        - Baker-Campbell-Hausdor? formula.pdf
+        - Euclidean metrics for motion generation on SE(3).pdf
+        - Introduction to Lie Groups and Lie Algebras.pdf
+        - Lecture Notes in Lie Groups.pdf
+        - Lecture Notes on Representation Theory.pdf
+        - Lie Algebras, Algebraic Groups, and Lie Groups.pdf
+        - Lie algebras.pdf
+        - Lie Groups and Algebras for optimisation and motion.pdf
+        - Lie groups and Lie algebras.pdf
+        - Lie Groups for 2D and 3D Transformations.pdf
+        - Notes on Di?erential Geometry and Lie Groups.pdf
+        - Notes On Group Actions Manifolds, Lie Groups and Lie Algebras.pdf
+        - Notes on Lie Algebras.pdf
+        - Representation theory of the Lie algebra.pdf
+        - Rigid Body Motion and the Euclidean Group.pdf
+        - Solving differential equations by symmetry groups.pdf
+        - The Euclidean Group SE(2).pdf
+        - The Role of Symmetries in Solving Differential Equations.pdf
+        - Why are Lie groups interesting.pdf
+        - Affine/
+            - Basic Theory of Af?ne Group Schemes.pdf
+            - Differential geometry, Lie groups, and symmetric spaces.pdf
+            - Flat Affine or Projective Geometries on Lie Groups.pdf
+            - Learning Lie Groups for Invariant Visual Perception.pdf
+            - Learning the Lie Groups of Visual Invariance.pdf
+            - Lie Groups and Lie Algebras.pdf
+            - Properly Discontinuous Groups of Affine Transformations A Survey.pdf
+            - Vision and Lie’s approach to invariance ivc95.pdf
+        - Exponential Map/
+            - 1 The exponential map.pdf
+            - More About the Exponential Map.pdf
+            - Nineteen dubious ways to compute the exponential of a matrix, twenty ?ve years later siam03.pdf
+            - Notes 4 The exponential map.pdf
+            - Practical parameterization of rotations using the exponential map 1998.pdf
+            - Practical Parameterization of Rotations Using the Exponential Map.pdf
+            - Representing Rotations and Orientations in Geometric Computing 2008.pdf
+            - The Chain Rule for Matrix Exponential Functions.pdf
+            - The Derivative of exp and Dynkin’s Formula.pdf
+            - Topics in Representation Theory The Adjoint Representation.pdf
+        - New/
+            - Insight into Efficient Image Registration Techniques and the Demons Algorithm ipmi08.pdf
+            - Minimization on the Lie Group SO(3) and Related Manifolds TR94.pdf
+            - The Geometry of the Newton Method on Non-Compact Lie Groups jgo02.pdf
+- Tracking-LK/
+    - algo_tracking.pdf
+    - An iterative image registration technique with an application to stereo vision 1981.pdf
+    - Comparing object alignment algorithms with appearance variation Forward-additive vs inverse-composition wmsp08.pdf
+    - Detection and Tracking of Point Features techreport 1991.pdf
+    - Lucas-Kanade 20 Years On A Unifying Framework 2004.pdf
+    - Pyramidal implementation of the af?ne lucas kanade feature tracker description of the algorithm 2001.pdf
+    - Pyramidal Implementation of the Lucas Kanade Feature Tracker Description of the algorithm 1999.pdf
+    - The Laplacian pyramid as a compact image code tc83.pdf
+    - Extensions/
+        - 3D SSD tracking with estimated 3d planes crv05.pdf
+        - 3D SSD tracking with estimated 3d planes ivc09.pdf
+        - Better features to track by estimating the tracking convergence region  icpr02.pdf
+        - Fast image-based tracking by selective pixel integration iccv99.pdf
+        - Global parametric image alignment via high-order approximation cviu08.pdf
+        - Good Features to Track 1994.pdf
+        - Groupwise geometric and photometric direct image registration pami08.pdf
+        - Learning efficient linear predictors for motion estiamtion TR06.pdf
+        - Linear and quadratic subsets for template-based tracking cvpr07.pdf
+        - Making good features to track better cvpr98.pdf
+        - Real time robust template matching bmvc02.pdf
+        - Real-time tracking and estimation of planar pose icpr02.pdf
+        - GKLT/
+            - Combined GKLT Feature Tracking and Reconstruction for Next Best View Planning pr09.pdf
+            - Extending GKLT Tracking—Feature Tracking for Controlled Environments with Integrated Uncertainty Estimation ia09.pdf
+            - Guided KLT Tracking Using Camera Parameters in Consideration of Uncertainty visigrapp08.pdf
+            - KLT Tracking Using Intrinsic and Extrinsic Camera Parameters in Consideration of Uncertainty viapp08.pdf
+    - LM/
+        - A Brief Description of the Levenberg-Marquardt Algorithm Implemened.pdf
+        - Levenb e rg-Marquardt Optimization.pdf
+        - The Levenberg-Marquardt method for nonlinear least squares curve-?tting problems.pdf
+    - Lucas-Kanade 20 Years On A Unifying Framework/
+        - Lucas-Kanade 20 Years On A Unifying Framework Part 1 Search Methods 2002.pdf
+        - Lucas-Kanade 20 Years On A Unifying Framework Part 2 Error Functions 2003.pdf
+        - Lucas-Kanade 20 Years On A Unifying Framework Part 3 Image Alignment 2003.pdf
+        - Lucas-Kanade 20 Years On A Unifying Framework Part 4 Priors 2004.pdf
+        - Lucas-Kanade 20 Years On Part 5 Extend to 3d 2004.pdf
+    - Misc/
+        - Jacobian images of super-resolved texture maps for model-based motion estimation and tracking 98.pdf
+        - Limits on super-resolution and how to break them cvpr00.pdf
+        - Numerical  Methods  for  the  Nonlinear Robust  Regression  Problem.pdf
+        - Robust Statistics/
+            - Robust Regression and Outlier Detection with the ROBUSTREG Procedure.pdf
+            - Robust statistics A brief introduction and overview.pdf
+            - Robust Statistics.pdf
+    - Shape and motion from image streams - A factorization method/
+        - A computational framework and an algorithm for the measurement of visual motion 1989.pdf
+        - Shape and motion from image streams a factorization method - 1. planar motion.pdf
+        - Shape and motion from image streams a factorization method - 2. point features in 3d motion.pdf
+        - Shape and Motion from Image Streams a Factorization Method - 3. Detection and tracking of point features 1991.pdf
+- Tracking-LKFC/
+    - Construction of panoramic image mosaics with global and local alignment ijcv00.pdf
+    - Image Alignment and Stitching A Tutorial 2004.pdf
+- Tracking-LKIA/
+    - Basic Differentiation Formulas.pdf
+    - Ef?cient region tracking with parametric models of geometry and illumination 1998.pdf
+    - Hyperplane approximation for template matching pami02.pdf
+    - Multiple kernel tracking with SSD CVPR04.pdf
+    - Real-Time Feature Tracking and Outlier Rejection with Changes in Illumination iccv01.pdf
+    - Real-Time Texture-Based 3-D Tracking pr03.pdf
+    - Real-time tracking of  image regions with changes in  geometry and illumination cvpr96.pdf
+    - Robust multiresolution estimation of parametric motion models jvcir95.pdf
+- Tracking-LKIC/
+    - Aligning  images  incrementally backwards.  Technical  Report 2001.pdf
+    - Direct image registration with gain and bias ta3mpw06.pdf
+    - Equivalence and efficiency of image alignment algorithms 2001 Better Quality.pdf
+    - Equivalence and efficiency of image alignment algorithms 2001.pdf
+    - Generalizing inverse compositional image alignment icpr06.pdf
+    - Groupwise geometric and photometric direct image registration pami08.pdf
+    - Inverse Compositional Method.pdf
+    - Rationalizing Efficient Compositional Image Alignment ijcv15.pdf
+    - The template update problem. TPAMI (2004).pdf
+- Tracking-Mean Shift/
+    - A New Tracking Algorithm Based on Mean Shift and Particle Filter icris16.pdf
+    - An improved mean-shift tracking algorithm with spatial-color feature and new similarity measure icmt11.pdf
+    - Computer Vision Face Tracking for Use in a Perceptual User Interface.pdf
+    - Ef?cient mean-shift tracking via a new similarity measure cvpr05.pdf
+    - Kernel-based object tracking 2003.pdf
+    - Mean Shift A Robust Approach Toward Feature Space Analysis pami02.pdf
+    - Mean Shift Clustering.pdf
+    - Multi-model component-based tracking using robust information fusion 2004.pdf
+    - Object Tracking Using CamShift Algorithm and Multiple Quantized  Feature Spaces vip05.pdf
+    - Real-Time Tracking of Non-Rigid Objects Using Mean Shift cvpr00.pdf
+- Tracking-Median Flow/
+    - Forward-Backward Error Automatic Detection of Tracking Failures icpr 2010.pdf
+    - Time Reversibility/
+        - In situ evaluation of tracking algorithms using time reversed chains cvpr 2007.pdf
+        - Robust visual tracking using the time- reversibility constraint iccv 2007.pdf
+- Tracking-MI/
+    - A uni?ed direct approach for visual servoing and visual tracking using mutual information thesis10.pdf
+    - Accurate real-time tracking using mutual information ismar10.pdf
+    - Mutual information for lucas-kanade tracking (milk) An inverse compositional formulation pami08.pdf
+    - Mutual information-based 3d object tracking ijcv08.pdf
+    - On registration of regions of interest (roi) in video sequences icavsbs03.pdf
+    - Optimal detection and tracking of feature points using mutual information  icip09.pdf
+    - Second-order optimization of mutual information for real-time image registration itip12.pdf
+    - B Spline/
+        - B-Spline Signal Processing Part II—Ef?cient Design and Applications tsp93.pdf
+        - B-Spline Signal Processing Part I—Theory tsp93.pdf
+        - CHAPTER 1 Splines and B-splines an Introduction.pdf
+        - CHAPTER 2 Basic properties of splines and B-splines.pdf
+        - quintic/
+            - 1-s2.0-S1110256X13000916-main.pdf
+            - 16.pdf
+    - Interpolation/
+        - A Review of Some Image Pixel Interpolation Algorithms.pdf
+        - Evaluation of Different Image Interpolation Algorithms.pdf
+        - interpolation.pdf
+        - Scattered data interpolation methods for electronic systems A survey 2002.pdf
+        - Curve Fitting/
+            - Iterative B-spline curve and surface for fitting.pdf
+            - Least-Squares Fitting of Data with B-Spline Curves.pdf
+            - Least-Squares Fitting of Data with B-Spline Surfaces.pdf
+            - Spline interpolation.pdf
+    - Joint Histogram/
+        - Change detection using joint intensity histogram icpr06.pdf
+        - Comparing Images Using Joint Histograms.pdf
+        - Maximum a Posteriori Local Histogram Estimation for Image Registration miccai05.pdf
+    - MI/
+        - A unifying framework for mutual information methods for use in non-linear optimisation eccv06.pdf
+        - Alignment by Maximization of Mutual Information ijcv97.pdf
+        - Alignment by maximization of mutual information tr.pdf
+        - Automated multi-modality image registration based on information theory (1995).pdf
+        - Correction to Interpolation artifacts in multimodality image registration based on maximization of mutual information tmi03.pdf
+        - Image Registration from Mutual Information of Edge Correspondences.pdf
+        - Interpolation artifacts in multimodality image registration based on maximization of mutual information TMI03.pdf
+        - Multimodality image registration by maximization of mutual information. mi97.pdf
+        - Mutual information based registration of medical images a survey.pdf
+        - Mutual information matching and interpolation artefacts. spie99.pdf
+        - Optimization of Mutual Information for Multiresolution Image Registration tip00.pdf
+        - Real-time Video Mosaicing with Adaptive Parametric Warping tr03.pdf
+        - Stochastic Sampling for Computing the Mutual Information of Two Images 2003.pdf
+        - The Use of Mutual Information for Rigid Medical Image  Registration  A Review smc02.pdf
+    - Parzen Density Estimation/
+        - Image super-resolution with B-Spline kernels.pdf
+        - Kernel B–Splines and Interpolation.pdf
+        - Non-Parametric Methods for KDE.pdf
+        - On estimation of a probability density function and mode 62.pdf
+        - Parzen windows.pdf
+- Tracking-MIL/
+    - Robust Object Tracking with Online Multiple Instance Learning. 2011.pdf
+    - Visual Tracking with Online Multiple Instance Learning 2009.pdf
+    - MIL/
+        - A Review of Multi-Instance Learning Assumptions 2010.pdf
+        - Multiple instance boosting for object detection nips05.pdf
+        - Multiple instance classification Review, taxonomy and comparative study AI 2013.pdf
+        - Online Ensemble Learning An Empirical Study.pdf
+        - Online ensemble learning.pdf
+        - Solving the multiple instance problem with axis-parallel rectangles AI 1997.pdf
+        - Support vector machines for multiple-instance learning NIPS 2003.pdf
+- Tracking-Misc/
+    - Accurate Scale Estimation for Robust Visual Tracking bmvc14.pdf
+    - Graph based discriminative learning for robust and ef?cient object tracking iccv 2007.pdf
+    - Multi-Target Multi-Object Tracking,  Sensor Fusion of Radar and Infrared ivs04.pdf
+    - Region-based tracking using affine motion models in long image sequences cvgip94.pdf
+    - Robust real-time visual tracking using pixel-wise posteriors eccv08.pdf
+    - The effect of colour space on tracking robustness iciea08.pdf
+    - Transformation invariance in pattern recognition tangent distance and propagation ijist00.pdf
+    - Best Trackers Benchmark 2013/
+        - ASLA/
+            - Visual Tracking via Adaptive Structural Local Sparse Appearance Model 2012.pdf
+        - CSK Fastest/
+            - Exploiting the Circulant Structure of Tracking-by-Detection with Kernels 2012.pdf
+        - LSK/
+            - Robust Tracking using Local Sparse Appearance Model and K-Selection 2011.pdf
+        - SCM Most Accurate/
+            - Robust Object Tracking via Sparsity-based Collaborative Model 2012.pdf
+        - Struck Most Prrecise/
+            - Struck Structured Output Tracking with Kernels 2011.pdf
+- Tracking-Motion Blur/
+    - Modeling and Generating Complex Motion Blur for Real-time Tracking cvpr08.pdf
+    - Visual tracking in the presence of motion blur cvpr05.pdf
+- Tracking-NCC/
+    - Adaptive  Tracking and Model Registration  Across Distinct  Aspects iros95.pdf
+    - An Improved Normalized Cross Correlation  Algorithm for Object Tracking icsp10.pdf
+    - Fast normalized cross correlation for motion tracking using basis functions biomedicine06.pdf
+    - Improving NCC-Based Direct Visual Tracking eccv12.pdf
+    - PROST Parallel robust online simple tracking cvpr10.pdf
+    - Tracking Using Normalized Cross Correlation and Color Space icias07.pdf
+    - NCC/
+        - Efficient Variable Size Template Matching Using Fast Normalized Cross Correlation on Multicore Processors adcons11.pdf
+        - Fast Template Matching Based on Normalized Cross Correlation  Using Adaptive Block Partitioning and Initial Threshold Estimation ism10.pdf
+        - Image Matching by Normalized Cross-Correlation icassp88.pdf
+        - Mass-preserving registration of medical images thesis10.pdf
+        - Robust multi-sensor image alignment iccv98.pdf
+        - Score normalization in multimodal biometric systems pr05.pdf
+        - Template matching using fast normalized cross correlation 2001.pdf
+- Tracking-NN/
+    - A branch and bound algorithm for computing k-nearest neighbors. itc75.pdf
+    - An algorithm for ?nding best matches in logarithmic expected time tms77.pdf
+    - Ef?cient clustering and matching for object class recognition bmvc06.pdf
+    - E?cient visual object tracking with online nearest neighbor classi?er accv10.pdf
+    - Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration visapp09.pdf
+    - Fast approximate nearest-neighbor search with k-nearest neighbor graph ijcai11.pdf
+    - Fast k-nn search arxiv15.pdf
+    - Fast Matching of Binary Features.pdf
+    - Fast Nearest Neighbor Search using Approximate Cached k-d tree iros12.pdf
+    - flann_manual-1.8.4.pdf
+    - HOV-kNN A New Algorithm to  Nearest Neighbor Search in  Dynamic Space  ijcsbi14.pdf
+    - Improving descriptors for fast tree matching by optimal linear projection iccv07.pdf
+    - Optimised KD-trees for fast image descriptor matching cvpr08.pdf
+    - Realtime Registration-Based Tracking via Approximate Nearest Neighbour Search rss2013.pdf
+    - Shape indexing using approximate nearest-neighbor search in high dimen- sional spaces cvpr97.pdf
+    - GNN/
+        - ToAnkush/
+            - Data/
+                - Results/
+- Tracking-Part Based/
+    - Robust fragments-based tracking using the integral histogram CVPR 2006.pdf
+- Tracking-Particle Filter/
+    - A mixed-state condensation tracker with automatic model-switching iccv98.pdf
+    - A Rao-Blackwellized particle ?lter for EigenTracking 2004.pdf
+    - Adaptive weighting of local classi?ers by particle ?lters for robust tracking 2009.pdf
+    - Condensation- conditional density propagation for visual tracking 1998.pdf
+    - Diversity-Enhanced Condensation Algorithm and Its Application for Robust and Accurate Endoscope Three-Dimensional Motion Tracking cvpr14.pdf
+    - Fast multiple object tracking via a hierarchical particle filter 2005.pdf
+    - Graph based discriminative learning for robust and ef?cient object tracking iccv 2007.pdf
+    - Improving grid-based slam with rao-blackwellized particle filters by adaptive proposals and selective resampling icra05.pdf
+    - Online selecting discriminative tracking features using particle ?lter. CVPR 2006.pdf
+    - Switching particle filters for efficient visual tracking sd ras06_10.pdf
+    - Visual tracking and recognition using appearance-adaptive models in particle ?lters  2004.pdf
+    - Particle Filter/
+        - A tutorial on particle filtering and smoothing fifteen years later.pdf
+        - A tutorial on particle filters for online nonlinear non-Gaussian Bayesian tracking.pdf
+        - An Introduction to Sequential Monte Carlo Methods.pdf
+        - An Overview of Sequential Monte Carlo Methods for Parameter Estimation in General State-Space Models  sysid09_final_normal_format.pdf
+        - Chapt3.2 Autoregressive Models.pdf
+        - Chapter 3 Autoregressive and moving average processes.pdf
+        - doucet_defreitas_gordon_smcbookintro.pdf
+        - Introduction to Sequential Monte Carlo Methods.pdf
+        - Non Linear Filtering Interacting Particle Solution 1996.pdf
+        - particle-filters++_v2.pdf
+        - Rao-Blackwellised Particle Filtering for Dynamic Bayesian Networks 2000.pdf
+        - Sequential Monte Carlo Methods a Survey.pdf
+        - Sequential Monte Carlo methods for dynamic systems.jasa98.pdf
+        - SMCTC Sequential Monte Carlo in C++.pdf
+        - Bayes Filter/
+            - A survey of probabilistic models, using the Bayesian Programming methodology as a unifying framework 2003.pdf
+            - Bayesian Filtering and Smoothing 2013.pdf
+        - DBN/
+            - A Tutorial on Dynamic Bayesian Networks.pdf
+            - Dynamic Bayesian Networks Representation, Inference and Learning.pdf
+            - Dynamic Bayesian Networks.pdf
+        - Distributions/
+            - Bayesian Modelling and Inference on Mixtures of Distributions.pdf
+        - MCMC/
+            - Markov Chain Monte Carlo and Gibbs Sampling.pdf
+            - mc_lecture_notes.pdf
+        - Resampling/
+            - Comparison of Resampling Schemes for Particle Filtering ispa05.pdf
+            - New Resampling Algorithms for Particle Filters icassp03.pdf
+            - On resampling algorithms for particle filters nsspw06.pdf
+            - Resampling Algorithms for Particle Filters A Computational Complexity Perspective 2004.pdf
+            - Resampling in particle filters.pdf
+- Tracking-RANSAC/
+    - A performance evaluation of local descriptors tpami05.pdf
+    - Automatic panoramic image stitching using invariant features ijcv2007.pdf
+    - Enhanced Target Tracking in UAV Imagery with P-N Learning and Structural Constraints iccvw 13.pdf
+    - P-N Learning Bootstrapping Binary Classi?ers by Structural Constraints cvpr10.pdf
+    - Performance Evaluation of RANSAC Family bmva.pdf
+    - RANSAC in 2011 _CVPR2011.pdf
+    - RKLT 8 DOF real-time robust video tracking combing coarse RANSAC features and accurate fast template registration crv2015.pdf
+    - Correspondence/
+        - A spectral technique for correspondence problems using pairwise constraints iccv05.pdf
+        - Feature correspondence and deformable object matching via agglomerative correspondence clustering iccv09.pdf
+    - LMS/
+        - Computing the Least Median of Squares Estimator in Time O ( nd ) 2005.pdf
+        - Least Median of Squares Regression jasa83.pdf
+        - LMSIntro.pdf
+    - RANSAC/
+        - A Comparison of Outlier Detection Procedures and  Robust Estimation Methods in GPS Positioning 2009.pdf
+        - Optimal RANSAC – Towards a Repeatable Algorithm for Finding the Optimal Set 2013.pdf
+        - Overview of the RANSAC Algorithm 2010.pdf
+        - Performance Evaluation of RANSAC Family bmvc09.pdf
+        - Random Sample Consensus A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography 81.pdf
+        - Two-View Geometry Estimation by Random Sample and Consensus PhD thesis.pdf
+- Tracking-RGBD/
+    - Real-time Object Pose Recognition and Tracking with an Imprecisely Calibrated  Moving RGB-D Camera 2014.pdf
+    - RGB-D object tracking A particle filter approach on GPU 2013.pdf
+- Tracking-SCV/
+    - A new multi-modal similarity measure for fast gradient-based 2d-3d image registration. embs09.pdf
+    - Dense non-rigid visual tracking with a robust similarity icip14.pdf
+    - Direct visual tracking under extreme illumination variations using the sum of conditional variance icip14.pdf
+    - Uni?ed direct visual tracking of rigid and deformable surfaces under generic illumination changes in grayscale and color images ijcv10.pdf
+    - Variational Methods for Multimodal Image Matching ijcv02.pdf
+    - Visual Servoing using the Sum of Conditional Variance iros12.pdf
+    - Visual tracking using the sum of conditional variance 2011.pdf
+    - Pixel Selection/
+        - Dense visual mapping of large scale environments for real-time localization iros11.pdf
+    - Videos/
+- Tracking-Sparse Representation/
+    - Robust Object Tracking via Sparsity-based Collaborative Model 2012.pdf
+    - Robust Visual Tracking via Multi-task Sparse Learning 2012.pdf
+    - Visual Tracking via Adaptive Structural Local Sparse Appearance Model. cvpr12.pdf
+    - Sparse Representation/
+        - A Survey of Sparse Representation Algorithms and Applications 2015.pdf
+        - Compressed sensing 2006.pdf
+        - Robust Face Recognition via Sparse Representation 2009 Appendix.pdf
+        - Robust Face Recognition via Sparse Representation 2009.pdf
+        - Stable signal recovery from incomplete and inaccurate measurements 2006.pdf
+- Tracking-SSIM/
+    - A Discriminative Structural Similarity Measure and its Application to Video-Volume Registration for Endoscope Three-Dimensional Motion Tracking itmi14.pdf
+    - A Robust Object Tracking Method Using Structural Similarity in Daubechies Complex Wavelet Domain prmi09.pdf
+    - An improved similarity measure in particle filters for robust object tracking cisp13.pdf
+    - Optimised Particle Filter Approaches to Object Tracking in Video Sequences.pdf
+    - Research of particle filter tracking algorithm based on structural similarity cisp10.pdf
+    - Structural Information Approaches to Object  Tracking in Video Sequences.pdf
+    - Structural similarity-based object tracking in multimodality surveillance videos mva09.pdf
+    - Structural Similarity-Based Object Tracking in Video Sequences icif06.pdf
+    - Video object tracking with differential Structural SIMilarity index icassp11.pdf
+    - SSIM/
+        - A universal image quality index 2002.pdf
+        - Complex Wavelet Structural Similarity A New Image Similarity Index.pdf
+        - CW-SSIM BASED IMAGE CLASSIFICATION.pdf
+        - Image quality assessment From error visibility to structural similarity tip04.pdf
+- Tracking-Survey/
+    - A comparison of tracking algorithm performance for objects in wide area imagery ssiai14.pdf
+    - A Review of Visual Tracking tr08.pdf
+    - A Survey of Appearance Models in Visual Object Tracking tist13.pdf
+    - A survey of image registration techniques acm92.pdf
+    - A survey on joint tracking using expectation–maximization based techniques if16.pdf
+    - A Survey Target Tracking Algorithm Based on Sparse Representation isc1d14.pdf
+    - A Unifying Theoretical Framework for Region Tracking tr13.pdf
+    - An experimental comparison of online object-tracking algorithms spie11.pdf
+    - Comparison-of-stochastic-filtering-methods-for-3D-tracking_2011_Pattern-Recognition.pdf
+    - Compressive object tracking — A review and analysis iccic14.pdf
+    - Feature Tracking Evaluation for Pose Estimation in Underwater Environments crv11.pdf
+    - Feature tracking for visual servoing purposes ras05.pdf
+    - Image registration methods a survey ivc03.pdf
+    - Multiple Object Tracking A Literature Review arxiv15.pdf
+    - Object tracking A survey 2006.pdf
+    - Online Object Tracking A Benchmark cvpr13.pdf
+    - Recent advances and trends in visual tracking A review neurocomputinNov2011.pdf
+    - Recent advances on multicue object tracking a survey air16.pdf
+    - Survey of single-target visual tracking methods based on online learning ietcv14.pdf
+    - The state-of-the-art in visual object tracking informatica12.pdf
+    - The Visual Object Tracking VOT2013 challenge results iccv13.pdf
+    - The Visual Object Tracking VOT2014 challenge results eccv14.pdf
+    - The Visual Object Tracking VOT2015 Challenge Results iccvw15.pdf
+    - The Visual Object Tracking VOT2016 challenge results eccv16.pdf
+    - Understanding and Diagnosing Visual Tracking Systems iccv15.pdf
+    - Video Tracking A Concise Survey joe06.pdf
+    - Visual Object Target Tracking Using Particle Filter A Survey IJIGSP-2013.pdf
+    - Visual object tracking—classical and contemporary approaches gcs16.pdf
+    - Visual tracking an experimental survey pami13.pdf
+    - vot_2014_presentation.pdf
+- Tracking-SVM/
+    - Support vector tracking pami04.pdf
+- Tracking-TLD/
+    - An Improved Tracking-Learning-Detection Method  ccc15.pdf
+    - Application of Tracking-Learning-Detection for Object Tracking in Stereoscopic Images aisc15.pdf
+    - Face-TLD Tracking-Learning-Detection applied to faces icip10.pdf
+    - Online learning of robust object detectors during unstable tracking iccvv 2009.pdf
+    - P-N learning Bootstrapping binary classi?ers by structural constraints cvpr10.pdf
+    - Tracking-Learning-Detection Adopted Unsupervised Learning Algorithm kse15.pdf
+    - Tracking-Learning-Detection tpami10.pdf
+    - Tracking-Learning-Detection tpami12.pdf
+    - Background/
+        - L. Breiman. Random forests.pdf
+        - On-line boosting and vision.pdf
+- Tracking-VTD/
+    - A direct formulation for sparse PCA using semide?nite programming 2007.pdf
+    - Parallell interacting MCMC for learning of topologies of graphical models 2008.pdf
+    - Sparse Principal Component Analysis.pdf
+    - Visual Tracking Decomposition 2010.pdf
+- Tracking-WSL/
+    - Robust Online Appearance Models for Visual Tracking PAMI_10_2013.pdf
+- Visual Servoing/
+    - A tutorial on visual servo control 1996.pdf
+    - Analysis of classical and new visual servoing control laws icra08.pdf
+    - Epipolar Geometry.pdf
+    - Monocular Vision for Long-term Micro Aerial Vehicle State Estimation A Compendium jfr13.pdf
+    - Real-time Monocular SLAM Why Filter icra10.pdf
+    - Small Object Manipulation in 3D Perception Robotic Systems Using Visual Servoing.pdf
+    - SVO Fast Semi-Direct Monocular Visual Odometry.pdf
+    - Video-based, real-time multi-view stereo ivc11.pdf
+    - Visual servo control, Part I Basic approaches 2006.pdf
+    - Visual servo control, Part II Advanced approaches 2007.pdf
+    - Visual Servoing and Visual Tracking 2008.pdf
+    - Visual Servoing Real Time Control of Robot Manipulators based on Visual Sensory Feedback 1993.pdf
+    - IBVS/
+        - A new approach to visual servoing in robotics ira92.pdf
+        - Image-based Visual Servoing.pdf
+    - PBVS/
+        - Position based visual servoing using a non-linear approach iros99.pdf
+        - Relative end-effector control using Cartesian position based visual servoing ira96.pdf
+    - Visual Odometry/
+        - Robust Odometry Estimation for RGB-D Cameras icra13.pdf
+        - Semi-direct Monocular Visual Odometry icra14.pdf
+        - Visual Odometry [Tutorial].pdf
