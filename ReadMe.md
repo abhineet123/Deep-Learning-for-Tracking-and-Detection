@@ -201,7 +201,7 @@ Collection of papers and other resources for object detection and tracking using
 	[(project)](http://www.milanton.de/dctracking/index.html)
 	- [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip)
 	[CVPR 2014]
-	[MATLAB]
+	[C++]
 	[(author)](http://www.cbsr.ia.ac.cn/users/lywen/)
 	- [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz)
 	[CVPR 2011]
