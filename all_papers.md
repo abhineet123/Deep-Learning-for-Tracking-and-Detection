@@ -1,4 +1,4 @@
-Updated on: 181214 092130
+Updated on: 181214 095214
 - 3D/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
 - Alignment/
@@ -11,7 +11,7 @@ Updated on: 181214 092130
 - Annotation/
     - Automatic generation of ground truth for the evaluation of obstacle detection and tracking techniques  1807.05722.pdf
     - Deep Interactive Object Selection ax1603.pdf
-    - Ef?ciently scaling up crowdsourced video annotation ijcv13.pdf
+    - Efficiently scaling up crowdsourced video annotation ijcv13.pdf
     - Human-Assisted Motion Annotation cvpr08.pdf
 - Autoencoder/
     - Optimal Binary Autoencoding with Pairwise Correlations iclr17.pdf
@@ -72,10 +72,10 @@ Updated on: 181214 092130
     - Motion Words for Videos eccv14.pdf
     - Show, Attend and Tell Neural Image Caption Generation with Visual Attention xuc15.pdf
 - Classification/
-    - Accurate and E?cient Image Classi?cation by Exploiting Sparsity Homa_Candidacy.pdf
+    - Accurate and Eficient Image Classification by Exploiting Sparsity Homa_Candidacy.pdf
     - Anytime recognition of objects and scenes cvpr14.pdf
-    - ImageNet classi?cation with deep convolutional neural networks acm17.pdf
-    - ImageNet classi?cation with deep convolutional neural networks nips12.pdf
+    - ImageNet classification with deep convolutional neural networks acm17.pdf
+    - ImageNet classification with deep convolutional neural networks nips12.pdf
     - Multi-Scale Dense Networks for Resource Efficient Image Classification ax1711.pdf
     - Place Recognition with ConvNet Landmarks Viewpoint-Robust, Condition-Robust, Training-Free rss15.pdf
     - Selective Search for Object Recognition IJCV2013.pdf
@@ -107,7 +107,7 @@ Updated on: 181214 092130
     - Thermal Imaging/
         - Deep Thermal Imaging Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns ax1803.pdf
     - Video/
-        - Beyond Short Snippets Deep Networks for Video Classi?cation cvpr15.pdf
+        - Beyond Short Snippets Deep Networks for Video Classification cvpr15.pdf
         - Deep Learning from Temporal Coherence in Video icml09.pdf
 - Deblurring/
     - Blind Image Deblurring Using Dark Channel Prior  cvpr16.pdf
@@ -156,12 +156,12 @@ Updated on: 181214 092130
     - Don't Decay the Learning Rate, Increase the Batch Size iclr18.pdf
     - Evaluating the Robustness of Neural Networks An Extreme Value Theory Approach ax180131 iclr18.pdf
     - Geometric deep learning going beyond Euclidean data ax1705.pdf
-    - Imagenet classi?cation with deep convolutional neural networks nips12.pdf
+    - Imagenet classification with deep convolutional neural networks nips12.pdf
     - On the Number of Linear Regions of Deep Neural Networks ax1406 nips14.pdf
     - Squeeze-and-Excitation Networks ax1804 cvpr18.pdf
     - SqueezeNext Hardware-Aware Neural Network Design ax180827.pdf
     - Understanding Deep Neural Networks with Rectified Linear Units ax1707.pdf
-    - Understanding the dif?culty of training deep feedforward neural networks icas10.pdf
+    - Understanding the difficulty of training deep feedforward neural networks icas10.pdf
     - Very Deep Convolutional Networks for Large-Scale Image Recognition iclr15 1409.1556.pdf
     - Visualizing and understanding convolutional neural networks ECCV2014.pdf
     - Weight Uncertainty in Neural Networks ax1505 icml15.pdf
@@ -185,7 +185,7 @@ Updated on: 181214 092130
     - DenseNet/
         - Densely Connected Convolutional Networks ax1801 cvpr17.pdf
     - Dropout/
-        - Dropout A Simple Way to Prevent Neural Networks from Over?tting jmlr14.pdf
+        - Dropout A Simple Way to Prevent Neural Networks from Overfitting jmlr14.pdf
         - Dropout as a Bayesian Approximation Appendix ax1605.pdf
         - Dropout as a Bayesian Approximation Representing Model Uncertainty in Deep Learning ax1610.pdf
         - Improving neural networks by preventing co-adaptation of feature detectors ax1207.pdf
@@ -201,7 +201,7 @@ Updated on: 181214 092130
     - NAS/
         - DARTS Differentiable Architecture Search ax180624.pdf
         - Efficient Neural Architecture Search with Network Morphism ax1806.pdf
-        - Ef?cient Neural Architecture Search via Parameter Sharing ax1802.03268.pdf
+        - Efficient Neural Architecture Search via Parameter Sharing ax1802.03268.pdf
         - Learning Transferable Architectures for Scalable Image Recognition ax1804.pdf
         - MnasNet Platform-Aware Neural Architecture Search for Mobile ax180731.pdf
         - Neural Architect A Multi-objective Neural Architecture Search with Performance Prediction.pdf
@@ -267,8 +267,8 @@ Updated on: 181214 092130
     - Sherstan_2014_AIROBOT.pdf
     - Sherstan_2016_AGI_preprint.pdf
 - Graph Theory/
-    - Algorithm 447 Ef?cient algorithms for graph manipulation acm73.pdf
-    - An e?cient heuristic procedure for partitioning graphs 1970.pdf
+    - Algorithm 447 Efficient algorithms for graph manipulation acm73.pdf
+    - An eficient heuristic procedure for partitioning graphs 1970.pdf
     - The Junction Tree Algorithm.pdf
     - The Junction Tree Algorithms.pdf
     - The partition problem mp93.pdf
@@ -309,7 +309,7 @@ Updated on: 181214 092130
         - A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects ax16_9 [best MT on MOT15].pdf
         - Continuous energy minimization for multitarget tracking tpami14.pdf
         - Learning an image-based motion context for multiple people tracking cvpr14.pdf
-        - Multi-target tracking by lagrangian relaxation to min-cost network ?ow cvpr13.pdf
+        - Multi-target tracking by lagrangian relaxation to min-cost network fiow cvpr13.pdf
         - Multiple hypothesis tracking revisited iccv15.pdf
         - Multiple Object Tracking Using K-Shortest Paths Optimization  tpami11.pdf
     - Bayesian/
@@ -354,12 +354,12 @@ Updated on: 181214 092130
     - Misc/
         - Cyclist Detection, Tracking, and Trajectory Analysis in Urban Traffic Video Data msc_thes1708.pdf
         - Measurement-wise Occlusion in Multi-object Tracking ax1805.08324.pdf
-        - Multiple Object Tracking with Kernelized Correlation Filters in Urban Mixed Traf?c crv17.pdf
+        - Multiple Object Tracking with Kernelized Correlation Filters in Urban Mixed Traffic crv17.pdf
         - PoseTrack Joint Multi-Person Pose Estimation and Tracking_cvpr17.pdf
     - Network Flow/
-        - FollowMe Ef?cient Online Min-Cost Flow Tracking with Bounded Memory and Computation ax1412 iccv15.pdf
+        - FollowMe Efficient Online Min-Cost Flow Tracking with Bounded Memory and Computation ax1412 iccv15.pdf
         - Multi-commodity network flow for tracking multiple people tpami14.pdf
-        - Near-online multi-target tracking with aggregated local ?ow descriptor iccv15.pdf
+        - Near-online multi-target tracking with aggregated local fiow descriptor iccv15.pdf
         - On Pairwise Costs for Network Flow Multi-Object Tracking cvpr15.pdf
         - Target identity-aware network flow for online multiple target tracking cvpr15.pdf
     - Notes/
@@ -369,7 +369,7 @@ Updated on: 181214 092130
         - NOMT.pdf
         - Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf
     - Old/
-        - Global data association for multi-object tracking using network ?ows cvpr08.pdf
+        - Global data association for multi-object tracking using network fiows cvpr08.pdf
         - Learning to associate HybridBoosted multi-target tracker for crowded scene cvpr09.pdf
         - Markov chain monte carlo data association for multi-target tracking tac09.pdf
         - MCMC-based particle filtering for tracking a variable number of interacting targets  tpami05.pdf
@@ -396,7 +396,7 @@ Updated on: 181214 092130
         - Non-Markovian Globally Consistent Multi-Object Tracking_iccv17.pdf
         - The way they move Tracking multiple targets with similar appearance iccv13.pdf
         - Tracking multi-object using tracklet and Faster R-CNN icdsc16_9.pdf
-        - Tracklet association by online target-speci?c metric learning and coherent dynamics estimation tpami17.pdf
+        - Tracklet association by online target-specific metric learning and coherent dynamics estimation tpami17.pdf
         - Tracklet Association Tracker An End-to-End Learning-based Association Approach for Multi-Object Tracking  ax1808.01562.pdf
     - Traffic/
         - Multiple Object Tracking in Urban Traffic Scenes with a Multiclass Object Detector  ax1809.02073.pdf
@@ -406,7 +406,7 @@ Updated on: 181214 092130
     - Neuro-Dynamic Programming An Overview 1995.pdf
 - Optical Flow/
     - Beyond Pixels Exploring New Representations and Applications for Motion Analysis phd_mit09.pdf
-    - Deep discrete ?ow accv16.pdf
+    - Deep discrete fiow accv16.pdf
     - Deep End2End Voxel2Voxel Prediction ax1511 cvprw16.pdf
     - DeepFlow Large Displacement Optical Flow with Deep Matching iccv13.pdf
     - DeepMatching Hierarchical Deformable Dense Matching ijcv16.pdf
@@ -417,7 +417,7 @@ Updated on: 181214 092130
     - Evaluation/
         - A Database and Evaluation Methodology for Optical Flow iccv07.pdf
         - A database and evaluation methodology for optical flow ijcv11.pdf
-        - A naturalistic open source movie for optical ?ow evaluation eccv12.pdf
+        - A naturalistic open source movie for optical fiow evaluation eccv12.pdf
     - Non DL/
         - A Duality Based Approach for Realtime TV-L1 Optical Flow dagm07.pdf
         - A Filter Formulation for Computing Real Time Optical Flow ral16.pdf
@@ -426,15 +426,15 @@ Updated on: 181214 092130
         - EpicFlow Edge-Preserving Interpolation of Correspondences for Optical Flow ax1505 cvpr15.pdf
         - Fast Optical Flow using Dense Inverse Search eccv16.pdf
         - Flow Fields Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation iccv15.pdf
-        - High accuracy optical ?ow estimation based on a theory for warping eccv04.pdf
+        - High accuracy optical fiow estimation based on a theory for warping eccv04.pdf
         - Large displacement optical flow cvpr09.pdf
-        - Large displacement optical ?ow descriptor matching in variational motion estimation tpami11.pdf
+        - Large displacement optical fiow descriptor matching in variational motion estimation tpami11.pdf
         - Learning to Extract Motion from Videos in Convolutional Neural Networks ax1601.pdf
         - Motion Detail Preserving Optical Flow Estimation tpami12.pdf
-        - Motion detail preserving optical ?ow estimation. cvpr10.pdf
+        - Motion detail preserving optical fiow estimation. cvpr10.pdf
         - Parallel Implementation of a Robust Optical Flow Technique techreport CTIM_1_2012.pdf
         - PatchBatch a Batch Augmented Loss for Optical Flow ax1604 cvpr16.pdf
-        - SimpleFlow A non-iterative, sublinear optical ?ow algorithm cgf12.pdf
+        - SimpleFlow A non-iterative, sublinear optical fiow algorithm cgf12.pdf
         - TV-L1 Optical Flow Estimation ipol13.pdf
 - Optimization/
     - A Review on Bilevel Optimization From Classical to Evolutionary Approaches and Applications ax1705.pdf
@@ -458,7 +458,7 @@ Updated on: 181214 092130
     - Inverse Compositional Spatial Transformer Networks ax1612.pdf
     - Robust Projective Template Matching tis1610.pdf
     - Unsupervised Deep Homography A Fast and Robust Homography Estimation Model ax171229.pdf
-    - WILDCAT Weakly Supervised Learning of Deep ConvNets for Image Classi?cation, Pointwise Localization and Segmentation cvpr17.pdf
+    - WILDCAT Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation cvpr17.pdf
 - RL/
     - A self-organizing neural architecture integrating desire, intention and reinforcement learning sd nc10.pdf
     - Algorithms for inverse reinforcement learning icml00.pdf
@@ -512,7 +512,7 @@ Updated on: 181214 092130
         - Model-free linear quadratic tracking control for unmanned helicopters using reinforcement learning icara11.pdf
         - Optimal control of eye-movements during visual search ax17_4.pdf
     - Imperfect Models/
-        - Reinforcement Learning with Misspeci?ed Model Classes icra13_mit.pdf
+        - Reinforcement Learning with Misspecified Model Classes icra13_mit.pdf
     - Misc/
         - A new reinforcement learning vehicle control architecture for vision-based road following  tvt00.pdf
         - A Tutorial on Thompson Sampling ax1711.pdf
@@ -647,7 +647,7 @@ Updated on: 181214 092130
     - Multi-channel lidar processing for lane detection and estimation  its09.pdf
 - Siamese Networks and Learned AM/
     - Deep metric learning using Triplet network.pdf
-    - Learning a Similarity Metric Discriminatively, with Application to Face Veri?cation 05.pdf
+    - Learning a Similarity Metric Discriminatively, with Application to Face Verification 05.pdf
     - Siamese Neural Networks for One-Shot Image Recognition msc-thesis.pdf
     - Siamese Neural Networks for One-shot Image Recognition.pdf
 - Similarity Metric/
@@ -668,11 +668,11 @@ Updated on: 181214 092130
     - Correlation/
         - Beyond Correlation Filters Learning Continuous Convolution Operators for Visual Tracking eccv16 ax16_8.pdf
         - Context-Aware Correlation Filter Tracking_cvpr17.pdf
-        - Convolutional features for correlation ?lter based visual tracking iccvw15.pdf
+        - Convolutional features for correlation filter based visual tracking iccvw15.pdf
         - Correlation Tracking via Joint Discrimination and Reliability Learning_cvpr18.pdf
         - Correlation Tracking via Robust Region Proposals  ax1806.06418 iet18.pdf
         - ECO Efficient Convolution Operators for Tracking cvpr17 ax17_4.pdf
-        - ECO Ef?cient Convolution Operators for Tracking_cvpr17.pdf
+        - ECO Efficient Convolution Operators for Tracking_cvpr17.pdf
         - End-to-end Flow Correlation Tracking with Spatial-temporal Attention _cvpr18.pdf
         - End-To-End Representation Learning for Correlation Filter Based Tracking cvpr17.pdf
         - High-speed Tracking with Multi-kernel Correlation Filters  ax1806.05530 cvpr18.pdf
@@ -888,7 +888,7 @@ Updated on: 181214 092130
         - Deep Learning for Human Part Discovery in Images icra16.pdf
     - Mobile/
         - MobileNetV2 Inverted Residuals and Linear Bottlenecks ax180402.pdf
-        - Squeezedet Uni?ed, small, low power fully convolutional neural net- works for real-time object detection for autonomous driving cvprw17.pdf
+        - Squeezedet Unified, small, low power fully convolutional neural net- works for real-time object detection for autonomous driving cvprw17.pdf
     - Notes/
         - DSSD.pdf
         - Faster_R-CNN.pdf
@@ -904,7 +904,7 @@ Updated on: 181214 092130
         - YOLOv3 An Incremental Improvement ax180408.pdf
         - You Only Look Once Unified, Real-Time Object Detection ax1605.pdf
     - Post Processing/
-        - Assessing post-detection ?lters for a generic pedestrian detector in a tracking-by-detection scheme avss17.pdf
+        - Assessing post-detection filters for a generic pedestrian detector in a tracking-by-detection scheme avss17.pdf
     - RCNN/
         - Fast R-CNN ax1509 iccv15.pdf
         - Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks nips15 arxiv15.pdf
@@ -956,9 +956,9 @@ Updated on: 181214 092130
         - YOLOv3 An Incremental Improvement ax180408.pdf
         - You Only Look Once Unified, Real-Time Object Detection ax1605.pdf
 - Stereo/
-    - Ef?cient Deep Learning for Stereo Matching cvpr16.pdf
+    - Efficient Deep Learning for Stereo Matching cvpr16.pdf
 - Tools/
-    - A new approach towards implementing arti?cial neural networks.pdf
+    - A new approach towards implementing artificial neural networks.pdf
     - A Survey of Semantic Image and Video Annotation Tools 2011.pdf
     - matconvnet-manual.pdf
     - MXNet A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems nips15.pdf
@@ -966,23 +966,23 @@ Updated on: 181214 092130
 - Traffic Monitoring/
     - A computer vision system for the detection and classification of vehicles at urban road intersections paa05.pdf
     - A real-time computer vision system for vehicle tracking and traffic surveillance tret98.pdf
-    - A taxonomy and analysis of camera calibration methods for traf?c monitoring applications itst10.pdf
+    - A taxonomy and analysis of camera calibration methods for traffic monitoring applications itst10.pdf
     - An Overview of Image processing for traffic applications iosr14.pdf
     - Automated Road Safety Analysis Using Video Sensors trb07.pdf
-    - Biologically Inspired Composite Vision System for Multiple Depth-of-?eld Vehicle Tracking and Speed Detection accvw14.pdf
+    - Biologically Inspired Composite Vision System for Multiple Depth-of-field Vehicle Tracking and Speed Detection accvw14.pdf
     - Biologically inspired composite vision system for traffic monitoring icca16.pdf
     - Biologically-Inspired Long-Range Traffic  Monitoring System with Basler ace USB 3.0 Camera.pdf
-    - Camera calibration for urban traf?c scenes Practical issues and a robust approach trbam10.pdf
+    - Camera calibration for urban traffic scenes Practical issues and a robust approach trbam10.pdf
     - Computer Vision on Embedded Sensors for Traffic Flow Monitoring itsc15.pdf
     - Learning, Modeling, and Understanding Vehicle Surround Using Multi-Modal Sensing dissertation.pdf
     - Matching vehicles under large pose transformations using approximate 3D models and piecewise MRF model cvpr08.pdf
     - Real-time Vehicle Detection and Tracking Using Stereo Vision and Multi-View AdaBoost itsc-11.pdf
     - Road intersection monitoring from video with large perspective deformation itswc14.pdf
-    - Street Viewer An Autonomous Vision Based Traf?c Tracking System sensors16.pdf
+    - Street Viewer An Autonomous Vision Based Traffic Tracking System sensors16.pdf
     - Traffic monitoring and accident detection at intersections itst00.pdf
     - ViBe A universal background subtraction algorithm for video sequences tip11.pdf
     - Vision-based scale-adaptive vehicle detection and tracking for intelligent traffic monitoring robio14.pdf
-    - Vision-based traf?c measurement system icpr04.pdf
+    - Vision-based traffic measurement system icpr04.pdf
     - Commercial/
         - GridSmart.pdf
         - THE PROMETHEUS  PROGRAMME  92.pdf
@@ -993,11 +993,11 @@ Updated on: 181214 092130
     - Semantic/
         - A real-time computer vision system for measuring traffic parameters cvpr97.pdf
         - Large Scale Automated Analysis of Vehicle Interactions and Collisions.pdf
-        - Real-Time Video-Based Traf?c Measurement and Visualization System for EnergyEmissions itst12.pdf
+        - Real-Time Video-Based Traffic Measurement and Visualization System for EnergyEmissions itst12.pdf
         - Video processing techniques for traffic information acquisition using uncontrolled video streams itsc09.pdf
     - Survey/
         - A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos cviu14.pdf
-        - A review of computer vision techniques for the analysis of urban traf?c itst11.pdf
+        - A review of computer vision techniques for the analysis of urban traffic itst11.pdf
         - A survey of video processing techniques for traffic applications ivc03.pdf
         - A Survey of Vision-Based Traffic Monitoring of Road Intersections itst16.pdf
         - A survey on visual surveillance of object motion and behaviors tsmc04.pdf
@@ -1058,13 +1058,13 @@ Updated on: 181214 092130
         - Towards High Performance Video Object Detection ax171130 microsoft.pdf
         - Towards High Performance Video Object Detection for Mobiles ax180416 microsoft.pdf
     - Notes/
-        - Context Matters Re?ning Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
+        - Context Matters Refining Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
         - Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17.pdf
         - Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf
         - Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf
         - Online Video Object Detection using Association LSTM iccv17.pdf
     - RNN/
-        - Context Matters Re?ning Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
+        - Context Matters Refining Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
         - Online Video Object Detection using Association LSTM iccv17.pdf
         - Recurrent neural networks for object detection in video sequences msc_thes170321.pdf
     - Tubelets/
