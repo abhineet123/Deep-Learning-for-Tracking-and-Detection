@@ -172,12 +172,44 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Code
 - Multi Object Tracking
-	- [Combined Image- and World-Space Tracking in Traffic Scenes (ICRA 2017)](https://github.com/aljosaosep/ciwt)[C++]
-	- [Learning to Track: Online Multi-Object Tracking by Decision Making (ICCV 2015)](https://github.com/yuxng/MDP_Tracking)[MATLAB]
-	- [Multiple Hypothesis Tracking Revisited (ICCV 2015)](http://rehg.org/mht/) (highest MT on MOT2015 among open source trackers)[MATLAB]
-	- [Joint Tracking and Segmentation of Multiple Targets (CVPR 2015)](https://bitbucket.org/amilan/segtracking)[MATLAB]
+	- [Combined Image- and World-Space Tracking in Traffic Scenes](https://github.com/aljosaosep/ciwt)
+	[ICRA 2017]
+	[C++]
+	- [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking)
+	[ICCV 2015]
+	[MATLAB]
+	- [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/)
+	[ICCV 2015]
+	[highest MT on MOT2015 among open source trackers]
+	[MATLAB]
+	- [Joint Tracking and Segmentation of Multiple Targets](https://bitbucket.org/amilan/segtracking)
+	[CVPR 2015]
+	[MATLAB]
 	- [High-Speed Tracking-by-Detection Without Using Image Information (AVSS 2017)](https://github.com/bochinski/iou-tracker)[Python]
-	- [Continuous Energy Minimization for Multitarget Tracking (TPAMI  2014 / CVPR 2011 / ICCV 2011)](https://bitbucket.org/amilan/contracking)[MATLAB]
+	- [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking)
+	[TPAMI  2014 / CVPR 2011 / ICCV 2011]
+	[MATLAB]
+	- [Robust online multi-object tracking based on tracklet confidence and online discriminative appearance learning](https://drive.google.com/open?id=1YMqvkrVI6LOXRwcaUlAZTu_b2_5GmTAM)
+	[CVPR 2014]
+	[MATLAB]
+	[project](https://sites.google.com/view/inuvision/research)
+	- [Discrete-Continuous Energy Minimization for Multi-Target Tracking](http://www.milanton.de/files/software/dctracking-v1.0.zip)
+	[CVPR 2012]
+	[MATLAB]
+	[project](http://www.milanton.de/dctracking/index.html)
+	- [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip)
+	[CVPR 2014]
+	[MATLAB]
+	[author](http://www.cbsr.ia.ac.cn/users/lywen/)
+	- [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz)
+	[CVPR 2011]
+	[MATLAB]
+	[author](https://www.csee.umbc.edu/~hpirsiav/)	
+	- [The way they move: Tracking multiple targets with similar appearance](https://bitbucket.org/cdicle/smot/src/master/)
+	[ICCV 2013]
+	[MATLAB]
+	
+	
 - Single Object Tracking
 	- [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection)
 	- [Detect to Track and Track to Detect (ICCV 2017)](https://github.com/feichtenhofer/Detect-Track)[MATLAB]
@@ -229,16 +261,18 @@ Collection of papers and other resources for object detection and tracking using
 		- [Matchnet](https://github.com/hanxf/matchnet)
 		- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 		
-
 - Video Detection
 	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
 	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[Python]
 	- [Flow-Guided Feature Aggregation for Video Object Detection (NIPS 2016 / ICCV 2017)](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[Python/CUDA]
+	
 - Optical Flow
 	- [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS)
 	- [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
+	
 - Deep RL
 	- [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
+	
 - Misc
 	- [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 	- [RNNexp](https://github.com/asheshjain399/RNNexp)
