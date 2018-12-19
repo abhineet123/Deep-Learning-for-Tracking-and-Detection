@@ -1,4 +1,4 @@
-Updated on: 181218 181853
+Updated on: 181218 185736
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
 - alignment/
@@ -354,6 +354,8 @@ Updated on: 181218 181853
         - Online Multi-target Tracking with Strong and Weak Detections eccv16.pdf
     - rl/
         - Collaborative Deep Reinforcement Learning for Multi-Object Tracking_eccv18.pdf
+        - Learning to Track Online Multi-object Tracking by Decision Making  iccv15.pdf
+        - Learning to Track Online Multi-Object Tracking by Decision Making_iccv15 supplementary.pdf
     - rnn/
         - Multi-object Tracking with Neural Gating Using Bilinear LSTM_eccv18.pdf
     - segmentation/
@@ -740,7 +742,7 @@ Updated on: 181218 181853
         - RealtimeHO_ECCV2016_SM.pdf
         - Robust Odometry Estimation for RGB-D Cameras icra13.pdf
     - rl/
-        - Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning  cvpr17 supplementaqry.pdf
+        - Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning  cvpr17 supplementary.pdf
         - Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning  cvpr17.pdf
         - Action-Driven Visual Object Tracking With Deep Reinforcement Learning tnnls1806.pdf
         - Deep Reinforcement Learning for Visual Object Tracking in Videos ax17_4.pdf
@@ -748,8 +750,6 @@ Updated on: 181218 181853
         - Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking_eccv18.pdf
         - End-to-end Active Object Tracking via Reinforcement Learning ax17_5.pdf
         - Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning_cvpr18.pdf
-        - Learning to Track Online Multi-object Tracking by Decision Making  iccv15.pdf
-        - Learning to Track Online Multi-Object Tracking by Decision Making_iccv15 supplementary.pdf
         - Real-time 'Actor-Critic' Tracking_eccv18.pdf
         - Reinforcement Learning for Robust and Efficient Real-World Tracking icpr10.pdf
         - Tracking as Online Decision-Making Learning a Policy From Streaming Videos With Reinforcement Learning_iccv17.pdf
