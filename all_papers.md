@@ -1,4 +1,4 @@
-Updated on: 181218 185736
+Updated on: 181218 190354
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
 - alignment/
@@ -35,7 +35,6 @@ Updated on: 181218 185736
     - Human-level concept learning through probabilistic program induction.pdf
     - Lessons from the Primate Visual System eccv12.pdf
     - Visual parsing after recovery from blindness ps09.pdf
-- books/
 - captioning/
     - Motion Words for Videos eccv14.pdf
     - Show, Attend and Tell Neural Image Caption Generation with Visual Attention xuc15.pdf
