@@ -1,0 +1,703 @@
+Updated on: 181218 173842
+- Android/
+    - Android Application Programming with OpenCV.pdf
+    - Android Native Development Kit Cookbook.pdf
+- Bayesian networks/
+    - Dynamic Bayesian Networks Representation, Inference And Learning - Kevin Patrick Murphy.pdf
+    - Learning Bayesian Networks - Neapolitan R. E..pdf
+- Computer Graphics/
+    - Blender 2.6 Cycles_ Materials and Textures Cookbook.pdf
+    - Blender 3D Basics, 2nd Edition.pdf
+    - Computer Graphics.pdf
+    - Donald_Hearn__Prentice__-_Computer_Graphics_C_Version_2Ed.pdf
+    - Interactive_Computer_Graphics.pdf
+    - Introduction to Computer Graphics by Herb Yang, 2015.pdf
+    - OpenSceneGraph 3.0.pdf
+- Computer Vision/
+    - Algorithms.for_.Image_.Processing.and_.Computer.Vision.2nd.pdf
+    - An Intro to 3D Computer Vision Techniques and Algorithms - B. Cyganek, J. Siebert (Wiley, 2009) BBS.pdf
+    - An Invitation to 3-D Vision From Images to Models Draft.pdf
+    - An Invitation to 3-D Vision From Images to Models.pdf
+    - Bernd Jahne - Computer Vision and Applications.pdf
+    - Computer and Machine Vision, 4th Edition Theory, Algorithms, Practicalities Opsylum.pdf
+    - Computer Modeling and Simulation Techniques for Computer Vision Problems - Ming-Chin Lu.pdf
+    - Computer Vision - A Modern Appr. 2nd ed. - D. Forsyth, J. Ponce (Pearson, 2012) BBS.pdf
+    - Computer Vision - Linda Shapiro.pdf
+    - Computer Vision 2d ed - Dand h Ballard.pdf
+    - Computer Vision A Modern Approach - Forsyth , Ponce.pdf
+    - Computer Vision A Reference Guide 2014.pdf
+    - Computer Vision Algorithms and Applications.pdf
+    - Computer Vision and Applications A Guide for Students and Practitioners - Bernd Jahne.pdf
+    - Computer Vision Models, Learning, and Inference Opsylum.pdf
+    - Digital_Image_Processing.pdf
+    - Dynamic Vision for Perception and Control of Motion - Ernst D. Dickmanns.pdf
+    - Feature Extraction in Computer Vision and Image Processing - Mark S. Nixon.pdf
+    - Fundamentals of Computer Vision - Mubarak Shah.pdf
+    - Handbook of Computer Vision Algorithms in Image Algebra, 2nd Ed - Gerhard X. Ritter.pdf
+    - Handbook of Computer Vision and Applications Volume 1 Sensors and Imaging - Bernd Jahne.pdf
+    - Handbook of Computer Vision and Applications Volume 2 Signal Processing and Pattern Recognition -  - Bernd Jahne.pdf
+    - Handbook of Computer Vision and Applications Volume 3 Systems and Applications - Bernd Jahne.pdf
+    - Handbook Of Mathematical Models In Computer Vision - Nikos Paragios.pdf
+    - Machine Learning in Computer Vision - N. SEBE.pdf
+    - Machine Vision - David Vernon.pdf
+    - mastering_opencv_with_practical_computer_vision_projects.pdf
+    - Multiple View Geometry in Computer Vision (Second Edition).pdf
+    - Multiple View Geometry in Computer Vision 2ed - Hartley R., Zisserman A.pdf
+    - Nixon - Feature Extraction in Computer Vision and Image Processing.pdf
+    - Programming Computer Vision with Python.pdf
+    - Robot Vision - Stefan Florczyk.pdf
+    - Robot Vision.pdf
+    - the-ultimate-barcode-detection-guide.pdf
+    - Vision with Direction A Systematic Introduction to Image Processing and Computer Vision - Josef Bigun.pdf
+    - [Richard_Hartley_Andrew_Zisserman]_Multiple_View_G(BookFi.org).pdf
+    - OpenCV/
+        - OpenCV Computer Vision with Python.pdf
+        - OReilly Learning OpenCV.pdf
+- Database/
+    - Expert Oracle Database Architecture, 2nd Edition.pdf
+    - High Performance MySQL, 3rd Edition.pdf
+    - Oracle Database and PowerShell How-to.pdf
+- DL/
+    - Deep Learning.pdf
+    - Deep Learning/
+        - chapter-wise-pdf/
+            - [10]part-2-deep-network-modern-practices.pdf
+            - [11]part-2-chapter-6.pdf
+            - [12]part-2-chapter-7.pdf
+            - [13]part-2-chapter-8.pdf
+            - [14]part-2-chapter-9.pdf
+            - [15]part-2-chapter-10.pdf
+            - [16]part-2-chapter-11.pdf
+            - [17]part-2-chapter-12.pdf
+            - [18]part-3-deep-learning-research.pdf
+            - [19]part-3-chapter-13.pdf
+            - [1]table-of-contents.pdf
+            - [20]part-3-chapter-14.pdf
+            - [21]part-3-chapter-15.pdf
+            - [22]part-3-chapter-16.pdf
+            - [23]part-3-chapter-17.pdf
+            - [24]part-3-chapter-18.pdf
+            - [25]part-3-chapter-19.pdf
+            - [26]part-3-chapter-20.pdf
+            - [27]bibliography.pdf
+            - [28]index.pdf
+            - [2]acknowledgements.pdf
+            - [3]notation.pdf
+            - [4]chapter-1-introduction.pdf
+            - [5]part-1-basics.pdf
+            - [6]part-1-chapter-2.pdf
+            - [7]part-1-chapter-3.pdf
+            - [8]part-1-chapter-4.pdf
+            - [9]part-1-chapter-5.pdf
+        - complete-book-bookmarked-pdf/
+        - complete-book-pdf/
+            - deeplearningbook.pdf
+- Evolutionary computation/
+    - Data Mining Using Grammar Based Genetic Programming and Applications - Wong, Cheung.pdf
+    - Evolutionary Computation for Modeling and Optimization - Daniel Ashlock.pdf
+    - FRONTIERS OF EVOLUTIONARY COMPUTATION -  Anil Menon.pdf
+    - Genetic Programming An Introduction  On the Automatic Evolution of Computer Programs and its Applications - Morgan Kaufmann.pdf
+    - Genetic programming Complex adaptive systems - Koza J.R..pdf
+    - Genetic Programming Theory and Practice II - John Koza.pdf
+    - The Handbook of Evolutionary Computation - Kenneth De Jong.pdf
+- Fuzzy systems/
+    - FLEXIBLE NEURO-FUZZY SYSTEMS Structures, Learning and Performance Evaluation - Leszek Rutkowski.pdf
+    - Fusion Of Neural Networks, Fuzzy Systems And Genetic Algorithms - Lakhmi C. Jain , N.M. Martin.pdf
+    - Fuzzy Control Systems Design and Analysis A Linear Matrix Inequality Approach - Kazuo Tanaka, Hua O. Wang.pdf
+    - Fuzzy Logic in Embedded Microcomputers and Control Systems - Walter Banks.pdf
+    - Fuzzy Sets And Fuzzy Information Granulation Theory - lotfi Zadeh.pdf
+    - FUZZY SETS AND FUZZY LOGIC Theory and Applications - GEORGE J. KLIR , BO YUAN.pdf
+    - Fuzzy Sets And Systems Theory And Applications - Didier Dubois , Henri Prade.pdf
+    - FUZZY SETS AND THEIR APPLICATIONS TO COGNITIVE AND DECISION PROCESSES - Lotfi A. Zadeh , King-Sun Fu.pdf
+    - Simulating Continuous Fuzzy Systems - James J. Buckley.pdf
+- General AI/
+    - Advances in Applied Artificial Intelligence - John Fulcher.pdf
+    - Advances in Artificial Intelligence – SBIA 2004 - Ana L.C. Bazzan , Sofiane Labidi.pdf
+    - Agent-Oriented Programming - From Prolog to Guarded Definite Clauses - Matthew M. Huntbach.pdf
+    - Artificial Intelligence A Modern Approach - Stuart J. Russell , Peter Norvig.pdf
+    - Artificial Intelligence and Soft Computing  Behavioral and Cognitive Modeling of the Human Brain - Konar Amit.pdf
+    - ARTIFICIAL INTELLIGENCE and SOFTWARE ENGINEERING Understanding the Promise of the Future - Derek Partridge.pdf
+    - Artificial Intelligence Applications and Innovations - Bramer Max.pdf
+    - Artificial Intelligence Strategies, Applications, and Models Through Search  2d ed - Christopher Thornton.pdf
+    - Artificial Intelligence Through Prolog - Neil C Rowe.pdf
+    - Artificial Intelligence Today Recent Trends and Development - Manuela Veloso.pdf
+    - Artificial Intelligence, Structures And Strategies For Complex Problem Solving 3rd ed - George F Luger.pdf
+    - Computational Intelligence An Introduction - Andries P. Engelbrecht.pdf
+    - Computational Intelligence For Decision Support - Chen.pdf
+    - Computational Intelligence In Control - Masoud Mohammadian.pdf
+    - Computational Intelligence in Manufacturing Handbook - Jun Wang.pdf
+    - COMPUTATIONAL LINGUISTICSModels, Resources, Applications - Igor A. Bolshakov , Alexander Gelbukh.pdf
+    - Computational Web Intelligence Intelligent Technology for Web Applications - Y.-Q. Zhang.pdf
+    - Computer Science - Ai - Artificial Intelligence Programming.pdf
+    - Data Mining with Computational Intelligence - Lipo Wang , Xiuju Fu.pdf
+    - Derek Partridge - Artificial Intelligence and Software Engineering -- Understanding the Promise of the Future.pdf
+    - Essentials of Programming Languages 2d ed - Daniel P. FriedmanMitchell WandChristopher T. Haynes.pdf
+    - Intelligent Information Integration for the Semantic Web - Ubbo Visser.pdf
+    - John David Funge - Artificial Intelligence - Hardcore AI for Computer Games and Animation.pdf
+    - Methods And Applications Of Artificial Intelligence - Themistoklis Panayiotopoulos.pdf
+    - Multiagent systems a modern approach to distributed artificial intelligence - Gerhard Weiss.pdf
+    - Practical Artificial Intelligence Programming in Java - Mark Watson.pdf
+    - PROLOG PROGRAMMING FOR ARTIFICIAL INTELLIGENCE - lvan Bratko.pdf
+    - Steven L. Tanimoto - The Elements of Artificial Intelligence (An Introduction using LISP).pdf
+    - The Elements of Artificial Intelligence Using Lisp - Steven L. Tanimoto.pdf
+    - The International Dictionary Of Artificial Intelligence - William Raynor.pdf
+- Graph Theory/
+    - Geometry of Cuts and Metrics.pdf
+    - probabilistic graphical models - principles and techniques (2009).pdf
+    - probabilistic_graphical_models.pdf
+- Intelligent Systems/
+    - Intelligent Communication Systems - Nobuyoshi Terashima.pdf
+    - Intelligent Systems for Engineers and Scientists 2d ed - Adrian A. Hopgood.pdf
+    - Intelligent Systems Fusion, Tracking, and Control - GeeWah Ng.pdf
+- Knowledge-based systems/
+    - Artificial Intelligence and Expert Systems for Engineers - Krishnamoorthy , S. Rajeev.pdf
+    - Artificial_Intelligence_and_Expert_Systems_for_Engineers_(CRC-1996).pdf
+    - Building Expert Systems in Prolog - Dennis Merritt.pdf
+    - Fuzzy Expert Systems and Fuzzy Reasoning - William Siler.pdf
+    - The handbook of applied expert systems  - Jay Liebowitz.pdf
+    - Knowledge representation/
+        - Knowledge representation reasoning and declarative problem solving with Answer sets - Chitta Baral.pdf
+- Machine learning/
+    - An Introduction to Statistical Learning, with Applications in R springer13.pdf
+    - Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf
+    - Data Mining Practical Machine Learning Tools and Techniques 2d ed - Morgan Kaufmann.pdf
+    - Introduction to Machine Learning - Nils J Nilsson.pdf
+    - Machine Learning - Tom Mitchell.pdf
+    - Machine Learning And Its Applications - Georgios Paliouras.pdf
+    - Machine Learning in Computer Vision - N. SEBE.pdf
+    - Machine Learning, Game Play, and Go - David Stoutamire.pdf
+    - Machine Learning, Neural And Statistical Classification - Michie , Spiegelhalter , Taylor.pdf
+    - PROBLEM SOLVING WITH REINFORCEMENT LEARNING - Gavin Adrian Rummery.pdf
+    - Reinforcement Learning  An Introduction - Richard S. Sutton , Andrew G. Barto.pdf
+    - Statistical Machine Learning For Information Retrieval - Adam Berger.pdf
+- Mathematics/
+    - Calculus On Manifolds A Modern Approach To Classical Theorems Of Advanced Calculus.pdf
+    - Foundations of Differentiable Manifolds and Lie Groups.pdf
+    - Information Theoretic Measure for Visual Target Distinctness pami01.pdf
+    - Introduction to Lie Groups and Lie Algebras.pdf
+    - Introduction to Statistical Pattern Recognition 2nd Ed -  Keinosuke Fukunaga.pdf
+    - Matrix Computations - Golub.pdf
+    - Nonparametric  Multivariate  Density  Estimation  A  Comparative  Study 94.pdf
+    - Note on rational plane cubics 1926.pdf
+    - Numerical Geometry of Non-Rigid Shapes.pdf
+    - Representation Theory A First Course.pdf
+    - The Matrix Cookbook.pdf
+    - Applied Mathematics Body and Soul Calculus in Several Dimensions/
+        - eriksson-vol1.pdf
+        - eriksson-vol2.pdf
+        - eriksson-vol3.pdf
+- Misc/
+    - Handbook of Unmanned Aerial Vehicles/
+        - bfm%3A978-90-481-9707-1%2F1%2F1.pdf
+        - bfm%3A978-90-481-9707-1%2F1.pdf
+        - bfm%3A978-90-481-9707-1%2F2%2F1.pdf
+        - bfm%3A978-90-481-9707-1%2F3%2F1.pdf
+        - bfm%3A978-90-481-9707-1%2F4%2F1.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_116.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_121.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_130.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_132.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_133.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_134.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_135.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_53.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_54.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_55.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_56.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_6.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_71.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_83.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_84.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_91.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_92.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_93.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_94.pdf
+        - chp%3A10.1007%2F978-90-481-9707-1_96.pdf
+- Natural Language Processing/
+    - Formal Syntax and Semantics of Programming Languages - Kenneth Slonneger.pdf
+    - Foundations of Statistical Natural Language Processing - Christopher D. Manning.pdf
+    - Ontological Semantics - Sergei Nirenburg , Victor Raskin.pdf
+- Network Flows/
+    - Network fiows theory, algorithms, and applications.pdf
+- Neural networks/
+    - An Introduction to Neural Networks - Patrick van der Smagt.pdf
+    - Analysis And Applications Of Artificial Neural Networks - LPG Veelenturf.pdf
+    - Artificial Neural Networks - Colin Fyfe.pdf
+    - Artificial Neural Networks in Real-life Applications - Juan R. Rabunal.pdf
+    - C++ Neural Networks and Fuzzy Logic - Valluru B. Rao.pdf
+    - Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering - Nikola Kazabov.pdf
+    - Fusion of Neural Networks, Fuzzy Systems and Genetic Algorithms Industrial Applications - Lakhmi C. Jain , N.M. Martin.pdf
+    - Kalman Filtering and Neural Networks - Simon Haykin.pdf
+    - Machine Learning, Neural And Statistical Classification - Cc Taylor.pdf
+    - Methods and Procedures for the Verification and Validation of Artificial Neural Networks - Brian J. Taylor.pdf
+    - Neural Networks - A Comprehensive Foundation - Simon Haykin.pdf
+    - Neural Networks Algorithms, Applications,and Programming Techniques - James A. Freeman.pdf
+    - Programming Neural Networks in Java - JeffHeaton.pdf
+    - RECENT ADVANCES IN ARTIFICIAL NEURAL NETWORKS Design and Applications - Lakhmi Jain.pdf
+    - Recurrent Neural Networks Design And Applications - L.R. Medsker.pdf
+    - Static and Dynamic Neural Networks From Fundamentals to Advanced Theory - Madan M. Gupta, Liang Jin, Noriyasu Homma.pdf
+    - The Handbook Of Brain Theory And Neural Networks 2Nd Ed - Michael A Arbib.pdf
+- Neuroscience/
+    - computational cognitive neuroscience (2012).pdf
+    - computational modeling methods for neuroscientists (2009).pdf
+    - Computational Neuroscience -  A First Course.pdf
+    - computational neuroscience - a comprehensive approach (2003).pdf
+    - Computational Neuroscience and Cognitive Modelling - Anderson, Britt.pdf
+    - dynamical systems in neuroscience (2007).pdf
+    - Kandel_Principles of Neural Science Fifth Edition.pdf
+    - mathematical foundations of neuroscience (2010).pdf
+    - mathematics for neuroscientists (2010).pdf
+    - networks of the brain (2010).pdf
+    - Neural Engineering.pdf
+    - principles of computational modelling in neuroscience (2011).pdf
+    - spiking neuron models - single neurons, populations, plasticity (2002).pdf
+    - theoretical neuroscience - computational and mathematical modeling of neural systems (2001).pdf
+- Optimization/
+    - An Introduction to Optimization.pdf
+    - Computational Optimization, Methods and Algorithms.pdf
+    - Convex Optimization.pdf
+    - Engineering Optimization-Rao.pdf
+    - fundamental-engineering-optimization-methods.pdf
+    - Global Optimization Algorithms - Theory and Applications.pdf
+    - Iterative Methods for Optimization.pdf
+    - Numerical Optimization 2ed.pdf
+    - Numerical Recipes in C.pdf
+    - Numerical Recipes in C_ The Art of Scientific Computing, 2nd Ed., Press W.H., Teukols.pdf
+    - Numerical_Optimization.pdf
+    - Optimization Methods - From Theory to Design.pdf
+    - Optimization Methods for  Engineering Design  Applications and Theory .pdf
+    - Review of Optimization Techniques.pdf
+    - Scientific Computing.pdf
+    - Chapters/
+        - A Review of Deterministic Optimization Methods in Engineering and Management 2012.pdf
+        - Chapter 2 Mathematical Optimization Techniques.pdf
+        - Chapter 4  Optimization Methods.pdf
+        - OPTIMIZATION An introduction Thesis.pdf
+        - Optimization Techniques.pdf
+    - Quasi Newton/
+        - A Perfect Example for The BFGS Method.pdf
+        - NONSMOOTH OPTIMIZATION VIA BFGS.pdf
+        - Overview of Quasi-Newton optimization methods.pdf
+        - Quasi-Newton Methods — The BFGS Method.pdf
+- Pattern recognition/
+    - An Introduction to Pattern Recognition - Michael Alder.pdf
+    - Evolutionary Synthesis of Pattern Recognition Systems - Bir Bhanu.pdf
+    - Introduction to Statistical Pattern Recognition 2nd Ed -  Keinosuke Fukunaga.pdf
+    - Particle Swarm Optimization Methods for Pattern Recognition and Image Processing - Mahamed G. H. Omran.pdf
+    - Pattern recognition and image preprocessing  2nd ed -Sing T. Bow.pdf
+    - Pattern Recognition in Speech and Language Processing - WU CHOU.pdf
+    - Statistical Pattern Recognition 2nd Ed - Andrew R. Webb.pdf
+- Philosophy/
+    - Dennett-Darwin's Dangerous Idea.pdf
+    - Mark Ridley - Evolution__3rd_Edition.pdf
+    - paley-william-natural-theology.pdf
+    - Review Helena Cronin The Ant and the Peacock Altruism and Sexual Selection From Darwin To Today.pdf
+    - The Watchmaker Argument  PaleyWatch.pdf
+- Photoshop/
+    - Adobe Photoshop CS6 On Demand 2nd Edition.pdf
+    - Photoshop_CS6_For_Dummies.pdf
+    - photoshop_reference.pdf
+    - Adobe Photoshop CS6 Classroom In A Book V413HAV/
+        - Adobe Photoshop CS6 Classroom In A Book V413HAV.pdf
+        - Files/
+            - Lesson01/
+            - Lesson02/
+            - Lesson03/
+            - Lesson04/
+            - Lesson05/
+                - HDR_ExtraCredit/
+                - Mission/
+            - Lesson06/
+            - Lesson07/
+            - Lesson08/
+                - Video/
+            - Lesson09/
+            - Lesson10/
+            - __MACOSX/
+                - Lesson09/
+    - Wiley.Adobe.Photoshop.CS6.Digital.Classroom.May.2012/
+        - Wiley.Adobe.Photoshop.CS6.Digital.Classroom.May.2012.pdf
+        - pslessons/
+            - ps01lessons/
+            - ps02lessons/
+            - ps03lessons/
+                - flipit.pdf
+            - ps04lessons/
+            - ps05lessons/
+            - ps06lessons/
+            - ps07lessons/
+            - ps08lessons/
+            - ps09lessons/
+            - ps10lessons/
+            - ps11lessons/
+            - ps12lessons/
+                - images/
+            - ps13lessons/
+            - ps14lessons/
+- Programming-C/
+    - Advanced C 1992.pdf
+    - C Prentice Hall Eng The Ansi C Programming Language Ritchie & K.pdf
+    - McGraw-Hill - C - The Complete Reference, 4th Ed.pdf
+    - The complete Reference of C by Herbert Schildt.pdf
+    - Learn C the Hard Way[X7]/
+- Programming-C#/
+    - Agile-Principles-Patterns-and-Practices-in-C.pdf
+    - C# 3.0 - The Complete Reference - Herbert Schildt.pdf
+    - Pragmatic Unit Testing in C# with NUnit, 2nd Edition.pdf
+- Programming-C++/
+    - Addison Wesley - Bjarne Stroustrup - The C++ Programming Language 3rd Ed.pdf
+    - Addison.Wesley.C++.Template.Metaprogramming.Concepts.Tools.and.Techniques.from.Boost.and.Beyond.pdf
+    - Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf
+    - C++ --complete reference 3rd Edition.pdf
+    - C++ Cookbook.pdf
+    - C++ The Complete Reference (4th Edition).pdf
+    - C++ tutorial.pdf
+    - C++_Bjarne_Stroustrup.pdf
+    - Common Errors in CC++ Code and Static Analysis.pdf
+    - Course Technology Cplusplus Programming From Problem Analysis to Program Design 7th.Edition[A4].pdf
+    - John Levine, Linkers and Loaders.pdf
+    - Mastering Windows 8 C++ App Development.pdf
+    - MinGW Starter.pdf
+    - Thinking In C++ - 2nd Ed. - Vol 1.pdf
+    - Thinking in C++ Second Edition vol 2.pdf
+- Programming-dot Net/
+    - Microsoft .NET Framework 4.5 Quickstart Cookbook.pdf
+    - Net Framework 4.5 Expert Programming Cookbook.pdf
+    - Visual Studio 2012 and .NET 4.5 Expert Development Cookbook.pdf
+- Programming-Git/
+    - Pro Git.pdf
+- Programming-Java/
+    - Addison Wesley - The Essence of Object-Oriented Programming with Java and UML - 2001 - (By Laxxus.pdf
+    - Assignment Questions.pdf
+    - Fundamentals of OOP and Data Structures in Java 2001.pdf
+    - Java 7 New Features Cookbook.pdf
+    - Java Swing 2nd Edition 2005.pdf
+    - JavaScript Unit Testing.pdf
+    - McGrawHill Osborne - Java J2ME The Complete Reference.pdf
+    - O'Reilly - Database Programming with JDBC and Java 2nd Edition.pdf
+    - O'Reilly - Java Data Access JDBC, JNDI, and JAXP.pdf
+    - O'Reilly - Java Reference Library.pdf
+    - O'Reilly - Java Swing.pdf
+    - Pragmatic Unit Testing in Java with JUnit.pdf
+    - The Complete Reference Java2 5th Edition.pdf
+    - Thinking in Java, 2nd edition, Revision 11.pdf
+    - UML For Java Programmers.pdf
+- Programming-Latex/
+    - algorithm2e.pdf
+    - algorithmicx.pdf
+    - AMS Latex Guide.pdf
+    - Creating Tables with LaTeX.pdf
+    - embedfonts.pdf
+    - GSWLaTeX.pdf
+    - guide-tables.pdf
+    - LaTeX A Document Preparation System.pdf
+    - latex-introduction.pdf
+    - latexMath_align.pdf
+    - latextut2.pdf
+    - LaTeX_Symbols.pdf
+    - layman.pdf
+    - listings.pdf
+    - Mathmode.pdf
+    - mdframed.pdf
+    - onlineopt.pdf
+    - sectsty.pdf
+    - short-math-guide.pdf
+    - symbols-a4.pdf
+    - TeXbyTopic.pdf
+    - typeset_equations.pdf
+    - Using Imported Graphics in L A TEX and pdfL A TEX.pdf
+    - usrguide.pdf
+    - bibtex4word/
+    - Latex Symbol List/
+        - symbols-a4.pdf
+        - symbols-letter.pdf
+    - packages/
+        - algodoc.pdf
+        - algorithm2e.pdf
+        - algorithmicx.pdf
+        - algorithms.pdf
+        - amsfndoc.pdf
+        - amsthdoc.pdf
+        - appendix.pdf
+        - biblatex.pdf
+        - breqn.pdf
+        - cite.pdf
+        - colortbl.pdf
+        - epslatex.pdf
+        - framed.pdf
+        - hyperref.pdf
+        - indivseq_full.pdf
+        - l2tabuen.pdf
+        - titlesec.pdf
+        - units.pdf
+- Programming-Libraries/
+    - ALVAR_v2_User_Manual_v1.1.pdf
+    - fcnn_usersguide-0.5.1.pdf
+    - flann_manual-1.8.4.pdf
+    - GSL.pdf
+    - ItkSoftwareGuide.pdf
+    - libconfig.pdf
+    - OpenAI Gym ax1606.pdf
+    - OpenOffice DrawGuide.pdf
+    - plplot-5.11.1.pdf
+    - SoftIntegration Graphical Library.pdf
+    - Theano A Python framework for fast computation of mathematical expressions.pdf
+    - Tina’s Random Number Generator Library.pdf
+    - Boost/
+        - Boost.Asio C++ Network Programming.pdf
+        - Boost_Cplusplus_Application_Development_Cookbook.pdf
+        - The Boost C++ Libraries 1.32.pdf
+        - THE BOOST C++ METAPROGRAMMING LIBRARY.pdf
+    - Eigen/
+        - Eigen_QuickRef.pdf
+    - LibSVM/
+        - LibSVM - A Practical Guide to Support Vector Classification.pdf
+    - OpenCV/
+        - ,opencv2refman.pdf
+        - 03-ImageProcessing.pdf
+        - Algorithms.for_.Image_.Processing.and_.Computer.Vision.2nd.pdf
+        - Computer Vision Algorithms and Applications.pdf
+        - mastering_opencv_with_practical_computer_vision_projects.pdf
+        - opencv2refman.pdf
+        - OReilly Learning OpenCV.pdf
+        - Misc/
+            - A_ Basic_Introduction_to_OpenCV_for_Image_Processing.pdf
+            - Effects of Post-processing on Background Subtraction Algorithms.pdf
+            - matlab_to_opencv.pdf
+            - opencv2refman.pdf
+            - opencv2refman_cpp.pdf
+            - OpenCVReferenceManual.pdf
+            - Reference/
+    - OpenGL/
+        - Addison.Wesley.OpenGL.Programming.Guide.7th.Ed.2009.pdf
+        - Beginning OpenGL Game Programming.pdf
+        - OpenGL Development Cookbook.pdf
+        - OpenGL Game Development.pdf
+        - OpenGL Reference Manual.pdf
+        - OpenGL SuperBible 4th Edition.pdf
+        - OpenGL.Shading.Language.2nd.Edition.(Orange.Book).2006.pdf
+        - OpenGL Red Book and Blue Book/
+            - BlueBook/
+                - figures/
+            - RedBook/
+                - figures/
+            - shared/
+    - PVM/
+    - ROS/
+        - A Gentle Introduction to ROS.pdf
+        - Learning ROS for Robotics Programming.pdf
+        - ROS_Book_KR.pdf
+        - A Gentle Introduction to ROS Code/
+            - agitr/
+        - Learning ROS for Robotics Programming Code/
+            - chapter2_tutorials/
+                - msg/
+                - src/
+                - srv/
+            - chapter3_tutorials/
+                - bag/
+                - config/
+                - launch/
+                - output/
+                - src/
+                - srv/
+            - chapter4_tutorials/
+                - launch/
+                - libraries/
+                - src/
+                    - example5_1/
+                    - example5_2/
+                    - example7/
+            - chapter5_tutorials/
+                - launch/
+                - src/
+                - urdf/
+            - chapter6_tutorials/
+                - bag/
+                    - viso2_demo/
+                - calibration/
+                    - camera/
+                    - camera_stereo/
+                    - firewire_camera/
+                    - gscam/
+                    - pattern/
+                        - calibration_pattern_chessboard.pdf
+                - cfg/
+                - config/
+                - launch/
+                    - calibration/
+                    - frames/
+                    - visual_odometry/
+                - params/
+                    - camera/
+                    - camera_stereo/
+                    - firewire_camera/
+                    - gscam/
+                    - usb_cam/
+                    - viso2_demo/
+                - src/
+            - chapter7_tutorials/
+                - launch/
+                - maps/
+                - src/
+                - urdf/
+            - chapter8_tutorials/
+                - launch/
+                - maps/
+                - src/
+                - urdf/
+            - chapter9_tutorials/
+                - pr2/
+                    - launch/
+                    - worlds/
+                        - models/
+                            - simple/
+                - r2/
+                    - config/
+                - reem/
+                    - cfg/
+                    - scripts/
+                        - environment/
+    - TF/
+        - cv_tricks_com_tensorflow_tutorial_save_restore_tensorflow_mo.pdf
+- Programming-Make/
+    - cpyrt.pdf
+    - make.pdf
+    - ManagingProjectsWithGNUMake-3.1.3.pdf
+    - The GNU Make Book.pdf
+- Programming-Matlab/
+    - A Guide to MATLAB for Beginners and Experienced Users - Hunt Lipsman & Rosenberg.pdf
+    - Advanced Mathematics and Mechanics Applications Using MATLAB - Howard B. Wilson.pdf
+    - An Introduction to Programming and Numerical Methods in MATLAB - S.R. Otto & J.P. Denier.pdf
+    - Basics of MATLAB and Beyond - Andrew Knight.pdf
+    - Essential MATLAB for Engineers and Scientists - Brian D. Hahn & Daniel T. Valentine.pdf
+    - Introduction to MATLAB - Sikander M. Mirza.pdf
+    - Matlab array manipulation tips and tricks.pdf
+    - MATLAB based Image Editing and Color Detection.pdf
+    - MATLAB Primer (7th Ed) - Timothy A. Davis & Kermit Sigmon.pdf
+    - MATLAB Programming - David Kuncicky.pdf
+    - Numerical Methods in Engineering with MATLAB - Jaan Kiusalaas.pdf
+- Programming-Misc/
+    - A tool suite for simulation based analysis of memory access behavior. iccs04.pdf
+    - Adobe Dreamweaver CC Classroom In A Book.pdf
+    - Advanced Linux Programming (Mark Mitchell).pdf
+    - Advanced Linux Programming.pdf
+    - Autoconf, Automake, Libtool.pdf
+    - autoconf.pdf
+    - ddd.pdf
+    - enumitem.pdf
+    - Linux Programming Bible.pdf
+    - Linux Shell Scripting Cookbook, 2nd Edition.pdf
+    - Principles_and_Patterns.pdf
+    - Source Code Rejuvenation is not Refactoring sofsem10.pdf
+    - The Qiqqa Manual.pdf
+    - Visual Studio 2013 Cookbook - Jeff Martin, Richard Banks.pdf
+    - CMake/
+        - CMakeBook_SearchInside.pdf
+        - mastering-cmake.pdf
+    - Make/
+        - make.pdf
+        - Recursive Make Considered Harmful.pdf
+- Programming-Parallel/
+    - Algorithms and Parallel Computing.pdf
+    - C# Multithreaded and Parallel Programming.pdf
+    - C++ Multithreading Cookbook.pdf
+    - Concurrency in C# Cookbook.pdf
+    - OpenCL Parallel Programming Development Cookbook - Tay, Raymond.pdf
+    - OpenCL Programming by Example.pdf
+    - Parallel Programming - for Multicore and Cluster Systems.pdf
+    - Parallel Programming with Intel Parallel Studio XE.pdf
+    - Parallel Programming with Microsoft Visual C++.pdf
+    - Parallel Programming with Microsoft Visual Studio 2010 Step by Step.pdf
+    - Parallel Programming with Python.pdf
+    - Programming on Parallel Machines.pdf
+    - The Art of Concurrency.pdf
+    - Intel Parallel Studio/
+        - ippi.pdf
+        - ippm.pdf
+        - ipps.pdf
+        - ipp_userguide.pdf
+    - Misc/
+        - Introduction to Parallel Programming.pdf
+        - LLNL_Introduction_to_Parallel_Computing.pdf
+        - Parallel Programming Models and Paradigms Ch 1.pdf
+        - Parallel Thinking.pdf
+    - OpenMP/
+        - A “Hands-on” Introduction to  OpenMP.pdf
+        - Parallel Programming in OpenMP.pdf
+    - Structured Parallel Programming/
+        - Appendix-A-Further-Reading_2012_Structured-Parallel-Programming.pdf
+        - Appendix-B-Cilk-Plus_2012_Structured-Parallel-Programming.pdf
+        - Appendix-C-TBB_2012_Structured-Parallel-Programming.pdf
+        - Appendix-D-C-11_2012_Structured-Parallel-Programming.pdf
+        - Appendix-E-Glossary_2012_Structured-Parallel-Programming.pdf
+        - Bibliography_2012_Structured-Parallel-Programming.pdf
+        - Chapter-1-Introduction_2012_Structured-Parallel-Programming.pdf
+        - Chapter-10-Forward-Seismic-Simulation_2012_Structured-Parallel-Programming.pdf
+        - Chapter-11-K-Means-Clustering_2012_Structured-Parallel-Programming.pdf
+        - Chapter-12-Bzip2-Data-Compression_2012_Structured-Parallel-Programming.pdf
+        - Chapter-13-Merge-Sort_2012_Structured-Parallel-Programming.pdf
+        - Chapter-14-Sample-Sort_2012_Structured-Parallel-Programming.pdf
+        - Chapter-15-Cholesky-Factorization_2012_Structured-Parallel-Programming.pdf
+        - Chapter-2-Background_2012_Structured-Parallel-Programming.pdf
+        - Chapter-3-Patterns_2012_Structured-Parallel-Programming.pdf
+        - Chapter-4-Map_2012_Structured-Parallel-Programming.pdf
+        - Chapter-5-Collectives_2012_Structured-Parallel-Programming.pdf
+        - Chapter-6-Data-Reorganization_2012_Structured-Parallel-Programming.pdf
+        - Chapter-7-Stencil-and-Recurrence_2012_Structured-Parallel-Programming.pdf
+        - Chapter-8-Fork-Join_2012_Structured-Parallel-Programming.pdf
+        - Chapter-9-Pipeline_2012_Structured-Parallel-Programming.pdf
+        - Copyright_2012_Structured-Parallel-Programming.pdf
+        - Front-Matter_2012_Structured-Parallel-Programming.pdf
+        - Index_2012_Structured-Parallel-Programming.pdf
+        - Listings_2012_Structured-Parallel-Programming.pdf
+        - Preface_2012_Structured-Parallel-Programming.pdf
+        - Preliminaries_2012_Structured-Parallel-Programming.pdf
+    - TBB/
+        - Reference.pdf
+        - TBBtutorial.pdf
+- Programming-Python/
+    - blitz.pdf
+    - Core Python Programming, 2nd Edition (2001).pdf
+    - Cython tutorial 2009.pdf
+    - flann_manual-1.8.4.pdf
+    - Learning Cython Programming.pdf
+    - Learning Python (3th Edition) - Ascher, Lutz (O'Reilly, 2008).pdf
+    - Learning SciPy for Numerical and Scientific Computing.pdf
+    - Mastering Python Regular Expressions.pdf
+    - Matplotlib.pdf
+    - MDP-tutorial.pdf
+    - NumPy Beginner's Guide, 2nd Edition.pdf
+    - NumPy Cookbook.pdf
+    - numpy-ref-1.8.1.pdf
+    - Python Cheatsheet.pdf
+    - Python Cookbook 3rd Edition 2013.pdf
+    - Python Data Visualization Cookbook.pdf
+    - Python In A Nutshell 2nd Edition.pdf
+    - Python Programming An Introduction to Computer Science.pdf
+    - scipy-ref-0.14.0.pdf
+    - The Python Book - The Ultimate Guide to Coding with Python (2015).pdf
+    - Automate the Boring Stuff with Python (2015)/
+        - Automate the Boring Stuff with Python (2015).pdf
+- Programming-Web/
+    - HTML_&_CSS_The_Complete_Reference.pdf
+- Reinforcement Learning/
+    - Adaptive Representations for Reinforcement Learning SL 2010.pdf
+    - Algorithms for Reinforcement Learning.pdf
+    - Reinforcement Learning An Introduction bookdraft2016aug.pdf
+    - Reinforcement Learning State-of-the-Art sl 2012.pdf
+- Soft Computing/
+    - Foundations Of Soft Case-based Reasoning - SANKAR K. PAL.pdf
+    - Intelligent Control Systems Using Soft Computing Methodologies - Ali Zilouchian.pdf
+    - Learning And Soft Computing - Support Vector Machines, Neural Networks, And Fuzzy Logic Models - Vojislav Kecman.pdf
+- Swarm Intelligence/
+    - Swarm intelligence - James Kennedy.pdf
+- Web/
+    - Express Web Application Development.pdf
+    - HTML5 and CSS3 Responsive Web Design Cookbook.pdf
+    - HTML5 Enterprise Application Development.pdf
+    - HTML5 Web Application Development By Example.pdf
+    - Learn HTML5 by Creating Fun Games.pdf
+    - Responsive Media in HTML5.pdf
+    - Responsive Web Design by Example.pdf
+    - Socket.IO Real-time Web Application Development.pdf
