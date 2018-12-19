@@ -4,10 +4,10 @@ Collection of papers and other resources for object detection and tracking using
 
 - Region Proposal
     - **Scalable Object Detection Using Deep Neural Networks cvpr14**
-	([pdf](static_detection/Region%20Proposal/Scalable%20Object%20Detection%20Using%20Deep%20Neural%20Networks%20cvpr14.pdf),
+	([pdf](static_detection/Region_Proposal/Scalable%20Object%20Detection%20Using%20Deep%20Neural%20Networks%20cvpr14.pdf),
 	[notes](static_detection/Notes/Scalable%20Object%20Detection%20Using%20Deep%20Neural%20Networks%20cvpr14.pdf))
     - **Selective Search for Object Recognition ijcv2013**
-	([pdf](static_detection/Region%20Proposal/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf),
+	([pdf](static_detection/Region_Proposal/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf),
 	[notes](static_detection/Notes/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf))
 - RCNN
     - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**
@@ -90,12 +90,12 @@ Collection of papers and other resources for object detection and tracking using
 [notes](multi_object_tracking/Notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
 - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
 (arxiv April 2017) (Stanford)
-([pdf](multi_object_tracking/Deep%20Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
+([pdf](multi_object_tracking/Deep_Learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
 [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
 [notes](multi_object_tracking/Notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
 - **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor**
 (ICCV 2015) (NEC Labs)
-([pdf](multi_object_tracking/Multi%20Target/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf),
+([pdf](multi_object_tracking/network_flow/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf),
 [author page](http://www-personal.umich.edu/~wgchoi/),
 [notes](multi_object_tracking/Notes/NOMT.pdf))  
 - **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects**
