@@ -3,8 +3,8 @@
 !video_detection/
 !multi_object_tracking/
 !single_object_tracking/
-!deep_RL/
-!Readings/
+!deep_rl/
+!notes/
 *.bat
 *.dat
 *.lnk
