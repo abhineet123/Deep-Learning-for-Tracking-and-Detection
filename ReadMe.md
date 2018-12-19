@@ -14,7 +14,7 @@ Collection of papers and other resources for object detection and tracking using
 	([pdf](static_detection/rcnn/Faster%20R-CNN%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks%20tpami17%20ax16_1.pdf),
 	[notes](static_detection/notes/Faster_R-CNN.pdf))
     - **Mask R-CNN**
-	([pdf](static_detection/rcnn/Mask%20R-CNN%20ax17_4.pdf),
+	([pdf](static_detection/rcnn/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
 	[arxiv](https://arxiv.org/abs/1703.06870),
 	[code (keras)](https://github.com/matterport/Mask_RCNN),
 	[code (tensorflow)](https://github.com/CharlesShang/FastMaskRCNN))
