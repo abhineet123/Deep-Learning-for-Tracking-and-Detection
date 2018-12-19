@@ -4,10 +4,10 @@ Collection of papers and other resources for object detection and tracking using
 
 - Region Proposal
     - **Scalable Object Detection Using Deep Neural Networks cvpr14**
-	([pdf](static_detection/Region_Proposal/Scalable%20Object%20Detection%20Using%20Deep%20Neural%20Networks%20cvpr14.pdf),
+	([pdf](static_detection/region_proposal/Scalable%20Object%20Detection%20Using%20Deep%20Neural%20Networks%20cvpr14.pdf),
 	[notes](static_detection/Notes/Scalable%20Object%20Detection%20Using%20Deep%20Neural%20Networks%20cvpr14.pdf))
     - **Selective Search for Object Recognition ijcv2013**
-	([pdf](static_detection/Region_Proposal/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf),
+	([pdf](static_detection/region_proposal/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf),
 	[notes](static_detection/Notes/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf))
 - RCNN
     - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17**
