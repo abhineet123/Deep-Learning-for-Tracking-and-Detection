@@ -235,8 +235,9 @@ Collection of papers and other resources for object detection and tracking using
 		  * Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
 		- [Detectron](https://github.com/facebookresearch/Detectron)
 	- SSD
-		- [SSD-Tensorflow](https://github.com/HiKapok/SSD.TensorFlow) [tensorflow]
-		- [SSD-Tensorflow (tf.estimator)](https://github.com/balancap/SSD-Tensorflow) [tf.estimator]
+		- [SSD-Tensorflow](https://github.com/ljanyst/ssd-tensorflow) [tensorflow]
+		- [SSD-Tensorflow (tf.estimator)]() [tf.estimator]
+		- [SSD-Tensorflow (tf.estimator)](https://github.com/HiKapok/SSD.TensorFlow) [tf.estimator]
 		- [SSD-Tensorflow (tf.slim)](https://github.com/balancap/SSD-Tensorflow) [tf.slim]
 		- [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
 		- [SSD-Pytorch](https://github.com/amdegroot/ssd.pytorch) [pytorch]
