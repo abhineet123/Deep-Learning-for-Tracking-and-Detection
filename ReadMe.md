@@ -70,7 +70,7 @@ Collection of papers and other resources for object detection and tracking using
 	[notes](video_detection/notes/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf))
     - **Towards High Performance Video Object Detection ax171130 microsoft**
 	([pdf](video_detection/fgfa/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf),
-	[notes]	(video_detection/notes/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf))
+	[notes](video_detection/notes/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf))
 - RNN
     - **Online Video Object Detection using Association LSTM iccv17**
 	([pdf](video_detection/rnn/Online%20Video%20Object%20Detection%20using%20Association%20LSTM%20iccv17.pdf),
