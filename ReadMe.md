@@ -146,12 +146,16 @@ Collection of papers and other resources for object detection and tracking using
 - [PETS 2017](https://motchallenge.net/data/PETS2017/) (Low density; mostly pedestrians)
 - [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
 
-## Resources
-- [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
-- [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
-- [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)
-- [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
-- [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
+## Lists
+- Datasets
+	- [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
+- Single Object Tracking
+	- [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
+	- [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
+- Multi Object Tracking
+	- [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)	
+- Misc 
+	- [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 
 ## Tutorials
 - Static Detection
