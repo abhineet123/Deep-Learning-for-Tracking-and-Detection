@@ -124,12 +124,6 @@ Collection of papers and other resources for object detection and tracking using
 ([pdf](single_object_tracking/rl/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
 [arxiv](https://arxiv.org/abs/1705.10561))
 
-##  Interpolation
-- **Learning Features by Watching Objects Move**
-(CVPR 2017)
-([pdf](unsupervised/segmentation/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf),
-[ppt](unsupervised/notes/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf))
-
 ##  Deep Learning
 - **Do Deep Nets Really Need to be Deep**
 (NIPS 2014)
@@ -148,6 +142,12 @@ Collection of papers and other resources for object detection and tracking using
 	[notes](multi_object_tracking/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf))
 	
 ##  Unsupervised Learning
+- **Learning Features by Watching Objects Move**
+(CVPR 2017)
+([pdf](unsupervised/segmentation/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf),
+[notes](unsupervised/notes/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf))
+	
+##  Interpolation
 - **Video Frame Interpolation via Adaptive Convolution**
 (CVPR 2017 / ICCV 2017)
 ([pdf (cvpr17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf),
