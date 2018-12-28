@@ -127,7 +127,7 @@ Collection of papers and other resources for object detection and tracking using
 ##  Interpolation
 - **Learning Features by Watching Objects Move**
 (CVPR 2017)
-([pdf(cvpr17)](unsupervised/segmentation/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf),
+([pdf](unsupervised/segmentation/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf),
 [ppt](unsupervised/notes/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf))
 
 ##  Deep Learning
@@ -150,8 +150,8 @@ Collection of papers and other resources for object detection and tracking using
 ##  Unsupervised Learning
 - **Video Frame Interpolation via Adaptive Convolution**
 (CVPR 2017 / ICCV 2017)
-([pdf(cvpr17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf),
-([pdf(iccv17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Separable%20Convolution%20iccv17.pdf),
+([pdf (cvpr17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf),
+([pdf (iccv17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Separable%20Convolution%20iccv17.pdf),
 [ppt](interpolation/notes/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf))
 		
 ## Datasets
