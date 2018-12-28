@@ -1,4 +1,4 @@
-Updated on: 181218 190354
+Updated on: 181228 105335
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
 - alignment/
@@ -114,18 +114,9 @@ Updated on: 181218 190354
     - Patch-based video denoising with optical flow estimation tip16.pdf
     - Polyview Fusion A Strategy to Enhance Video-Denoising Algorithms tip12.pdf
 - dl/
-    - Adaptive deconvolutional networks for mid and high level feature learning iccv11.pdf
-    - Convolutional neural networks on graphs with fast localized spectral filtering nips16.pdf
-    - Deep Networks with Stochastic Depth arxiv16.pdf
-    - End-To-End Memory Networks nips15.pdf
-    - Evaluating the Robustness of Neural Networks An Extreme Value Theory Approach ax180131 iclr18.pdf
-    - Geometric deep learning going beyond Euclidean data ax1705.pdf
-    - Neural GPUs Learn Algorithms iclr16.pdf
-    - Neural Machine Translation by Jointly Learning to Align and Translate iclr15.pdf
-    - Sequence to Sequence Learning with Neural Networks nips14.pdf
-    - Squeeze-and-Excitation Networks ax1804 cvpr18.pdf
-    - SqueezeNext Hardware-Aware Neural Network Design ax180827.pdf
-    - Weight Uncertainty in Neural Networks ax1505 icml15.pdf
+    - atrous/
+        - Fast Image Scanning with Deep Max-Pooling Convolutional Neural Networks icip13 ax1302.1700.pdf
+        - Multi-Scale Context Aggregation by Dilated Convolutions iclr16 ax1511.07122.pdf
     - biological/
         - Towards an integration of deep learning and neuroscience ax1606.03813.pdf
         - Towards Biologically Plausible Deep Learning ax1502.04156.pdf
@@ -158,6 +149,10 @@ Updated on: 181218 190354
         - Neural Architecture Search with Reinforcement Learning ax170215.pdf
         - Progressive Neural Architecture Search ax1807 eccv18.pdf
         - Simple And Efficient Architecture Search for Convolutional Neural Networks ax1711.pdf
+    - notes/
+        - Decoupled Neural Interfaces using Synthetic Gradients ax1608.05343.pdf
+        - Do Deep Nets Really Need to be Deep ax1410 nips14.pdf
+        - Understanding Synthetic Gradients and Decoupled Neural Interfaces ax1703.00522.pdf
     - old/
         - Learning representations by back-propagating errors nature86.pdf
     - optimization/
@@ -185,11 +180,27 @@ Updated on: 181218 190354
         - Deep supervised learning using local errors ax1711.06756.pdf
         - Understanding Synthetic Gradients and Decoupled Neural Interfaces ax1703.00522.pdf
     - theory/
+        - Do Deep Nets Really Need to be Deep ax1410 nips14.pdf
         - On the Number of Linear Regions of Deep Neural Networks ax1406 nips14.pdf
         - Provable Bounds for Learning Some Deep Representations icml14.pdf
         - Understanding Deep Neural Networks with Rectified Linear Units ax1707.pdf
         - Understanding the difficulty of training deep feedforward neural networks icas10.pdf
         - Visualizing and understanding convolutional neural networks ECCV2014.pdf
+    - unsorted/
+        - Adaptive deconvolutional networks for mid and high level feature learning iccv11.pdf
+        - Convolutional neural networks on graphs with fast localized spectral filtering nips16.pdf
+        - Deep Learning A Critical Appraisal ax1801.00631.pdf
+        - Deep Networks with Stochastic Depth arxiv16.pdf
+        - End-To-End Memory Networks nips15.pdf
+        - Evaluating the Robustness of Neural Networks An Extreme Value Theory Approach ax180131 iclr18.pdf
+        - Geometric deep learning going beyond Euclidean data ax1705.pdf
+        - Learning Explanatory Rules from Noisy Data ax1711.04574.pdf
+        - Neural GPUs Learn Algorithms iclr16.pdf
+        - Neural Machine Translation by Jointly Learning to Align and Translate iclr15.pdf
+        - Sequence to Sequence Learning with Neural Networks nips14.pdf
+        - Squeeze-and-Excitation Networks ax1804 cvpr18.pdf
+        - SqueezeNext Hardware-Aware Neural Network Design ax180827.pdf
+        - Weight Uncertainty in Neural Networks ax1505 icml15.pdf
 - dp/
     - Automatic differentiation in machine learning a survey ax1802.pdf
     - Demystifying Differentiable Programming ShiftReset the Penultimate Backpropagator 180327.pdf
@@ -258,6 +269,13 @@ Updated on: 181218 190354
 - image_processing/
     - Relations between the statistics of natural images and the response properties of cortical cells 87.pdf
     - Statistics of natural images Scaling in the woods 94.pdf
+- interpolation/
+    - Context-aware Synthesis for Video Frame Interpolation cvpr18 ax1803.10967.pdf
+    - Phase-based frame interpolation for video cvpr15.pdf
+    - Video Frame Interpolation via Adaptive Convolution ax1703.pdf
+    - Video Frame Interpolation via Adaptive Separable Convolution iccv17.pdf
+    - notes/
+        - Video Frame Interpolation via Adaptive Convolution ax1703.pdf
 - misc/
     - A simple method for fitting of bounding rectangle to closed regions pr07.pdf
     - Algorithms for the assignment and transportation problems jsiam57.pdf
@@ -433,46 +451,9 @@ Updated on: 181218 190354
     - Inverse Compositional Spatial Transformer Networks ax1612.pdf
     - Robust Projective Template Matching tis1610.pdf
     - Unsupervised Deep Homography A Fast and Robust Homography Estimation Model ax171229.pdf
+    - Unsupervised deformable image registration with fully connected generative neural network.pdf
     - WILDCAT Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation cvpr17.pdf
 - rl/
-    - A self-organizing neural architecture integrating desire, intention and reinforcement learning sd nc10.pdf
-    - Algorithms for inverse reinforcement learning icml00.pdf
-    - APPRENTICESHIP LEARNING AND REINFORCEMENT LEARNING WITH APPLICATION TO ROBOTIC CONTROL thesis08.pdf
-    - Apprenticeship Learning via Inverse Reinforcement Learning icml04.pdf
-    - Bayesian Nonparametric Inverse Reinforcement Learning sl ecmlpkdd12.pdf
-    - Behavior Adaptation by Means of Reinforcement Learning SL12.pdf
-    - Building Machines That Learn and Think Like People arxiv16_11.pdf
-    - Control policy with autocorrelated noise in reinforcement learning for robotics ijmlc15.pdf
-    - Density Matching Reward Learning ax16_8.pdf
-    - Effective learning in dynamic environments by explicit context tracking sl ecml93.pdf
-    - Evolution and Learning in an Intrinsically Motivated Reinforcement Learning Robot sl ecal07.pdf
-    - Fast gradient-descent methods for temporal-difference learning with linear function approximation icml09.pdf
-    - Fuzzy Policy Reinforcement Learning in Cooperative Multi-robot Systems sl jirs07.pdf
-    - Gradient Estimation Using Stochastic Computation Graphs arxiv16_1.pdf
-    - High-Dimensional Continuous Control Using Generalized Advantage Estimation arxiv 16_9.pdf
-    - Hindsight Experience Replay ax180223.pdf
-    - Incorporating Expert Advice into Reinforcement Learning Using Constructive Neural Networks sl cnn09.pdf
-    - Learning and Querying Fast Generative Models for Reinforcement Learning 1802.pdf
-    - Learning Grammars for Architecture-Specific Facade Parsing.IJCV-2016-Gadde-et-al.pdf
-    - Learning to Navigate in Complex Environments ax170113.pdf
-    - Learning What Data to Learn ax17_2.pdf
-    - Model-free reinforcement learning with continuous action in practice acc12.pdf
-    - Multi-agent Reinforcement Learning An Overview SL 10.pdf
-    - Neural Turing Machines arxiv14_12.pdf
-    - Online Learning of a Memory for Learning Rates ax1710.pdf
-    - Online Q-Learning using Connectionist Systems 94.pdf
-    - Policy gradient methods for reinforcement learning with function approximation nips99.pdf
-    - Regularized Evolution for Image Classifier Architecture Search 180301.pdf
-    - Reinforcement Learning Neural Turing Machines - Revised arxiv16_1.pdf
-    - Reinforcement Learning with Neural Networks Tricks of the Trade sl13.pdf
-    - Reinforcement Learning with Self-Modifying Policies sl ltl98.pdf
-    - Reinforcement Learning with Unsupervised Auxiliary Tasks ax1611.pdf
-    - Reluctant Reinforcement Learning sl rdis14.pdf
-    - Self-organizing Neural Architecture for Reinforcement Learning sl isnn06.pdf
-    - Simple statistical gradient-following algorithms for connectionist reinforcement learning ml92.pdf
-    - Toward off-policy learning control with function approximation icml10.pdf
-    - Trust Region Policy Optimization arxiv16_6.pdf
-    - Using Advice to Transfer Knowledge Acquired in One Reinforcement Learning Task to Another sl ecml05.pdf
     - actor-critic/
         - Linear off-policy actor-critic icml12.pdf
         - Off-Policy Actor-Critic ax1306.pdf
@@ -501,6 +482,10 @@ Updated on: 181218 190354
         - Reinforcement learning for hierarchical and modular neural network in autonomous robot navigation  jcnn03.pdf
         - Self-learning navigation algorithm for vision-based mobile robots using machine learning algorithms jmst11.pdf
         - The Linear Quadratic Tracking Problem.pdf
+    - notes/
+        - Classification-based Policy Iteration with a Critic icml11.pdf
+        - Learning the Reward Function for a Misspecified Model ax1802.pdf
+        - Model Regularization for Stable Sample Rollouts.uai2014.pdf
     - survey/
         - A Short Tutorial on Reinforcement Learning iip05.pdf
         - New Trends in Robotic Reinforcement Learning Single and Multi-robot Case SL 09.pdf
@@ -512,6 +497,45 @@ Updated on: 181218 190354
     - target_following/
         - Robotic Target Tracking with Approximation Space-Based Feedback During Reinforcement Learning SL 07.pdf
         - Target following for an autonomous underwater vehicle using regularized ELM-based reinforcement learning  oceans15.pdf
+    - unsorted/
+        - A self-organizing neural architecture integrating desire, intention and reinforcement learning sd nc10.pdf
+        - Algorithms for inverse reinforcement learning icml00.pdf
+        - APPRENTICESHIP LEARNING AND REINFORCEMENT LEARNING WITH APPLICATION TO ROBOTIC CONTROL thesis08.pdf
+        - Apprenticeship Learning via Inverse Reinforcement Learning icml04.pdf
+        - Bayesian Nonparametric Inverse Reinforcement Learning sl ecmlpkdd12.pdf
+        - Behavior Adaptation by Means of Reinforcement Learning SL12.pdf
+        - Building Machines That Learn and Think Like People arxiv16_11.pdf
+        - Control policy with autocorrelated noise in reinforcement learning for robotics ijmlc15.pdf
+        - Density Matching Reward Learning ax16_8.pdf
+        - Effective learning in dynamic environments by explicit context tracking sl ecml93.pdf
+        - Evolution and Learning in an Intrinsically Motivated Reinforcement Learning Robot sl ecal07.pdf
+        - Fast gradient-descent methods for temporal-difference learning with linear function approximation icml09.pdf
+        - Fuzzy Policy Reinforcement Learning in Cooperative Multi-robot Systems sl jirs07.pdf
+        - Gradient Estimation Using Stochastic Computation Graphs arxiv16_1.pdf
+        - High-Dimensional Continuous Control Using Generalized Advantage Estimation arxiv 16_9.pdf
+        - Hindsight Experience Replay ax180223.pdf
+        - Incorporating Expert Advice into Reinforcement Learning Using Constructive Neural Networks sl cnn09.pdf
+        - Learning and Querying Fast Generative Models for Reinforcement Learning 1802.pdf
+        - Learning Grammars for Architecture-Specific Facade Parsing.IJCV-2016-Gadde-et-al.pdf
+        - Learning to Navigate in Complex Environments ax170113.pdf
+        - Learning What Data to Learn ax17_2.pdf
+        - Model-free reinforcement learning with continuous action in practice acc12.pdf
+        - Multi-agent Reinforcement Learning An Overview SL 10.pdf
+        - Neural Turing Machines arxiv14_12.pdf
+        - Online Learning of a Memory for Learning Rates ax1710.pdf
+        - Online Q-Learning using Connectionist Systems 94.pdf
+        - Policy gradient methods for reinforcement learning with function approximation nips99.pdf
+        - Regularized Evolution for Image Classifier Architecture Search 180301.pdf
+        - Reinforcement Learning Neural Turing Machines - Revised arxiv16_1.pdf
+        - Reinforcement Learning with Neural Networks Tricks of the Trade sl13.pdf
+        - Reinforcement Learning with Self-Modifying Policies sl ltl98.pdf
+        - Reinforcement Learning with Unsupervised Auxiliary Tasks ax1611.pdf
+        - Reluctant Reinforcement Learning sl rdis14.pdf
+        - Self-organizing Neural Architecture for Reinforcement Learning sl isnn06.pdf
+        - Simple statistical gradient-following algorithms for connectionist reinforcement learning ml92.pdf
+        - Toward off-policy learning control with function approximation icml10.pdf
+        - Trust Region Policy Optimization arxiv16_6.pdf
+        - Using Advice to Transfer Knowledge Acquired in One Reinforcement Learning Task to Another sl ecml05.pdf
 - rnn/
     - A Clockwork RNN ax1402.pdf
     - A Critical Review of Recurrent Neural Networks for Sequence Learning.pdf
@@ -558,6 +582,7 @@ Updated on: 181218 190354
 - segmentation/
     - Deep Fusion Net for Multi-Atlas Segmentation Application to Cardiac MR Images.pdf
     - DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs ax17_5.pdf
+    - End-to-end Learning of Convolutional Neural Net and Dynamic Programming for Left Ventricle Segmentation 1812.00328.pdf
     - End-to-end Learning of Driving Models from Large-scale Video Datasets arxiv16_12.pdf
     - Interactive image segmentation by maximal similarity based region merging pr09.pdf
     - Learning to Segment Moving Objects in Videos ax1505 cvpr15.pdf
@@ -567,8 +592,6 @@ Updated on: 181218 190354
     - Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation ax15_11.pdf
     - Wider or Deeper Revisiting the ResNet Model for Visual Recognition ax1611.pdf
     - 617/
-        - DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs} ax16.pdf
-        - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ax180308.pdf
         - Fully Convolutional Networks for Semantic Segmentation ax1504 cvpr15.pdf
         - ICNet for Real-Time Semantic Segmentation on High-Resolution Images ax1704.pdf
         - Multi-Scale Context Aggregation by Dilated Convolutions ax160430 iclr16.pdf
@@ -577,6 +600,10 @@ Updated on: 181218 190354
         - SegNet A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling ax1505.pdf
         - U-Net Convolutional Networks for Biomedical Image Segmentation ax1509 miccai15.pdf
         - What's the Point Semantic Segmentation with Point Supervision ax1607 eccv16.pdf
+    - deeplab/
+        - DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs} ax16.pdf
+        - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ax180308.pdf
+        - Rethinking Atrous Convolution for Semantic Image Segmentation ax1706.05587.pdf
     - video/
         - A Video Representation Using Temporal Superpixels cvpr13.pdf
         - CDTS Collaborative Detection, Tracking, and Segmentation for Online Multiple Object Segmentation in Videos_iccv17.pdf
@@ -594,8 +621,6 @@ Updated on: 181218 190354
             - Efficient Hierarchical Graph Based Video Segmentation cvpr10.pdf
             - Foreground Segmentation Using a Triplet Convolutional Neural Network for Multiscale Feature Encoding ax1801.pdf
             - FusionSeg Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos cvpr2017.pdf
-            - Learning Features by Watching Objects Move ax170412 cvpr17.pdf
-            - Learning Features by Watching Objects Move cvpr17.pdf
             - Learning to Segment Object Candidates ax1509 nips15.pdf
             - MaskRNN Instance Level Video Object Segmentation nips17.pdf
             - OSVOS One-Shot Video Object Segmentation ax1704 cvpr17.pdf
@@ -839,6 +864,8 @@ Updated on: 181218 190354
         - Convolutional Oriented Boundaries eccv16.pdf
         - Convolutional Oriented Boundaries From Image Segmentation to High-Level Tasks tpami18 ax1704.pdf
         - High-for-Low and Low-for-High Efficient Boundary Detection From Deep Object Features and its Applications to High-Level Vision  iccv15.pdf
+    - cell/
+        - Training Convolutional Neural Networks and Compressed Sensing End-to-End for Microscopy Cell Detection ax1810.03075.pdf
     - classic/
         - dpm-slides-ross-girshick.pdf
         - Object Detection with Discriminatively Trained Part Based Models tpami10.pdf
@@ -868,6 +895,7 @@ Updated on: 181218 190354
         - focal_loss.pdf
         - FPN.pdf
         - LSDA Large scale detection through adaptation nips14 ax14_11.pdf
+        - Mask R-CNN ax17_4 iccv17.pdf
         - OverFeat Integrated Recognition, Localization and Detection using Convolutional Networks ax1402 iclr14.pdf
         - Scalable Object Detection Using Deep Neural Networks cvpr14.pdf
         - Selective Search for Object Recognition ijcv2013.pdf
@@ -1007,10 +1035,17 @@ Updated on: 181218 190354
     - Phase-Based_Video.pdf
     - sun10.pdf
 - unsupervised/
-    - Deep Temporal Clustering  Fully Unsupervised Learning of Time-Domain Features ax1802.01059.pdf
-    - Representation Learning A Review and New Perspectives ax1404 tpami13.pdf
-    - Unsupervised Feature Learning from Time Series ijcai.pdf
-    - Unsupervised Learning of Long-Term Motion Dynamics for Videos ax1704.pdf
+    - motion_prediction/
+        - Unsupervised Learning of Long-Term Motion Dynamics for Videos ax1704.pdf
+    - notes/
+        - Learning Features by Watching Objects Move ax170412 cvpr17.pdf
+    - review/
+        - Representation Learning A Review and New Perspectives ax1404 tpami13.pdf
+    - segmentation/
+        - Learning Features by Watching Objects Move ax170412 cvpr17.pdf
+    - time_series/
+        - Deep Temporal Clustering  Fully Unsupervised Learning of Time-Domain Features ax1802.01059.pdf
+        - Unsupervised Feature Learning from Time Series ijcai.pdf
 - video_detection/
     - Deep Learning-based Multiple Pedestrians Detection-Tracking Framework HCIK16_ACM.pdf
     - Improving a real-time object detector with compact temporal information iccvw17.pdf
@@ -1030,6 +1065,7 @@ Updated on: 181218 190354
         - Towards High Performance Video Object Detection for Mobiles ax180416 microsoft.pdf
     - motion/
         - MODNet Moving Object Detection Network 1709.04821 itsc18.pdf
+        - Online Illumination Invariant Moving Object Detection by Generative Neural Network ax1808.01066.pdf
     - notes/
         - Context Matters Refining Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
         - Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17.pdf
