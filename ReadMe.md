@@ -129,13 +129,11 @@ Collection of papers and other resources for object detection and tracking using
 (NIPS 2014)
 ([pdf](dl/theory/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf),
 [notes](dl/notes/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf))
-
 - Synthetic Gradients
 	- **Decoupled Neural Interfaces using Synthetic Gradients**
 	(arxiv August 2016)
 	([pdf](dl/synthetic_gradients/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf),
-	[notes](dl/notes/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf))
-	
+	[notes](dl/notes/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf))	
 	- **Understanding Synthetic Gradients and Decoupled Neural Interfaces**
 	(arxiv March 2017)
 	([pdf](dl/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf),
