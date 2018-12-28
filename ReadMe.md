@@ -139,7 +139,7 @@ Collection of papers and other resources for object detection and tracking using
 	- **Understanding Synthetic Gradients and Decoupled Neural Interfaces**
 	(arxiv March 2017)
 	([pdf](dl/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf),
-	[notes](multi_object_tracking/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf))
+	[notes](dl/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf))
 	
 ##  Unsupervised Learning
 - **Learning Features by Watching Objects Move**
