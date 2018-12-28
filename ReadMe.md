@@ -15,6 +15,7 @@ Collection of papers and other resources for object detection and tracking using
 	[notes](static_detection/notes/Faster_R-CNN.pdf))
     - **Mask R-CNN**
 	([pdf](static_detection/rcnn/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
+	([notes](static_detection/notes/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
 	[arxiv](https://arxiv.org/abs/1703.06870),
 	[code (keras)](https://github.com/matterport/Mask_RCNN),
 	[code (tensorflow)](https://github.com/CharlesShang/FastMaskRCNN))
@@ -79,8 +80,6 @@ Collection of papers and other resources for object detection and tracking using
 	([pdf](video_detection/rnn/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf),
 	[notes](video_detection/notes/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf))
 
-
-
 ##  Multi Object Tracking
 - **Learning to Track: Online Multi-object Tracking by Decision Making**
 (ICCV 2015) (Stanford)
@@ -125,9 +124,36 @@ Collection of papers and other resources for object detection and tracking using
 ([pdf](single_object_tracking/rl/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
 [arxiv](https://arxiv.org/abs/1705.10561))
 
-## Other potentially useful papers
+##  Interpolation
+- **Learning Features by Watching Objects Move**
+(CVPR 2017)
+([pdf(cvpr17)](unsupervised/segmentation/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf),
+[ppt](unsupervised/notes/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf))
 
+##  Deep Learning
+- **Do Deep Nets Really Need to be Deep**
+(NIPS 2014)
+([pdf](dl/theory/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf),
+[notes](dl/notes/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf))
 
+- Synthetic Gradients
+	- **Decoupled Neural Interfaces using Synthetic Gradients**
+	(arxiv August 2016)
+	([pdf](dl/synthetic_gradients/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf),
+	[notes](dl/notes/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf))
+	
+	- **Understanding Synthetic Gradients and Decoupled Neural Interfaces**
+	(arxiv March 2017)
+	([pdf](dl/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf),
+	[notes](multi_object_tracking/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf))
+	
+##  Unsupervised Learning
+- **Video Frame Interpolation via Adaptive Convolution**
+(CVPR 2017 / ICCV 2017)
+([pdf(cvpr17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf),
+([pdf(iccv17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Separable%20Convolution%20iccv17.pdf),
+[ppt](interpolation/notes/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf))
+		
 ## Datasets
 - [IDOT dataset](https://www.cs.uic.edu/Bits/YanziJin)
 - [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)

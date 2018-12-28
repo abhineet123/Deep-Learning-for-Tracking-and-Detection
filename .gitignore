@@ -5,6 +5,9 @@
 !single_object_tracking/
 !deep_rl/
 !notes/
+!unsupervised/
+!interpolation/
+!dl/
 *.bat
 *.dat
 *.lnk
