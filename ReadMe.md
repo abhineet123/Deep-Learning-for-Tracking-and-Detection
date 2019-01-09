@@ -280,6 +280,9 @@ Collection of papers and other resources for object detection and tracking using
 		- [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)  [c/python]
 		- [Darkflow](https://github.com/thtrieu/darkflow) [tensorflow]
 		- [Pytorch Yolov2 ](https://github.com/marvis/pytorch-yolo2) [pytorch]
+	- RFCN
+		- [RFCN (author)](https://github.com/daijifeng001/r-fcn) [caffe/matlab]
+		- [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow) [tensorflow]
 	- Region Proposal	
 		- [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
 		- [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]

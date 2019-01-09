@@ -1,6 +1,7 @@
-Updated on: 181228 105335
+Updated on: 190108 180036
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
+    - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
 - alignment/
     - A Robust Method for Mosaicking Sequence Images Obtained from UAV icies10.pdf
     - Face Alignment Across Large Poses A 3D Solution CVPR2016.pdf
@@ -117,6 +118,8 @@ Updated on: 181228 105335
     - atrous/
         - Fast Image Scanning with Deep Max-Pooling Convolutional Neural Networks icip13 ax1302.1700.pdf
         - Multi-Scale Context Aggregation by Dilated Convolutions iclr16 ax1511.07122.pdf
+    - batch_normalization/
+        - Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift ax1503.pdf
     - biological/
         - Towards an integration of deep learning and neuroscience ax1606.03813.pdf
         - Towards Biologically Plausible Deep Learning ax1502.04156.pdf
@@ -128,6 +131,8 @@ Updated on: 181228 105335
         - Dropout as a Bayesian Approximation Representing Model Uncertainty in Deep Learning ax1610.pdf
         - Improving neural networks by preventing co-adaptation of feature detectors ax1207.pdf
         - Uncertainty in Deep Learning (PhD Thesis) cambridge1705.pdf
+    - fully_convolutional/
+        - Striving for Simplicity The All Convolutional Net ax1504 iclrw15.pdf
     - hyper_parameters/
         - Algorithms for Hyper-Parameter Optimization nips11.pdf
     - inception/
@@ -159,7 +164,6 @@ Updated on: 181228 105335
         - Adam A Method for Stochastic Optimization ax17_1.pdf
         - Adaptive subgradient methods for online learning and stochastic optimization jmlr11.pdf
         - Backpropagation through time what it does and how to do it ieee90.pdf
-        - Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift ax1503.pdf
         - Deep learning via Hessian-free optimization.pdf
         - Don't Decay the Learning Rate, Increase the Batch Size iclr18.pdf
     - resnet/
@@ -453,6 +457,10 @@ Updated on: 181228 105335
     - Unsupervised Deep Homography A Fast and Robust Homography Estimation Model ax171229.pdf
     - Unsupervised deformable image registration with fully connected generative neural network.pdf
     - WILDCAT Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation cvpr17.pdf
+- regression/
+    - A mixed-scale dense convolutional neural network for image analysis pnas1901.pdf
+    - DenseReg Fully Convolutional Dense Shape Regression In-the-Wild ax1803.02188.pdf
+    - Half-CNN A General Framework for Whole-Image Regression .pdf
 - rl/
     - actor-critic/
         - Linear off-policy actor-critic icml12.pdf
@@ -848,7 +856,6 @@ Updated on: 181228 105335
     - Relation Networks for Object Detection ax171130 cvpr18.pdf
     - RFCN - Object Detection via Region-based Fully Convolutional Networks nips16.pdf
     - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition ax150423 tpami15.pdf
-    - Speed accuracy trade-offs for modern convolutional object detectors ax1704 cvpr17.pdf
     - Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection wacv17 ax17_3.pdf
     - animal/
         - Animal Recognition and Identification with Deep Convolutional Neural Networks for Automated Wildlife Monitoring  DSAA17.pdf
@@ -932,6 +939,7 @@ Updated on: 181228 105335
     - review/
         - Application of Deep Learning for Object Detection pcs18_sd.pdf
         - Deep Learning for Generic Object Detection A Survey ax1809.02165.pdf
+        - Speed accuracy trade-offs for modern convolutional object detectors ax1704 cvpr17.pdf
     - rnn/
         - Inside-Outside Net Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks 1512.04143 cvpr16.pdf
     - road/
@@ -1039,6 +1047,8 @@ Updated on: 181228 105335
         - Unsupervised Learning of Long-Term Motion Dynamics for Videos ax1704.pdf
     - notes/
         - Learning Features by Watching Objects Move ax170412 cvpr17.pdf
+    - pixel_prediction/
+        - Context Encoders Feature Learning by Inpainting ax1604.07379.pdf
     - review/
         - Representation Learning A Review and New Perspectives ax1404 tpami13.pdf
     - segmentation/
