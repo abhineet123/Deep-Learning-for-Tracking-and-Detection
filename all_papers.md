@@ -1,4 +1,4 @@
-Updated on: 190108 180036
+Updated on: 190108 183725
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -170,6 +170,7 @@ Updated on: 190108 180036
         - Aggregated Residual Transformations for Deep Neural Networks ax170411 cvpr17.pdf
         - Deep Residual Learning for Image Recognition ax1512.pdf
         - Identity Mappings in Deep Residual Networks ax1607_eccv16.pdf
+        - Wider or Deeper Revisiting the ResNet Model for Visual Recognition ax1611.pdf
     - review/
         - Deep Learning for Computer Vision A Brief Review cin_hindawi18.pdf
         - Deep Learning in Neural Networks An Overview.pdf
@@ -588,36 +589,40 @@ Updated on: 190108 180036
         - Propagating LSTM 3D Pose Estimation based on Joint Interdependency_eccv18.pdf
         - Recurrent Batch Normalization ax1603.09025.pdf
 - segmentation/
-    - Deep Fusion Net for Multi-Atlas Segmentation Application to Cardiac MR Images.pdf
-    - DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs ax17_5.pdf
-    - End-to-end Learning of Convolutional Neural Net and Dynamic Programming for Left Ventricle Segmentation 1812.00328.pdf
-    - End-to-end Learning of Driving Models from Large-scale Video Datasets arxiv16_12.pdf
+    - Fully Convolutional Networks for Semantic Segmentation ax1504 cvpr15.pdf
+    - ICNet for Real-Time Semantic Segmentation on High-Resolution Images ax1704.pdf
     - Interactive image segmentation by maximal similarity based region merging pr09.pdf
-    - Learning to Segment Moving Objects in Videos ax1505 cvpr15.pdf
+    - Multi-Scale Context Aggregation by Dilated Convolutions ax160430 iclr16.pdf
     - ParseNet Looking Wider to See Better ax1511 iclr16.pdf
-    - Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs ax16_6 iclr15.pdf
-    - Superpixel clustering with deep features for unsupervised road segmentation ax1711.pdf
-    - Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation ax15_11.pdf
-    - Wider or Deeper Revisiting the ResNet Model for Visual Recognition ax1611.pdf
-    - 617/
-        - Fully Convolutional Networks for Semantic Segmentation ax1504 cvpr15.pdf
-        - ICNet for Real-Time Semantic Segmentation on High-Resolution Images ax1704.pdf
-        - Multi-Scale Context Aggregation by Dilated Convolutions ax160430 iclr16.pdf
-        - PixelNet Representation of the pixels, by the pixels, and for the pixels.  17.pdf
-        - SegNet A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation pami17.pdf
-        - SegNet A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling ax1505.pdf
-        - U-Net Convolutional Networks for Biomedical Image Segmentation ax1509 miccai15.pdf
-        - What's the Point Semantic Segmentation with Point Supervision ax1607 eccv16.pdf
+    - PixelNet Representation of the pixels, by the pixels, and for the pixels.  17.pdf
+    - What's the Point Semantic Segmentation with Point Supervision ax1607 eccv16.pdf
     - deeplab/
+        - DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs ax17_5.pdf
         - DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs} ax16.pdf
         - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ax180308.pdf
         - Rethinking Atrous Convolution for Semantic Image Segmentation ax1706.05587.pdf
+        - Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs ax16_6 iclr15.pdf
+        - Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation ax15_11.pdf
+    - instance/
+        - Instance-sensitive Fully Convolutional Networks ax1603.08678.pdf
+    - medical_imaging/
+        - Deep Fusion Net for Multi-Atlas Segmentation Application to Cardiac MR Images.pdf
+        - End-to-end Learning of Convolutional Neural Net and Dynamic Programming for Left Ventricle Segmentation 1812.00328.pdf
+    - road/
+        - Superpixel clustering with deep features for unsupervised road segmentation ax1711.pdf
+    - segnet/
+        - SegNet A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation pami17.pdf
+        - SegNet A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling ax1505.pdf
+    - unet/
+        - U-Net Convolutional Networks for Biomedical Image Segmentation ax1509 miccai15.pdf
     - video/
         - A Video Representation Using Temporal Superpixels cvpr13.pdf
         - CDTS Collaborative Detection, Tracking, and Segmentation for Online Multiple Object Segmentation in Videos_iccv17.pdf
         - DEEP CONVOLUTIONAL NEURAL NETWORKS FOR SEMANTIC VIDEO OBJECT SEGMENTATION mscthes16.pdf
+        - End-to-end Learning of Driving Models from Large-scale Video Datasets arxiv16_12.pdf
         - Fast and Accurate Online Video Object Segmentation via Tracking Parts  1806.02323 cvpr18.pdf
         - Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks  1806.02070 miccai08.pdf
+        - Learning to Segment Moving Objects in Videos ax1505 cvpr15.pdf
         - Learning to Segment Moving Objects in Videos cvpr15.pdf
         - Learning Video Object Segmentation from Static Images cvpr17 masktrack.pdf
         - Motion trajectory segmentation via minimum cost multicuts iccv15.pdf
