@@ -1,9 +1,9 @@
 */
 !batch/
-!dl/
+!deep_learning/
 !network_flow/
 !notes/
-!rl/
+!reinforcement_learning/
 !rnn/
 !survey/
 !tracklet/

@@ -3,7 +3,7 @@
 !video_detection/
 !multi_object_tracking/
 !single_object_tracking/
-!deep_rl/
+!deep_reinforcement_learning/
 !notes/
 !unsupervised/
 !interpolation/

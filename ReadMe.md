@@ -83,13 +83,13 @@ Collection of papers and other resources for object detection and tracking using
 ##  Multi Object Tracking
 - **Learning to Track: Online Multi-object Tracking by Decision Making**
 (ICCV 2015) (Stanford)
-([pdf](multi_object_tracking/rl/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
+([pdf](multi_object_tracking/reinforcement_learning/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
 [code (Matlab)](https://github.com/yuxng/MDP_Tracking),
 [project page](https://yuxng.github.io/),
 [notes](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
 - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
 (arxiv April 2017) (Stanford)
-([pdf](multi_object_tracking/dl/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
+([pdf](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
 [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
 [notes](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
 - **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor**
@@ -107,37 +107,37 @@ Collection of papers and other resources for object detection and tracking using
 ## Single Object Tracking
 - **Deep Reinforcement Learning for Visual Object Tracking in Videos**
 (arxiv April 2017) (USC-Santa Barbara, Samsung Research)
-([pdf](single_object_tracking/rl/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/),
+([pdf](single_object_tracking/reinforcement_learning/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/),
 [notes](single_object_tracking/notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf))  
 - **Visual Tracking by Reinforced Decision Making**
 (arxiv February 2017) (Seoul National University, Chung-Ang University)
-([pdf](single_object_tracking/rl/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/),
+([pdf](single_object_tracking/reinforcement_learning/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/),
 [notes](single_object_tracking/notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf))
 - **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning**
 (CVPR 2017) (Seoul National University)
-([pdf](single_object_tracking/rl/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17%20supplementary.pdf),
-[supplementary](single_object_tracking/rl/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17.pdf),
+([pdf](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17%20supplementary.pdf),
+[supplementary](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17.pdf),
 [project page](https://sites.google.com/view/cvpr2017-adnet),
 [notes](single_object_tracking/notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf)) 
 - **End-to-end Active Object Tracking via Reinforcement Learning**
 (arxiv 30 May 2017) (Peking University, Tencent AI Lab)
-([pdf](single_object_tracking/rl/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
+([pdf](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
 [arxiv](https://arxiv.org/abs/1705.10561))
 
 ##  Deep Learning
 - **Do Deep Nets Really Need to be Deep**
 (NIPS 2014)
-([pdf](dl/theory/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf),
-[notes](dl/notes/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf))
+([pdf](deep_learning/theory/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf),
+[notes](deep_learning/notes/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf))
 - Synthetic Gradients
 	- **Decoupled Neural Interfaces using Synthetic Gradients**
 	(arxiv August 2016)
-	([pdf](dl/synthetic_gradients/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf),
-	[notes](dl/notes/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf))	
+	([pdf](deep_learning/synthetic_gradients/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf),
+	[notes](deep_learning/notes/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf))	
 	- **Understanding Synthetic Gradients and Decoupled Neural Interfaces**
 	(arxiv March 2017)
-	([pdf](dl/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf),
-	[notes](dl/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf))
+	([pdf](deep_learning/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf),
+	[notes](deep_learning/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf))
 	
 ##  Unsupervised Learning
 - **Learning Features by Watching Objects Move**
