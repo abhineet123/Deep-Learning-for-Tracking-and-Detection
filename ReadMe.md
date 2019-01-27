@@ -182,6 +182,7 @@ Collection of papers and other resources for object detection and tracking using
 - Single Object Tracking
 	- [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
 	- [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
+	- [Correlation Filter Trackers](https://github.com/lukaswals/cf-trackers)
 - Multi Object Tracking
 	- [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)	
 - Misc 
