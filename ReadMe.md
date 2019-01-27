@@ -176,7 +176,7 @@ Collection of papers and other resources for object detection and tracking using
 - [PETS 2017](https://motchallenge.net/data/PETS2017/) (Low density; mostly pedestrians)
 - [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
 
-## Lists
+## Collections
 - Datasets
 	- [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 - Single Object Tracking
@@ -185,6 +185,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [Correlation Filter Trackers](https://github.com/lukaswals/cf-trackers)
 - Multi Object Tracking
 	- [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)	
+	- [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)	
 - Misc 
 	- [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 
