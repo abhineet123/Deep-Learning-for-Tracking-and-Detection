@@ -1,4 +1,4 @@
-Updated on: 190108 185508
+Updated on: 190127 063923
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -79,6 +79,9 @@ Updated on: 190108 185508
     - video/
         - Beyond Short Snippets Deep Networks for Video Classification cvpr15.pdf
         - Deep Learning from Temporal Coherence in Video icml09.pdf
+- curve_revovery/
+    - A Robust Rigid Skeleton Extraction Method from Noisy Visual Hull Model ijars15.pdf
+    - Analytic Curve Detection from a Noisy Binary Edge Map using Genetic Algorithm.pdf
 - deblurring/
     - Blind Image Deblurring Using Dark Channel Prior  cvpr16.pdf
     - DeblurGAN Blind Motion Deblurring Using Conditional Adversarial Networks ax1804_cvpr18.pdf
@@ -134,6 +137,7 @@ Updated on: 190108 185508
     - optimization/
         - Adam A Method for Stochastic Optimization ax17_1.pdf
         - Adaptive subgradient methods for online learning and stochastic optimization jmlr11.pdf
+        - An overview of gradient descent optimization algorithms ax1609.04747.pdf
         - Backpropagation through time what it does and how to do it ieee90.pdf
         - Deep learning via Hessian-free optimization.pdf
         - Don't Decay the Learning Rate, Increase the Batch Size iclr18.pdf
@@ -229,6 +233,8 @@ Updated on: 190108 185508
     - Vehicle Tracking by Simultaneous Detection and Viewpoint Estimation iwinac13.pdf
     - WILDTRACK A Multi-camera HD Dataset for Dense Unscripted Pedestrian Detection_cvpr18.pdf
     - YouTube-BoundingBoxes A Large High-Precision Human-Annotated Data Set for Object Detection in Video ax170324.pdf
+    - animal/
+        - The iNaturalist Species Classification and Detection Dataset ax1804.pdf
     - detection/
         - Performance Evaluation of Object Detection and Tracking in Video TR2006-041.pdf
         - Performance Evaluation of Object Detection and Tracking in Video.pdf
@@ -281,6 +287,9 @@ Updated on: 190108 185508
     - Video Frame Interpolation via Adaptive Separable Convolution iccv17.pdf
     - notes/
         - Video Frame Interpolation via Adaptive Convolution ax1703.pdf
+- labeling/
+    - Efficiently Scaling up Crowdsourced Video Annotation ijcv12.pdf
+    - LabelMe a database and web-based tool for image annotation. ijcv08.pdf
 - machine_learning/
     - Online passive-aggressive algorithms jmlr06.pdf
 - misc/
@@ -317,12 +326,9 @@ Updated on: 190108 185508
         - Learning Optimal Parameters for Multi-target Tracking with Contextual Interactions ax1610 ijcv16.pdf
     - deep_learning/
         - Deep Continuous Conditional Random Fields with Asymmetric Inter-object Constraints for Online Multi-object Tracking ax1806.01183.pdf
-        - Deep Network Flow for Multi-Object Tracking cvpr17.pdf
-        - Deep Network Flow for Multi-Object Tracking cvpr17_supplemental.pdf
         - Deep tracking in the wild End-to-end tracking using recurrent neural networks ijrr17.pdf
         - Detect to Track and Track to Detect_iccv17.pdf
         - Improving Online Multiple Object tracking with Deep Metric Learning  ax1806.07592.pdf
-        - Learning by tracking Siamese CNN for robust target association ax1608 cvprw16.pdf
         - Multi-Class Multi-Object Tracking using Changing Point Detection ax160830 eccv16.pdf
         - Multi-Object Tracking with Quadruplet Convolutional Neural Networks cvpr17.pdf
         - Multi-Object Tracking with Quadruplet Convolutional Neural Networks_cvpr17.pdf
@@ -353,6 +359,8 @@ Updated on: 190108 185508
         - Multiple Object Tracking with Kernelized Correlation Filters in Urban Mixed Traffic crv17.pdf
         - PoseTrack Joint Multi-Person Pose Estimation and Tracking_cvpr17.pdf
     - network_flow/
+        - Deep Network Flow for Multi-Object Tracking cvpr17.pdf
+        - Deep Network Flow for Multi-Object Tracking cvpr17_supplemental.pdf
         - FollowMe Efficient Online Min-Cost Flow Tracking with Bounded Memory and Computation ax1412 iccv15.pdf
         - Multi-commodity network flow for tracking multiple people tpami14.pdf
         - Near-online multi-target tracking with aggregated local fiow descriptor iccv15.pdf
@@ -360,6 +368,7 @@ Updated on: 190108 185508
         - Target identity-aware network flow for online multiple target tracking cvpr15.pdf
     - notes/
         - A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf
+        - Deep Network Flow for Multi-Object Tracking cvpr17.pdf
         - Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf
         - mdp_tracking.pdf
         - NOMT.pdf
@@ -383,6 +392,7 @@ Updated on: 190108 185508
     - segmentation/
         - Joint tracking and segmentation of multiple targets cvpr15.pdf
     - siamese/
+        - Learning by tracking Siamese CNN for robust target association ax1608 cvprw16.pdf
         - Online Multi-Object Tracking with Historical Appearance Matching and Scene Adaptive Detection Filtering  ax1805.10916 avss18.pdf
     - survey/
         - A Survey on Leveraging Deep Neural Networks for Object Tracking ppt.pdf
@@ -608,6 +618,9 @@ Updated on: 190108 185508
     - medical_imaging/
         - Deep Fusion Net for Multi-Atlas Segmentation Application to Cardiac MR Images.pdf
         - End-to-end Learning of Convolutional Neural Net and Dynamic Programming for Left Ventricle Segmentation 1812.00328.pdf
+    - proposal/
+        - Learning to Refine Object Segments ax1608 eccv16.pdf
+        - Learning to Segment Object Candidates ax1509 nips15.pdf
     - road/
         - Superpixel clustering with deep features for unsupervised road segmentation ax1711.pdf
     - segnet/
@@ -634,7 +647,6 @@ Updated on: 190108 185508
             - Efficient Hierarchical Graph Based Video Segmentation cvpr10.pdf
             - Foreground Segmentation Using a Triplet Convolutional Neural Network for Multiscale Feature Encoding ax1801.pdf
             - FusionSeg Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos cvpr2017.pdf
-            - Learning to Segment Object Candidates ax1509 nips15.pdf
             - MaskRNN Instance Level Video Object Segmentation nips17.pdf
             - OSVOS One-Shot Video Object Segmentation ax1704 cvpr17.pdf
             - Unsupervised Learning of Video Representations using LSTMs ax15.pdf
@@ -867,7 +879,7 @@ Updated on: 190108 185508
         - Automated Detection and Recognition of Wildlife Using Thermal Cameras sensors14.pdf
         - Automatic Detection and Recognition of Individuals in Patterned Species ecmlpkdd17_iiitd.pdf
         - Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning ax171115.pdf
-        - Deep Learning Object Detection Methods for Ecological Camera Trap Data ax180328.pdf
+        - Deep Learning Object Detection Methods for Ecological Camera Trap Data ax1803.10842.pdf
         - Where's the Bear - Automating Wildlife Image Processing Using IoT and Edge Cloud Systems  ioTDI17.pdf
     - background_subtraction/
         - ANOMALY DETECTION IN SURVEILLANCE VIDEOS USING DEEP RESIDUAL NETWORKS mscthes1702.pdf
@@ -933,6 +945,7 @@ Updated on: 190108 185508
         - Multiscale Combinatorial Grouping cvpr14.pdf
         - Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation ax2015_v3 tpami16.pdf
         - Scalable Object Detection Using Deep Neural Networks cvpr14.pdf
+        - Scalable, High-Quality Object Detection ax1512.pdf
         - Selective Search for Object Recognition ijcv2013.pdf
         - Selective Search for Object Recognition ppt ijcv12.pdf
     - retinanet/
@@ -1073,11 +1086,12 @@ Updated on: 190108 185508
     - Seq-NMS for Video Object Detection ax1608.pdf
     - Video Object Detection for Tractability with Deep Learning Method  CBD17.pdf
     - action/
+        - Recurrent Tubelet Proposal and Recognition Networks for Action Detection eccv18.pdf
         - Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos ax1708.pdf
     - fgfa/
         - Deep Feature Flow For Video Recognition cvpr17.pdf
         - Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17.pdf
-        - Towards High Performance Video Object Detection ax171130 microsoft.pdf
+        - Towards High Performance Video Object Detection ax171130 cvpr18 microsoft.pdf
         - Towards High Performance Video Object Detection for Mobiles ax180416 microsoft.pdf
     - motion/
         - MODNet Moving Object Detection Network 1709.04821 itsc18.pdf
