@@ -98,11 +98,17 @@ Collection of papers and other resources for object detection and tracking using
 [author page](http://www-personal.umich.edu/~wgchoi/),
 [notes](multi_object_tracking/notes/NOMT.pdf))  
 - **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects**
-(highest MT on MOT2015) (University of Freiburg, Germany)
+(arxiv July 2016) (highest MT on MOT2015) (University of Freiburg, Germany)
 ([pdf](multi_object_tracking/batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf),
 [arxiv](https://arxiv.org/abs/1607.06317),
 [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html),
 [notes](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
+- **Deep Network Flow for Multi-Object Tracking**
+(CVPR 2017) (NEC Labs)
+([pdf](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf),
+[supplementary](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17_supplemental.pdf)
+[notes](multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf))  
+
 	  
 ## Single Object Tracking
 - **Deep Reinforcement Learning for Visual Object Tracking in Videos**

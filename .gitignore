@@ -7,7 +7,7 @@
 !notes/
 !unsupervised/
 !interpolation/
-!dl/
+!deep_learning/
 *.bat
 *.dat
 *.lnk
