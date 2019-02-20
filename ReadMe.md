@@ -321,7 +321,7 @@ Collection of papers and other resources for object detection and tracking using
 	- [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 	- [RNNexp](https://github.com/asheshjain399/RNNexp)
 	
-## Presentations (Access Restricted to my research group)
+## Presentations (access restricted to my research group)
 
 - [End to End Multi Object Tracking-by-Detection](https://drive.google.com/open?id=1qdAoA16qdZl1fo1Wm2-5dG2Ejqx9pJU3)
 
