@@ -305,9 +305,10 @@ Collection of papers and other resources for object detection and tracking using
 		- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 		
 - Video Detection
-	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[Python]
-	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[Python]
-	- [Flow-Guided Feature Aggregation for Video Object Detection (NIPS 2016 / ICCV 2017)](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[Python/CUDA]
+	- [Mobile Video Object Detection with Temporally-Aware Feature Maps (CVPR 2018) (Google)](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection)[tensorflow]
+	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[python]
+	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[python]
+	- [Flow-Guided Feature Aggregation for Video Object Detection (NIPS 2016 / ICCV 2017)](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[python/CUDA]
 	
 - Optical Flow
 	- [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS)
