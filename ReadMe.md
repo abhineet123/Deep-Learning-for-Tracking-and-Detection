@@ -265,6 +265,12 @@ Collection of papers and other resources for object detection and tracking using
 	- [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
 	- [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
 
+- Video Detection
+	- [Mobile Video Object Detection with Temporally-Aware Feature Maps (CVPR 2018) (Google)](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection)[tensorflow]
+	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[python]
+	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[python]
+	- [Flow-Guided Feature Aggregation for Video Object Detection (NIPS 2016 / ICCV 2017)](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[python/CUDA]
+	
 - Static Detection and Matching
 	- Frameworks
 		- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
@@ -304,12 +310,7 @@ Collection of papers and other resources for object detection and tracking using
 		- [Matchnet](https://github.com/hanxf/matchnet)
 		- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 		
-- Video Detection
-	- [Mobile Video Object Detection with Temporally-Aware Feature Maps (CVPR 2018) (Google)](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection)[tensorflow]
-	- [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[python]
-	- [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[python]
-	- [Flow-Guided Feature Aggregation for Video Object Detection (NIPS 2016 / ICCV 2017)](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[python/CUDA]
-	
+
 - Optical Flow
 	- [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS)
 	- [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
