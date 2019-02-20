@@ -274,7 +274,6 @@ Collection of papers and other resources for object detection and tracking using
 - Static Detection and Matching
 	- Frameworks
 		- [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
-		  * Only the two SSD nets can run at 12.5 FPS on one GTX 1080 TI (less accurate than YOLO 604x604). Next two models at 4-5 FPS (4-5% mAP better than YOLO). Best model < 1 FPS. Currently code only allow inference of 1 image at a time. Speed might improve by 2.5 times when they allow multiple image inference.
 		- [Detectron](https://github.com/facebookresearch/Detectron)
 	- SSD
 		- [SSD-Tensorflow](https://github.com/ljanyst/ssd-tensorflow) [tensorflow]
