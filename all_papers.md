@@ -1,4 +1,4 @@
-Updated on: 190127 063923
+Updated on: 190227 220603
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -39,46 +39,6 @@ Updated on: 190127 063923
 - captioning/
     - Motion Words for Videos eccv14.pdf
     - Show, Attend and Tell Neural Image Caption Generation with Visual Attention xuc15.pdf
-- classification/
-    - Accurate and Eficient Image Classification by Exploiting Sparsity Homa_Candidacy.pdf
-    - Anytime recognition of objects and scenes cvpr14.pdf
-    - ImageNet Classification with Deep Convolutional Neural Networks nips12.pdf
-    - ImageNet classification with deep convolutional neural networks acm17.pdf
-    - Imagenet classification with deep convolutional neural networks nips12.pdf
-    - Multi-Scale Dense Networks for Resource Efficient Image Classification ax1711.pdf
-    - Place Recognition with ConvNet Landmarks Viewpoint-Robust, Condition-Robust, Training-Free rss15.pdf
-    - Selective Search for Object Recognition IJCV2013.pdf
-    - Very Deep Convolutional Networks for Large-Scale Image Recognition iclr15 1409.1556.pdf
-    - Visual object-action recognition Inferring object affordances from human demonstration cviu_11.pdf
-    - activity/
-        - Continuous Learning of Human Activity Models Using Deep Nets  eccv14.pdf
-    - animal/
-        - Learning to Recognize Animals by Watching Documentaries Using Subtitles as Weak Supervision 17.pdf
-    - cell_classification/
-        - 10.1007_978-3-319-46976-8.pdf
-        - A deep convolutional neural network for classification of red blood cells in sickle cell anemia plos_cb_1710.pdf
-        - A Deep Residual Inception Network for HEp-2 Cell Classification SL_dlmia17.pdf
-        - Cells classification with deep learning  siu17.pdf
-        - Cross-Modal Transfer Learning for HEp-2 Cell Classification Based on Deep Residual Network ism17.pdf
-        - Deep convolutional neural network based HEp-2 cell classification  icpr1612.pdf
-        - Deep Learning in Label-free Cell Classification nature_srep21471 1603.pdf
-        - Deep Learning of Cell Classification Using Microscope Images of Intracellular Microtubule Networks  icmla1712.pdf
-        - DeepPap Deep Convolutional Networks for Cervical Cell Classification  jbhi1711.pdf
-        - Evaluation of Morphological Features for Breast Cells Classification Using Neural Networks SL_taai.pdf
-        - HEp-2 cell classification based on a Deep Autoencoding-Classification convolutional neural network  isbi17.pdf
-        - HEp-2 cell classification using a deep neural network trained for natural image classification  siu16.pdf
-        - HEp-2 Cell Classification Using K-Support Spatial Pooling in Deep CNNs SL_dlmia1609.pdf
-        - HEp-2 Cell Image Classification With Deep Convolutional Neural Networks  jbhi1703.pdf
-        - HEp-2 specimen classification via deep CNNs and pattern histogram  icpr1612.pdf
-    - svm/
-        - A tutorial on support vector machines for pattern recognition.pdf
-        - SVM.pdf
-        - svm15.pdf
-    - thermal_imaging/
-        - Deep Thermal Imaging Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns ax1803.pdf
-    - video/
-        - Beyond Short Snippets Deep Networks for Video Classification cvpr15.pdf
-        - Deep Learning from Temporal Coherence in Video icml09.pdf
 - curve_revovery/
     - A Robust Rigid Skeleton Extraction Method from Noisy Visual Hull Model ijars15.pdf
     - Analytic Curve Detection from a Noisy Binary Edge Map using Genetic Algorithm.pdf
@@ -105,8 +65,13 @@ Updated on: 190127 063923
         - Dropout as a Bayesian Approximation Representing Model Uncertainty in Deep Learning ax1610.pdf
         - Improving neural networks by preventing co-adaptation of feature detectors ax1207.pdf
         - Uncertainty in Deep Learning (PhD Thesis) cambridge1705.pdf
+    - ensemble/
+        - Distilling the Knowledge in a Neural Network ax1503.02531.pdf
     - fully_convolutional/
         - Striving for Simplicity The All Convolutional Net ax1504 iclrw15.pdf
+    - graph/
+        - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering nips18.pdf
+        - Relational inductive biases, deep learning, and graph networks ax1810.pdf
     - hyper_parameters/
         - Algorithms for Hyper-Parameter Optimization nips11.pdf
     - inception/
@@ -161,8 +126,11 @@ Updated on: 190127 063923
         - Understanding Synthetic Gradients and Decoupled Neural Interfaces ax1703.00522.pdf
     - theory/
         - Do Deep Nets Really Need to be Deep ax1410 nips14.pdf
+        - Intriguing properties of neural networks ax1312.6199.pdf
+        - On the Expressive Power of Deep Neural Networks ax1706.pdf
         - On the Number of Linear Regions of Deep Neural Networks ax1406 nips14.pdf
         - Provable Bounds for Learning Some Deep Representations icml14.pdf
+        - Sensitivity and Generalization in Neural Networks An Empirical Study iclr18.pdf
         - Understanding Deep Neural Networks with Rectified Linear Units ax1707.pdf
         - Understanding the difficulty of training deep feedforward neural networks icas10.pdf
         - Visualizing and understanding convolutional neural networks ECCV2014.pdf
@@ -242,6 +210,10 @@ Updated on: 190127 063923
         - The PASCAL Visual Object Classes (VOC) Challenge ijcv_voc09.pdf
     - metrics/
         - Evaluating multiple object tracking performance the clear mot metrics eurasip08.pdf
+- event_camera/
+    - Dynamic Vision Sensors for Human Activity Recognition ax1803.04667 acpr17.pdf
+    - Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars ax1804.01310 cvpr18.pdf
+    - PRED18 Dataset and Further Experiments with DAVIS Event Camera in Predator-Prey Robot Chasing 1807.03128.pdf
 - evolution_strategies/
     - Deep Neuroevolution Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning ax180420.pdf
 - few_shot_learning/
@@ -455,6 +427,47 @@ Updated on: 190127 063923
 - radar/
     - Real-Time Detection and Filtering of Chaff Clutter from Single-Polarization Doppler Radar Data  ams1305.pdf
 - readings/
+- recognition/
+    - Accurate and Eficient Image Classification by Exploiting Sparsity Homa_Candidacy.pdf
+    - Anytime recognition of objects and scenes cvpr14.pdf
+    - ImageNet Classification with Deep Convolutional Neural Networks nips12.pdf
+    - ImageNet classification with deep convolutional neural networks acm17.pdf
+    - Imagenet classification with deep convolutional neural networks nips12.pdf
+    - Multi-Scale Dense Networks for Resource Efficient Image Classification ax1711.pdf
+    - Place Recognition with ConvNet Landmarks Viewpoint-Robust, Condition-Robust, Training-Free rss15.pdf
+    - Selective Search for Object Recognition IJCV2013.pdf
+    - Very Deep Convolutional Networks for Large-Scale Image Recognition iclr15 1409.1556.pdf
+    - Visual object-action recognition Inferring object affordances from human demonstration cviu_11.pdf
+    - activity/
+        - Continuous Learning of Human Activity Models Using Deep Nets  eccv14.pdf
+    - animal/
+        - Learning to Recognize Animals by Watching Documentaries Using Subtitles as Weak Supervision 17.pdf
+    - cell_classification/
+        - 10.1007_978-3-319-46976-8.pdf
+        - A deep convolutional neural network for classification of red blood cells in sickle cell anemia plos_cb_1710.pdf
+        - A Deep Residual Inception Network for HEp-2 Cell Classification SL_dlmia17.pdf
+        - Cells classification with deep learning  siu17.pdf
+        - Cross-Modal Transfer Learning for HEp-2 Cell Classification Based on Deep Residual Network ism17.pdf
+        - Deep convolutional neural network based HEp-2 cell classification  icpr1612.pdf
+        - Deep Learning in Label-free Cell Classification nature_srep21471 1603.pdf
+        - Deep Learning of Cell Classification Using Microscope Images of Intracellular Microtubule Networks  icmla1712.pdf
+        - DeepPap Deep Convolutional Networks for Cervical Cell Classification  jbhi1711.pdf
+        - Evaluation of Morphological Features for Breast Cells Classification Using Neural Networks SL_taai.pdf
+        - HEp-2 cell classification based on a Deep Autoencoding-Classification convolutional neural network  isbi17.pdf
+        - HEp-2 cell classification using a deep neural network trained for natural image classification  siu16.pdf
+        - HEp-2 Cell Classification Using K-Support Spatial Pooling in Deep CNNs SL_dlmia1609.pdf
+        - HEp-2 Cell Image Classification With Deep Convolutional Neural Networks  jbhi1703.pdf
+        - HEp-2 specimen classification via deep CNNs and pattern histogram  icpr1612.pdf
+    - svm/
+        - A tutorial on support vector machines for pattern recognition.pdf
+        - SVM.pdf
+        - svm15.pdf
+    - thermal_imaging/
+        - Deep Thermal Imaging Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns ax1803.pdf
+    - video/
+        - Beyond Short Snippets Deep Networks for Video Classification cvpr15.pdf
+        - Deep Learning from Temporal Coherence in Video icml09.pdf
+        - Long-term Recurrent Convolutional Networks for Visual Recognition and Description ax1411.4389 cvpr15.pdf
 - recurrent_neural_networks/
     - A Clockwork RNN ax1402.pdf
     - A Critical Review of Recurrent Neural Networks for Sequence Learning.pdf
@@ -503,7 +516,6 @@ Updated on: 190127 063923
     - Deep Image Homography Estimation ax1606.pdf
     - Deformable Convolutional Networks iccv17.pdf
     - End-to-end weakly-supervised semantic alignment ax1712 cvpr18.pdf
-    - Estimating Camera Tilt from Motion without Tracking crv17.pdf
     - Homography Estimation from Image Pairs with Hierarchical Convolutional Networks iccv17.pdf
     - Homography Estimation using  Deep Learning for Registering All- 22 Football Video Frames thesis17.pdf
     - Inverse Compositional Spatial Transformer Networks ax1612.pdf
@@ -511,6 +523,11 @@ Updated on: 190127 063923
     - Unsupervised Deep Homography A Fast and Robust Homography Estimation Model ax171229.pdf
     - Unsupervised deformable image registration with fully connected generative neural network.pdf
     - WILDCAT Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation cvpr17.pdf
+    - camera_motion_estimation/
+        - Estimating Camera Tilt from Motion without Tracking crv17.pdf
+        - Motion from 2D Image Sequences ch9.pdf
+        - ROBUST CAMERA MOTION ESTIMATION IN VIDEO SEQUENCES.pdf
+        - Unsupervised Camera Motion Estimation and Moving Object Detection in Videos RzDimvip06.pdf
 - regression/
     - A mixed-scale dense convolutional neural network for image analysis pnas1901.pdf
     - DenseReg Fully Convolutional Dense Shape Regression In-the-Wild ax1803.02188.pdf
@@ -628,47 +645,6 @@ Updated on: 190127 063923
         - SegNet A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling ax1505.pdf
     - unet/
         - U-Net Convolutional Networks for Biomedical Image Segmentation ax1509 miccai15.pdf
-    - video/
-        - A Video Representation Using Temporal Superpixels cvpr13.pdf
-        - CDTS Collaborative Detection, Tracking, and Segmentation for Online Multiple Object Segmentation in Videos_iccv17.pdf
-        - DEEP CONVOLUTIONAL NEURAL NETWORKS FOR SEMANTIC VIDEO OBJECT SEGMENTATION mscthes16.pdf
-        - End-to-end Learning of Driving Models from Large-scale Video Datasets arxiv16_12.pdf
-        - Fast and Accurate Online Video Object Segmentation via Tracking Parts  1806.02323 cvpr18.pdf
-        - Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks  1806.02070 miccai08.pdf
-        - Learning to Segment Moving Objects in Videos ax1505 cvpr15.pdf
-        - Learning to Segment Moving Objects in Videos cvpr15.pdf
-        - Learning Video Object Segmentation from Static Images cvpr17 masktrack.pdf
-        - Motion trajectory segmentation via minimum cost multicuts iccv15.pdf
-        - Online Adaptation of Convolutional Neural Networks for Video Object Segmentation ax1708 bmvc17.pdf
-        - Online Video Object Segmentation via Convolutional Trident Network cvpr17.pdf
-        - Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks ax1708 iccv17.pdf
-        - Segmentation of Moving Objects by Long Term Video Analysis tpami14.pdf
-        - 617/
-            - Efficient Hierarchical Graph Based Video Segmentation cvpr10.pdf
-            - Foreground Segmentation Using a Triplet Convolutional Neural Network for Multiscale Feature Encoding ax1801.pdf
-            - FusionSeg Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos cvpr2017.pdf
-            - MaskRNN Instance Level Video Object Segmentation nips17.pdf
-            - OSVOS One-Shot Video Object Segmentation ax1704 cvpr17.pdf
-            - Unsupervised Learning of Video Representations using LSTMs ax15.pdf
-            - Unsupervised Learning of Visual Representations using Videos ax15.pdf
-            - Unsupervised object segmentation in video by efficient selection of highly probable positive features ax170419.pdf
-            - Unsupervised Video Segmentation via Spatio-Temporally Nonlocal Appearance Learning ax1612.pdf
-            - Video Segmentation by Non-Local Consensus Voting bmvc14.pdf
-            - Video Segmentation via Object Flow cvpr16.pdf
-        - davis_2017/
-            - Instance Re-Identification Flow for Video Object Segmentation DAVIS-Challenge-3rd-Team.pdf
-            - Learning to Segment Instances in Videos with Spatial Propagation Network cvprw17DAVIS-Challenge-6th-Team.pdf
-            - Lucid Data Dreaming for Object Tracking cvprw17 DAVIS-Challenge-2nd-Team.pdf
-            - Multiple-Instance Video Segmentation with Sequence-Specific Object Proposals cvprw17DAVIS-Challenge-4th-Team.pdf
-            - One-Shot Video Object Segmentation with Iterative Online Fine-Tuning cvprw17DAVIS-Challenge-8th-Team.pdf
-            - Online Adaptation of Convolutional Neural Networks for the 2017 DAVIS Challenge cvprw17 DAVIS-Challenge-5th-Team.pdf
-            - Some Promising Ideas about Multi-instance Video Segmentation cvprw17DAVIS-Challenge-7th-Team.pdf
-            - Video Object Segmentation using Tracked Object Proposals cvprw17 DAVIS-Challenge-9th-Team.pdf
-            - Video Object Segmentation with Re-identification cvprw17 DAVIS-Challenge-1st-Team.pdf
-        - menna/
-            - RTSEG REAL-TIME SEMANTIC SEGMENTATION COMPARATIVE STUDY ax1803.02758 icip18.pdf
-            - ShuffleSeg Real-time Semantic Segmentation Network ax1803.03816.pdf
-            - Video Segmentation using Teacher Student Adaptation in HRI ax1810.07733.pdf
 - sensor_fusion/
     - Automatic registration of lidar and optical images of urban scenes cvpr09.pdf
     - AVM  LiDAR sensor based lane marking detection method for automated driving on complex urban roads  ivs17.pdf
@@ -1094,8 +1070,21 @@ Updated on: 190127 063923
         - Towards High Performance Video Object Detection ax171130 cvpr18 microsoft.pdf
         - Towards High Performance Video Object Detection for Mobiles ax180416 microsoft.pdf
     - motion/
+        - Event-based Moving Object Detection and Tracking ax1803.04523.pdf
         - MODNet Moving Object Detection Network 1709.04821 itsc18.pdf
         - Online Illumination Invariant Moving Object Detection by Generative Neural Network ax1808.01066.pdf
+        - moving_camera/
+            - An effective motion object detection method using optical flow estimation under a moving camera jvcir1808.pdf
+            - Automatic Object Detection In Video Sequences With Camera In Motion (2004).pdf
+            - Dense optical flow in stabilized scenes for moving object detection from a moving camera iccas16.pdf
+            - Detection of moving objects with a moving camera using non-panoramic background model mva1307_sl.pdf
+            - Detection of Moving Objects with Non-stationary Cameras in 5.8ms Bringing Motion Detection to Your Mobile Device cvprw13.pdf
+            - Moving Object Detection With a Freely Moving Camera via Background Motion Subtraction tcsvt1702.pdf
+            - Moving-object detection method for moving cameras by merging background subtraction and optical flow methods globalsip17.pdf
+            - New trends on moving object detection in video images captured by a moving camera A survey cs_review_1805.pdf
+            - Object-Level Motion Detection From Moving Cameras tcsvt17.pdf
+            - Optical Flow Based Background Subtraction with a Moving Camera Application to Autonomous Driving ax1811.06660.pdf
+            - Robust Moving Object Detection at Distance in the Visible Spectrum and Beyond Using A Moving Camera cvprw06.pdf
     - notes/
         - Context Matters Refining Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
         - Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17.pdf
@@ -1104,11 +1093,54 @@ Updated on: 190127 063923
         - Online Video Object Detection using Association LSTM iccv17.pdf
     - rnn/
         - Context Matters Refining Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
+        - Mobile Video Object Detection with Temporally-Aware Feature Maps cvpr18.pdf
         - Online Video Object Detection using Association LSTM iccv17.pdf
         - Recurrent neural networks for object detection in video sequences msc_thes170321.pdf
     - tubelets/
         - Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf
         - Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf
         - T-CNN Tubelets with Convolutional Neural Networks for Object Detection from Videos ax1708 tcsvt.pdf
+- video_segmentation/
+    - A Video Representation Using Temporal Superpixels cvpr13.pdf
+    - CDTS Collaborative Detection, Tracking, and Segmentation for Online Multiple Object Segmentation in Videos_iccv17.pdf
+    - DEEP CONVOLUTIONAL NEURAL NETWORKS FOR SEMANTIC VIDEO OBJECT SEGMENTATION mscthes16.pdf
+    - End-to-end Learning of Driving Models from Large-scale Video Datasets arxiv16_12.pdf
+    - Fast and Accurate Online Video Object Segmentation via Tracking Parts  1806.02323 cvpr18.pdf
+    - Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks  1806.02070 miccai08.pdf
+    - Learning to Segment Moving Objects in Videos ax1505 cvpr15.pdf
+    - Learning Video Object Segmentation from Static Images cvpr17 masktrack.pdf
+    - Motion trajectory segmentation via minimum cost multicuts iccv15.pdf
+    - Online Adaptation of Convolutional Neural Networks for Video Object Segmentation ax1708 bmvc17.pdf
+    - Online Video Object Segmentation via Convolutional Trident Network cvpr17.pdf
+    - Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks ax1708 iccv17.pdf
+    - Segmentation of Moving Objects by Long Term Video Analysis tpami14.pdf
+    - 617/
+        - Efficient Hierarchical Graph Based Video Segmentation cvpr10.pdf
+        - Foreground Segmentation Using a Triplet Convolutional Neural Network for Multiscale Feature Encoding ax1801.pdf
+        - FusionSeg Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos cvpr2017.pdf
+        - MaskRNN Instance Level Video Object Segmentation nips17.pdf
+        - OSVOS One-Shot Video Object Segmentation ax1704 cvpr17.pdf
+        - Unsupervised Learning of Video Representations using LSTMs ax15.pdf
+        - Unsupervised Learning of Visual Representations using Videos ax15.pdf
+        - Unsupervised object segmentation in video by efficient selection of highly probable positive features ax170419.pdf
+        - Unsupervised Video Segmentation via Spatio-Temporally Nonlocal Appearance Learning ax1612.pdf
+        - Video Segmentation by Non-Local Consensus Voting bmvc14.pdf
+        - Video Segmentation via Object Flow cvpr16.pdf
+    - davis_2017/
+        - Instance Re-Identification Flow for Video Object Segmentation DAVIS-Challenge-3rd-Team.pdf
+        - Learning to Segment Instances in Videos with Spatial Propagation Network cvprw17DAVIS-Challenge-6th-Team.pdf
+        - Lucid Data Dreaming for Object Tracking cvprw17 DAVIS-Challenge-2nd-Team.pdf
+        - Multiple-Instance Video Segmentation with Sequence-Specific Object Proposals cvprw17DAVIS-Challenge-4th-Team.pdf
+        - One-Shot Video Object Segmentation with Iterative Online Fine-Tuning cvprw17DAVIS-Challenge-8th-Team.pdf
+        - Online Adaptation of Convolutional Neural Networks for the 2017 DAVIS Challenge cvprw17 DAVIS-Challenge-5th-Team.pdf
+        - Some Promising Ideas about Multi-instance Video Segmentation cvprw17DAVIS-Challenge-7th-Team.pdf
+        - Video Object Segmentation using Tracked Object Proposals cvprw17 DAVIS-Challenge-9th-Team.pdf
+        - Video Object Segmentation with Re-identification cvprw17 DAVIS-Challenge-1st-Team.pdf
+    - menna/
+        - RTSEG REAL-TIME SEMANTIC SEGMENTATION COMPARATIVE STUDY ax1803.02758 icip18.pdf
+        - ShuffleSeg Real-time Semantic Segmentation Network ax1803.03816.pdf
+        - Video Segmentation using Teacher Student Adaptation in HRI ax1810.07733.pdf
+    - motion/
+        - Coherent Motion Segmentation in Moving Camera Videos Using Optical Flow Orientations iccv13.pdf
 - video_synthesis/
     - Deep multi-scale video prediction beyond mean square error ax1602 iclr16.pdf
