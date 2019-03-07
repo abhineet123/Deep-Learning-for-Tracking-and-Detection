@@ -1,4 +1,4 @@
-Updated on: 190227 220603
+Updated on: 190307 074058
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -24,6 +24,9 @@ Updated on: 190227 220603
         - NIPS 2016 Tutorial Generative Adversarial Networks arxiv16.pdf
         - Render for CNN Viewpoint Estimation in Images Using CNNs Trained with Rendered 3D Model Views iccv.pdf
         - SEDS a Framework to Generate Stable, Adaptive, Reactive, and Human-Like Robot Reaching Motions 13_1.pdf
+    - GMVAE/
+        - Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders rejected_iclr17.pdf
+        - Unsupervised Lesion Detection via Image Restoration with a Normative Prior ax181123.pdf
 - bayesian/
     - A practical Bayesian framework for backpropagation networks. nc92.pdf
     - Bayesian Learning for Neural Networks thesis_book95.pdf
@@ -39,6 +42,50 @@ Updated on: 190227 220603
 - captioning/
     - Motion Words for Videos eccv14.pdf
     - Show, Attend and Tell Neural Image Caption Generation with Visual Attention xuc15.pdf
+- classification/
+    - Accurate and Eficient Image Classification by Exploiting Sparsity Homa_Candidacy.pdf
+    - Anytime recognition of objects and scenes cvpr14.pdf
+    - ImageNet Classification with Deep Convolutional Neural Networks nips12.pdf
+    - ImageNet classification with deep convolutional neural networks acm17.pdf
+    - Imagenet classification with deep convolutional neural networks nips12.pdf
+    - Multi-Scale Dense Networks for Resource Efficient Image Classification ax1711.pdf
+    - Place Recognition with ConvNet Landmarks Viewpoint-Robust, Condition-Robust, Training-Free rss15.pdf
+    - Selective Search for Object Recognition IJCV2013.pdf
+    - Very Deep Convolutional Networks for Large-Scale Image Recognition iclr15 1409.1556.pdf
+    - Visual object-action recognition Inferring object affordances from human demonstration cviu_11.pdf
+    - activity/
+        - Continuous Learning of Human Activity Models Using Deep Nets  eccv14.pdf
+    - animal/
+        - Learning to Recognize Animals by Watching Documentaries Using Subtitles as Weak Supervision 17.pdf
+    - cell_classification/
+        - 10.1007_978-3-319-46976-8.pdf
+        - A deep convolutional neural network for classification of red blood cells in sickle cell anemia plos_cb_1710.pdf
+        - A Deep Residual Inception Network for HEp-2 Cell Classification SL_dlmia17.pdf
+        - Cells classification with deep learning  siu17.pdf
+        - Cross-Modal Transfer Learning for HEp-2 Cell Classification Based on Deep Residual Network ism17.pdf
+        - Deep convolutional neural network based HEp-2 cell classification  icpr1612.pdf
+        - Deep Learning in Label-free Cell Classification nature_srep21471 1603.pdf
+        - Deep Learning of Cell Classification Using Microscope Images of Intracellular Microtubule Networks  icmla1712.pdf
+        - DeepPap Deep Convolutional Networks for Cervical Cell Classification  jbhi1711.pdf
+        - Evaluation of Morphological Features for Breast Cells Classification Using Neural Networks SL_taai.pdf
+        - HEp-2 cell classification based on a Deep Autoencoding-Classification convolutional neural network  isbi17.pdf
+        - HEp-2 cell classification using a deep neural network trained for natural image classification  siu16.pdf
+        - HEp-2 Cell Classification Using K-Support Spatial Pooling in Deep CNNs SL_dlmia1609.pdf
+        - HEp-2 Cell Image Classification With Deep Convolutional Neural Networks  jbhi1703.pdf
+        - HEp-2 specimen classification via deep CNNs and pattern histogram  icpr1612.pdf
+    - evolution/
+        - Large-Scale Evolution of Image Classifiers ax1706 icml17.pdf
+        - Regularized Evolution for Image Classifier Architecture Search ax190216 aaai19.pdf
+    - svm/
+        - A tutorial on support vector machines for pattern recognition.pdf
+        - SVM.pdf
+        - svm15.pdf
+    - thermal_imaging/
+        - Deep Thermal Imaging Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns ax1803.pdf
+    - video/
+        - Beyond Short Snippets Deep Networks for Video Classification cvpr15.pdf
+        - Deep Learning from Temporal Coherence in Video icml09.pdf
+        - Long-term Recurrent Convolutional Networks for Visual Recognition and Description ax1411.4389 cvpr15.pdf
 - curve_revovery/
     - A Robust Rigid Skeleton Extraction Method from Noisy Visual Hull Model ijars15.pdf
     - Analytic Curve Detection from a Noisy Binary Edge Map using Genetic Algorithm.pdf
@@ -82,6 +129,9 @@ Updated on: 190227 220603
         - Network In Network ax1403.pdf
         - Rethinking the Inception Architecture for Computer Vision ax1512 cvpr16.pdf
         - Xception Deep Learning with Depthwise Separable Convolutions ax170404.pdf
+    - large_models/
+        - GPipe Efficient Training of Giant Neural Networks using Pipeline Parallelism 181212.pdf
+        - Lingvo a Modular and Scalable Framework for Sequence-to-Sequence Modeling ax190221.pdf
     - nas/
         - DARTS Differentiable Architecture Search ax180624.pdf
         - Efficient Neural Architecture Search with Network Morphism ax1806.pdf
@@ -182,6 +232,8 @@ Updated on: 190227 220603
     - Automatic differentiation in machine learning a survey ax1802.pdf
     - Demystifying Differentiable Programming ShiftReset the Penultimate Backpropagator 180327.pdf
     - Differentiable Programming for Image Processing and Deep Learning in Halide siggraph18.pdf
+- edge_detection/
+    - Holistically-Nested Edge Detection ax1510 iccv15.pdf
 - evaluation/
     - 1 year, 1000 km The Oxford RobotCar dataset  ijrr16_11.pdf
     - 80 Million Tiny Images A Large Data Set for Nonparametric Object and Scene Recognition pami08.pdf
@@ -427,47 +479,6 @@ Updated on: 190227 220603
 - radar/
     - Real-Time Detection and Filtering of Chaff Clutter from Single-Polarization Doppler Radar Data  ams1305.pdf
 - readings/
-- recognition/
-    - Accurate and Eficient Image Classification by Exploiting Sparsity Homa_Candidacy.pdf
-    - Anytime recognition of objects and scenes cvpr14.pdf
-    - ImageNet Classification with Deep Convolutional Neural Networks nips12.pdf
-    - ImageNet classification with deep convolutional neural networks acm17.pdf
-    - Imagenet classification with deep convolutional neural networks nips12.pdf
-    - Multi-Scale Dense Networks for Resource Efficient Image Classification ax1711.pdf
-    - Place Recognition with ConvNet Landmarks Viewpoint-Robust, Condition-Robust, Training-Free rss15.pdf
-    - Selective Search for Object Recognition IJCV2013.pdf
-    - Very Deep Convolutional Networks for Large-Scale Image Recognition iclr15 1409.1556.pdf
-    - Visual object-action recognition Inferring object affordances from human demonstration cviu_11.pdf
-    - activity/
-        - Continuous Learning of Human Activity Models Using Deep Nets  eccv14.pdf
-    - animal/
-        - Learning to Recognize Animals by Watching Documentaries Using Subtitles as Weak Supervision 17.pdf
-    - cell_classification/
-        - 10.1007_978-3-319-46976-8.pdf
-        - A deep convolutional neural network for classification of red blood cells in sickle cell anemia plos_cb_1710.pdf
-        - A Deep Residual Inception Network for HEp-2 Cell Classification SL_dlmia17.pdf
-        - Cells classification with deep learning  siu17.pdf
-        - Cross-Modal Transfer Learning for HEp-2 Cell Classification Based on Deep Residual Network ism17.pdf
-        - Deep convolutional neural network based HEp-2 cell classification  icpr1612.pdf
-        - Deep Learning in Label-free Cell Classification nature_srep21471 1603.pdf
-        - Deep Learning of Cell Classification Using Microscope Images of Intracellular Microtubule Networks  icmla1712.pdf
-        - DeepPap Deep Convolutional Networks for Cervical Cell Classification  jbhi1711.pdf
-        - Evaluation of Morphological Features for Breast Cells Classification Using Neural Networks SL_taai.pdf
-        - HEp-2 cell classification based on a Deep Autoencoding-Classification convolutional neural network  isbi17.pdf
-        - HEp-2 cell classification using a deep neural network trained for natural image classification  siu16.pdf
-        - HEp-2 Cell Classification Using K-Support Spatial Pooling in Deep CNNs SL_dlmia1609.pdf
-        - HEp-2 Cell Image Classification With Deep Convolutional Neural Networks  jbhi1703.pdf
-        - HEp-2 specimen classification via deep CNNs and pattern histogram  icpr1612.pdf
-    - svm/
-        - A tutorial on support vector machines for pattern recognition.pdf
-        - SVM.pdf
-        - svm15.pdf
-    - thermal_imaging/
-        - Deep Thermal Imaging Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns ax1803.pdf
-    - video/
-        - Beyond Short Snippets Deep Networks for Video Classification cvpr15.pdf
-        - Deep Learning from Temporal Coherence in Video icml09.pdf
-        - Long-term Recurrent Convolutional Networks for Visual Recognition and Description ax1411.4389 cvpr15.pdf
 - recurrent_neural_networks/
     - A Clockwork RNN ax1402.pdf
     - A Critical Review of Recurrent Neural Networks for Sequence Learning.pdf
@@ -604,7 +615,6 @@ Updated on: 190227 220603
         - Online Learning of a Memory for Learning Rates ax1710.pdf
         - Online Q-Learning using Connectionist Systems 94.pdf
         - Policy gradient methods for reinforcement learning with function approximation nips99.pdf
-        - Regularized Evolution for Image Classifier Architecture Search 180301.pdf
         - Reinforcement Learning Neural Turing Machines - Revised arxiv16_1.pdf
         - Reinforcement Learning with Neural Networks Tricks of the Trade sl13.pdf
         - Reinforcement Learning with Self-Modifying Policies sl ltl98.pdf
