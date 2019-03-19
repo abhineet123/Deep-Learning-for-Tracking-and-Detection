@@ -1,4 +1,4 @@
-Updated on: 190307 074058
+Updated on: 190319 085847
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -76,6 +76,19 @@ Updated on: 190307 074058
     - evolution/
         - Large-Scale Evolution of Image Classifiers ax1706 icml17.pdf
         - Regularized Evolution for Image Classifier Architecture Search ax190216 aaai19.pdf
+    - pipe_defect/
+        - Automated defect classification in sewer closed circuit television inspections using deep convolutional neural networks AiC1807_SD.pdf
+        - Automated detection of sewer pipe defects in closed-circuit television images using deep learning techniques AiC1811_SD.pdf
+        - Autonomous Structural Visual Inspection Using Region-Based Deep Learning for Detecting Multiple Damage Types 171128 Computer-Aided_Civil_and_Infrastructure_Engineering.pdf
+        - CLASSIFICATION OF UNDERWATER PIPELINE EVENTS USING DEEP CONVOLUTIONAL NEURAL NETWORKS icassp17_poster.pdf
+        - Deep learning-based damage detection for sewer pipe inspection using faster R-CNN 180414_Full_Paper_ICCCBE2018.pdf
+        - Development and Improvement of Deep Learning Based Automated Defect Detection for Sewer Pipe Inspection Using Faster R-CNN ACSE18_springer.pdf
+        - Sewer damage detection from imbalanced CCTV inspection data using deep convolutional neural networks with hierarchical classification AiC1905_SD.pdf
+        - Small Defect Detection Using Convolutional Neural Network Features and Random Forests eccvw18.pdf
+        - Visual Inspection of Storm-Water Pipe Systems using Deep Convolutional Neural Networks ICINCO_2018_67_CR.pdf
+        - misc/
+            - A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure AEI15_SD.pdf
+            - Vision-based Structural Inspection using Multiscale Deep Convolutional Neural Networks ax1805.01055.pdf
     - svm/
         - A tutorial on support vector machines for pattern recognition.pdf
         - SVM.pdf
@@ -119,6 +132,14 @@ Updated on: 190307 074058
     - graph/
         - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering nips18.pdf
         - Relational inductive biases, deep learning, and graph networks ax1810.pdf
+    - hybrid_hand_crafted/
+        - Combining ConvNets with Hand-Crafted Features for Action Recognition Based on an HMM-SVM Classifier ax1602.00749.pdf
+        - Combining Deep and Handcrafted Image Features for Presentation Attack Detection in Face Recognition Systems Using Visible-Light Camera Sensors. sensors-18-00699-v2.pdf
+        - Combining deep learning and hand-crafted features for skin lesion classification ipta06.pdf
+        - Evaluating the Utility of Hand-crafted Features in Sequence Labelling ax1808.pdf
+        - Object Classification using Ensemble of Local and Deep Features ax1712.04926.pdf
+        - Skin Lesion Classification Via Combining Deep Learning Features and Clinical Criteria Representations bax1808.pdf
+        - The Impact of Replacing Complex Hand-Crafted Features with Standard Features for Melanoma Classification Using Both Hand-Crafted and Deep Features intellisys18_spr.pdf
     - hyper_parameters/
         - Algorithms for Hyper-Parameter Optimization nips11.pdf
     - inception/
@@ -232,8 +253,6 @@ Updated on: 190307 074058
     - Automatic differentiation in machine learning a survey ax1802.pdf
     - Demystifying Differentiable Programming ShiftReset the Penultimate Backpropagator 180327.pdf
     - Differentiable Programming for Image Processing and Deep Learning in Halide siggraph18.pdf
-- edge_detection/
-    - Holistically-Nested Edge Detection ax1510 iccv15.pdf
 - evaluation/
     - 1 year, 1000 km The Oxford RobotCar dataset  ijrr16_11.pdf
     - 80 Million Tiny Images A Large Data Set for Nonparametric Object and Scene Recognition pami08.pdf
@@ -572,6 +591,8 @@ Updated on: 190307 074058
         - Reinforcement learning for hierarchical and modular neural network in autonomous robot navigation  jcnn03.pdf
         - Self-learning navigation algorithm for vision-based mobile robots using machine learning algorithms jmst11.pdf
         - The Linear Quadratic Tracking Problem.pdf
+    - navigation/
+        - DeepTraffic Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation ax190103.pdf
     - notes/
         - Classification-based Policy Iteration with a Critic icml11.pdf
         - Learning the Reward Function for a Misspecified Model ax1802.pdf
@@ -771,7 +792,7 @@ Updated on: 190307 074058
         - First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks ax15_11.pdf
         - RATM Recurrent Attentive Tracking Model ax16_4.pdf
         - Re3 Real-Time Recurrent Regression Networks for Object Tracking ax17_3.pdf
-        - Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ax16_7.pdf
+        - Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ax1607.05781 iscas17.pdf
     - registration/
         - Deep 6-DOF Tracking ax1708 tvcg17.pdf
         - Illumination Insensitive Efficient Second-order Minimization for Planar Object Tracking icra17.pdf
@@ -870,9 +891,12 @@ Updated on: 190307 074058
     - background_subtraction/
         - ANOMALY DETECTION IN SURVEILLANCE VIDEOS USING DEEP RESIDUAL NETWORKS mscthes1702.pdf
     - boundary/
+        - Contour Detection and Hierarchical Image Segmentation tpami1105.pdf
         - Convolutional Oriented Boundaries eccv16.pdf
         - Convolutional Oriented Boundaries From Image Segmentation to High-Level Tasks tpami18 ax1704.pdf
+        - Crisp Boundary Detection Using Pointwise Mutual Information eccv14.pdf
         - High-for-Low and Low-for-High Efficient Boundary Detection From Deep Object Features and its Applications to High-Level Vision  iccv15.pdf
+        - Holistically-Nested Edge Detection ax1510 iccv15.pdf
     - cell/
         - Training Convolutional Neural Networks and Compressed Sensing End-to-End for Microscopy Cell Detection ax1810.03075.pdf
     - classic/
@@ -1074,6 +1098,7 @@ Updated on: 190307 074058
     - action/
         - Recurrent Tubelet Proposal and Recognition Networks for Action Detection eccv18.pdf
         - Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos ax1708.pdf
+        - Two-stream convolutional networks for action recognition in videos nips14.pdf
     - fgfa/
         - Deep Feature Flow For Video Recognition cvpr17.pdf
         - Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17.pdf
@@ -1101,6 +1126,14 @@ Updated on: 190307 074058
         - Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf
         - Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf
         - Online Video Object Detection using Association LSTM iccv17.pdf
+    - proposals/
+        - 4D Generic Video Object Proposals ax1901.09260.pdf
+        - Adaptive video object proposals by a context-aware model mta18_spr.pdf
+        - Detecting temporally consistent objects in videos through object class label propagation. wacv16.pdf
+        - Spatio- temporal object detection proposals eccv14.pdf
+        - Track and Segment An Iterative Unsupervised Approach for Video Object Proposals cvpr2016.pdf
+        - Track and Segment An Iterative Unsupervised Approach for Video Object Proposals cvpr2016_supp.pdf
+        - Video object proposals cvprw12.pdf
     - rnn/
         - Context Matters Refining Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
         - Mobile Video Object Detection with Temporally-Aware Feature Maps cvpr18.pdf
