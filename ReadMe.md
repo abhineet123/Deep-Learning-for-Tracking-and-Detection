@@ -309,7 +309,7 @@ Collection of papers and other resources for object detection and tracking using
         - [Matchnet](https://github.com/hanxf/matchnet)
         - [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
      - Boundary Detection  
-        - [Holistically-Nested Edge Detection (HED) (cvpr15)](https://github.com/s9xie/hed) [caffe]       
+        - [Holistically-Nested Edge Detection (HED) (iccv15)](https://github.com/s9xie/hed) [caffe]       
         - [Edge-Detection-using-Deep-Learning (HED)](https://github.com/Akuanchang/Edge-Detection-using-Deep-Learning) [tensorflow]
         - [Crisp Boundary Detection Using Pointwise Mutual Information (eccv14)](https://github.com/phillipi/crisp-boundaries) [matlab]
 
