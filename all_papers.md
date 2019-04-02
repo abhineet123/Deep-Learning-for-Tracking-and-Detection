@@ -1,4 +1,4 @@
-Updated on: 190319 085847
+Updated on: 190402 153518
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -117,6 +117,17 @@ Updated on: 190319 085847
     - biological/
         - Towards an integration of deep learning and neuroscience ax1606.03813.pdf
         - Towards Biologically Plausible Deep Learning ax1502.04156.pdf
+    - compression/
+        - A Gift from Knowledge Distillation Fast Optimization, Network Minimization and Transfer Learning CVPR17.pdf
+        - Compression of Deep Neural Networks by combining pruning and low rank decomposition nips18.pdf
+        - Domain-adaptive deep network compression ax1709.01041.pdf
+        - FitNets Hints for Thin Deep Nets ax1505.pdf
+        - Learning Efficient Convolutional Networks through Network Slimming ax1708.06519 iccv17.pdf
+        - Paying More Attention to Attention Improving the Performance of Convolutional Neural Networks via Attention Transfer ax1702.pdf
+        - Pelee A Real-Time Object Detection System on Mobile Devices ax190118.pdf
+        - Pruning Convolutional Neural Networks for Resource Efficient Inference ax1707.pdf
+        - Pruning Filters for Efficient ConvNets ax1608.08710.pdf
+        - ThiNet A Filter Level Pruning Method for Deep Neural Network Compression ICCV17.pdf
     - densenet/
         - Densely Connected Convolutional Networks ax1801 cvpr17.pdf
     - dropout/
@@ -194,6 +205,8 @@ Updated on: 190319 085847
         - Decoupled Neural Interfaces using Synthetic Gradients ax1608.05343.pdf
         - Decoupled Parallel Backpropagation with Convergence Guarantee ax1804.10574.pdf
         - Deep supervised learning using local errors ax1711.06756.pdf
+        - Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation ax1308.3432.pdf
+        - Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets iclr19_review.pdf
         - Understanding Synthetic Gradients and Decoupled Neural Interfaces ax1703.00522.pdf
     - theory/
         - Do Deep Nets Really Need to be Deep ax1410 nips14.pdf
@@ -205,6 +218,8 @@ Updated on: 190319 085847
         - Understanding Deep Neural Networks with Rectified Linear Units ax1707.pdf
         - Understanding the difficulty of training deep feedforward neural networks icas10.pdf
         - Visualizing and understanding convolutional neural networks ECCV2014.pdf
+    - transfer/
+        - Domain Adaptive Neural Networks for Object Recognition ax1409.6041.pdf
     - unsorted/
         - Adaptive deconvolutional networks for mid and high level feature learning iccv11.pdf
         - Convolutional neural networks on graphs with fast localized spectral filtering nips16.pdf
@@ -288,6 +303,7 @@ Updated on: 190319 085847
 - evolution_strategies/
     - Deep Neuroevolution Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning ax180420.pdf
 - few_shot_learning/
+    - Low-Shot Learning with Imprinted Weights ax1804 cvpr18.pdf
     - Matching Networks for One Shot Learning ax171229.pdf
     - Prototypical Networks for Few-shot Learning ax1707.pdf
 - general_value_functions/
@@ -535,12 +551,16 @@ Updated on: 190319 085847
         - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation emnlp14.pdf
         - On the Properties of Neural Machine Translation Encoder-Decoder Approaches ax1410 ssst8.pdf
     - lstm/
+        - Convolutional LSTM Network A Machine Learning Approach for Precipitation Nowcasting nips15.pdf
         - Grid Long Short-Term Memory ax15_7.pdf
         - LONG SHORT-TERM MEMORY jnc97.pdf
         - LSTM A Search Space Odyssey ax15_3.pdf
         - LSTM A Search Space Odyssey ax1710.pdf
         - Propagating LSTM 3D Pose Estimation based on Joint Interdependency_eccv18.pdf
         - Recurrent Batch Normalization ax1603.09025.pdf
+        - Sequence to sequence learning with neural networks nips14.pdf
+        - Unsupervised Learning of Video Representations using LSTMs ax1502.04681 icml15.pdf
+        - Video (language) modeling a baseline for generative models of natural videos ax1412.6604.pdf
 - registration/
     - An Unsupervised Learning Model for Deformable Medical Image Registration cvpr18.pdf
     - Deep Image Homography Estimation ax1606.pdf
@@ -892,6 +912,7 @@ Updated on: 190319 085847
         - ANOMALY DETECTION IN SURVEILLANCE VIDEOS USING DEEP RESIDUAL NETWORKS mscthes1702.pdf
     - boundary/
         - Contour Detection and Hierarchical Image Segmentation tpami1105.pdf
+        - ContourGAN Image Contour Detection with Generative Adversarial Encoder-Decoder Networks kbs190115_sd.pdf
         - Convolutional Oriented Boundaries eccv16.pdf
         - Convolutional Oriented Boundaries From Image Segmentation to High-Level Tasks tpami18 ax1704.pdf
         - Crisp Boundary Detection Using Pointwise Mutual Information eccv14.pdf
@@ -978,6 +999,10 @@ Updated on: 190319 085847
         - Object Detection from a Vehicle using Deep Learning Network  and Future Integration with Multi-Sensor Fusion Algorithm 17.pdf
     - single_stage/
         - DeNet Scalable Real-time Object Detection with Directed Sparse Sampling iccv17 ax1703.10295.pdf
+    - skeleton/
+        - DeepSkeleton Learning Multi-task Scale-associated Deep Side Outputs for Object Skeleton Extraction in Natural Images ax1707 tpami17.pdf
+        - Hi-Fi Hierarchical Feature Integration for Skeleton Detection ijcai18.pdf
+        - Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs ax1604 cvpr16.pdf
     - SSD/
         - Context-Aware Single-Shot Detector 1707.08682 wacv18.pdf
         - Deep Feature Pyramid Reconfiguration for Object Detection 1808.07993 eccv18.pdf
