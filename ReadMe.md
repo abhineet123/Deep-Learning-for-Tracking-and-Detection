@@ -293,6 +293,11 @@ Collection of papers and other resources for object detection and tracking using
         - [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)  [c/python]
         - [Darkflow](https://github.com/thtrieu/darkflow) [tensorflow]
         - [Pytorch Yolov2 ](https://github.com/marvis/pytorch-yolo2) [pytorch]
+        - [pytorch-yolo-v3 ](https://github.com/ayooshkathuria/pytorch-yolo-v3) [pytorch]
+        - [YOLOv3 in PyTorch](https://github.com/ultralytics/yolov3) [pytorch]
+        - [YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) [tensorflow]
+        - [tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3) [tensorflow slim]
+        - [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) [tensorflow slim]
     - RFCN
         - [RFCN (author)](https://github.com/daijifeng001/r-fcn) [caffe/matlab]
         - [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow) [tensorflow]
