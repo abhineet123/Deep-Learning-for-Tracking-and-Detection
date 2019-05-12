@@ -275,6 +275,7 @@ Collection of papers and other resources for object detection and tracking using
     - Frameworks
         - [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
         - [Detectron](https://github.com/facebookresearch/Detectron)
+    - [SNIPER: Efficient Multi-Scale Training (cvpr18 / nips18)](https://github.com/mahyarnajibi/SNIPER)  [mxnet/python]
     - SSD
         - [SSD-Tensorflow](https://github.com/ljanyst/ssd-tensorflow) [tensorflow]
         - [SSD-Tensorflow (tf.estimator)](https://github.com/HiKapok/SSD.TensorFlow) [tensorflow]
@@ -284,8 +285,7 @@ Collection of papers and other resources for object detection and tracking using
         - [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
     - RCNN
         - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
-        - [Mask R-CNN TensorFlow](https://github.com/CharlesShang/FastMaskRCNN) [TensorFlow]
-        - [Mask R-CNN Keras](https://github.com/matterport/Mask_RCNN) [keras]
+        - Mask R-CNN - [TensorFlow](https://github.com/CharlesShang/FastMaskRCNN), [Keras](https://github.com/matterport/Mask_RCNN)
         - [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]    
         - [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
         - [Cascade R-CNN (cvpr18)](http://www.svcl.ucsd.edu/publications/conference/2018/cvpr/cascade-rcnn.pdf) - [Detectron](https://github.com/zhaoweicai/Detectron-Cascade-RCNN), [Caffe](https://github.com/zhaoweicai/cascade-rcnn)  
