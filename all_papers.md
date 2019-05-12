@@ -1,4 +1,4 @@
-Updated on: 190402 153518
+Updated on: 190512 142342
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -102,6 +102,37 @@ Updated on: 190402 153518
 - curve_revovery/
     - A Robust Rigid Skeleton Extraction Method from Noisy Visual Hull Model ijars15.pdf
     - Analytic Curve Detection from a Noisy Binary Edge Map using Genetic Algorithm.pdf
+- datasets/
+    - 1 year, 1000 km The Oxford RobotCar dataset  ijrr16_11.pdf
+    - 80 Million Tiny Images A Large Data Set for Nonparametric Object and Scene Recognition pami08.pdf
+    - A benchmark for comparison of cell tracking algorithms bioinformatics14.pdf
+    - A Public Video Dataset for Road Transportation Applications (2013) .pdf
+    - Beyond Standard Benchmarks Parameterizing Performance Evaluation in Visual Object Tracking_iccv17.pdf
+    - Cats and Dogs cvpr12.pdf
+    - Fully Automatic, Real-Time Vehicle Tracking for Surveillance Video crv17.pdf
+    - LaSOT A High-quality Benchmark for Large-scale Single Object Tracking ax1809.07845.pdf
+    - Long-term Tracking in the Wild A Benchmark ax180810_eccv18.pdf
+    - MOT16 A Benchmark for Multi-Object Tracking ax16_5.pdf
+    - MOTChallenge 2015 Towards a Benchmark for Multi-Target Tracking ax15_8.pdf
+    - Need for Speed A Benchmark for Higher Frame Rate Object Tracking_iccv17.pdf
+    - The Unmanned Aerial Vehicle Benchmark Object Detection and Tracking_eccv18.pdf
+    - TrackingNet A Large-Scale Dataset and Benchmark for Object Tracking in the Wild_eccv18.pdf
+    - Training a Convolutional Neural Network for Multi-Class Object Detection Using Solely Virtual World Data icavss16_8.pdf
+    - Vehicle Tracking by Simultaneous Detection and Viewpoint Estimation iwinac13.pdf
+    - WILDTRACK A Multi-camera HD Dataset for Dense Unscripted Pedestrian Detection_cvpr18.pdf
+    - YouTube-BoundingBoxes A Large High-Precision Human-Annotated Data Set for Object Detection in Video ax170324.pdf
+    - animal/
+        - The iNaturalist Species Classification and Detection Dataset ax1804.pdf
+        - The INaturalist Species Classification and Detection Dataset_CVPR_2018-supp.pdf
+        - The INaturalist Species Classification and Detection Dataset_CVPR_2018.pdf
+    - detection/
+        - DOTA A Large-Scale Dataset for Object Detection in Aerial Images_CVPR_2018.pdf
+        - Performance Evaluation of Object Detection and Tracking in Video TR2006-041.pdf
+        - Performance Evaluation of Object Detection and Tracking in Video.pdf
+        - Performance measures for object detection evaluation prl10_7.pdf
+        - The PASCAL Visual Object Classes (VOC) Challenge ijcv_voc09.pdf
+    - metrics/
+        - Evaluating multiple object tracking performance the clear mot metrics eurasip08.pdf
 - deblurring/
     - Blind Image Deblurring Using Dark Channel Prior  cvpr16.pdf
     - DeblurGAN Blind Motion Deblurring Using Conditional Adversarial Networks ax1804_cvpr18.pdf
@@ -268,34 +299,6 @@ Updated on: 190402 153518
     - Automatic differentiation in machine learning a survey ax1802.pdf
     - Demystifying Differentiable Programming ShiftReset the Penultimate Backpropagator 180327.pdf
     - Differentiable Programming for Image Processing and Deep Learning in Halide siggraph18.pdf
-- evaluation/
-    - 1 year, 1000 km The Oxford RobotCar dataset  ijrr16_11.pdf
-    - 80 Million Tiny Images A Large Data Set for Nonparametric Object and Scene Recognition pami08.pdf
-    - A benchmark for comparison of cell tracking algorithms bioinformatics14.pdf
-    - A Public Video Dataset for Road Transportation Applications (2013) .pdf
-    - Beyond Standard Benchmarks Parameterizing Performance Evaluation in Visual Object Tracking_iccv17.pdf
-    - Cats and Dogs cvpr12.pdf
-    - Fully Automatic, Real-Time Vehicle Tracking for Surveillance Video crv17.pdf
-    - LaSOT A High-quality Benchmark for Large-scale Single Object Tracking ax1809.07845.pdf
-    - Long-term Tracking in the Wild A Benchmark ax180810_eccv18.pdf
-    - MOT16 A Benchmark for Multi-Object Tracking ax16_5.pdf
-    - MOTChallenge 2015 Towards a Benchmark for Multi-Target Tracking ax15_8.pdf
-    - Need for Speed A Benchmark for Higher Frame Rate Object Tracking_iccv17.pdf
-    - The Unmanned Aerial Vehicle Benchmark Object Detection and Tracking_eccv18.pdf
-    - TrackingNet A Large-Scale Dataset and Benchmark for Object Tracking in the Wild_eccv18.pdf
-    - Training a Convolutional Neural Network for Multi-Class Object Detection Using Solely Virtual World Data icavss16_8.pdf
-    - Vehicle Tracking by Simultaneous Detection and Viewpoint Estimation iwinac13.pdf
-    - WILDTRACK A Multi-camera HD Dataset for Dense Unscripted Pedestrian Detection_cvpr18.pdf
-    - YouTube-BoundingBoxes A Large High-Precision Human-Annotated Data Set for Object Detection in Video ax170324.pdf
-    - animal/
-        - The iNaturalist Species Classification and Detection Dataset ax1804.pdf
-    - detection/
-        - Performance Evaluation of Object Detection and Tracking in Video TR2006-041.pdf
-        - Performance Evaluation of Object Detection and Tracking in Video.pdf
-        - Performance measures for object detection evaluation prl10_7.pdf
-        - The PASCAL Visual Object Classes (VOC) Challenge ijcv_voc09.pdf
-    - metrics/
-        - Evaluating multiple object tracking performance the clear mot metrics eurasip08.pdf
 - event_camera/
     - Dynamic Vision Sensors for Human Activity Recognition ax1803.04667 acpr17.pdf
     - Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars ax1804.01310 cvpr18.pdf
@@ -446,6 +449,7 @@ Updated on: 190402 153518
         - Collaborative Deep Reinforcement Learning for Multi-Object Tracking_eccv18.pdf
         - Learning to Track Online Multi-object Tracking by Decision Making  iccv15.pdf
         - Learning to Track Online Multi-Object Tracking by Decision Making_iccv15 supplementary.pdf
+        - Multiobject Tracking in Videos Based on LSTM and Deep Reinforcement Learning hindawi1803.pdf
     - rnn/
         - Multi-object Tracking with Neural Gating Using Bilinear LSTM_eccv18.pdf
     - segmentation/
@@ -481,6 +485,7 @@ Updated on: 190402 153518
     - FlowNet 2.0 Evolution of Optical Flow Estimation with Deep Networks cvpr17.pdf
     - FlowNet Learning Optical Flow With Convolutional Networks iccv15.pdf
     - Optical Flow Estimation using a Spatial Pyramid Network ax161121.pdf
+    - PWC-Net CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume ax1709.02371 cvpr18.pdf
     - evaluation/
         - A Database and Evaluation Methodology for Optical Flow iccv07.pdf
         - A database and evaluation methodology for optical flow ijcv11.pdf
@@ -675,6 +680,7 @@ Updated on: 190402 153518
     - PixelNet Representation of the pixels, by the pixels, and for the pixels.  17.pdf
     - What's the Point Semantic Segmentation with Point Supervision ax1607 eccv16.pdf
     - deeplab/
+        - Auto-DeepLab Hierarchical Neural Architecture Search for Semantic Image Segmentation ax1901.02985.pdf
         - DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs ax17_5.pdf
         - DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs} ax16.pdf
         - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ax180308.pdf
@@ -890,6 +896,7 @@ Updated on: 190402 153518
     - Learning Sparse Representations in Reinforcement Learning with Sparse Coding ijcai17.pdf
     - Sparse Multi-Task Reinforcement Learning.pdf
 - static_detection/
+    - Bag of Freebies for Training Object Detection Neural Networks ax190412.pdf
     - Beyond Skip Connections Top-Down Modulation for Object Detection ax1612.06851.pdf
     - Deep Regionlets for Object Detection ax1712.pdf
     - Enriching object detection with 2D-3D registration and continuous viewpoint estimation cvpr15.pdf
@@ -898,6 +905,7 @@ Updated on: 190402 153518
     - Object Detection Networks on Convolutional Feature Maps ax1608 tpami16.pdf
     - OverFeat Integrated Recognition, Localization and Detection using Convolutional Networks ax1402 iclr14.pdf
     - Relation Networks for Object Detection ax171130 cvpr18.pdf
+    - Scale-Transferrable Object Detection cvpr18.pdf
     - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition ax150423 tpami15.pdf
     - Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection wacv17 ax17_3.pdf
     - animal/
@@ -940,6 +948,11 @@ Updated on: 190402 153518
         - Training Region-based Object Detectors with Online Hard Example Mining ax1604.03540 cvpr16.pdf
     - human/
         - Deep Learning for Human Part Discovery in Images icra16.pdf
+    - instance_segmentation/
+        - Mask R-CNN ax17_4 iccv17.pdf
+        - Mask R-CNN ax180124.pdf
+        - MaskLab Instance Segmentation by Refining Object Detection With Semantic and Direction Features_CVPR_2018.pdf
+        - Pseudo Mask Augmented Object Detection CVPR_2018.pdf
     - mobile/
         - MobileNetV2 Inverted Residuals and Linear Bottlenecks ax180402.pdf
         - Squeezedet Unified, small, low power fully convolutional neural net- works for real-time object detection for autonomous driving cvprw17.pdf
@@ -965,13 +978,13 @@ Updated on: 190402 153518
         - Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks nips15 arxiv15.pdf
         - Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17 ax16_1.pdf
         - Light-Head R-CNN In Defense of Two-Stage Object Detector cvpr18 1711.07264.pdf
-        - Mask R-CNN ax17_4 iccv17.pdf
-        - Mask R-CNN ax180124.pdf
+        - Multi-Scale Location-Aware Kernel Representation for Object Detection_CVPR_2018.pdf
         - Object Detection Networks on Convolutional Feature Maps ax1608 tpami17.pdf
         - PVANet Lightweight Deep Neural Networks for Real-time Object Detection ax1612 nipsw16.pdf
         - Region-Based Convolutional Networks for Accurate Object Detection and Segmentation  tpami16_1.pdf
         - Rich feature hierarchies for accurate object detection and semantic segmentation ax141022 cvpr14.pdf
     - region_proposal/
+        - Deep Reinforcement Learning of Region Proposal Networks for Object Detection_CVPR_2018.pdf
         - Edge boxes Locating object proposals from edges eccv14.pdf
         - Multiscale Combinatorial Grouping cvpr14.pdf
         - Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation ax2015_v3 tpami16.pdf
@@ -989,11 +1002,15 @@ Updated on: 190402 153518
         - Deep Learning for Generic Object Detection A Survey ax1809.02165.pdf
         - Speed accuracy trade-offs for modern convolutional object detectors ax1704 cvpr17.pdf
     - RFCN/
+        - R-FCN-3000 at 30fps Decoupling Detection and Classification cvpr18.pdf
         - RFCN - Object Detection via Region-based Fully Convolutional Networks nips16.pdf
     - RNN/
         - Inside-Outside Net Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks 1512.04143 cvpr16.pdf
     - road/
         - Deep Learning for Robust Road Object Detection msc_thes17.pdf
+    - scale_invariance/
+        - An Analysis of Scale Invariance in Object Detection ­ SNIP CVPR_2018.pdf
+        - SNIPER Efficient Multi-Scale Training ax181213 nips18.pdf
     - sensor_fusion/
         - Deep Learning for Person Detection in Multi-Spectral Videos mscthes17.pdf
         - Object Detection from a Vehicle using Deep Learning Network  and Future Integration with Multi-Sensor Fusion Algorithm 17.pdf
@@ -1011,9 +1028,14 @@ Updated on: 190402 153518
         - Extend the shallow part of Single Shot MultiBox Detector via Convolutional Neural Network 1801.05918.pdf
         - FSSD Feature Fusion Single Shot Multibox Detector 1712.00960.pdf
         - MDSSD Multi-scale Deconvolutional Single Shot Detector for Small Objects ax1805.07009.pdf
+        - Single-Shot Object Detection With Enriched Semantics_CVPR_2018.pdf
+        - Single-Shot Refinement Neural Network for Object Detection_CVPR_2018.pdf
         - SSD Single Shot MultiBox Detector eccv16_ax16_12.pdf
     - vehicle/
         - Evolving Boxes for Fast Vehicle Detection icme13.pdf
+    - weak_supervision/
+        - W2F A Weakly-Supervised to Fully-Supervised Framework for Object Detection cvpr18-supp.pdf
+        - W2F A Weakly-Supervised to Fully-Supervised Framework for Object Detection cvpr18.pdf
     - yolo/
         - YOLO9000 Better, Faster, Stronger ax16_12.pdf
         - YOLOv3 An Incremental Improvement ax180408.pdf
@@ -1118,12 +1140,15 @@ Updated on: 190402 153518
     - Object Detection from Video Sequences Using Deep Learning An Overview AISC1710_SPRINGER.pdf
     - Object recognition and detection with deep learning for autonomous driving applications sage_1706.pdf
     - Object Tracking in Video with TensorFlow msc_thes1610.pdf
+    - Optimizing Video Object Detection via a Scale-Time Lattice_CVPR_2018.pdf
     - Seq-NMS for Video Object Detection ax1608.pdf
     - Video Object Detection for Tractability with Deep Learning Method  CBD17.pdf
     - action/
         - Recurrent Tubelet Proposal and Recognition Networks for Action Detection eccv18.pdf
         - Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos ax1708.pdf
         - Two-stream convolutional networks for action recognition in videos nips14.pdf
+    - efficient/
+        - NoScope Optimizing Neural Network Queries over Video at Scale ax1708 vldb17.pdf
     - fgfa/
         - Deep Feature Flow For Video Recognition cvpr17.pdf
         - Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17.pdf
