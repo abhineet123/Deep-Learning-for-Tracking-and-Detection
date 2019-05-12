@@ -275,7 +275,9 @@ Collection of papers and other resources for object detection and tracking using
     - Frameworks
         - [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
         - [Detectron](https://github.com/facebookresearch/Detectron)
-    - [SNIPER: Efficient Multi-Scale Training (cvpr18 / nips18)](https://github.com/mahyarnajibi/SNIPER)  [mxnet/python]
+        - [Open MMLab Detection Toolbox with PyTorch](https://github.com/open-mmlab/mmdetection)
+    - [SNIPER: Efficient Multi-Scale Training](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18]  [mxnet]
+    - [Multi-scale Location-aware Kernel Representation for Object Detection](https://github.com/Hwang64/MLKP) [cvpr18]  [caffe/python]
     - SSD
         - [SSD-Tensorflow](https://github.com/ljanyst/ssd-tensorflow) [tensorflow]
         - [SSD-Tensorflow (tf.estimator)](https://github.com/HiKapok/SSD.TensorFlow) [tensorflow]
@@ -283,6 +285,7 @@ Collection of papers and other resources for object detection and tracking using
         - [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
         - [SSD-Pytorch](https://github.com/amdegroot/ssd.pytorch) [pytorch]
         - [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
+        - [RefineDet - Single-Shot Refinement Neural Network for Object Detection](https://github.com/sfzhang15/RefineDet) [cvpr18] [caffe]
     - RCNN
         - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
         - Mask R-CNN - [TensorFlow](https://github.com/CharlesShang/FastMaskRCNN), [Keras](https://github.com/matterport/Mask_RCNN)
@@ -299,6 +302,7 @@ Collection of papers and other resources for object detection and tracking using
         - [YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) [tensorflow]
         - [tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3) [tensorflow slim]
         - [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) [tensorflow slim]
+        - [keras-yolov3](https://github.com/qqwweee/keras-yolo3) [keras]
     - RFCN
         - [RFCN (author)](https://github.com/daijifeng001/r-fcn) [caffe/matlab]
         - [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow) [tensorflow]
