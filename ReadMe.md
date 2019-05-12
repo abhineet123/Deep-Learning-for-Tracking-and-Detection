@@ -288,7 +288,7 @@ Collection of papers and other resources for object detection and tracking using
         - [Mask R-CNN Keras](https://github.com/matterport/Mask_RCNN) [keras]
         - [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]    
         - [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
-        - [Cascade R-CNN (cvpr18)](http://www.svcl.ucsd.edu/publications/conference/2018/cvpr/cascade-rcnn.pdf) - [Detectron] (https://github.com/zhaoweicai/Detectron-Cascade-RCNN), [Caffe] (https://github.com/zhaoweicai/cascade-rcnn)  
+        - [Cascade R-CNN (cvpr18)](http://www.svcl.ucsd.edu/publications/conference/2018/cvpr/cascade-rcnn.pdf) - [Detectron](https://github.com/zhaoweicai/Detectron-Cascade-RCNN), [Caffe](https://github.com/zhaoweicai/cascade-rcnn)  
     - YOLO  
         - [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet) [c/python]
         - [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)  [c/python]
