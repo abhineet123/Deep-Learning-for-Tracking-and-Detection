@@ -178,11 +178,25 @@ Collection of papers and other resources for object detection and tracking using
     + [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
     + [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) (pedestrian detection and tracking)
 
+- Video Understanding / Activity Recognition
+    + [YouTube-8M](https://research.google.com/youtube8m/)
+    + [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
+    + [VIRAT Video Dataset](http://www.viratdata.org/)
+
+- Video Detection
+    + [YouTube-BB](https://research.google.com/youtube-bb/download.html)
+
+- Static Detection
+    + [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
+
 - Segmentation
     + [COCO - Common Objects in Context](http://cocodataset.org/#download)
 
-- Video Understanding
-    + [YouTube-8M](https://research.google.com/youtube8m/)
+- Classification
+    + [ImageNet Large Scale Visual Recognition Competition 2012](http://www.image-net.org/challenges/LSVRC/2012/)
+
+- Optical Flow
+    + [Middlebury](http://vision.middlebury.edu/flow/data/)
 
 ## Collections
 - Datasets
