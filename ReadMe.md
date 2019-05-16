@@ -244,6 +244,10 @@ Collection of papers and other resources for object detection and tracking using
     - [Guide to Autoencoders](https://yaledatascience.github.io/2016/10/29/autoencoders.html)
     - [Applied Deep Learning - Part 3: Autoencoders](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
     - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html)
+    - [Stacked Denoising Autoencoders](https://skymind.ai/wiki/stacked-denoising-autoencoder)
+    - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
+    - [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
+    - [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
 
 
 ## Code
