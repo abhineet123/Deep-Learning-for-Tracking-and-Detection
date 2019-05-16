@@ -217,6 +217,7 @@ Collection of papers and other resources for object detection and tracking using
     [ICCV 2015]
     [MATLAB]
     - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
+    - [Simple Online and Realtime Tracking (ICIP 2016)](https://github.com/abewley/sort)[python]
     - [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/)
     [ICCV 2015]
     [highest MT on MOT2015 among open source trackers]
