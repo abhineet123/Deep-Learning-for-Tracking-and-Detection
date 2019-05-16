@@ -212,6 +212,7 @@ Collection of papers and other resources for object detection and tracking using
     - [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)   
 - Misc 
     - [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
+    - [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 
 ## Tutorials
 - Static Detection
