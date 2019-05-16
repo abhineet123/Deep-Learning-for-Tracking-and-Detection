@@ -160,15 +160,15 @@ Collection of papers and other resources for object detection and tracking using
         
 ## Datasets
 - Multi Object Tracking
-    + [IDOT dataset](https://www.cs.uic.edu/Bits/YanziJin)
+    + [IDOT](https://www.cs.uic.edu/Bits/YanziJin)
     + [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)
     + [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
     + [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
     + [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
-    + [TRANCOS Dataset](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
-    + [Urban Tracker Dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
-    + [DARPA VIVID / PETS 2005 dataset](http://vision.cse.psu.edu/data/vividEval/datasets/datasets.html) (Non stationary camera)
-    + [KIT-AKS Dataset](http://i21www.ira.uka.de/image_sequences/) (No ground truth)
+    + [TRANCOS](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
+    + [Urban Tracker](https://www.jpjodoin.com/urbantracker/dataset.html)
+    + [DARPA VIVID / PETS 2005](http://vision.cse.psu.edu/data/vividEval/datasets/datasets.html) (Non stationary camera)
+    + [KIT-AKS](http://i21www.ira.uka.de/image_sequences/) (No ground truth)
     + [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/) (No top down viewpoint)
     + [MOT 2015](https://motchallenge.net/data/2D_MOT_2015/) (mostly street level camera viewpoint)
     + [MOT 2016](https://motchallenge.net/data/MOT16/) (mostly street level camera viewpoint)
@@ -177,6 +177,12 @@ Collection of papers and other resources for object detection and tracking using
     + [PETS 2017](https://motchallenge.net/data/PETS2017/) (Low density; mostly pedestrians)
     + [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
     + [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) (pedestrian detection and tracking)
+
+- Segmentation
+    + [COCO - Common Objects in Context](http://cocodataset.org/#download)
+
+- Video Understanding
+    + [YouTube-8M](https://research.google.com/youtube8m/)
 
 ## Collections
 - Datasets
