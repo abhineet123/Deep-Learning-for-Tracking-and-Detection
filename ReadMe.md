@@ -337,6 +337,8 @@ Collection of papers and other resources for object detection and tracking using
     - [DeepFlow v2 (iccv13)](https://arxiv.org/abs/1611.00850) - [c++/python/matlab](https://github.com/zimenglan-sysu-512/deep-flow), [project](http://lear.inrialpes.fr/src/deepflow/)
     - [An Evaluation of Data Costs for Optical Flow](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
 
+- Autoencoders
+    - [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (iclr17/deepmind)](https://openreview.net/forum?id=Sy2fzU9gl) - [tensorflow](https://github.com/miyosuda/disentangled_vae), [tensorflow](https://github.com/LynnHo/VAE-Tensorflow), [pytorch](https://github.com/1Konny/Beta-VAE)
     
 - Deep RL
     - [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
