@@ -203,6 +203,7 @@ Collection of papers and other resources for object detection and tracking using
 
 - Optical Flow
     + [Middlebury](http://vision.middlebury.edu/flow/data/)
+    + [MPI Sintel](http://sintel.is.tue.mpg.de/)
 
 ## Collections
 - Datasets
