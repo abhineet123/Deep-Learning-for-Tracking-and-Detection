@@ -327,15 +327,16 @@ Collection of papers and other resources for object detection and tracking using
         - [Crisp Boundary Detection Using Pointwise Mutual Information (eccv14)](https://github.com/phillipi/crisp-boundaries) [matlab]
 
 - Optical Flow
-    - [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS) [eccv16] [C++]
     - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks (cvpr17)](https://arxiv.org/abs/1612.01925) - [caffe](https://github.com/lmb-freiburg/flownet2), [pytorch/nvidia](https://github.com/NVIDIA/flownet2-pytorch)
     - [Guided Optical Flow Learning (cvprw17)](https://arxiv.org/abs/1702.02295) - [caffe](https://github.com/bryanyzhu/GuidedNet), [tensorflow](https://github.com/bryanyzhu/deepOF)
     - [SPyNet: Spatial Pyramid Network for Optical Flow (cvpr17)](https://arxiv.org/abs/1702.02295) - [lua](https://github.com/anuragranj/spynet), [pytorch](https://github.com/sniklaus/pytorch-spynet)
-    - [DeepFlow v2 (iccv13)](https://arxiv.org/abs/1611.00850) - [c++/python/matlab](https://github.com/zimenglan-sysu-512/deep-flow), [project](http://lear.inrialpes.fr/src/deepflow/)
-    - [Piecewise Rigid Scene Flow](https://github.com/vogechri/PRSM) [iccv13/eccv14/ijcv15] [c++/matlab]
-    - [An Evaluation of Data Costs for Optical Flow](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
+    - [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS) [eccv16] [C++]
     - [A Filter Formulation for Computing Real Time Optical Flow](https://github.com/jadarve/optical-flow-filter) [ral16] [c++/cuda - matlab,python wrappers]
     - [PatchBatch - a Batch Augmented Loss for Optical Flow](https://github.com/DediGadot/PatchBatch) [cvpr16] [python/theano]
+    - [Piecewise Rigid Scene Flow](https://github.com/vogechri/PRSM) [iccv13/eccv14/ijcv15] [c++/matlab]
+    - [DeepFlow v2 (iccv13)](https://arxiv.org/abs/1611.00850) - [c++/python/matlab](https://github.com/zimenglan-sysu-512/deep-flow), [project](http://lear.inrialpes.fr/src/deepflow/)
+    - [An Evaluation of Data Costs for Optical Flow](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
+
     
 - Deep RL
     - [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
