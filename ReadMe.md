@@ -191,12 +191,14 @@ Collection of papers and other resources for object detection and tracking using
 
 - Static Segmentation
     + [COCO - Common Objects in Context](http://cocodataset.org/#download)
+    + [UC Berkeley Computer Vision Group - Contour Detection and Image Segmentation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 
 - Video Segmentation
     + [DAVIS: Densely Annotated VIdeo Segmentation](https://davischallenge.org/)
 
 - Classification
     + [ImageNet Large Scale Visual Recognition Competition 2012](http://www.image-net.org/challenges/LSVRC/2012/)
+    + [Animals with Attributes 2](https://cvml.ist.ac.at/AwA2/)
 
 - Optical Flow
     + [Middlebury](http://vision.middlebury.edu/flow/data/)
