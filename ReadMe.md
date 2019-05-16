@@ -232,11 +232,18 @@ Collection of papers and other resources for object detection and tracking using
     - [Understanding Feature Pyramid Networks for object detection (FPN)](https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c)
     - [Fast object detection with SqueezeDet on Keras](https://medium.com/omnius/fast-object-detection-with-squeezedet-on-keras-5cdd124b46ce)
     - [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
+
 - Video Detection
     - [How Microsoft Does Video Object Detection - Unifying the Best Techniques in Video Object Detection Architectures in a Single Model](https://medium.com/nurture-ai/how-microsoft-does-video-object-detection-unifying-the-best-techniques-in-video-object-detection-b78b63e3f1d8)
+
 - Deep RL
     - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
     - [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
+
+- Autoencoders
+    - [Guide to Autoencoders](https://yaledatascience.github.io/2016/10/29/autoencoders.html)
+    - [Applied Deep Learning - Part 3: Autoencoders](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+    - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html)
 
 
 ## Code
