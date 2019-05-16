@@ -189,8 +189,11 @@ Collection of papers and other resources for object detection and tracking using
 - Static Detection
     + [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
 
-- Segmentation
+- Static Segmentation
     + [COCO - Common Objects in Context](http://cocodataset.org/#download)
+
+- Video Segmentation
+    + [DAVIS: Densely Annotated VIdeo Segmentation](https://davischallenge.org/)
 
 - Classification
     + [ImageNet Large Scale Visual Recognition Competition 2012](http://www.image-net.org/challenges/LSVRC/2012/)
