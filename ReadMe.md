@@ -330,7 +330,10 @@ Collection of papers and other resources for object detection and tracking using
     - [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS) [eccv16] [C++]
     - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2) [cvpr17] [caffe]
     - [Guided Optical Flow Learning (cvprw17)] (https://arxiv.org/abs/1702.02295) - [caffe](https://github.com/bryanyzhu/GuidedNet), [tensorflow](https://github.com/bryanyzhu/deepOF)
-    - 
+    - [SPyNet: Spatial Pyramid Network for Optical Flow (cvpr17)] (https://arxiv.org/abs/1702.02295) - [lua](https://github.com/anuragranj/spynet), [pytorch](https://github.com/sniklaus/pytorch-spynet)
+    - [DeepFlow v2 (iccv13)] (https://arxiv.org/abs/1611.00850) - [c++/python/matlab](https://github.com/zimenglan-sysu-512/deep-flow), [project](http://lear.inrialpes.fr/src/deepflow/)
+    - [Piecewise Rigid Scene Flow (iccv13/eccv14/ijcv15)] (https://ieeexplore.ieee.org/document/6751281) - [c++/matlab](https://github.com/vogechri/PRSM)
+    - [An Evaluation of Data Costs for Optical Flow ](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
     
 - Deep RL
     - [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
