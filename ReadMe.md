@@ -216,6 +216,7 @@ Collection of papers and other resources for object detection and tracking using
     - [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking)
     [ICCV 2015]
     [MATLAB]
+    - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
     - [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/)
     [ICCV 2015]
     [highest MT on MOT2015 among open source trackers]
@@ -263,7 +264,6 @@ Collection of papers and other resources for object detection and tracking using
     - [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
     - [End-to-end representation learning for Correlation Filter based tracking (CVPR 2017)](https://github.com/bertinetto/cfnet)[MATLAB]
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
-    - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
 
 - Video Detection
     - [Mobile Video Object Detection with Temporally-Aware Feature Maps (CVPR 2018) (Google)](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection)[tensorflow]
