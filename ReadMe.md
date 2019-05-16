@@ -199,6 +199,7 @@ Collection of papers and other resources for object detection and tracking using
 - Classification
     + [ImageNet Large Scale Visual Recognition Competition 2012](http://www.image-net.org/challenges/LSVRC/2012/)
     + [Animals with Attributes 2](https://cvml.ist.ac.at/AwA2/)
+    + [CompCars Dataset](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
 
 - Optical Flow
     + [Middlebury](http://vision.middlebury.edu/flow/data/)
