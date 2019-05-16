@@ -327,8 +327,10 @@ Collection of papers and other resources for object detection and tracking using
         - [Crisp Boundary Detection Using Pointwise Mutual Information (eccv14)](https://github.com/phillipi/crisp-boundaries) [matlab]
 
 - Optical Flow
-    - [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS)
-    - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2)
+    - [Fast Optical Flow using Dense Inverse Search (DIS)](https://github.com/tikroeger/OF_DIS) [eccv16] [C++]
+    - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ](https://github.com/lmb-freiburg/flownet2) [cvpr17] [caffe]
+    - [Guided Optical Flow Learning (cvprw17)] (https://arxiv.org/abs/1702.02295) - [caffe](https://github.com/bryanyzhu/GuidedNet), [tensorflow](https://github.com/bryanyzhu/deepOF)
+    - 
     
 - Deep RL
     - [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
