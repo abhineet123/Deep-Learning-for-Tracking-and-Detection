@@ -186,6 +186,8 @@ Collection of papers and other resources for object detection and tracking using
 - Multi Object Tracking
     - [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
     - [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
+- Deep Compressed Sensing
+    - [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)   
 - Misc 
     - [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 
