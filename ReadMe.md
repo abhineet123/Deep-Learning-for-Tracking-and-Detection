@@ -332,9 +332,9 @@ Collection of papers and other resources for object detection and tracking using
     - [Guided Optical Flow Learning (cvprw17)](https://arxiv.org/abs/1702.02295) - [caffe](https://github.com/bryanyzhu/GuidedNet), [tensorflow](https://github.com/bryanyzhu/deepOF)
     - [SPyNet: Spatial Pyramid Network for Optical Flow (cvpr17)](https://arxiv.org/abs/1702.02295) - [lua](https://github.com/anuragranj/spynet), [pytorch](https://github.com/sniklaus/pytorch-spynet)
     - [DeepFlow v2 (iccv13)](https://arxiv.org/abs/1611.00850) - [c++/python/matlab](https://github.com/zimenglan-sysu-512/deep-flow), [project](http://lear.inrialpes.fr/src/deepflow/)
-    - [Piecewise Rigid Scene Flow ](https://github.com/vogechri/PRSM) [iccv13/eccv14/ijcv15] [c++/matlab]
-    - [An Evaluation of Data Costs for Optical Flow ](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
-    - [A Filter Formulation for Computing Real Time Optical Flow ](https://github.com/jadarve/optical-flow-filter) [ral16] [c++/cuda - matlab,python wrappers]
+    - [Piecewise Rigid Scene Flow](https://github.com/vogechri/PRSM) [iccv13/eccv14/ijcv15] [c++/matlab]
+    - [An Evaluation of Data Costs for Optical Flow](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
+    - [A Filter Formulation for Computing Real Time Optical Flow](https://github.com/jadarve/optical-flow-filter) [ral16] [c++/cuda - matlab,python wrappers]
     
 - Deep RL
     - [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
