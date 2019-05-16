@@ -14,7 +14,7 @@ Collection of papers and other resources for object detection and tracking using
     ([pdf](static_detection/rcnn/Faster%20R-CNN%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks%20tpami17%20ax16_1.pdf),
     [notes](static_detection/notes/Faster_R-CNN.pdf))
     - **RFCN - Object Detection via Region-based Fully Convolutional Networks nips16**
-    ([pdf](static_detection/RCNN/RFCN%20-%20Object%20Detection%20via%20Region-based%20Fully%20Convolutional%20Networks%20nips16.pdf),
+    ([pdf](static_detection/rcnn/RFCN-Object%20Detection%20via%20Region-based%20Fully%20Convolutional%20Networks%20nips16.pdf),
     [notes](static_detection/notes/RFCN.pdf))
 	[Microsoft Research]
     - **Mask R-CNN**
