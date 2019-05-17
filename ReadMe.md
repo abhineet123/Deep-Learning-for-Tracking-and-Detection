@@ -296,8 +296,7 @@ Collection of papers and other resources for object detection and tracking using
     [(author)](https://www.csee.umbc.edu/~hpirsiav/)    
     - [The way they move: Tracking multiple targets with similar appearance](https://bitbucket.org/cdicle/smot/src/master/)
     [ICCV 2013]
-    [MATLAB]
-    
+    [MATLAB]   
     
 - Single Object Tracking
     - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection)
@@ -312,6 +311,7 @@ Collection of papers and other resources for object detection and tracking using
     - [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
     - [End-to-end representation learning for Correlation Filter based tracking (CVPR 2017)](https://github.com/bertinetto/cfnet)[MATLAB]
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
+    - [Fast Online Object Tracking and Segmentation: A Unifying Approach (CVPR 2019)](https://github.com/foolwood/SiamMask)[pytorch]
 
 - Video Detection
     - [Mobile Video Object Detection with Temporally-Aware Feature Maps (CVPR 2018) (Google)](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection)[tensorflow]
