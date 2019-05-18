@@ -300,17 +300,17 @@ Collection of papers and other resources for object detection and tracking using
     
 - Single Object Tracking
     - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
-    - [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv 2017] [matlab]
-    - [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](https://github.com/pondruska/DeepTracking) [aaai 2016] [torch 7]
     - [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv 2015] [matlab]
     - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://github.com/HyeonseobNam/MDNet) [cvpr 2016] [vot2015 winner] [matlab/matconvnet]
     - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [python]
     - [Visual Tracking with Fully Convolutional Networks](https://github.com/scott89/FCNT) [iccv 2015] [matlab]
+    - [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](https://github.com/pondruska/DeepTracking) [aaai 2016] [torch 7]
     - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [eccv 2016] [matlab]
 	- [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/bertinetto/siamese-fc) [eccvw 2016] [matlab/matconvnet] [project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
     - End-to-end representation learning for Correlation Filter based tracking [cvpr 2017] [matlab/matconvnet](https://github.com/bertinetto/cfnet) [tensorflow/inference_only](https://github.com/torrvision/siamfc-tf) [project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [iscas 2017] [tensorfow]
     - [ECO: Efficient Convolution Operators for Tracking (cvpr 2017)](https://github.com/martin-danelljan/ECO) [matlab]
+    - [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv 2017] [matlab]
     - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr 2019] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 
 - Video Detection
