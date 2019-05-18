@@ -273,8 +273,8 @@ Collection of papers and other resources for object detection and tracking using
     [cvpr 2015]
     [matlab]
     - [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker)  
-    [AVSS 2017]
-    [Python]
+    [avss 2017]
+    [python]
     - [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking)
     [tpami  2014 / cvpr 2011 / iccv 2011]
     [matlab]
@@ -289,11 +289,11 @@ Collection of papers and other resources for object detection and tracking using
     - [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip)
     [cvpr 2014]
     [C++]
-    [(author)](http://www.cbsr.ia.ac.cn/users/lywen/)
+    [[author]](http://www.cbsr.ia.ac.cn/users/lywen/)
     - [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz)
     [cvpr 2011]
     [matlab]
-    [(author)](https://www.csee.umbc.edu/~hpirsiav/)    
+    [[author]](https://www.csee.umbc.edu/~hpirsiav/)    
     - [The way they move: Tracking multiple targets with similar appearance](https://bitbucket.org/cdicle/smot/src/master/)
     [iccv 2013]
     [matlab]   
