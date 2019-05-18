@@ -314,10 +314,10 @@ Collection of papers and other resources for object detection and tracking using
     - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [CVPR 2019] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 
 - Video Detection
-    - [Mobile Video Object Detection with Temporally-Aware Feature Maps (CVPR 2018) (Google)](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection)[tensorflow]
+    - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [CVPR 2018] [Google] [tensorflow]
     - [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[python]
     - [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[python]
-    - [Flow-Guided Feature Aggregation for Video Object Detection (NIPS 2016 / ICCV 2017)](https://github.com/msracver/Flow-Guided-Feature-Aggregation)[python/CUDA]
+    - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [NIPS 2016 / ICCV 2017] [python/CUDA]
     
 - Static Detection and Matching
     - Frameworks
