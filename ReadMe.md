@@ -279,8 +279,8 @@ Collection of papers and other resources for object detection and tracking using
     - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://github.com/HyeonseobNam/MDNet) [cvpr 2016] [vot2015 winner] [matlab/matconvnet]
     - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [eccv 2016] [matlab]
 	- [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/bertinetto/siamese-fc) [eccvw 2016] [[matlab/matconvnet]] [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
+    - End-to-end representation learning for Correlation Filter based tracking [cvpr 2017] [[matlab/matconvnet]](https://github.com/bertinetto/cfnet) [[tensorflow/inference_only]](https://github.com/torrvision/siamfc-tf) [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
     - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [cvprw17] [python]
-    - End-to-end representation learning for Correlation Filter based tracking [cvpr 2017] [matlab/matconvnet](https://github.com/bertinetto/cfnet) [tensorflow/inference_only](https://github.com/torrvision/siamfc-tf) [project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [iscas 2017] [tensorfow]
     - [ECO: Efficient Convolution Operators for Tracking](https://github.com/martin-danelljan/ECO) [cvpr 2017] [matlab]
     - [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv 2017] [matlab]
