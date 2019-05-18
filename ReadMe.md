@@ -311,7 +311,7 @@ Collection of papers and other resources for object detection and tracking using
     - [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
     - [End-to-end representation learning for Correlation Filter based tracking (CVPR 2017)](https://github.com/bertinetto/cfnet)[MATLAB]
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
-    - [Fast Online Object Tracking and Segmentation: A Unifying Approach (CVPR 2019)](https://github.com/foolwood/SiamMask)[pytorch] [project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
+    - [Fast Online Object Tracking and Segmentation: A Unifying Approach (CVPR 2019)](https://github.com/foolwood/SiamMask)[pytorch], [(project)](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 
 - Video Detection
     - [Mobile Video Object Detection with Temporally-Aware Feature Maps (CVPR 2018) (Google)](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection)[tensorflow]
