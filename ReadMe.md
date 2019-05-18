@@ -285,7 +285,7 @@ Collection of papers and other resources for object detection and tracking using
     - [Discrete-Continuous Energy Minimization for Multi-Target Tracking](http://www.milanton.de/files/software/dctracking-v1.0.zip)
     [cvpr 2012]
     [matlab]
-    [(project)](http://www.milanton.de/dctracking/index.html)
+    [[project]](http://www.milanton.de/dctracking/index.html)
     - [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip)
     [cvpr 2014]
     [C++]
