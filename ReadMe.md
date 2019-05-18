@@ -300,12 +300,12 @@ Collection of papers and other resources for object detection and tracking using
     
 - Single Object Tracking
     - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
-    - [Detect to Track and Track to Detect (ICCV 2017)](https://github.com/feichtenhofer/Detect-Track) [matlab]
+    - [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv 2017] [matlab]
     - [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](https://github.com/pondruska/DeepTracking) [aaai 2016] [torch 7]
-    - [Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)](https://github.com/jbhuang0604/CF2) [matlab]
-    - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking (Winner of The VOT2015 Challenge)](https://github.com/HyeonseobNam/MDNet) [matlab/matconvnet]
+    - [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv 2015] [matlab]
+    - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://github.com/HyeonseobNam/MDNet) [vot2015 winner] [matlab/matconvnet]
     - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [python]
-    - [Visual Tracking with Fully Convolutional Networks (ICCV 2015)](https://github.com/scott89/FCNT) [matlab]
+    - [Visual Tracking with Fully Convolutional Networks](https://github.com/scott89/FCNT) [iccv 2015] [matlab]
     - [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/torrvision/siamfc-tf)[Tensor flow]
     - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [eccv 2016] [matlab]
     - [ECO: Efficient Convolution Operators for Tracking (cvpr 2017)](https://github.com/martin-danelljan/ECO) [matlab]
