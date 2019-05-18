@@ -297,8 +297,6 @@ Collection of papers and other resources for object detection and tracking using
         - [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
         - [Detectron](https://github.com/facebookresearch/Detectron)
         - [Open MMLab Detection Toolbox with PyTorch](https://github.com/open-mmlab/mmdetection)
-    - [SNIPER: Efficient Multi-Scale Training](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18]  [mxnet]
-    - [Multi-scale Location-aware Kernel Representation for Object Detection](https://github.com/Hwang64/MLKP) [cvpr18]  [caffe/python]
     - SSD
         - [SSD-Tensorflow](https://github.com/ljanyst/ssd-tensorflow) [tensorflow]
         - [SSD-Tensorflow (tf.estimator)](https://github.com/HiKapok/SSD.TensorFlow) [tensorflow]
@@ -331,15 +329,15 @@ Collection of papers and other resources for object detection and tracking using
         - [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
         - [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
     - FPN
-        - [Feature Pyramid Networks for Object Detection](https://github.com/unsky/FPN) [caffe/python]
-    - Misc  
-        - [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/daijifeng001/R-FCN)
-        - [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
-        - [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
+        - [Feature Pyramid Networks for Object Detection](https://github.com/unsky/FPN) [caffe/python]		
+	- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
+	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
+    - [SNIPER: Efficient Multi-Scale Training](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18]  [mxnet]
+    - [Multi-scale Location-aware Kernel Representation for Object Detection](https://github.com/Hwang64/MLKP) [cvpr18]  [caffe/python]
     - Matching  
         - [Matchnet](https://github.com/hanxf/matchnet)
         - [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
-     - Boundary Detection  
+    - Boundary Detection  
         - [Holistically-Nested Edge Detection (HED) (iccv15)](https://github.com/s9xie/hed) [caffe]       
         - [Edge-Detection-using-Deep-Learning (HED)](https://github.com/Akuanchang/Edge-Detection-using-Deep-Learning) [tensorflow]
         - [Crisp Boundary Detection Using Pointwise Mutual Information (eccv14)](https://github.com/phillipi/crisp-boundaries) [matlab]
