@@ -299,7 +299,7 @@ Collection of papers and other resources for object detection and tracking using
     [MATLAB]   
     
 - Single Object Tracking
-    - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection)
+    - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
     - [Detect to Track and Track to Detect (ICCV 2017)](https://github.com/feichtenhofer/Detect-Track) [matlab]
     - [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks (AAAI 2016)](https://github.com/pondruska/DeepTracking)[Torch 7]
     - [Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)](https://github.com/jbhuang0604/CF2) [matlab]
