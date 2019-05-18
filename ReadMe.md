@@ -301,7 +301,7 @@ Collection of papers and other resources for object detection and tracking using
 - Single Object Tracking
     - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
     - [Detect to Track and Track to Detect (ICCV 2017)](https://github.com/feichtenhofer/Detect-Track) [matlab]
-    - [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks (AAAI 2016)](https://github.com/pondruska/DeepTracking)[Torch 7]
+    - [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](https://github.com/pondruska/DeepTracking) [aaai 2016] [torch 7]
     - [Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)](https://github.com/jbhuang0604/CF2) [matlab]
     - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking (Winner of The VOT2015 Challenge)](https://github.com/HyeonseobNam/MDNet) [matlab/matconvnet]
     - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [python]
