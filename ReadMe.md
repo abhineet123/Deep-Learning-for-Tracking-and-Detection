@@ -263,10 +263,10 @@ Collection of papers and other resources for object detection and tracking using
     - [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking)
     [iccv 2015]
     [matlab]
-    - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
-    - [Simple Online and Realtime Tracking (ICIP 2016)](https://github.com/abewley/sort)[python]
+    - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort) [icip 2017] [python]
+    - [Simple Online and Realtime Tracking](https://github.com/abewley/sort) [icip 2016] [python]
     - [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/)
-    [ICCV 2015]
+    [iccv 2015]
     [highest MT on MOT2015 among open source trackers]
     [matlab]
     - [Joint Tracking and Segmentation of Multiple Targets](https://bitbucket.org/amilan/segtracking)
@@ -279,8 +279,8 @@ Collection of papers and other resources for object detection and tracking using
     [tpami  2014 / cvpr 2011 / iccv 2011]
     [matlab]
     - [Robust online multi-object tracking based on tracklet confidence and online discriminative appearance learning](https://drive.google.com/open?id=1YMqvkrVI6LOXRwcaUlAZTu_b2_5GmTAM)
-    [CVPR 2014]
-    [MATLAB]
+    [cvpr 2014]
+    [matlab]
     [(project)](https://sites.google.com/view/inuvision/research)
     - [Discrete-Continuous Energy Minimization for Multi-Target Tracking](http://www.milanton.de/files/software/dctracking-v1.0.zip)
     [cvpr 2012]
