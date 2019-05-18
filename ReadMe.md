@@ -300,24 +300,24 @@ Collection of papers and other resources for object detection and tracking using
     
 - Single Object Tracking
     - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection)
-    - [Detect to Track and Track to Detect (ICCV 2017)](https://github.com/feichtenhofer/Detect-Track)[MATLAB]
+    - [Detect to Track and Track to Detect (ICCV 2017)](https://github.com/feichtenhofer/Detect-Track) [matlab]
     - [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks (AAAI 2016)](https://github.com/pondruska/DeepTracking)[Torch 7]
-    - [Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)](https://github.com/jbhuang0604/CF2)[Matlab]
-    - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking (Winner of The VOT2015 Challenge)](https://github.com/HyeonseobNam/MDNet)[Matlab/MatConvNet]
-    - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM)[Python]
-    - [Visual Tracking with Fully Convolutional Networks (ICCV 2015)](https://github.com/scott89/FCNT)[Matlab]
+    - [Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)](https://github.com/jbhuang0604/CF2) [matlab]
+    - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking (Winner of The VOT2015 Challenge)](https://github.com/HyeonseobNam/MDNet) [matlab/matconvnet]
+    - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [python]
+    - [Visual Tracking with Fully Convolutional Networks (ICCV 2015)](https://github.com/scott89/FCNT) [matlab]
     - [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/torrvision/siamfc-tf)[Tensor flow]
-    - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [ECCV 2016] [MATLAB]
-    - [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
-    - [End-to-end representation learning for Correlation Filter based tracking](https://github.com/bertinetto/cfnet) [CVPR 2017] [MATLAB]
+    - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [eccv 2016] [matlab]
+    - [ECO: Efficient Convolution Operators for Tracking (cvpr 2017)](https://github.com/martin-danelljan/ECO) [matlab]
+    - [End-to-end representation learning for Correlation Filter based tracking](https://github.com/bertinetto/cfnet) [cvpr 2017] [matlab]
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [ISCAS 2017] [tensorfow]
-    - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [CVPR 2019] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
+    - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr 2019] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 
 - Video Detection
-    - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [CVPR 2018] [Google] [tensorflow]
-    - [TPN: Tubelet Proposal Network (CVPR 2017)](https://github.com/myfavouritekk/TPN)[python]
-    - [T-CNN: Tubelets with Convolution Neural Networks (CVPR 2016)](https://github.com/myfavouritekk/T-CNN)[python]
-    - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [NIPS 2016 / ICCV 2017] [python/CUDA]
+    - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr 2018] [Google] [tensorflow]
+    - [TPN: Tubelet Proposal Network (cvpr 2017)](https://github.com/myfavouritekk/TPN)[python]
+    - [T-CNN: Tubelets with Convolution Neural Networks (cvpr 2016)](https://github.com/myfavouritekk/T-CNN)[python]
+    - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [nips 2016 / ICCV 2017] [python/cuda]
     
 - Static Detection and Matching
     - Frameworks
