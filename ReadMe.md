@@ -297,6 +297,19 @@ Collection of papers and other resources for object detection and tracking using
         - [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
         - [Detectron](https://github.com/facebookresearch/Detectron)
         - [Open MMLab Detection Toolbox with PyTorch](https://github.com/open-mmlab/mmdetection)
+    - Region Proposal   
+        - [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
+        - [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
+    - FPN
+        - [Feature Pyramid Networks for Object Detection](https://github.com/unsky/FPN) [caffe/python]	
+	- RCNN
+        - [RFCN (author)](https://github.com/daijifeng001/r-fcn) [caffe/matlab]
+        - [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow) [tensorflow]
+        - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
+        - Mask R-CNN - [TensorFlow](https://github.com/CharlesShang/FastMaskRCNN), [Keras](https://github.com/matterport/Mask_RCNN)
+        - [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]    
+        - [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
+        - [Cascade R-CNN (cvpr18)](http://www.svcl.ucsd.edu/publications/conference/2018/cvpr/cascade-rcnn.pdf) - [Detectron](https://github.com/zhaoweicai/Detectron-Cascade-RCNN), [Caffe](https://github.com/zhaoweicai/cascade-rcnn)  
     - SSD
         - [SSD-Tensorflow](https://github.com/ljanyst/ssd-tensorflow) [tensorflow]
         - [SSD-Tensorflow (tf.estimator)](https://github.com/HiKapok/SSD.TensorFlow) [tensorflow]
@@ -305,13 +318,7 @@ Collection of papers and other resources for object detection and tracking using
         - [SSD-Pytorch](https://github.com/amdegroot/ssd.pytorch) [pytorch]
         - [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
         - [RefineDet - Single-Shot Refinement Neural Network for Object Detection](https://github.com/sfzhang15/RefineDet) [cvpr18] [caffe]
-    - RCNN
-        - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
-        - Mask R-CNN - [TensorFlow](https://github.com/CharlesShang/FastMaskRCNN), [Keras](https://github.com/matterport/Mask_RCNN)
-        - [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]    
-        - [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
-        - [Cascade R-CNN (cvpr18)](http://www.svcl.ucsd.edu/publications/conference/2018/cvpr/cascade-rcnn.pdf) - [Detectron](https://github.com/zhaoweicai/Detectron-Cascade-RCNN), [Caffe](https://github.com/zhaoweicai/cascade-rcnn)  
-    - YOLO  
+	- YOLO  
         - [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet) [c/python]
         - [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)  [c/python]
         - [Darkflow](https://github.com/thtrieu/darkflow) [tensorflow]
@@ -321,15 +328,7 @@ Collection of papers and other resources for object detection and tracking using
         - [YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) [tensorflow]
         - [tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3) [tensorflow slim]
         - [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) [tensorflow slim]
-        - [keras-yolov3](https://github.com/qqwweee/keras-yolo3) [keras]
-    - RFCN
-        - [RFCN (author)](https://github.com/daijifeng001/r-fcn) [caffe/matlab]
-        - [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow) [tensorflow]
-    - Region Proposal   
-        - [MCG : Multiscale Combinatorial Grouping - Object Proposals and Segmentation](https://github.com/jponttuset/mcg)  [(project)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/) [tpami16/cvpr14] [python]
-        - [COB : Convolutional Oriented Boundaries](https://github.com/kmaninis/COB)  [(project)](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/) [tpami18/eccv16] [matlab/caffe]
-    - FPN
-        - [Feature Pyramid Networks for Object Detection](https://github.com/unsky/FPN) [caffe/python]		
+        - [keras-yolov3](https://github.com/qqwweee/keras-yolo3) [keras]	
 	- [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
 	- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
     - [SNIPER: Efficient Multi-Scale Training](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18]  [mxnet]
