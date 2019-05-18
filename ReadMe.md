@@ -258,45 +258,45 @@ Collection of papers and other resources for object detection and tracking using
 ## Code
 - Multi Object Tracking
     - [Combined Image- and World-Space Tracking in Traffic Scenes](https://github.com/aljosaosep/ciwt)
-    [ICRA 2017]
-    [C++]
+    [icra 2017]
+    [c++]
     - [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking)
-    [ICCV 2015]
-    [MATLAB]
+    [iccv 2015]
+    [matlab]
     - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric (ICIP 2017)](https://github.com/nwojke/deep_sort)[python]
     - [Simple Online and Realtime Tracking (ICIP 2016)](https://github.com/abewley/sort)[python]
     - [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/)
     [ICCV 2015]
     [highest MT on MOT2015 among open source trackers]
-    [MATLAB]
+    [matlab]
     - [Joint Tracking and Segmentation of Multiple Targets](https://bitbucket.org/amilan/segtracking)
-    [CVPR 2015]
-    [MATLAB]
+    [cvpr 2015]
+    [matlab]
     - [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker)  
     [AVSS 2017]
     [Python]
     - [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking)
-    [TPAMI  2014 / CVPR 2011 / ICCV 2011]
-    [MATLAB]
+    [tpami  2014 / cvpr 2011 / iccv 2011]
+    [matlab]
     - [Robust online multi-object tracking based on tracklet confidence and online discriminative appearance learning](https://drive.google.com/open?id=1YMqvkrVI6LOXRwcaUlAZTu_b2_5GmTAM)
     [CVPR 2014]
     [MATLAB]
     [(project)](https://sites.google.com/view/inuvision/research)
     - [Discrete-Continuous Energy Minimization for Multi-Target Tracking](http://www.milanton.de/files/software/dctracking-v1.0.zip)
-    [CVPR 2012]
-    [MATLAB]
+    [cvpr 2012]
+    [matlab]
     [(project)](http://www.milanton.de/dctracking/index.html)
     - [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip)
-    [CVPR 2014]
+    [cvpr 2014]
     [C++]
     [(author)](http://www.cbsr.ia.ac.cn/users/lywen/)
     - [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz)
-    [CVPR 2011]
-    [MATLAB]
+    [cvpr 2011]
+    [matlab]
     [(author)](https://www.csee.umbc.edu/~hpirsiav/)    
     - [The way they move: Tracking multiple targets with similar appearance](https://bitbucket.org/cdicle/smot/src/master/)
-    [ICCV 2013]
-    [MATLAB]   
+    [iccv 2013]
+    [matlab]   
     
 - Single Object Tracking
     - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
