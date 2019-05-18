@@ -315,9 +315,9 @@ Collection of papers and other resources for object detection and tracking using
 
 - Video Detection
     - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr 2018] [Google] [tensorflow]
-    - [TPN: Tubelet Proposal Network (cvpr 2017)](https://github.com/myfavouritekk/TPN)[python]
-    - [T-CNN: Tubelets with Convolution Neural Networks (cvpr 2016)](https://github.com/myfavouritekk/T-CNN)[python]
-    - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [nips 2016 / ICCV 2017] [python/cuda]
+    - [TPN: Tubelet Proposal Network](https://github.com/myfavouritekk/TPN) [cvpr 2017] [python]
+    - [T-CNN: Tubelets with Convolution Neural Networks](https://github.com/myfavouritekk/T-CNN) [cvpr 2016] [python]
+    - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [nips 2016 / iccv 2017] [python/cuda]
     
 - Static Detection and Matching
     - Frameworks
