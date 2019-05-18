@@ -307,11 +307,11 @@ Collection of papers and other resources for object detection and tracking using
     - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM)[Python]
     - [Visual Tracking with Fully Convolutional Networks (ICCV 2015)](https://github.com/scott89/FCNT)[Matlab]
     - [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/torrvision/siamfc-tf)[Tensor flow]
-    - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016)](https://github.com/martin-danelljan/Continuous-ConvOp)[MATLAB]
+    - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016)](https://github.com/martin-danelljan/Continuous-ConvOp) [] [MATLAB]
     - [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
-    - [End-to-end representation learning for Correlation Filter based tracking (CVPR 2017)](https://github.com/bertinetto/cfnet)[MATLAB]
-    - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking (ISCAS 2017)](https://github.com/Guanghan/ROLO)[tensorfow]
-    - [Fast Online Object Tracking and Segmentation: A Unifying Approach (CVPR 2019)](https://github.com/foolwood/SiamMask)[pytorch], [(project)](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
+    - [End-to-end representation learning for Correlation Filter based tracking](https://github.com/bertinetto/cfnet) [CVPR 2017] [MATLAB]
+    - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [ISCAS 2017] [tensorfow]
+    - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [CVPR 2019] [pytorch] [(project)](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 
 - Video Detection
     - [Mobile Video Object Detection with Temporally-Aware Feature Maps (CVPR 2018) (Google)](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection)[tensorflow]
