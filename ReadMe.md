@@ -307,7 +307,7 @@ Collection of papers and other resources for object detection and tracking using
     - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM)[Python]
     - [Visual Tracking with Fully Convolutional Networks (ICCV 2015)](https://github.com/scott89/FCNT)[Matlab]
     - [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/torrvision/siamfc-tf)[Tensor flow]
-    - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking (ECCV 2016)](https://github.com/martin-danelljan/Continuous-ConvOp) [] [MATLAB]
+    - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [ECCV 2016] [MATLAB]
     - [ECO: Efficient Convolution Operators for Tracking (CVPR 2017)](https://github.com/martin-danelljan/ECO)[MATLAB]
     - [End-to-end representation learning for Correlation Filter based tracking](https://github.com/bertinetto/cfnet) [CVPR 2017] [MATLAB]
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [ISCAS 2017] [tensorfow]
