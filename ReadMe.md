@@ -108,7 +108,7 @@ Collection of papers and other resources for object detection and tracking using
 [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html),
 [notes](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
 - **Deep Network Flow for Multi-Object Tracking**
-(CVPR 2017) (NEC Labs)
+(cvpr17) (NEC Labs)
 ([pdf](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf),
 [supplementary](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17_supplemental.pdf),
 [notes](multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf))  
@@ -124,7 +124,7 @@ Collection of papers and other resources for object detection and tracking using
 ([pdf](single_object_tracking/reinforcement_learning/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/),
 [notes](single_object_tracking/notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf))
 - **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning**
-(CVPR 2017) (Seoul National University)
+(cvpr17) (Seoul National University)
 ([pdf](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17%20supplementary.pdf),
 [supplementary](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17.pdf),
 [project page](https://sites.google.com/view/cvpr2017-adnet),
@@ -151,13 +151,13 @@ Collection of papers and other resources for object detection and tracking using
     
 ##  Unsupervised Learning
 - **Learning Features by Watching Objects Move**
-(CVPR 2017)
+(cvpr17)
 ([pdf](unsupervised/segmentation/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf),
 [notes](unsupervised/notes/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf))
     
 ##  Interpolation
 - **Video Frame Interpolation via Adaptive Convolution**
-(CVPR 2017 / ICCV 2017)
+(cvpr17 / ICCV 2017)
 ([pdf (cvpr17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf),
 ([pdf (iccv17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Separable%20Convolution%20iccv17.pdf),
 [ppt](interpolation/notes/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf))
@@ -257,14 +257,14 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Code
 - Multi Object Tracking
-    - [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz) [cvpr 2011] [matlab] [[author]](https://www.csee.umbc.edu/~hpirsiav/)    
-    - [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking) [cvpr 2011 / iccv 2011 / tpami  2014] [matlab]
-    - [Discrete-Continuous Energy Minimization for Multi-Target Tracking](http://www.milanton.de/files/software/dctracking-v1.0.zip) [cvpr 2012] [matlab] [[project]](http://www.milanton.de/dctracking/index.html)
+    - [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz) [cvpr11] [matlab] [[author]](https://www.csee.umbc.edu/~hpirsiav/)    
+    - [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking) [cvpr11 / iccv 2011 / tpami  2014] [matlab]
+    - [Discrete-Continuous Energy Minimization for Multi-Target Tracking](http://www.milanton.de/files/software/dctracking-v1.0.zip) [cvpr12] [matlab] [[project]](http://www.milanton.de/dctracking/index.html)
     - [The way they move: Tracking multiple targets with similar appearance](https://bitbucket.org/cdicle/smot/src/master/) [iccv 2013] [matlab]   
-    - [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip) [cvpr 2014] [C++] [[author]](http://www.cbsr.ia.ac.cn/users/lywen/)
-    - [Robust online multi-object tracking based on tracklet confidence and online discriminative appearance learning](https://drive.google.com/open?id=1YMqvkrVI6LOXRwcaUlAZTu_b2_5GmTAM) [cvpr 2014] [matlab] [(project)](https://sites.google.com/view/inuvision/research)
+    - [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip) [cvpr14] [C++] [[author]](http://www.cbsr.ia.ac.cn/users/lywen/)
+    - [Robust online multi-object tracking based on tracklet confidence and online discriminative appearance learning](https://drive.google.com/open?id=1YMqvkrVI6LOXRwcaUlAZTu_b2_5GmTAM) [cvpr14] [matlab] [(project)](https://sites.google.com/view/inuvision/research)
     - [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking) [iccv 2015] [matlab]
-    - [Joint Tracking and Segmentation of Multiple Targets](https://bitbucket.org/amilan/segtracking) [cvpr 2015] [matlab]
+    - [Joint Tracking and Segmentation of Multiple Targets](https://bitbucket.org/amilan/segtracking) [cvpr15] [matlab]
     - [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/) [iccv 2015] [highest MT on MOT2015 among open source trackers] [matlab]
     - [Simple Online and Realtime Tracking](https://github.com/abewley/sort) [icip 2016] [python]
     - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort) [icip 2017] [python]
@@ -276,21 +276,23 @@ Collection of papers and other resources for object detection and tracking using
     - [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv 2015] [matlab]
     - [Visual Tracking with Fully Convolutional Networks](https://github.com/scott89/FCNT) [iccv 2015] [matlab]
     - [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](https://github.com/pondruska/DeepTracking) [aaai 2016] [torch 7]
-    - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://github.com/HyeonseobNam/MDNet) [cvpr 2016] [vot2015 winner] [matlab/matconvnet]
+    - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://github.com/HyeonseobNam/MDNet) [cvpr16] [vot2015 winner] [matlab/matconvnet]
     - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [eccv 2016] [matlab]
 	- [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/bertinetto/siamese-fc) [eccvw 2016] [matlab/matconvnet] [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
-    - End-to-end representation learning for Correlation Filter based tracking [cvpr 2017] [[matlab/matconvnet]](https://github.com/bertinetto/cfnet) [[tensorflow/inference_only]](https://github.com/torrvision/siamfc-tf) [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
+    - End-to-end representation learning for Correlation Filter based tracking [cvpr17] [[matlab/matconvnet]](https://github.com/bertinetto/cfnet) [[tensorflow/inference_only]](https://github.com/torrvision/siamfc-tf) [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
     - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [cvprw17] [python]
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [iscas 2017] [tensorfow]
-    - [ECO: Efficient Convolution Operators for Tracking](https://github.com/martin-danelljan/ECO) [cvpr 2017] [matlab]
-    - [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv 2017] [matlab]
-    - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr 2019] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
+    - [ECO: Efficient Convolution Operators for Tracking](https://github.com/martin-danelljan/ECO) [cvpr17] [matlab]
+    - [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv17] [matlab]
+    - High Performance Visual Tracking with Siamese Region Proposal Network [cvpr18] [[pytorch]](https://github.com/zkisthebest/Siamese-RPN) [[pytorch/reimplementation]](https://github.com/songdejia/Siamese-RPN-pytorch) 
+    - [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
+    - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 
 - Video Detection
     - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [nips 2016 / iccv 2017] [python/cuda]
-    - [T-CNN: Tubelets with Convolution Neural Networks](https://github.com/myfavouritekk/T-CNN) [cvpr 2016] [python]
-    - [TPN: Tubelet Proposal Network](https://github.com/myfavouritekk/TPN) [cvpr 2017] [python]
-    - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr 2018] [Google] [tensorflow]
+    - [T-CNN: Tubelets with Convolution Neural Networks](https://github.com/myfavouritekk/T-CNN) [cvpr16] [python]
+    - [TPN: Tubelet Proposal Network](https://github.com/myfavouritekk/TPN) [cvpr17] [python]
+    - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr18] [Google] [tensorflow]
     
 - Static Detection and Matching
     - Frameworks
