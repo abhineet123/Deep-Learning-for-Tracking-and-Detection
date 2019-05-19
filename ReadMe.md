@@ -137,9 +137,10 @@ Collection of papers and other resources for object detection and tracking using
 	
 - Siamese
 	- **High Performance Visual Tracking with Siamese Region Proposal Network**
-	(cvpr18)
-	([[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf) [[author]](http://www.robots.ox.ac.uk/~qwang/),
-	[[notes]](single_object_tracking/notes/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf))  
+	[cvpr18]
+	[[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
+	[[author]](http://www.robots.ox.ac.uk/~qwang/)
+	[[notes]](single_object_tracking/notes/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)  
 
 ##  Deep Learning
 - **Do Deep Nets Really Need to be Deep**
