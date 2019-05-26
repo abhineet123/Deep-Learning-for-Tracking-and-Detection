@@ -121,11 +121,11 @@ Collection of papers and other resources for object detection and tracking using
 	[notes](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
 	
 - Baseline
-	- **Learning Features by Watching Objects Move**
-	(cvpr17)
-	([pdf](unsupervised/segmentation/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf),
-	[notes](unsupervised/notes/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf))
-	[code]())
+	- **High-Speed Tracking-by-Detection Without Using Image Information **
+	(avss17)
+	([pdf](multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf),
+	[notes](multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf))
+	[code](https://github.com/bochinski/iou-tracker))
 		
 
       
