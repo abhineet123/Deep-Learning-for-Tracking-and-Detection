@@ -85,6 +85,19 @@ Collection of papers and other resources for object detection and tracking using
     [notes](video_detection/notes/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf))
 
 ##  Multi Object Tracking
+- Deep Learning
+    - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
+    (arxiv April 2017) (Stanford)
+    ([pdf](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
+    [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
+    [notes](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
+- Reinforcement Learning
+    - **Learning to Track: Online Multi-object Tracking by Decision Making**
+    (iccv15) (Stanford)
+    ([pdf](multi_object_tracking/reinforcement_learning/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
+    [code (Matlab)](https://github.com/yuxng/MDP_Tracking),
+    [project page](https://yuxng.github.io/),
+    [notes](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
 - Network Flow
     - **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor**
     (iccv15) (NEC Labs)
@@ -96,22 +109,6 @@ Collection of papers and other resources for object detection and tracking using
     ([pdf](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf),
     [supplementary](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17_supplemental.pdf),
     [notes](multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf))  
-
-- Deep Learning
-    - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
-    (arxiv April 2017) (Stanford)
-    ([pdf](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
-    [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
-    [notes](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
-    
-- Reinforcement Learning
-    - **Learning to Track: Online Multi-object Tracking by Decision Making**
-    (iccv15) (Stanford)
-    ([pdf](multi_object_tracking/reinforcement_learning/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
-    [code (Matlab)](https://github.com/yuxng/MDP_Tracking),
-    [project page](https://yuxng.github.io/),
-    [notes](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
-
 - Graph Optimization
     - **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects**
     (arxiv July 2016) (highest MT on MOT2015) (University of Freiburg, Germany)
@@ -119,15 +116,12 @@ Collection of papers and other resources for object detection and tracking using
     [arxiv](https://arxiv.org/abs/1607.06317),
     [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html),
     [notes](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
-    
 - Baseline
     - **High-Speed Tracking-by-Detection Without Using Image Information**
     (avss17)
     ([pdf](multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf),
     [notes](multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf))
     [code](https://github.com/bochinski/iou-tracker))
-        
-
       
 ## Single Object Tracking
 - Reinforcement Learning
