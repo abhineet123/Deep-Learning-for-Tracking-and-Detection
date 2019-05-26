@@ -121,7 +121,7 @@ Collection of papers and other resources for object detection and tracking using
     [notes](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
     
 - Baseline
-    - **High-Speed Tracking-by-Detection Without Using Image Information **
+    - **High-Speed Tracking-by-Detection Without Using Image Information**
     (avss17)
     ([pdf](multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf),
     [notes](multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf))
