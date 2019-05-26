@@ -8,6 +8,7 @@
 !unsupervised/
 !interpolation/
 !deep_learning/
+!autoencoder/
 *.bat
 *.dat
 *.lnk
