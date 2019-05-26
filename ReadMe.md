@@ -172,12 +172,12 @@ Collection of papers and other resources for object detection and tracking using
 
 ## Autoencoder
 - Variational
-    - **Object Detection from Video Tubelets with Convolutional Neural Networks CVPR16**
-    ([pdf](video_detection/tubelets/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf),
-    [notes](video_detection/notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf))
-    - **Object Detection in Videos with Tubelet Proposal Networks ax1704 cvpr17**
-    ([pdf](video_detection/tubelets/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf),
-    [notes](video_detection/notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf))  
+    - **beta-VAE Learning Basic Visual Concepts with a Constrained Variational Framework iclr17**
+    ([pdf](autoencoder/variational/beta-VAE%20Learning%20Basic%20Visual%20Concepts%20with%20a%20Constrained%20Variational%20Framework%20iclr17.pdf),
+    [notes](autoencoder/notes/beta-VAE%20Learning%20Basic%20Visual%20Concepts%20with%20a%20Constrained%20Variational%20Framework%20iclr17.pdf))
+    - **Disentangling by Factorising ax1806**
+    ([pdf](autoencoder/variational/Disentangling%20by%20Factorising%20ax1806.pdf),
+    [notes](autoencoder/notes/Disentangling%20by%20Factorising%20ax1806.pdf))  
 	
 ## Datasets
 - Multi Object Tracking
