@@ -206,30 +206,23 @@ Collection of papers and other resources for object detection and tracking using
     + [PETS 2017](https://motchallenge.net/data/PETS2017/) (Low density; mostly pedestrians)
     + [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
     + [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) (pedestrian detection and tracking)
-
 - Video Understanding / Activity Recognition
     + [YouTube-8M](https://research.google.com/youtube8m/)
     + [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
     + [VIRAT Video Dataset](http://www.viratdata.org/)
-
 - Video Detection
     + [YouTube-BB](https://research.google.com/youtube-bb/download.html)
-
 - Static Detection
     + [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
-
 - Static Segmentation
     + [COCO - Common Objects in Context](http://cocodataset.org/#download)
     + [UC Berkeley Computer Vision Group - Contour Detection and Image Segmentation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
-
 - Video Segmentation
     + [DAVIS: Densely Annotated VIdeo Segmentation](https://davischallenge.org/)
-
 - Classification
     + [ImageNet Large Scale Visual Recognition Competition 2012](http://www.image-net.org/challenges/LSVRC/2012/)
     + [Animals with Attributes 2](https://cvml.ist.ac.at/AwA2/)
     + [CompCars Dataset](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
-
 - Optical Flow
     + [Middlebury](http://vision.middlebury.edu/flow/data/)
     + [MPI Sintel](http://sintel.is.tue.mpg.de/)
@@ -263,14 +256,11 @@ Collection of papers and other resources for object detection and tracking using
     - [Understanding Feature Pyramid Networks for object detection (FPN)](https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c)
     - [Fast object detection with SqueezeDet on Keras](https://medium.com/omnius/fast-object-detection-with-squeezedet-on-keras-5cdd124b46ce)
     - [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
-
 - Video Detection
     - [How Microsoft Does Video Object Detection - Unifying the Best Techniques in Video Object Detection Architectures in a Single Model](https://medium.com/nurture-ai/how-microsoft-does-video-object-detection-unifying-the-best-techniques-in-video-object-detection-b78b63e3f1d8)
-
 - Deep RL
     - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
     - [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
-
 - Autoencoders
     - [Guide to Autoencoders](https://yaledatascience.github.io/2016/10/29/autoencoders.html)
     - [Applied Deep Learning - Part 3: Autoencoders](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
@@ -280,13 +270,13 @@ Collection of papers and other resources for object detection and tracking using
     - [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
     - [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
 
-
 ## Code
 - Multi Object Tracking
     - [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz) [cvpr11] [matlab] [[author]](https://www.csee.umbc.edu/~hpirsiav/)    
     - [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking) [cvpr11 / iccv11 / tpami  2014] [matlab]
     - [Discrete-Continuous Energy Minimization for Multi-Target Tracking](http://www.milanton.de/files/software/dctracking-v1.0.zip) [cvpr12] [matlab] [[project]](http://www.milanton.de/dctracking/index.html)
     - [The way they move: Tracking multiple targets with similar appearance](https://bitbucket.org/cdicle/smot/src/master/) [iccv13] [matlab]   
+    - [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) [pami14/kit13/iccv13/nips11] [C++/matlab]
     - [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip) [cvpr14] [C++] [[author]](http://www.cbsr.ia.ac.cn/users/lywen/)
     - [Robust online multi-object tracking based on tracklet confidence and online discriminative appearance learning](https://drive.google.com/open?id=1YMqvkrVI6LOXRwcaUlAZTu_b2_5GmTAM) [cvpr14] [matlab] [(project)](https://sites.google.com/view/inuvision/research)
     - [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking) [iccv15] [matlab]
@@ -295,8 +285,7 @@ Collection of papers and other resources for object detection and tracking using
     - [Simple Online and Realtime Tracking](https://github.com/abewley/sort) [icip 2016] [python]
     - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort) [icip 2017] [python]
     - [Combined Image- and World-Space Tracking in Traffic Scenes](https://github.com/aljosaosep/ciwt) [icra 2017] [c++]
-    - [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss 2017] [python]
-    
+    - [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss 2017] [python]    
 - Single Object Tracking
     - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
     - [SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask](https://github.com/STVIR/pysot/) [pytorch]
@@ -316,13 +305,11 @@ Collection of papers and other resources for object detection and tracking using
     - High Performance Visual Tracking with Siamese Region Proposal Network [cvpr18] [[pytorch]](https://github.com/zkisthebest/Siamese-RPN) [[pytorch/reimplementation]](https://github.com/songdejia/Siamese-RPN-pytorch) 
     - [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
     - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
-
 - Video Detection
     - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [nips 2016 / iccv17] [python/cuda]
     - [T-CNN: Tubelets with Convolution Neural Networks](https://github.com/myfavouritekk/T-CNN) [cvpr16] [python]
     - [TPN: Tubelet Proposal Network](https://github.com/myfavouritekk/TPN) [cvpr17] [python]
-    - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr18] [Google] [tensorflow]
-    
+    - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr18] [Google] [tensorflow]    
 - Static Detection and Matching
     - Frameworks
         - [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
@@ -371,7 +358,6 @@ Collection of papers and other resources for object detection and tracking using
         - [Holistically-Nested Edge Detection (HED) (iccv15)](https://github.com/s9xie/hed) [caffe]       
         - [Edge-Detection-using-Deep-Learning (HED)](https://github.com/Akuanchang/Edge-Detection-using-Deep-Learning) [tensorflow]
         - [Crisp Boundary Detection Using Pointwise Mutual Information (eccv14)](https://github.com/phillipi/crisp-boundaries) [matlab]
-
 - Optical Flow
     - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks (cvpr17)](https://arxiv.org/abs/1612.01925) - [caffe](https://github.com/lmb-freiburg/flownet2), [pytorch/nvidia](https://github.com/NVIDIA/flownet2-pytorch)
     - [SPyNet: Spatial Pyramid Network for Optical Flow (cvpr17)](https://arxiv.org/abs/1702.02295) - [lua](https://github.com/anuragranj/spynet), [pytorch](https://github.com/sniklaus/pytorch-spynet)
@@ -382,17 +368,13 @@ Collection of papers and other resources for object detection and tracking using
     - [Piecewise Rigid Scene Flow](https://github.com/vogechri/PRSM) [iccv13/eccv14/ijcv15] [c++/matlab]
     - [DeepFlow v2 (iccv13)](https://arxiv.org/abs/1611.00850) - [c++/python/matlab](https://github.com/zimenglan-sysu-512/deep-flow), [project](http://lear.inrialpes.fr/src/deepflow/)
     - [An Evaluation of Data Costs for Optical Flow](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
-
 - Autoencoders
     - [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl) [iclr 2017] [deepmind] [[tensorflow]](https://github.com/miyosuda/disentangled_vae) [[tensorflow]](https://github.com/LynnHo/VAE-Tensorflow) [[pytorch]](https://github.com/1Konny/Beta-VAE)
-    - [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [arxiv 2018/06] [pytorch]
-    
+    - [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [arxiv 2018/06] [pytorch]    
 - Classification
     - [Learning Efficient Convolutional Networks Through Network Slimming](https://github.com/miyosuda/async_deep_reinforce) [iccv17] [pytorch]
-        
 - Deep RL
     - [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
-    
 - Misc
     - [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
     - [RNNexp](https://github.com/asheshjain399/RNNexp)
