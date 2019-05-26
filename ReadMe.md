@@ -86,76 +86,76 @@ Collection of papers and other resources for object detection and tracking using
 
 ##  Multi Object Tracking
 - Network Flow
-	- **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor**
-	(iccv15) (NEC Labs)
-	([pdf](multi_object_tracking/network_flow/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf),
-	[author page](http://www-personal.umich.edu/~wgchoi/),
-	[notes](multi_object_tracking/notes/NOMT.pdf))  
-	- **Deep Network Flow for Multi-Object Tracking**
-	(cvpr17) (NEC Labs)
-	([pdf](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf),
-	[supplementary](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17_supplemental.pdf),
-	[notes](multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf))  
+    - **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor**
+    (iccv15) (NEC Labs)
+    ([pdf](multi_object_tracking/network_flow/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf),
+    [author page](http://www-personal.umich.edu/~wgchoi/),
+    [notes](multi_object_tracking/notes/NOMT.pdf))  
+    - **Deep Network Flow for Multi-Object Tracking**
+    (cvpr17) (NEC Labs)
+    ([pdf](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf),
+    [supplementary](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17_supplemental.pdf),
+    [notes](multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf))  
 
 - Deep Learning
-	- **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
-	(arxiv April 2017) (Stanford)
-	([pdf](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
-	[arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
-	[notes](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
-	
+    - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
+    (arxiv April 2017) (Stanford)
+    ([pdf](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
+    [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
+    [notes](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
+    
 - Reinforcement Learning
-	- **Learning to Track: Online Multi-object Tracking by Decision Making**
-	(iccv15) (Stanford)
-	([pdf](multi_object_tracking/reinforcement_learning/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
-	[code (Matlab)](https://github.com/yuxng/MDP_Tracking),
-	[project page](https://yuxng.github.io/),
-	[notes](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
+    - **Learning to Track: Online Multi-object Tracking by Decision Making**
+    (iccv15) (Stanford)
+    ([pdf](multi_object_tracking/reinforcement_learning/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
+    [code (Matlab)](https://github.com/yuxng/MDP_Tracking),
+    [project page](https://yuxng.github.io/),
+    [notes](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
 
 - Graph Optimization
-	- **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects**
-	(arxiv July 2016) (highest MT on MOT2015) (University of Freiburg, Germany)
-	([pdf](multi_object_tracking/batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf),
-	[arxiv](https://arxiv.org/abs/1607.06317),
-	[author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html),
-	[notes](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
-	
+    - **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects**
+    (arxiv July 2016) (highest MT on MOT2015) (University of Freiburg, Germany)
+    ([pdf](multi_object_tracking/batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf),
+    [arxiv](https://arxiv.org/abs/1607.06317),
+    [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html),
+    [notes](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
+    
 - Baseline
-	- **High-Speed Tracking-by-Detection Without Using Image Information **
-	(avss17)
-	([pdf](multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf),
-	[notes](multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf))
-	[code](https://github.com/bochinski/iou-tracker))
-		
+    - **High-Speed Tracking-by-Detection Without Using Image Information **
+    (avss17)
+    ([pdf](multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf),
+    [notes](multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf))
+    [code](https://github.com/bochinski/iou-tracker))
+        
 
       
 ## Single Object Tracking
 - Reinforcement Learning
-	- **Deep Reinforcement Learning for Visual Object Tracking in Videos**
-	(arxiv April 2017) (USC-Santa Barbara, Samsung Research)
-	([pdf](single_object_tracking/reinforcement_learning/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/),
-	[notes](single_object_tracking/notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf))  
-	- **Visual Tracking by Reinforced Decision Making**
-	(arxiv February 2017) (Seoul National University, Chung-Ang University)
-	([pdf](single_object_tracking/reinforcement_learning/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/),
-	[notes](single_object_tracking/notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf))
-	- **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning**
-	(cvpr17) (Seoul National University)
-	([pdf](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17%20supplementary.pdf),
-	[supplementary](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17.pdf),
-	[project page](https://sites.google.com/view/cvpr2017-adnet),
-	[notes](single_object_tracking/notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf)) 
-	- **End-to-end Active Object Tracking via Reinforcement Learning**
-	(arxiv 30 May 2017) (Peking University, Tencent AI Lab)
-	([pdf](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
-	[arxiv](https://arxiv.org/abs/1705.10561))
-	
+    - **Deep Reinforcement Learning for Visual Object Tracking in Videos**
+    (arxiv April 2017) (USC-Santa Barbara, Samsung Research)
+    ([pdf](single_object_tracking/reinforcement_learning/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/),
+    [notes](single_object_tracking/notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf))  
+    - **Visual Tracking by Reinforced Decision Making**
+    (arxiv February 2017) (Seoul National University, Chung-Ang University)
+    ([pdf](single_object_tracking/reinforcement_learning/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/),
+    [notes](single_object_tracking/notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf))
+    - **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning**
+    (cvpr17) (Seoul National University)
+    ([pdf](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17%20supplementary.pdf),
+    [supplementary](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17.pdf),
+    [project page](https://sites.google.com/view/cvpr2017-adnet),
+    [notes](single_object_tracking/notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf)) 
+    - **End-to-end Active Object Tracking via Reinforcement Learning**
+    (arxiv 30 May 2017) (Peking University, Tencent AI Lab)
+    ([pdf](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
+    [arxiv](https://arxiv.org/abs/1705.10561))
+    
 - Siamese
-	- **High Performance Visual Tracking with Siamese Region Proposal Network**
-	[cvpr18]
-	[[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
-	[[author]](http://www.robots.ox.ac.uk/~qwang/)
-	[[notes]](single_object_tracking/notes/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)  
+    - **High Performance Visual Tracking with Siamese Region Proposal Network**
+    [cvpr18]
+    [[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
+    [[author]](http://www.robots.ox.ac.uk/~qwang/)
+    [[notes]](single_object_tracking/notes/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)  
 
 ##  Deep Learning
 - **Do Deep Nets Really Need to be Deep**
