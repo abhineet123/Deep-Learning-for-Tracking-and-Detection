@@ -276,7 +276,7 @@ Collection of papers and other resources for object detection and tracking using
     - [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking) [cvpr11 / iccv11 / tpami  2014] [matlab]
     - [Discrete-Continuous Energy Minimization for Multi-Target Tracking](http://www.milanton.de/files/software/dctracking-v1.0.zip) [cvpr12] [matlab] [[project]](http://www.milanton.de/dctracking/index.html)
     - [The way they move: Tracking multiple targets with similar appearance](https://bitbucket.org/cdicle/smot/src/master/) [iccv13] [matlab]   
-    - [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) [pami14/kit13/iccv13/nips11] [C++/matlab]
+    - [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) [pami14/kit13/iccv13/nips11] [C++/matlab][[2d_tracking]](http://www.cvlibs.net/software/trackbydet/)
     - [Multiple target tracking based on undirected hierarchical relation hypergraph](http://www.cbsr.ia.ac.cn/users/lywen/codes/MultiCarTracker.zip) [cvpr14] [C++] [[author]](http://www.cbsr.ia.ac.cn/users/lywen/)
     - [Robust online multi-object tracking based on tracklet confidence and online discriminative appearance learning](https://drive.google.com/open?id=1YMqvkrVI6LOXRwcaUlAZTu_b2_5GmTAM) [cvpr14] [matlab] [(project)](https://sites.google.com/view/inuvision/research)
     - [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking) [iccv15] [matlab]
