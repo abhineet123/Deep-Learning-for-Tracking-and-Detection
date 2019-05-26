@@ -143,7 +143,6 @@ Collection of papers and other resources for object detection and tracking using
     (arxiv 30 May 2017) (Peking University, Tencent AI Lab)
     ([pdf](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
     [arxiv](https://arxiv.org/abs/1705.10561))
-    
 - Siamese
     - **High Performance Visual Tracking with Siamese Region Proposal Network**
     [cvpr18]
