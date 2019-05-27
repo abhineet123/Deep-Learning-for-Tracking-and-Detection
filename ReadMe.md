@@ -347,6 +347,7 @@ Collection of papers and other resources for object detection and tracking using
         - [YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!](https://github.com/philipperemy/yolo-9000)  [c/python]
         - [Darkflow](https://github.com/thtrieu/darkflow) [tensorflow]
         - [Pytorch Yolov2 ](https://github.com/marvis/pytorch-yolo2) [pytorch]
+        - [Yolo-v3 and Yolo-v2 for Windows and Linux](https://github.com/AlexeyAB/darknet) [c/python]
         - [YOLOv3 in PyTorch](https://github.com/ultralytics/yolov3) [pytorch]
         - [pytorch-yolo-v3 ](https://github.com/ayooshkathuria/pytorch-yolo-v3) [pytorch] [no training] [[tutorial]](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
         - [YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) [tensorflow]
