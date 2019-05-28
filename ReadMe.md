@@ -87,7 +87,7 @@ Collection of papers and other resources for object detection and tracking using
 ##  Multi Object Tracking
 - Deep Learning
     - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
-    (arxiv April 2017) (Stanford)
+    (arxiv1704/iccv17) (Stanford)
     ([pdf](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
     [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
     [notes](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
