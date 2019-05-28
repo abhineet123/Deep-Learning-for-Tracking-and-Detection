@@ -87,17 +87,22 @@ Collection of papers and other resources for object detection and tracking using
     [arxiv](https://arxiv.org/abs/1611.07715),
     [code](https://github.com/msracver/Deep-Feature-Flow))
     [Microsoft Research]
-    - **Flow-Guided Feature Aggregation for Video Object Detection ax1708 iccv17**
+    - **Flow-Guided Feature Aggregation for Video Object Detection**
+	(ax1708/iccv17)
     ([pdf](video_detection/fgfa/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf),
     [notes](video_detection/notes/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf))
-    - **Towards High Performance Video Object Detection ax171130 microsoft**
+    - **Towards High Performance Video Object Detection**
+	(ax1711)
+	(Microsoft)
     ([pdf](video_detection/fgfa/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf),
     [notes](video_detection/notes/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf))
 - RNN
-    - **Online Video Object Detection using Association LSTM iccv17**
+    - **Online Video Object Detection using Association LSTM**
+	(iccv17)
     ([pdf](video_detection/rnn/Online%20Video%20Object%20Detection%20using%20Association%20LSTM%20iccv17.pdf),
     [notes](video_detection/notes/Online%20Video%20Object%20Detection%20using%20Association%20LSTM%20iccv17.pdf))
-    - **Context Matters Reﬁning Object Detection in Video with Recurrent Neural Networks bmvc16**
+    - **Context Matters Reﬁning Object Detection in Video with Recurrent Neural Networks**
+	(bmvc16)
     ([pdf](video_detection/rnn/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf),
     [notes](video_detection/notes/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf))
 
