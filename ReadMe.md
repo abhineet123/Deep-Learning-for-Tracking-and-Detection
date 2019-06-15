@@ -397,9 +397,11 @@ Collection of papers and other resources for object detection and tracking using
     - [Piecewise Rigid Scene Flow](https://github.com/vogechri/PRSM) [iccv13/eccv14/ijcv15] [c++/matlab]
     - [DeepFlow v2 (iccv13)](https://arxiv.org/abs/1611.00850) - [c++/python/matlab](https://github.com/zimenglan-sysu-512/deep-flow), [project](http://lear.inrialpes.fr/src/deepflow/)
     - [An Evaluation of Data Costs for Optical Flow](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
+- Instance Segmentation
+    - [Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS) [cvpr17] [mxnet]
 - Autoencoders
     - [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl) [iclr 2017] [deepmind] [[tensorflow]](https://github.com/miyosuda/disentangled_vae) [[tensorflow]](https://github.com/LynnHo/VAE-Tensorflow) [[pytorch]](https://github.com/1Konny/Beta-VAE)
-    - [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [arxiv 2018/06] [pytorch]    
+    - [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [arxiv 2018/06] [pytorch]   
 - Classification
     - [Learning Efficient Convolutional Networks Through Network Slimming](https://github.com/miyosuda/async_deep_reinforce) [iccv17] [pytorch]
 - Deep RL
