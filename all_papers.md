@@ -1,4 +1,4 @@
-Updated on: 190526 092137
+Updated on: 190625 085511
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -164,11 +164,9 @@ Updated on: 190526 092137
     - A Public Video Dataset for Road Transportation Applications (2013) .pdf
     - Beyond Standard Benchmarks Parameterizing Performance Evaluation in Visual Object Tracking_iccv17.pdf
     - Cats and Dogs cvpr12.pdf
-    - Fully Automatic, Real-Time Vehicle Tracking for Surveillance Video crv17.pdf
     - LaSOT A High-quality Benchmark for Large-scale Single Object Tracking ax1809.07845.pdf
     - Long-term Tracking in the Wild A Benchmark ax180810_eccv18.pdf
-    - MOT16 A Benchmark for Multi-Object Tracking ax16_5.pdf
-    - MOTChallenge 2015 Towards a Benchmark for Multi-Target Tracking ax15_8.pdf
+    - Microsoft COCO Common Objects in Context ax1502 eccv14.pdf
     - Need for Speed A Benchmark for Higher Frame Rate Object Tracking_iccv17.pdf
     - The Unmanned Aerial Vehicle Benchmark Object Detection and Tracking_eccv18.pdf
     - TrackingNet A Large-Scale Dataset and Benchmark for Object Tracking in the Wild_eccv18.pdf
@@ -188,6 +186,10 @@ Updated on: 190526 092137
         - The PASCAL Visual Object Classes (VOC) Challenge ijcv_voc09.pdf
     - metrics/
         - Evaluating multiple object tracking performance the clear mot metrics eurasip08.pdf
+    - multi_object_tracking/
+        - Fully Automatic, Real-Time Vehicle Tracking for Surveillance Video crv17.pdf
+        - MOT16 A Benchmark for Multi-Object Tracking ax16_5.pdf
+        - MOTChallenge 2015 Towards a Benchmark for Multi-Target Tracking ax15_8.pdf
 - deblurring/
     - Blind Image Deblurring Using Dark Channel Prior  cvpr16.pdf
     - DeblurGAN Blind Motion Deblurring Using Conditional Adversarial Networks ax1804_cvpr18.pdf
@@ -307,6 +309,8 @@ Updated on: 190526 092137
         - Understanding Deep Neural Networks with Rectified Linear Units ax1707.pdf
         - Understanding the difficulty of training deep feedforward neural networks icas10.pdf
         - Visualizing and understanding convolutional neural networks ECCV2014.pdf
+        - #old/
+            - Saliency maps and attention selection in scale and spatial coordinates an information theoretic approach iccv95.pdf
     - transfer/
         - Domain Adaptive Neural Networks for Object Recognition ax1409.6041.pdf
     - unsorted/
@@ -435,6 +439,8 @@ Updated on: 190526 092137
         - The Radon Transform report07.pdf
         - The Radon Transform.pdf
 - multi_object_tracking/
+    - 3d/
+        - 3D Traffic Scene Understanding from Movable Platforms pami14.pdf
     - association/
         - Online Multi-Object Tracking based on Hierarchical Association Framework  cvprw16_7.pdf
         - Online multi-object tracking by detection based on generative appearance models cviu16_11.pdf
@@ -505,6 +511,7 @@ Updated on: 190526 092137
         - Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf
         - mdp_tracking.pdf
         - NOMT.pdf
+        - Simple Online and Realtime Tracking ax1707 icip16.pdf
         - Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf
     - old/
         - Global data association for multi-object tracking using network fiows cvpr08.pdf
@@ -590,6 +597,8 @@ Updated on: 190526 092137
 - radar/
     - Real-Time Detection and Filtering of Chaff Clutter from Single-Polarization Doppler Radar Data  ams1305.pdf
 - readings/
+- reconstruction/
+    - A Theory of Fermat Paths for Non-Line-Of-Sight Shape Reconstruction cvpr19.pdf
 - recurrent_neural_networks/
     - A Clockwork RNN ax1402.pdf
     - A Critical Review of Recurrent Neural Networks for Sequence Learning.pdf
@@ -772,7 +781,6 @@ Updated on: 190526 092137
         - ECO Efficient Convolution Operators for Tracking cvpr17 ax17_4.pdf
         - ECO Efficient Convolution Operators for Tracking_cvpr17.pdf
         - End-to-end Flow Correlation Tracking with Spatial-temporal Attention _cvpr18.pdf
-        - End-To-End Representation Learning for Correlation Filter Based Tracking cvpr17.pdf
         - High-speed Tracking with Multi-kernel Correlation Filters  ax1806.05530 cvpr18.pdf
         - High-speed Tracking with Multi-kernel Correlation Filters_cvpr18.pdf
         - Joint Representation and Truncated Inference Learning for Correlation Filter based Tracking  ax1807.11071.pdf
@@ -852,6 +860,7 @@ Updated on: 190526 092137
         - Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf
         - Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf
         - High Performance Visual Tracking with Siamese Region Proposal Network_cvpr18.pdf
+        - SiameseFC.pdf
         - Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf
     - particle_filter/
         - Learning to track on-the-fly using a particle filter with annealed- weighted QPSO modeled after a singular Dirac delta potential  1806.01396.pdf
@@ -909,6 +918,7 @@ Updated on: 190526 092137
         - A Twofold Siamese Network for Real-Time Object Tracking_cvpr18.pdf
         - DensSiam End-to-End Densely-Siamese Network with Self-Attention Model for Object Tracking  ax1809.02714.pdf
         - Distractor-aware Siamese Networks for Visual Object Tracking ax1808.06048 eccv18.pdf
+        - End-To-End Representation Learning for Correlation Filter Based Tracking cvpr17.pdf
         - Fast Online Object Tracking and Segmentation A Unifying Approach ax1812.05050 cvpr19.pdf
         - Fully-Convolutional Siamese Networks for Object Tracking eccv16_9.pdf
         - High Performance Visual Tracking with Siamese Region Proposal Network_cvpr18.pdf
@@ -916,6 +926,7 @@ Updated on: 190526 092137
         - Learning by tracking Siamese CNN for robust target association ax16_8.pdf
         - Learning Dynamic Siamese Network for Visual Object Tracking_iccv17.pdf
         - Multi-Branch Siamese Networks with Online Selection for Object Tracking  ax1808.07349.pdf
+        - Once for All a Two-flow Convolutional Neural Network for Visual Tracking ax1604.07507.pdf
         - Siamese Instance Search for Tracking cvpr16 ax16_5.pdf
         - SiamRPN++ Evolution of Siamese Visual Tracking with Very Deep Networks ax1812.11703.pdf
         - Structured Siamese Network for Real-Time Visual Tracking_eccv18.pdf
@@ -1096,6 +1107,7 @@ Updated on: 190526 092137
         - Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs ax16_6 iclr15.pdf
         - Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation ax15_11.pdf
     - instance/
+        - Fully Convolutional Instance-aware Semantic Segmentation ax1704 cvpr17.pdf
         - Instance-sensitive Fully Convolutional Networks ax1603.08678.pdf
     - medical_imaging/
         - Deep Fusion Net for Multi-Atlas Segmentation Application to Cardiac MR Images.pdf
