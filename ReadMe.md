@@ -171,6 +171,11 @@ Collection of papers and other resources for object detection and tracking using
     ([pdf](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
     [arxiv](https://arxiv.org/abs/1705.10561))
 - Siamese
+    - **Fully-Convolutional Siamese Networks for Object Tracking**
+    [eccv16]
+    [[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
+    [[author]](http://www.robots.ox.ac.uk/~qwang/)
+    [[notes]](single_object_tracking/notes/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)  
     - **High Performance Visual Tracking with Siamese Region Proposal Network**
     [cvpr18]
     [[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
