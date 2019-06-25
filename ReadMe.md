@@ -173,9 +173,9 @@ Collection of papers and other resources for object detection and tracking using
 - Siamese
     - **Fully-Convolutional Siamese Networks for Object Tracking**
     [eccv16]
-    [[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
-    [[author]](http://www.robots.ox.ac.uk/~qwang/)
-    [[notes]](single_object_tracking/notes/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)  
+    [[pdf]](single_object_tracking/siamese/Fully-Convolutional%20Siamese%20Networks%20for%20Object%20Tracking%20eccv16_9.pdf)
+    [[author]](https://www.robots.ox.ac.uk/~luca/siamese-fc.html)
+    [[notes]](single_object_tracking/notes/SiameseFC.pdf)  
     - **High Performance Visual Tracking with Siamese Region Proposal Network**
     [cvpr18]
     [[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
