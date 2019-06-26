@@ -1,4 +1,4 @@
-Updated on: 190625 085511
+Updated on: 190625 184812
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -300,10 +300,12 @@ Updated on: 190625 085511
         - Understanding Synthetic Gradients and Decoupled Neural Interfaces ax1703.00522.pdf
     - theory/
         - Building Machines That Learn and Think Like People ax1611.pdf
+        - Deep Learning and the Information Bottleneck Principle ax1503.02406 ite15.pdf
         - Do Deep Nets Really Need to be Deep ax1410 nips14.pdf
         - Intriguing properties of neural networks ax1312.6199.pdf
         - On the Expressive Power of Deep Neural Networks ax1706.pdf
         - On the Number of Linear Regions of Deep Neural Networks ax1406 nips14.pdf
+        - Opening the black box of Deep Neural Networks via Information ax1703.00810.pdf
         - Provable Bounds for Learning Some Deep Representations icml14.pdf
         - Sensitivity and Generalization in Neural Networks An Empirical Study iclr18.pdf
         - Understanding Deep Neural Networks with Rectified Linear Units ax1707.pdf
