@@ -271,6 +271,8 @@ Collection of papers and other resources for object detection and tracking using
 - Multi Object Tracking
     - [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
     - [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
+- Segmentation
+    - [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)   
 - Deep Compressed Sensing
     - [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)   
 - Misc 
