@@ -85,7 +85,7 @@ Collection of papers and other resources for object detection and tracking using
 	[cvpr17]
 	[Microsoft Research]
     [[pdf]](video_detection/fgfa/Deep%20Feature%20Flow%20For%20Video%20Recognition%20cvpr17.pdf)
-    [[arxiv]](https://arxiv.org/abs/1611.07715),
+    [[arxiv]](https://arxiv.org/abs/1611.07715)
     [[code]](https://github.com/msracver/Deep-Feature-Flow)   
     - **Flow-Guided Feature Aggregation for Video Object Detection**
 	[ax1708/iccv17]
