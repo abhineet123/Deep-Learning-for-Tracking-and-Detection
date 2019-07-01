@@ -109,35 +109,42 @@ Collection of papers and other resources for object detection and tracking using
 ##  Multi Object Tracking
 - Deep Learning
     - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
-    (ax1704/iccv17) (Stanford)
-    ([pdf](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf),
-    [arxiv](https://arxiv.org/abs/1701.01909), [project page](http://web.stanford.edu/~alahi/),
-    [notes](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf))
+    [ax1704/iccv17]
+	[Stanford]
+    [[pdf]](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf)
+    [[arxiv]](https://arxiv.org/abs/1701.01909)
+	[[project]](http://web.stanford.edu/~alahi/),
+    [[notes]](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
 - Reinforcement Learning
     - **Learning to Track: Online Multi-object Tracking by Decision Making**
-    (iccv15) (Stanford)
-    ([pdf](multi_object_tracking/reinforcement_learning/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf),
-    [code (Matlab)](https://github.com/yuxng/MDP_Tracking),
-    [project page](https://yuxng.github.io/),
-    [notes](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf))
+    [iccv15]
+	[Stanford]
+    [[pdf]](multi_object_tracking/reinforcement_learning/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf)
+    [[code (matlab)]](https://github.com/yuxng/MDP_Tracking)
+    [[project]](https://yuxng.github.io/)
+    [[notes]](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf)
 - Network Flow
     - **Near-Online Multi-target Tracking with Aggregated Local Flow Descriptor**
-    (iccv15) (NEC Labs)
-    ([pdf](multi_object_tracking/network_flow/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf),
-    [author page](http://www-personal.umich.edu/~wgchoi/),
-    [notes](multi_object_tracking/notes/NOMT.pdf))  
+    [iccv15]
+	[NEC Labs]
+    [[pdf]](multi_object_tracking/network_flow/Near-online%20multi-target%20tracking%20with%20aggregated%20local%20%EF%AC%82ow%20descriptor%20iccv15.pdf)
+    [[author]](http://www-personal.umich.edu/~wgchoi/)
+    [[notes]](multi_object_tracking/notes/NOMT.pdf)  
     - **Deep Network Flow for Multi-Object Tracking**
-    (cvpr17) (NEC Labs)
-    ([pdf](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf),
-    [supplementary](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17_supplemental.pdf),
-    [notes](multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf))  
+    [cvpr17]
+	[NEC Labs]
+    [[pdf]](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf)
+    [[supplementary]](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17_supplemental.pdf)
+    [[notes]](multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf)  
 - Graph Optimization
     - **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects**
-    (arxiv July 2016) (highest MT on MOT2015) (University of Freiburg, Germany)
-    ([pdf](multi_object_tracking/batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf),
-    [arxiv](https://arxiv.org/abs/1607.06317),
-    [author page](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html),
-    [notes](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf))
+    [arxiv1607]
+	[highest MT on MOT2015]
+	[University of Freiburg, Germany]
+    [[pdf]](multi_object_tracking/batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf)
+    [[arxiv]](https://arxiv.org/abs/1607.06317)
+    [[author]](https://lmb.informatik.uni-freiburg.de/people/keuper/publications.html)
+    [[notes]](multi_object_tracking/notes/A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects.pdf)
 - Baseline
     - **Simple Online and Realtime Tracking**
     (icip16)
