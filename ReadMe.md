@@ -358,7 +358,7 @@ Collection of papers and other resources for object detection and tracking using
 	- RCNN
         - [RFCN (author)](https://github.com/daijifeng001/r-fcn) [caffe/matlab]
         - [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow) [tensorflow]
-        - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
+        - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn) [intel] [emdnn16(nips16)]
         - Mask R-CNN [[tensorflow]](https://github.com/CharlesShang/FastMaskRCNN) [[keras]](https://github.com/matterport/Mask_RCNN)
         - [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [tensorflow]    
         - [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [caffe/python]
