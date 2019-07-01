@@ -205,17 +205,17 @@ Collection of papers and other resources for object detection and tracking using
     
 ##  Interpolation
 - **Video Frame Interpolation via Adaptive Convolution**
-(cvpr17 / iccv17)
+[cvpr17 / iccv17]
 ([pdf (cvpr17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf),
 ([pdf (iccv17)](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Separable%20Convolution%20iccv17.pdf),
 [ppt](interpolation/notes/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf))
 
 ## Autoencoder
 - Variational
-    - **beta-VAE Learning Basic Visual Concepts with a Constrained Variational Framework iclr17**
+    - **beta-VAE Learning Basic Visual Concepts with a Constrained Variational Framework** [iclr17]
     ([pdf](autoencoder/variational/beta-VAE%20Learning%20Basic%20Visual%20Concepts%20with%20a%20Constrained%20Variational%20Framework%20iclr17.pdf),
     [notes](autoencoder/notes/beta-VAE%20Learning%20Basic%20Visual%20Concepts%20with%20a%20Constrained%20Variational%20Framework%20iclr17.pdf))
-    - **Disentangling by Factorising ax1806**
+    - **Disentangling by Factorising** [arxiv1806]
     ([pdf](autoencoder/variational/Disentangling%20by%20Factorising%20ax1806.pdf),
     [notes](autoencoder/notes/Disentangling%20by%20Factorising%20ax1806.pdf))  
 	
