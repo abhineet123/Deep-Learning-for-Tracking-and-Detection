@@ -178,7 +178,7 @@ Collection of papers and other resources for object detection and tracking using
     [[project]](https://sites.google.com/view/cvpr2017-adnet)
     [[notes]](single_object_tracking/notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf) 
     - **End-to-end Active Object Tracking via Reinforcement Learning**
-    [arxiv170530]
+    [arxiv1705]
 	[Peking University, Tencent AI Lab]
     [[pdf]](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf)
     [[arxiv]](https://arxiv.org/abs/1705.10561)
