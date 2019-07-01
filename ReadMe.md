@@ -13,21 +13,21 @@ Collection of papers and other resources for object detection and tracking using
     [[notes]](static_detection/notes/Selective%20Search%20for%20Object%20Recognition%20ijcv2013.pdf)
 - RCNN
     - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks**
-	(tpami17)
-    ([pdf](static_detection/rcnn/Faster%20R-CNN%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks%20tpami17%20ax16_1.pdf),
-    [notes](static_detection/notes/Faster_R-CNN.pdf))
+	[tpami17]
+    [[pdf]](static_detection/rcnn/Faster%20R-CNN%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks%20tpami17%20ax16_1.pdf)
+    [[notes]](static_detection/notes/Faster_R-CNN.pdf)
     - **RFCN - Object Detection via Region-based Fully Convolutional Networks**
-	(nips16)
-    ([pdf](static_detection/rcnn/RFCN-Object%20Detection%20via%20Region-based%20Fully%20Convolutional%20Networks%20nips16.pdf),
-    [notes](static_detection/notes/RFCN.pdf))
+	[nips16]
+    [[pdf]](static_detection/rcnn/RFCN-Object%20Detection%20via%20Region-based%20Fully%20Convolutional%20Networks%20nips16.pdf)
+    [[notes]](static_detection/notes/RFCN.pdf)
 	[Microsoft Research]
     - **Mask R-CNN**
-	(iccv17)
-    ([pdf](static_detection/rcnn/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
-    ([notes](static_detection/notes/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
-    [arxiv](https://arxiv.org/abs/1703.06870),
-    [code (keras)](https://github.com/matterport/Mask_RCNN),
-    [code (tensorflow)](https://github.com/CharlesShang/FastMaskRCNN))
+	[iccv17]
+    [[pdf]](static_detection/rcnn/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
+    [[notes]](static_detection/notes/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
+    [[arxiv]](https://arxiv.org/abs/1703.06870),
+    [[code (keras)]](https://github.com/matterport/Mask_RCNN),
+    [[code (tensorflow)]](https://github.com/CharlesShang/FastMaskRCNN)
     [Facebook AI Research]
 - YOLO
     - **You Only Look Once Unified, Real-Time Object Detection**
