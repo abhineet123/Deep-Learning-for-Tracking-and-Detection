@@ -31,66 +31,66 @@ Collection of papers and other resources for object detection and tracking using
     [Facebook AI Research]
 - YOLO
     - **You Only Look Once Unified, Real-Time Object Detection**
-	(ax1605)
-    ([pdf](static_detection/yolo/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf),
-    [notes](static_detection/notes/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf))
+	[ax1605]
+    [[pdf]](static_detection/yolo/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf)
+    [[notes]](static_detection/notes/You%20Only%20Look%20Once%20Unified,%20Real-Time%20Object%20Detection%20ax1605.pdf)
     - **YOLO9000 Better, Faster, Stronger**
-	(ax1612)
-    ([pdf](static_detection/yolo/YOLO9000%20Better,%20Faster,%20Stronger%20ax16_12.pdf),
-    [notes](static_detection/notes/YOLO9000%20Better,%20Faster,%20Stronger%20ax16_12.pdf))
+	[ax1612]
+    [[pdf]](static_detection/yolo/YOLO9000%20Better,%20Faster,%20Stronger%20ax16_12.pdf)
+    [[notes]](static_detection/notes/YOLO9000%20Better,%20Faster,%20Stronger%20ax16_12.pdf)
     - **YOLOv3 An Incremental Improvement**
-	(ax1804)
-    ([pdf](static_detection/yolo/YOLOv3%20An%20Incremental%20Improvement%20ax180408.pdf),
-    [notes](static_detection/notes/YOLOv3%20An%20Incremental%20Improvement%20ax180408.pdf))
+	[ax1804]
+    [[pdf]](static_detection/yolo/YOLOv3%20An%20Incremental%20Improvement%20ax180408.pdf)
+    [[notes]](static_detection/notes/YOLOv3%20An%20Incremental%20Improvement%20ax180408.pdf)
 - SSD
     - **SSD Single Shot MultiBox Detector**
-	(ax1612/eccv16)
-    ([pdf](static_detection/ssd/SSD%20Single%20Shot%20MultiBox%20Detector%20eccv16_ax16_12.pdf),
-    [notes](static_detection/notes/SSD.pdf))
+	[ax1612/eccv16]
+    [[pdf]](static_detection/ssd/SSD%20Single%20Shot%20MultiBox%20Detector%20eccv16_ax16_12.pdf)
+    [[notes]](static_detection/notes/SSD.pdf)
     - **DSSD  Deconvolutional Single Shot Detector**
-	(ax1701)
-    ([pdf](static_detection/ssd/DSSD%20Deconvolutional%20Single%20Shot%20Detector%20ax1701.06659.pdf),
-    [notes](static_detection/notes/DSSD.pdf))
+	[ax1701]
+    [[pdf]](static_detection/ssd/DSSD%20Deconvolutional%20Single%20Shot%20Detector%20ax1701.06659.pdf)
+    [[notes]](static_detection/notes/DSSD.pdf)
 - RetinaNet
     - **Feature Pyramid Networks for Object Detection**
-	(ax1704)
-    ([pdf](static_detection/retinanet/Feature%20Pyramid%20Networks%20for%20Object%20Detection%20ax170419.pdf),
-    [notes](static_detection/notes/FPN.pdf))
+	[ax1704]
+    [[pdf]](static_detection/retinanet/Feature%20Pyramid%20Networks%20for%20Object%20Detection%20ax170419.pdf)
+    [[notes]](static_detection/notes/FPN.pdf)
     - **Focal Loss for Dense Object Detection**
-	(ax180207/iccv17)
-    ([pdf](static_detection/retinanet/Focal%20Loss%20for%20Dense%20Object%20Detection%20ax180207%20iccv17.pdf),
-    [notes](static_detection/notes/focal_loss.pdf)) 
+	[ax180207/iccv17]
+    [[pdf]](static_detection/retinanet/Focal%20Loss%20for%20Dense%20Object%20Detection%20ax180207%20iccv17.pdf)
+    [[notes]](static_detection/notes/focal_loss.pdf) 
 - Misc
     - **OverFeat Integrated Recognition, Localization and Detection using Convolutional Networks**
-	(ax1402/iclr14)
-    ([pdf](static_detection/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf),
-    [notes](static_detection/notes/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf))
+	[ax1402/iclr14]
+    [[pdf]](static_detection/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf)
+    [[notes]](static_detection/notes/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf)
     - **LSDA Large scale detection through adaptation**
-	(ax1411/nips14)
-    ([pdf](static_detection/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf),
-    [notes](static_detection/notes/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf))
+	[ax1411/nips14]
+    [[pdf]](static_detection/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf)
+    [[notes]](static_detection/notes/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf)
     
 ## Video Detection
 - Tubelet
     - **Object Detection from Video Tubelets with Convolutional Neural Networks**
-	(cvpr16)
-    ([pdf](video_detection/tubelets/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf),
-    [notes](video_detection/notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf))
+	[cvpr16]
+    [[pdf]](video_detection/tubelets/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf)
+    [[notes]](video_detection/notes/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf)
     - **Object Detection in Videos with Tubelet Proposal Networks**
-	(ax1704/cvpr17)
-    ([pdf](video_detection/tubelets/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf),
-    [notes](video_detection/notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf))
+	[ax1704/cvpr17]
+    [[pdf]](video_detection/tubelets/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf)
+    [[notes]](video_detection/notes/Object_Detection_in_Videos_with_Tubelet_Proposal_Networks_ax1704_cvpr17.pdf)
 - FGFA
     - **Deep Feature Flow for Video Recognition**
-	(cvpr17)
-    ([pdf](video_detection/fgfa/Deep%20Feature%20Flow%20For%20Video%20Recognition%20cvpr17.pdf),
-    [arxiv](https://arxiv.org/abs/1611.07715),
-    [code](https://github.com/msracver/Deep-Feature-Flow))
-    [Microsoft Research]
+	[cvpr17]
+	[Microsoft Research]
+    [[pdf]](video_detection/fgfa/Deep%20Feature%20Flow%20For%20Video%20Recognition%20cvpr17.pdf)
+    [[arxiv]](https://arxiv.org/abs/1611.07715),
+    [[code]](https://github.com/msracver/Deep-Feature-Flow))   
     - **Flow-Guided Feature Aggregation for Video Object Detection**
-	(ax1708/iccv17)
-    ([pdf](video_detection/fgfa/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf),
-    [notes](video_detection/notes/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf))
+	[ax1708/iccv17]
+    [[pdf]](video_detection/fgfa/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf)
+    [[notes]](video_detection/notes/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf)
     - **Towards High Performance Video Object Detection**
 	(ax1711)
 	(Microsoft)
