@@ -341,7 +341,7 @@ Collection of papers and other resources for object detection and tracking using
     - [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
     - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 - Video Detection
-    - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [nips 2016 / iccv17] [python/cuda]
+    - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation) [nips16 / iccv17] [python/cuda]
     - [T-CNN: Tubelets with Convolution Neural Networks](https://github.com/myfavouritekk/T-CNN) [cvpr16] [python]
     - [TPN: Tubelet Proposal Network](https://github.com/myfavouritekk/TPN) [cvpr17] [python]
     - [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr18] [Google] [tensorflow]    
@@ -360,7 +360,7 @@ Collection of papers and other resources for object detection and tracking using
         - [RFCN-tensorflow](https://github.com/xdever/RFCN-tensorflow) [tensorflow]
         - [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn)
         - Mask R-CNN - [TensorFlow](https://github.com/CharlesShang/FastMaskRCNN), [Keras](https://github.com/matterport/Mask_RCNN)
-        - [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [TensorFlow]    
+        - [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [tensorflow]    
         - [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [Caffe/Python]
         - [Cascade R-CNN (cvpr18)](http://www.svcl.ucsd.edu/publications/conference/2018/cvpr/cascade-rcnn.pdf) - [Detectron](https://github.com/zhaoweicai/Detectron-Cascade-RCNN), [Caffe](https://github.com/zhaoweicai/cascade-rcnn)  
     - SSD
@@ -369,7 +369,7 @@ Collection of papers and other resources for object detection and tracking using
         - [SSD-Tensorflow (tf.slim)](https://github.com/balancap/SSD-Tensorflow) [tensorflow]
         - [SSD-Keras](https://github.com/rykov8/ssd_keras) [keras]
         - [SSD-Pytorch](https://github.com/amdegroot/ssd.pytorch) [pytorch]
-        - [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [NCA18] [TensorFlow]
+        - [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [nca18] [tensorflow]
         - [RefineDet - Single-Shot Refinement Neural Network for Object Detection](https://github.com/sfzhang15/RefineDet) [cvpr18] [caffe]
 	- YOLO  
         - [Darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet) [c/python]
