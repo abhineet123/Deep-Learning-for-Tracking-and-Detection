@@ -161,7 +161,8 @@ Collection of papers and other resources for object detection and tracking using
     - **Visual Tracking by Reinforced Decision Making**
     [arxiv1702] [Seoul National University, Chung-Ang University]
     [[pdf]](single_object_tracking/reinforcement_learning/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf)
-	[[arxiv]](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/)	
+	[[arxiv]](https://arxiv.org/abs/1702.06291)
+	[[author]](http://cau.ac.kr/~jskwon/)	
     [[notes]](single_object_tracking/notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf)
     - **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning**
     (cvpr17) (Seoul National University)
