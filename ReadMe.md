@@ -23,12 +23,12 @@ Collection of papers and other resources for object detection and tracking using
     [[notes]](static_detection/notes/RFCN.pdf)	
     - **Mask R-CNN**
 	[iccv17]
+    [Facebook AI Research]
     [[pdf]](static_detection/rcnn/Mask%20R-CNN%20ax17_4%20iccv17.pdf)
     [[notes]](static_detection/notes/Mask%20R-CNN%20ax17_4%20iccv17.pdf)
     [[arxiv]](https://arxiv.org/abs/1703.06870)
     [[code (keras)]](https://github.com/matterport/Mask_RCNN)
     [[code (tensorflow)]](https://github.com/CharlesShang/FastMaskRCNN)
-    [Facebook AI Research]
 - YOLO
     - **You Only Look Once Unified, Real-Time Object Detection**
 	[ax1605]
