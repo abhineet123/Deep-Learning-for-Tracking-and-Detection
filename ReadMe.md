@@ -190,7 +190,7 @@ Collection of papers and other resources for object detection and tracking using
 - Synthetic Gradients
     - **Decoupled Neural Interfaces using Synthetic Gradients**
     [arxiv1608]
-    [[pdf]](deep_learning/synthetic_gradients/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf),
+    [[pdf]](deep_learning/synthetic_gradients/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf)
     [[notes]](deep_learning/notes/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf)    
     - **Understanding Synthetic Gradients and Decoupled Neural Interfaces**
     [arxiv1703]
