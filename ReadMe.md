@@ -138,7 +138,7 @@ Collection of papers and other resources for object detection and tracking using
     [[notes]](multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf)  
 - Graph Optimization
     - **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects**
-    [arxiv1607]
+    [ax1607]
 	[highest MT on MOT2015]
 	[University of Freiburg, Germany]
     [[pdf]](multi_object_tracking/batch/A%20Multi-cut%20Formulation%20for%20Joint%20Segmentation%20and%20Tracking%20of%20Multiple%20Objects%20ax16_9%20%5Bbest%20MT%20on%20MOT15%5D.pdf)
@@ -160,13 +160,13 @@ Collection of papers and other resources for object detection and tracking using
 ## Single Object Tracking
 - Reinforcement Learning
     - **Deep Reinforcement Learning for Visual Object Tracking in Videos**
-    [arxiv1704] [USC-Santa Barbara, Samsung Research]
+    [ax1704] [USC-Santa Barbara, Samsung Research]
     [[pdf]](single_object_tracking/reinforcement_learning/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf)
 	[[arxiv]](https://arxiv.org/abs/1701.08936)
 	[[author]](http://www.cs.ucsb.edu/~dazhang/)
     [[notes]](single_object_tracking/notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf)  
     - **Visual Tracking by Reinforced Decision Making**
-    [arxiv1702] [Seoul National University, Chung-Ang University]
+    [ax1702] [Seoul National University, Chung-Ang University]
     [[pdf]](single_object_tracking/reinforcement_learning/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf)
 	[[arxiv]](https://arxiv.org/abs/1702.06291)
 	[[author]](http://cau.ac.kr/~jskwon/)	
@@ -178,7 +178,7 @@ Collection of papers and other resources for object detection and tracking using
     [[project]](https://sites.google.com/view/cvpr2017-adnet)
     [[notes]](single_object_tracking/notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf) 
     - **End-to-end Active Object Tracking via Reinforcement Learning**
-    [arxiv1705]
+    [ax1705]
 	[Peking University, Tencent AI Lab]
     [[pdf]](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf)
     [[arxiv]](https://arxiv.org/abs/1705.10561)
@@ -201,11 +201,11 @@ Collection of papers and other resources for object detection and tracking using
 [[notes]](deep_learning/notes/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf)
 - Synthetic Gradients
     - **Decoupled Neural Interfaces using Synthetic Gradients**
-    [arxiv1608]
+    [ax1608]
     [[pdf]](deep_learning/synthetic_gradients/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf)
     [[notes]](deep_learning/notes/Decoupled%20Neural%20Interfaces%20using%20Synthetic%20Gradients%20ax1608.05343.pdf)    
     - **Understanding Synthetic Gradients and Decoupled Neural Interfaces**
-    [arxiv1703]
+    [ax1703]
     [[pdf]](deep_learning/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf)
     [[notes]](deep_learning/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf)
     
@@ -227,7 +227,7 @@ Collection of papers and other resources for object detection and tracking using
     - **beta-VAE Learning Basic Visual Concepts with a Constrained Variational Framework** [iclr17]
     [[pdf]](autoencoder/variational/beta-VAE%20Learning%20Basic%20Visual%20Concepts%20with%20a%20Constrained%20Variational%20Framework%20iclr17.pdf)
     [[notes]](autoencoder/notes/beta-VAE%20Learning%20Basic%20Visual%20Concepts%20with%20a%20Constrained%20Variational%20Framework%20iclr17.pdf)
-    - **Disentangling by Factorising** [arxiv1806]
+    - **Disentangling by Factorising** [ax1806]
     [[pdf]](autoencoder/variational/Disentangling%20by%20Factorising%20ax1806.pdf)
     [[notes]](autoencoder/notes/Disentangling%20by%20Factorising%20ax1806.pdf)  
 	
@@ -343,7 +343,7 @@ Collection of papers and other resources for object detection and tracking using
     - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://github.com/HyeonseobNam/MDNet) [cvpr16] [vot2015 winner] [matlab/matconvnet]
     - [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [eccv 2016] [matlab]
 	- [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/bertinetto/siamese-fc) [eccvw 2016] [matlab/matconvnet] [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
-    - [DCFNet: Discriminant Correlation Filters Network for Visual Tracking](https://arxiv.org/abs/1704.04057) [arxiv1704] [[matlab/matconvnet]](https://github.com/foolwood/DCFNet/) [[pytorch]](https://github.com/foolwood/DCFNet_pytorch/)
+    - [DCFNet: Discriminant Correlation Filters Network for Visual Tracking](https://arxiv.org/abs/1704.04057) [ax1704] [[matlab/matconvnet]](https://github.com/foolwood/DCFNet/) [[pytorch]](https://github.com/foolwood/DCFNet_pytorch/)
     - End-to-end representation learning for Correlation Filter based tracking [cvpr17] [[matlab/matconvnet]](https://github.com/bertinetto/cfnet) [[tensorflow/inference_only]](https://github.com/torrvision/siamfc-tf) [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
     - [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [cvprw17] [python]
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [iscas 2017] [tensorfow]
@@ -422,7 +422,7 @@ Collection of papers and other resources for object detection and tracking using
     - [Simultaneous Detection and Segmentation](https://github.com/bharath272/sds_eccv2014) [eccv14] [matlab] [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/)
 - Autoencoders
     - [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl) [iclr17] [deepmind] [[tensorflow]](https://github.com/miyosuda/disentangled_vae) [[tensorflow]](https://github.com/LynnHo/VAE-Tensorflow) [[pytorch]](https://github.com/1Konny/Beta-VAE)
-    - [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [arxiv1806] [pytorch]   
+    - [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [ax1806] [pytorch]   
 - Classification
     - [Learning Efficient Convolutional Networks Through Network Slimming](https://github.com/miyosuda/async_deep_reinforce) [iccv17] [pytorch]
 - Deep RL
