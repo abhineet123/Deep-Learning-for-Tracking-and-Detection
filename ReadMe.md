@@ -165,15 +165,16 @@ Collection of papers and other resources for object detection and tracking using
 	[[author]](http://cau.ac.kr/~jskwon/)	
     [[notes]](single_object_tracking/notes/Visual_Tracking_by_Reinforced_Decision_Making_ax17.pdf)
     - **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning**
-    (cvpr17) (Seoul National University)
-    ([pdf](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17%20supplementary.pdf),
-    [supplementary](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17.pdf),
-    [project page](https://sites.google.com/view/cvpr2017-adnet),
-    [notes](single_object_tracking/notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf)) 
+    [cvpr17] [Seoul National University]
+    [[pdf]](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17%20supplementary.pdf)
+    [[supplementary]](single_object_tracking/reinforcement_learning/Action-Decision%20Networks%20for%20Visual%20Tracking%20with%20Deep%20Reinforcement%20Learning%20%20cvpr17.pdf)
+    [[project]](https://sites.google.com/view/cvpr2017-adnet)
+    [[notes]](single_object_tracking/notes/Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf) 
     - **End-to-end Active Object Tracking via Reinforcement Learning**
-    (arxiv 30 May 2017) (Peking University, Tencent AI Lab)
-    ([pdf](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf),
-    [arxiv](https://arxiv.org/abs/1705.10561))
+    [arxiv170530]
+	[Peking University, Tencent AI Lab]
+    [[pdf]](single_object_tracking/reinforcement_learning/End-to-end%20Active%20Object%20Tracking%20via%20Reinforcement%20Learning%20ax17_5.pdf)
+    [[arxiv]](https://arxiv.org/abs/1705.10561)
 - Siamese
     - **Fully-Convolutional Siamese Networks for Object Tracking**
     [eccv16]
