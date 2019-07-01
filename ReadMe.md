@@ -153,9 +153,11 @@ Collection of papers and other resources for object detection and tracking using
 ## Single Object Tracking
 - Reinforcement Learning
     - **Deep Reinforcement Learning for Visual Object Tracking in Videos**
-    (arxiv April 2017) (USC-Santa Barbara, Samsung Research)
-    ([pdf](single_object_tracking/reinforcement_learning/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf), [arxiv](https://arxiv.org/abs/1701.08936), [author page](http://www.cs.ucsb.edu/~dazhang/),
-    [notes](single_object_tracking/notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf))  
+    [arxiv1704] [USC-Santa Barbara, Samsung Research]
+    ([[pdf]](single_object_tracking/reinforcement_learning/Deep%20Reinforcement%20Learning%20for%20Visual%20Object%20Tracking%20in%20Videos%20ax17_4.pdf)
+	[[arxiv]](https://arxiv.org/abs/1701.08936)
+	[[author]](http://www.cs.ucsb.edu/~dazhang/)
+    [[notes]](single_object_tracking/notes/Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf))  
     - **Visual Tracking by Reinforced Decision Making**
     (arxiv February 2017) (Seoul National University, Chung-Ang University)
     ([pdf](single_object_tracking/reinforcement_learning/Visual%20Tracking%20by%20Reinforced%20Decision%20Making%20ax17_2.pdf), [arxiv](https://arxiv.org/abs/1702.06291), [author page](http://cau.ac.kr/~jskwon/),
