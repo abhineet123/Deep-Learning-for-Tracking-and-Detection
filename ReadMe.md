@@ -23,10 +23,10 @@ Collection of papers and other resources for object detection and tracking using
 	[Microsoft Research]
     - **Mask R-CNN**
 	[iccv17]
-    [[pdf]](static_detection/rcnn/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
-    [[notes]](static_detection/notes/Mask%20R-CNN%20ax17_4%20iccv17.pdf),
-    [[arxiv]](https://arxiv.org/abs/1703.06870),
-    [[code (keras)]](https://github.com/matterport/Mask_RCNN),
+    [[pdf]](static_detection/rcnn/Mask%20R-CNN%20ax17_4%20iccv17.pdf)
+    [[notes]](static_detection/notes/Mask%20R-CNN%20ax17_4%20iccv17.pdf)
+    [[arxiv]](https://arxiv.org/abs/1703.06870)
+    [[code (keras)]](https://github.com/matterport/Mask_RCNN)
     [[code (tensorflow)]](https://github.com/CharlesShang/FastMaskRCNN)
     [Facebook AI Research]
 - YOLO
