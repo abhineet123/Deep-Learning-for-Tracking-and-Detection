@@ -350,7 +350,7 @@ Collection of papers and other resources for object detection and tracking using
     - [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [iscas 2017] [tensorfow]
     - [ECO: Efficient Convolution Operators for Tracking](https://github.com/martin-danelljan/ECO) [cvpr17] [matlab]
     - [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv17] [matlab]
-    - High Performance Visual Tracking with Siamese Region Proposal Network [cvpr18] [[pytorch]](https://github.com/zkisthebest/Siamese-RPN) [[pytorch/reimplementation]](https://github.com/songdejia/Siamese-RPN-pytorch) 
+    - High Performance Visual Tracking with Siamese Region Proposal Network [cvpr18] [[pytorch]](https://github.com/zkisthebest/Siamese-RPN) [[pytorch/reimplementation]](https://github.com/songdejia/Siamese-RPN-pytorch)  [[pytorch/reimplementation/no_train]](https://github.com/huanglianghua/siamrpn-pytorch) [[pytorch/reimplementation]](https://github.com/HelloRicky123/Siamese-RPN) 
     - [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
     - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 - Video Detection
