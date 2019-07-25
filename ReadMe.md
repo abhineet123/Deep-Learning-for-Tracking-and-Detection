@@ -253,6 +253,7 @@ Collection of papers and other resources for object detection and tracking using
     + [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) (intersection traffic/stereo setup/moving camera)
 - Single Object Tracking
     + [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](https://tracking-net.org/)
+    + [LaSOT: Large-scale Single Object Tracking](https://cis.temple.edu/lasot/)
 - Video Understanding / Activity Recognition
     + [YouTube-8M](https://research.google.com/youtube8m/)
     + [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
