@@ -251,6 +251,8 @@ Collection of papers and other resources for object detection and tracking using
     + [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
     + [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) (pedestrian detection and tracking)
     + [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) (intersection traffic/stereo setup/moving camera)
+- Single Object Tracking
+    + [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](https://tracking-net.org/)
 - Video Understanding / Activity Recognition
     + [YouTube-8M](https://research.google.com/youtube8m/)
     + [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
