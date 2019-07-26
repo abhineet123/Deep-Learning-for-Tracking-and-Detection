@@ -255,7 +255,7 @@ Collection of papers and other resources for object detection and tracking using
     + [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](https://tracking-net.org/) [eccv18]
     + [LaSOT: Large-scale Single Object Tracking](https://cis.temple.edu/lasot/) [cvpr19]
     + [Need for speed: A benchmark for higher frame rate object tracking](http://ci2cv.net/nfs/index.html) [iccv17]
-    + [A benchmark and simulator for uav tracking](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx) [eccv16]
+    + [UAV123: A benchmark and simulator for UAV tracking](https://uav123.org/) [eccv16] [[project]](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx)
 - Video Understanding / Activity Recognition
     + [YouTube-8M](https://research.google.com/youtube8m/)
     + [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
