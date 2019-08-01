@@ -193,7 +193,11 @@ Collection of papers and other resources for object detection and tracking using
     [[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
     [[author]](http://www.robots.ox.ac.uk/~qwang/)
     [[notes]](single_object_tracking/notes/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)  
-
+- **ATOM Accurate Tracking by Overlap Maximization**
+[cvpr19]
+[[pdf]](single_object_tracking/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
+[[notes]](single_object_tracking/notes/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
+[[code]](https://github.com/visionml/pytracking)
 ##  Deep Learning
 - **Do Deep Nets Really Need to be Deep**
 [nips14]
@@ -360,7 +364,7 @@ Collection of papers and other resources for object detection and tracking using
     - High Performance Visual Tracking with Siamese Region Proposal Network [cvpr18] [[pytorch]](https://github.com/zkisthebest/Siamese-RPN) [[pytorch]](https://github.com/songdejia/Siamese-RPN-pytorch)  [[pytorch/no_train]](https://github.com/huanglianghua/siamrpn-pytorch) [[pytorch]](https://github.com/HelloRicky123/Siamese-RPN) 
     - [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
     - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
-    - [PyTracking: A general python framework for training and running visual object trackers, based on PyTorch](https://github.com/visionml/pytracking) [DiMP / ATOM] [cvpr19/iccv19] [pytorch] 
+    - [PyTracking: A general python framework for training and running visual object trackers, based on PyTorch](https://github.com/visionml/pytracking) [ATOM/DiMP] [cvpr19/iccv19] [pytorch] 
 - Video Detection
     - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
 	[nips16 / iccv17]
