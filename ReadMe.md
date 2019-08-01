@@ -1,4 +1,4 @@
-Collection of papers and other resources for object detection and tracking using deep learning
+Collection of papers, code and other resources for object detection and tracking using deep learning
 
 ## Static Detection
 
