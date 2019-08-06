@@ -73,6 +73,7 @@ Collection of papers, code and other resources for object detection and tracking
 	[ax1807/eccv18]
 	[[pdf]](static_detection/Acquisition%20of%20Localization%20Confidence%20for%20Accurate%20Object%20Detection%201807.11590%20eccv18.pdf)
 	[[notes]](static_detection/notes/IOU-Net.pdf)
+	[[code]](https://github.com/vacancy/PreciseRoIPooling)
     
 ## Video Detection
 - Tubelet
