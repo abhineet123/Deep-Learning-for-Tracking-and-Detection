@@ -69,10 +69,10 @@ Collection of papers, code and other resources for object detection and tracking
 	[ax1411/nips14]
     [[pdf]](static_detection/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf)
     [[notes]](static_detection/notes/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf)
-- **Acquisition of Localization Confidence for Accurate Object Detection**
-[ax1807/eccv18]
-[[pdf]](static_detection/Acquisition%20of%20Localization%20Confidence%20for%20Accurate%20Object%20Detection%201807.11590%20eccv18.pdf)
-[[notes]](static_detection/notes/IOU-Net.pdf)
+	- **Acquisition of Localization Confidence for Accurate Object Detection**
+	[ax1807/eccv18]
+	[[pdf]](static_detection/Acquisition%20of%20Localization%20Confidence%20for%20Accurate%20Object%20Detection%201807.11590%20eccv18.pdf)
+	[[notes]](static_detection/notes/IOU-Net.pdf)
     
 ## Video Detection
 - Tubelet
