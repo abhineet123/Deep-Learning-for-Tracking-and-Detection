@@ -347,9 +347,10 @@ Collection of papers, code and other resources for object detection and tracking
     - [Joint Tracking and Segmentation of Multiple Targets](https://bitbucket.org/amilan/segtracking) [cvpr15] [matlab]
     - [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/) [iccv15] [highest MT on MOT2015 among open source trackers] [matlab]
     - [Simple Online and Realtime Tracking](https://github.com/abewley/sort) [icip 2016] [python]
-    - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort) [icip 2017] [python]
+    - [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort) [icip17] [python]
     - [Combined Image- and World-Space Tracking in Traffic Scenes](https://github.com/aljosaosep/ciwt) [icra 2017] [c++]
-    - [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss 2017] [python]    
+    - [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss17] [python]    
+    - [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch(TBA)]    
 - Single Object Tracking
     - [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
     - [SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask](https://github.com/STVIR/pysot/) [pytorch]
