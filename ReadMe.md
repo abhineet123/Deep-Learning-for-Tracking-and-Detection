@@ -379,6 +379,11 @@ Collection of papers, code and other resources for object detection and tracking
     - [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
     - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
     - [PyTracking: A general python framework for training and running visual object trackers, based on PyTorch](https://github.com/visionml/pytracking) [ECO/ATOM/DiMP] [cvpr17/cvpr19/iccv19] [pytorch] 
+	- GUI Application
+		- [BioTracker An Open-Source Computer Vision Framework for Visual Animal Tracking](https://github.com/BioroboticsLab/biotracker_core)[opencv/c++]
+		- [Tracktor: Image‐based automated tracking of animal movement and behaviour](https://github.com/vivekhsridhar/tracktor)[opencv/c++]
+		- [MARGO (Massively Automated Real-time GUI for Object-tracking), a platform for high-throughput ethology](https://github.com/de-Bivort-Lab/margo)[matlab]
+		
 - Video Detection
     - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
 	[nips16 / iccv17]
