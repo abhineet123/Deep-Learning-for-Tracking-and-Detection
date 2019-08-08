@@ -300,9 +300,11 @@ Collection of papers, code and other resources for object detection and tracking
 
 ## Collections
 - Datasets
+    - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
     - [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
     - [Machine learning datasets: A list of the biggest machine learning datasets from across the web](https://www.datasetlist.com/) 
     - [Labeled Information Library of Alexandria: Biology and Conservation - List of conservation data sets](http://lila.science/otherdatasets) 
+    - [THOTH: Data Sets & Images](https://thoth.inrialpes.fr/data) 
 - Single Object Tracking
     - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
     - [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
@@ -316,6 +318,7 @@ Collection of papers, code and other resources for object detection and tracking
 - Deep Compressed Sensing
     - [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)   
 - Misc 
+    - [Awesome Deep Ecology](https://github.com/patrickcgray/awesome-deep-ecology)
     - [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
     - [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 
