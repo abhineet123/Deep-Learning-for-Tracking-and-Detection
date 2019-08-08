@@ -317,6 +317,7 @@ Collection of papers, code and other resources for object detection and tracking
     - [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
     - [Collection of Correlation Filter based trackers with links to papers, codes, etc](https://github.com/lukaswals/cf-trackers)
     - [VOT2018 Trackers repository](http://www.votchallenge.net/vot2018/trackers.html)
+    - [CUHK Datasets](http://mmlab.ie.cuhk.edu.hk.login.ezproxy.library.ualberta.ca/datasets.html)
 - Multi Object Tracking
     - [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
     - [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
