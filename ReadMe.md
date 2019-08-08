@@ -275,7 +275,11 @@ Collection of papers, code and other resources for object detection and tracking
 - Video Detection
     + [YouTube-BB](https://research.google.com/youtube-bb/download.html)
 - Static Detection
+    + [A Large-Scale Dataset for Vehicle Re-Identification in the Wild](https://github.com/PKU-IMRE/VERI-Wild)
+	[cvpr19]
     + [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
+    + [Wildlife Image and Localization Dataset (species and bounding box labels)](https://lev.cs.rpi.edu/public/datasets/wild.tar.gz)
+	[wacv18]
 - Static Segmentation
     + [COCO - Common Objects in Context](http://cocodataset.org/#download)
     + [UC Berkeley Computer Vision Group - Contour Detection and Image Segmentation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
@@ -292,6 +296,8 @@ Collection of papers, code and other resources for object detection and tracking
 ## Collections
 - Datasets
     - [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
+    - [Machine learning datasets: A list of the biggest machine learning datasets from across the web](https://www.datasetlist.com/) 
+    - [Labeled Information Library of Alexandria: Biology and Conservation - List of conservation data sets](http://lila.science/otherdatasets) 
 - Single Object Tracking
     - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
     - [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
@@ -379,10 +385,13 @@ Collection of papers, code and other resources for object detection and tracking
     - [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
     - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
     - [PyTracking: A general python framework for training and running visual object trackers, based on PyTorch](https://github.com/visionml/pytracking) [ECO/ATOM/DiMP] [cvpr17/cvpr19/iccv19] [pytorch] 
-	- GUI Application
+	- GUI Application / Large Scale Tracking / Animals
 		- [BioTracker An Open-Source Computer Vision Framework for Visual Animal Tracking](https://github.com/BioroboticsLab/biotracker_core)[opencv/c++]
 		- [Tracktor: Image‐based automated tracking of animal movement and behaviour](https://github.com/vivekhsridhar/tracktor)[opencv/c++]
 		- [MARGO (Massively Automated Real-time GUI for Object-tracking), a platform for high-throughput ethology](https://github.com/de-Bivort-Lab/margo)[matlab]
+		- [idtracker.ai: Tracking all individuals in large collectives of unmarked animals](https://gitlab.com/polavieja_lab/idtrackerai)
+		[tensorflow]
+		[[project]](https://idtracker.ai/)
 		
 - Video Detection
     - [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
