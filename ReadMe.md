@@ -479,7 +479,9 @@ Collection of papers, code and other resources for object detection and tracking
 - Instance Segmentation
     - [Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS) [cvpr17] [coco16 winner] [mxnet]
     - [DeepMask/SharpMask](https://arxiv.org/abs/1603.08695) [nips15/eccv16] [facebook] [[torch]](https://github.com/facebookresearch/deepmask) [[tensorflow]](https://github.com/aby2s/sharpmask)  [[pytorch/deepmask]](https://github.com/foolwood/deepmask-pytorch/) 
-    - [Simultaneous Detection and Segmentation](https://github.com/bharath272/sds_eccv2014) [eccv14] [matlab] [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/)
+    - [Simultaneous Detection and Segmentation](https://github.com/bharath272/sds_eccv2014) [eccv14] [matlab] [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/)	
+- Semantic Segmentation
+    - [Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation](https://github.com/swamiviv/LSD-seg) [cvpr18] [spotlight] [pytorch]
 - Autoencoders
     - [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl) [iclr17] [deepmind] [[tensorflow]](https://github.com/miyosuda/disentangled_vae) [[tensorflow]](https://github.com/LynnHo/VAE-Tensorflow) [[pytorch]](https://github.com/1Konny/Beta-VAE)
     - [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [ax1806] [pytorch]   
