@@ -429,7 +429,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [wacv18]
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 [cvpr11]
-- [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
+- [Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 [cvpr12]
 
 <a id="static_segmentation_"></a>
