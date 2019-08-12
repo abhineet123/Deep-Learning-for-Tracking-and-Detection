@@ -41,23 +41,11 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Segmentation](#video_segmentation_)
     - [Classification](#classificatio_n_)
     - [Optical Flow](#optical_flow_)
-- [Collections](#collections_)
-    - [Datasets](#dataset_s__1)
-    - [Single Object Tracking](#single_object_tracking__2)
-    - [Multi Object Tracking](#multi_object_tracking__2)
-    - [Segmentation](#segmentatio_n_)
-    - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
-    - [Misc](#mis_c__2)
-- [Tutorials](#tutorials_)
-    - [Static Detection](#static_detectio_n__2)
-    - [Video Detection](#video_detectio_n__2)
-    - [Deep RL](#deep_rl_)
-    - [Autoencoders](#autoencoder_s_)
 - [Code](#cod_e_)
-    - [Multi Object Tracking](#multi_object_tracking__3)
-    - [Single Object Tracking](#single_object_tracking__3)
+    - [Multi Object Tracking](#multi_object_tracking__2)
+    - [Single Object Tracking](#single_object_tracking__2)
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
-    - [Video Detection](#video_detectio_n__3)
+    - [Video Detection](#video_detectio_n__2)
     - [Static Detection and Matching](#static_detection_and_matching_)
         - [Frameworks](#framework_s_)
         - [Region Proposal](#region_proposal__1)
@@ -65,15 +53,27 @@ Collection of papers, datasets, code and other resources for object detection an
         - [RCNN](#rcn_n__1)
         - [SSD](#ssd__1)
         - [YOLO](#yol_o__1)
-        - [Misc](#mis_c__3)
+        - [Misc](#mis_c__2)
         - [Matching](#matchin_g_)
         - [Boundary Detection](#boundary_detectio_n_)
     - [Optical Flow](#optical_flow__1)
     - [Instance Segmentation](#instance_segmentation_)
     - [Semantic Segmentation](#semantic_segmentation_)
-    - [Autoencoders](#autoencoder_s__1)
+    - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
+    - [Misc](#mis_c__3)
+- [Collections](#collections_)
+    - [Datasets](#dataset_s__1)
+    - [Single Object Tracking](#single_object_tracking__3)
+    - [Multi Object Tracking](#multi_object_tracking__3)
+    - [Segmentation](#segmentatio_n_)
+    - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__4)
+- [Tutorials](#tutorials_)
+    - [Static Detection](#static_detectio_n__2)
+    - [Video Detection](#video_detectio_n__3)
+    - [Deep RL](#deep_rl_)
+    - [Autoencoders](#autoencoder_s__1)
 
 <!-- /MarkdownTOC -->
 
@@ -461,94 +461,10 @@ Collection of papers, datasets, code and other resources for object detection an
 - [MPI Sintel](http://sintel.is.tue.mpg.de/)
 - [KITTI Flow](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow)
 
-<a id="collections_"></a>
-# Collections
-
-<a id="dataset_s__1"></a>
-## Datasets
-
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
-* [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
-* [Machine learning datasets: A list of the biggest machine learning datasets from across the web](https://www.datasetlist.com/) 
-* [Labeled Information Library of Alexandria: Biology and Conservation](http://lila.science/datasets)
-[[other conservation data sets]](http://lila.science/otherdatasets) 
-* [THOTH: Data Sets & Images](https://thoth.inrialpes.fr/data) 
-* [Google AI Datasets](https://ai.google/tools/datasets/) 
-* [Google Cloud Storage public datasets](https://cloud.google.com/storage/docs/public-datasets/) 
-* [Microsoft Research Open Data](https://msropendata.com/) 
-* [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/) 
-* [Registry of Open Data on AWS](https://registry.opendata.aws/) 
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-
-<a id="single_object_tracking__2"></a>
-## Single Object Tracking
-- [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
-- [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
-- [Collection of Correlation Filter based trackers with links to papers, codes, etc](https://github.com/lukaswals/cf-trackers)
-- [VOT2018 Trackers repository](http://www.votchallenge.net/vot2018/trackers.html)
-- [CUHK Datasets](http://mmlab.ie.cuhk.edu.hk.login.ezproxy.library.ualberta.ca/datasets.html)
-    
-<a id="multi_object_tracking__2"></a>
-## Multi Object Tracking
-
-* [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
-* [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
-
-<a id="segmentatio_n_"></a>
-## Segmentation
-
-* [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
-
-<a id="deep_compressed_sensin_g_"></a>
-## Deep Compressed Sensing
-
-* [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)  
-
-<a id="mis_c__2"></a>
-## Misc 
-
-* [Awesome Deep Ecology](https://github.com/patrickcgray/awesome-deep-ecology)
-* [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
-* [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
-
-<a id="tutorials_"></a>
-# Tutorials
-<a id="static_detectio_n__2"></a>
-## Static Detection
-* [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
-* [Review of Deep Learning Algorithms for Object Detection](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)  
-* [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)    
-* [R-CNN, Fast R-CNN, Faster R-CNN, YOLO - Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
-* [A gentle guide to deep learning object detection](https://www.pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)
-* [The intuition behind RetinaNet](https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d)
-* [YOLO—You only look once, real time object detection explained](https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006)
-* [Understanding Feature Pyramid Networks for object detection (FPN)](https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c)
-* [Fast object detection with SqueezeDet on Keras](https://medium.com/omnius/fast-object-detection-with-squeezedet-on-keras-5cdd124b46ce)
-* [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
-
-<a id="video_detectio_n__2"></a>
-## Video Detection
-* [How Microsoft Does Video Object Detection - Unifying the Best Techniques in Video Object Detection Architectures in a Single Model](https://medium.com/nurture-ai/how-microsoft-does-video-object-detection-unifying-the-best-techniques-in-video-object-detection-b78b63e3f1d8)
-
-<a id="deep_rl_"></a>
-## Deep RL
-* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
-* [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
-
-<a id="autoencoder_s_"></a>
-## Autoencoders
-* [Guide to Autoencoders](https://yaledatascience.github.io/2016/10/29/autoencoders.html)
-* [Applied Deep Learning - Part 3: Autoencoders](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
-* [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html)
-* [Stacked Denoising Autoencoders](https://skymind.ai/wiki/stacked-denoising-autoencoder)
-* [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
-* [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
-* [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
-
 <a id="cod_e_"></a>
 # Code
 
-<a id="multi_object_tracking__3"></a>
+<a id="multi_object_tracking__2"></a>
 ## Multi Object Tracking
 * [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz) [cvpr11] [matlab] [[author]](https://www.csee.umbc.edu/~hpirsiav/)    
 * [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking) [cvpr11 / iccv11 / tpami  2014] [matlab]
@@ -566,7 +482,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss17] [python]    
 * [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch(TBA)]    
 
-<a id="single_object_tracking__3"></a>
+<a id="single_object_tracking__2"></a>
 ## Single Object Tracking
 * [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
 * [SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask](https://github.com/STVIR/pysot/) [pytorch]
@@ -606,7 +522,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [[project]](https://idtracker.ai/)
     
 
-<a id="video_detectio_n__3"></a>
+<a id="video_detectio_n__2"></a>
 ## Video Detection
 * [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
 [nips16 / iccv17]
@@ -668,7 +584,7 @@ Collection of papers, datasets, code and other resources for object detection an
 + [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) [tensorflow slim]
 + [keras-yolov3](https://github.com/qqwweee/keras-yolo3) [keras]   
 
-<a id="mis_c__3"></a>
+<a id="mis_c__2"></a>
 ### Misc
 
 * [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
@@ -709,7 +625,7 @@ Collection of papers, datasets, code and other resources for object detection an
 ## Semantic Segmentation
 * [Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation](https://github.com/swamiviv/LSD-seg) [cvpr18] [spotlight] [pytorch]
 
-<a id="autoencoder_s__1"></a>
+<a id="autoencoder_s_"></a>
 ## Autoencoders
 * [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl) [iclr17] [deepmind] [[tensorflow]](https://github.com/miyosuda/disentangled_vae) [[tensorflow]](https://github.com/LynnHo/VAE-Tensorflow) [[pytorch]](https://github.com/1Konny/Beta-VAE)
 * [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [ax1806] [pytorch]   
@@ -720,7 +636,91 @@ Collection of papers, datasets, code and other resources for object detection an
 * Deep RL
 * [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
 
-<a id="mis_c__4"></a>
+<a id="mis_c__3"></a>
 ## Misc
 * [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 * [RNNexp](https://github.com/asheshjain399/RNNexp)
+
+<a id="collections_"></a>
+# Collections
+
+<a id="dataset_s__1"></a>
+## Datasets
+
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
+* [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
+* [Machine learning datasets: A list of the biggest machine learning datasets from across the web](https://www.datasetlist.com/) 
+* [Labeled Information Library of Alexandria: Biology and Conservation](http://lila.science/datasets)
+[[other conservation data sets]](http://lila.science/otherdatasets) 
+* [THOTH: Data Sets & Images](https://thoth.inrialpes.fr/data) 
+* [Google AI Datasets](https://ai.google/tools/datasets/) 
+* [Google Cloud Storage public datasets](https://cloud.google.com/storage/docs/public-datasets/) 
+* [Microsoft Research Open Data](https://msropendata.com/) 
+* [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/) 
+* [Registry of Open Data on AWS](https://registry.opendata.aws/) 
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+
+<a id="single_object_tracking__3"></a>
+## Single Object Tracking
+- [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
+- [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
+- [Collection of Correlation Filter based trackers with links to papers, codes, etc](https://github.com/lukaswals/cf-trackers)
+- [VOT2018 Trackers repository](http://www.votchallenge.net/vot2018/trackers.html)
+- [CUHK Datasets](http://mmlab.ie.cuhk.edu.hk.login.ezproxy.library.ualberta.ca/datasets.html)
+    
+<a id="multi_object_tracking__3"></a>
+## Multi Object Tracking
+
+* [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
+* [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
+
+<a id="segmentatio_n_"></a>
+## Segmentation
+
+* [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
+
+<a id="deep_compressed_sensin_g_"></a>
+## Deep Compressed Sensing
+
+* [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)  
+
+<a id="mis_c__4"></a>
+## Misc 
+
+* [Awesome Deep Ecology](https://github.com/patrickcgray/awesome-deep-ecology)
+* [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
+* [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+
+<a id="tutorials_"></a>
+# Tutorials
+<a id="static_detectio_n__2"></a>
+## Static Detection
+* [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
+* [Review of Deep Learning Algorithms for Object Detection](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)  
+* [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)    
+* [R-CNN, Fast R-CNN, Faster R-CNN, YOLO - Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
+* [A gentle guide to deep learning object detection](https://www.pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)
+* [The intuition behind RetinaNet](https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d)
+* [YOLO—You only look once, real time object detection explained](https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006)
+* [Understanding Feature Pyramid Networks for object detection (FPN)](https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c)
+* [Fast object detection with SqueezeDet on Keras](https://medium.com/omnius/fast-object-detection-with-squeezedet-on-keras-5cdd124b46ce)
+* [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
+
+<a id="video_detectio_n__3"></a>
+## Video Detection
+* [How Microsoft Does Video Object Detection - Unifying the Best Techniques in Video Object Detection Architectures in a Single Model](https://medium.com/nurture-ai/how-microsoft-does-video-object-detection-unifying-the-best-techniques-in-video-object-detection-b78b63e3f1d8)
+
+<a id="deep_rl_"></a>
+## Deep RL
+* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+* [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
+
+<a id="autoencoder_s__1"></a>
+## Autoencoders
+* [Guide to Autoencoders](https://yaledatascience.github.io/2016/10/29/autoencoders.html)
+* [Applied Deep Learning - Part 3: Autoencoders](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+* [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html)
+* [Stacked Denoising Autoencoders](https://skymind.ai/wiki/stacked-denoising-autoencoder)
+* [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
+* [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
+* [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
