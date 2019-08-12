@@ -12,33 +12,33 @@ Collection of papers, code and other resources for object detection and tracking
     - [Interpolation](#interpolation_)
     - [Autoencoder](#autoencoder_)
 - [Datasets](#dataset_s_)
-    - [Multi Object Tracking](#multi_object_tracking_-1)
-    - [Single Object Tracking](#single_object_tracking_-1)
+    - [Multi Object Tracking](#multi_object_tracking__1)
+    - [Single Object Tracking](#single_object_tracking__1)
     - [Video Understanding / Activity Recognition](#video_understanding___activity_recognitio_n_)
-    - [Video Detection](#video_detectio_n_-1)
-    - [Static Detection](#static_detectio_n_-1)
+    - [Video Detection](#video_detectio_n__1)
+    - [Static Detection](#static_detectio_n__1)
         - [Animal Detection](#animal_detectio_n_)
     - [Static Segmentation](#static_segmentation_)
     - [Video Segmentation](#video_segmentation_)
     - [Classification](#classificatio_n_)
     - [Optical Flow](#optical_flow_)
 - [Collections](#collections_)
-    - [Datasets](#dataset_s_-1)
-    - [Single Object Tracking](#single_object_tracking_-2)
-    - [Multi Object Tracking](#multi_object_tracking_-2)
+    - [Datasets](#dataset_s__1)
+    - [Single Object Tracking](#single_object_tracking__2)
+    - [Multi Object Tracking](#multi_object_tracking__2)
     - [Segmentation](#segmentatio_n_)
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c_)
 - [Tutorials](#tutorials_)
-    - [Static Detection](#static_detectio_n_-2)
-    - [Video Detection](#video_detectio_n_-2)
+    - [Static Detection](#static_detectio_n__2)
+    - [Video Detection](#video_detectio_n__2)
     - [Deep RL](#deep_rl_)
     - [Autoencoders](#autoencoder_s_)
 - [Code](#cod_e_)
-    - [Multi Object Tracking](#multi_object_tracking_-3)
-    - [Single Object Tracking](#single_object_tracking_-3)
+    - [Multi Object Tracking](#multi_object_tracking__3)
+    - [Single Object Tracking](#single_object_tracking__3)
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
-    - [Video Detection](#video_detectio_n_-3)
+    - [Video Detection](#video_detectio_n__3)
     - [Static Detection and Matching](#static_detection_and_matching_)
         - [Frameworks](#framework_s_)
         - [Region Proposal](#region_proposal_)
@@ -46,15 +46,15 @@ Collection of papers, code and other resources for object detection and tracking
         - [RCNN](#rcn_n_)
         - [SSD](#ssd_)
         - [YOLO](#yol_o_)
-        - [Misc](#mis_c_-1)
+        - [Misc](#mis_c__1)
         - [Matching](#matchin_g_)
         - [Boundary Detection](#boundary_detectio_n_)
-    - [Optical Flow](#optical_flow_-1)
+    - [Optical Flow](#optical_flow__1)
     - [Instance Segmentation](#instance_segmentation_)
     - [Semantic Segmentation](#semantic_segmentation_)
-    - [Autoencoders](#autoencoder_s_-1)
-    - [Classification](#classificatio_n_-1)
-    - [Misc](#mis_c_-2)
+    - [Autoencoders](#autoencoder_s__1)
+    - [Classification](#classificatio_n__1)
+    - [Misc](#mis_c__2)
 
 <!-- /MarkdownTOC -->
 
@@ -315,7 +315,7 @@ Collection of papers, code and other resources for object detection and tracking
 <a id="dataset_s_"></a>
 # Datasets
 
-<a id="multi_object_tracking_-1"></a>
+<a id="multi_object_tracking__1"></a>
 ## Multi Object Tracking
 
 - [IDOT](https://www.cs.uic.edu/Bits/YanziJin)
@@ -337,7 +337,7 @@ Collection of papers, code and other resources for object detection and tracking
 - [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) (pedestrian detection and tracking)
 - [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) (intersection traffic/stereo setup/moving camera)
  
-<a id="single_object_tracking_-1"></a>
+<a id="single_object_tracking__1"></a>
 ## Single Object Tracking
 
 - [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](https://tracking-net.org/) [eccv18]
@@ -354,12 +354,12 @@ Collection of papers, code and other resources for object detection and tracking
 - [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
 - [VIRAT Video Dataset](http://www.viratdata.org/)
 
-<a id="video_detectio_n_-1"></a>
+<a id="video_detectio_n__1"></a>
 ## Video Detection
 
 - [YouTube-BB](https://research.google.com/youtube-bb/download.html)
 
-<a id="static_detectio_n_-1"></a>
+<a id="static_detectio_n__1"></a>
 ## Static Detection
 - [A Large-Scale Dataset for Vehicle Re-Identification in the Wild](https://github.com/PKU-IMRE/VERI-Wild)
 [cvpr19]
@@ -403,7 +403,7 @@ Collection of papers, code and other resources for object detection and tracking
 <a id="collections_"></a>
 # Collections
 
-<a id="dataset_s_-1"></a>
+<a id="dataset_s__1"></a>
 ## Datasets
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
@@ -419,7 +419,7 @@ Collection of papers, code and other resources for object detection and tracking
 * [Registry of Open Data on AWS](https://registry.opendata.aws/) 
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
 
-<a id="single_object_tracking_-2"></a>
+<a id="single_object_tracking__2"></a>
 ## Single Object Tracking
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
 - [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
@@ -427,7 +427,7 @@ Collection of papers, code and other resources for object detection and tracking
 - [VOT2018 Trackers repository](http://www.votchallenge.net/vot2018/trackers.html)
 - [CUHK Datasets](http://mmlab.ie.cuhk.edu.hk.login.ezproxy.library.ualberta.ca/datasets.html)
     
-<a id="multi_object_tracking_-2"></a>
+<a id="multi_object_tracking__2"></a>
 ## Multi Object Tracking
 
 * [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
@@ -452,7 +452,7 @@ Collection of papers, code and other resources for object detection and tracking
 
 <a id="tutorials_"></a>
 # Tutorials
-<a id="static_detectio_n_-2"></a>
+<a id="static_detectio_n__2"></a>
 ## Static Detection
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)  
@@ -465,7 +465,7 @@ Collection of papers, code and other resources for object detection and tracking
 * [Fast object detection with SqueezeDet on Keras](https://medium.com/omnius/fast-object-detection-with-squeezedet-on-keras-5cdd124b46ce)
 * [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
 
-<a id="video_detectio_n_-2"></a>
+<a id="video_detectio_n__2"></a>
 ## Video Detection
 * [How Microsoft Does Video Object Detection - Unifying the Best Techniques in Video Object Detection Architectures in a Single Model](https://medium.com/nurture-ai/how-microsoft-does-video-object-detection-unifying-the-best-techniques-in-video-object-detection-b78b63e3f1d8)
 
@@ -487,7 +487,7 @@ Collection of papers, code and other resources for object detection and tracking
 <a id="cod_e_"></a>
 # Code
 
-<a id="multi_object_tracking_-3"></a>
+<a id="multi_object_tracking__3"></a>
 ## Multi Object Tracking
 * [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz) [cvpr11] [matlab] [[author]](https://www.csee.umbc.edu/~hpirsiav/)    
 * [Continuous Energy Minimization for Multitarget Tracking](https://bitbucket.org/amilan/contracking) [cvpr11 / iccv11 / tpami  2014] [matlab]
@@ -505,7 +505,7 @@ Collection of papers, code and other resources for object detection and tracking
 * [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss17] [python]    
 * [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch(TBA)]    
 
-<a id="single_object_tracking_-3"></a>
+<a id="single_object_tracking__3"></a>
 ## Single Object Tracking
 * [A collection of common tracking algorithms (2003-2012)](https://github.com/zenhacker/TrackingAlgoCollection) [c++/matlab]
 * [SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask](https://github.com/STVIR/pysot/) [pytorch]
@@ -545,7 +545,7 @@ Collection of papers, code and other resources for object detection and tracking
 [[project]](https://idtracker.ai/)
     
 
-<a id="video_detectio_n_-3"></a>
+<a id="video_detectio_n__3"></a>
 ## Video Detection
 * [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
 [nips16 / iccv17]
@@ -607,7 +607,7 @@ Collection of papers, code and other resources for object detection and tracking
 + [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) [tensorflow slim]
 + [keras-yolov3](https://github.com/qqwweee/keras-yolo3) [keras]   
 
-<a id="mis_c_-1"></a>
+<a id="mis_c__1"></a>
 ### Misc
 
 * [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
@@ -626,7 +626,7 @@ Collection of papers, code and other resources for object detection and tracking
 + [Edge-Detection-using-Deep-Learning (HED)](https://github.com/Akuanchang/Edge-Detection-using-Deep-Learning) [tensorflow]
 + [Crisp Boundary Detection Using Pointwise Mutual Information (eccv14)](https://github.com/phillipi/crisp-boundaries) [matlab]
 
-<a id="optical_flow_-1"></a>
+<a id="optical_flow__1"></a>
 ## Optical Flow
 * [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks (cvpr17)](https://arxiv.org/abs/1612.01925) - [caffe](https://github.com/lmb-freiburg/flownet2), [pytorch/nvidia](https://github.com/NVIDIA/flownet2-pytorch)
 * [SPyNet: Spatial Pyramid Network for Optical Flow (cvpr17)](https://arxiv.org/abs/1702.02295) - [lua](https://github.com/anuragranj/spynet), [pytorch](https://github.com/sniklaus/pytorch-spynet)
@@ -648,18 +648,18 @@ Collection of papers, code and other resources for object detection and tracking
 ## Semantic Segmentation
 * [Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation](https://github.com/swamiviv/LSD-seg) [cvpr18] [spotlight] [pytorch]
 
-<a id="autoencoder_s_-1"></a>
+<a id="autoencoder_s__1"></a>
 ## Autoencoders
 * [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl) [iclr17] [deepmind] [[tensorflow]](https://github.com/miyosuda/disentangled_vae) [[tensorflow]](https://github.com/LynnHo/VAE-Tensorflow) [[pytorch]](https://github.com/1Konny/Beta-VAE)
 * [Disentangling by Factorising](https://github.com/1Konny/FactorVAE) [ax1806] [pytorch]   
 
-<a id="classificatio_n_-1"></a>
+<a id="classificatio_n__1"></a>
 ## Classification
 * [Learning Efficient Convolutional Networks Through Network Slimming](https://github.com/miyosuda/async_deep_reinforce) [iccv17] [pytorch]
 * Deep RL
 * [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
 
-<a id="mis_c_-2"></a>
+<a id="mis_c__2"></a>
 ## Misc
 * [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 * [RNNexp](https://github.com/asheshjain399/RNNexp)
