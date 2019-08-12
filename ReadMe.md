@@ -2,7 +2,7 @@
 Collection of papers, code and other resources for object detection and tracking using deep learning
 <!-- MarkdownTOC -->
 
-- [Readings](#reading_s_)
+- [Papers](#paper_s_)
     - [Static Detection](#static_detectio_n_)
     - [Video Detection](#video_detectio_n_)
     - [Multi Object Tracking](#multi_object_tracking_)
@@ -34,8 +34,8 @@ Collection of papers, code and other resources for object detection and tracking
 
 <!-- /MarkdownTOC -->
 
-<a id="reading_s_"></a>
-# Readings
+<a id="paper_s_"></a>
+# Papers
 
 <a id="static_detectio_n_"></a>
 ## Static Detection
