@@ -418,6 +418,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 <a id="static_detectio_n__1"></a>
 ## Static Detection
+- [PASCAL Visual Object Classes](http://host.robots.ox.ac.uk/pascal/VOC/)
 - [A Large-Scale Dataset for Vehicle Re-Identification in the Wild](https://github.com/PKU-IMRE/VERI-Wild)
 [cvpr19]
 - [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
