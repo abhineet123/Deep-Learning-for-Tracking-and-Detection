@@ -33,8 +33,8 @@ Collection of papers, code and other resources for object detection and tracking
 - [Datasets](#dataset_s_)
     - [Multi Object Tracking](#multi_object_tracking__1)
     - [Single Object Tracking](#single_object_tracking__1)
-    - [Video Understanding / Activity Recognition](#video_understanding___activity_recognitio_n_)
     - [Video Detection](#video_detectio_n__1)
+        - [Video Understanding / Activity Recognition](#video_understanding___activity_recognitio_n_)
     - [Static Detection](#static_detectio_n__1)
         - [Animal Detection](#animal_detectio_n_)
     - [Static Segmentation](#static_segmentation_)
@@ -404,17 +404,17 @@ Collection of papers, code and other resources for object detection and tracking
 - [UAV123: A benchmark and simulator for UAV tracking](https://uav123.org/) [eccv16] [[project]](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx)
 - [Sim4CV A Photo-Realistic Simulator for Computer Vision Applications](https://sim4cv.org/) [ijcv18]   
 
-<a id="video_understanding___activity_recognitio_n_"></a>
-## Video Understanding / Activity Recognition
- 
-- [YouTube-8M](https://research.google.com/youtube8m/)
-- [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
-- [VIRAT Video Dataset](http://www.viratdata.org/)
-
 <a id="video_detectio_n__1"></a>
 ## Video Detection
 
 - [YouTube-BB](https://research.google.com/youtube-bb/download.html)
+
+<a id="video_understanding___activity_recognitio_n_"></a>
+### Video Understanding / Activity Recognition
+ 
+- [YouTube-8M](https://research.google.com/youtube8m/)
+- [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
+- [VIRAT Video Dataset](http://www.viratdata.org/)
 
 <a id="static_detectio_n__1"></a>
 ## Static Detection
