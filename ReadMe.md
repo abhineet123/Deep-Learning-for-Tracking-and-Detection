@@ -438,9 +438,9 @@ Collection of papers, datasets, code and other resources for object detection an
 
 - [COCO - Common Objects in Context](http://cocodataset.org/#download)
 - [Open Images](https://storage.googleapis.com/openimages/web/index.html)
-- [UC Berkeley Computer Vision Group - Contour Detection and Image Segmentation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
-- [SYNTHIA](http://synthia-dataset.net/download-2/) [cvpr16]
 - [ADE20K](https://groups.csail.mit.edu/vision/datasets/ADE20K/) [cvpr17]
+- [SYNTHIA](http://synthia-dataset.net/download-2/) [cvpr16]
+- [UC Berkeley Computer Vision Group - Contour Detection and Image Segmentation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 
 <a id="video_segmentation_"></a>
 ## Video Segmentation
