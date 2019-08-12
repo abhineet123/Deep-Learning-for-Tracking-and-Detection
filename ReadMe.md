@@ -1,23 +1,36 @@
 Collection of papers, code and other resources for object detection and tracking using deep learning
 <!-- MarkdownTOC -->
 
-- [Static Detection](#static_detectio_n_)
-- [Video Detection](#video_detectio_n_)
-- [Multi Object Tracking](#multi_object_tracking_)
-- [Single Object Tracking](#single_object_tracking_)
-- [Deep Learning](#deep_learning_)
-- [Unsupervised Learning](#unsupervised_learning_)
-- [Interpolation](#interpolation_)
-- [Autoencoder](#autoencoder_)
+- [Readings](#reading_s_)
+    - [Static_Detection       @ Readings](#static_detection___readings_)
+    - [Video_Detection       @ Readings](#video_detection___readings_)
+    - [Multi_Object_Tracking       @ Readings](#multi_object_tracking___readings_)
+    - [Single_Object_Tracking       @ Readings](#single_object_tracking___readings_)
+    - [Deep_Learning       @ Readings](#deep_learning___readings_)
+    - [Unsupervised_Learning       @ Readings](#unsupervised_learning___readings_)
+    - [Interpolation       @ Readings](#interpolation___readings_)
+    - [Autoencoder       @ Readings](#autoencoder___readings_)
 - [Datasets](#dataset_s_)
+    - [Multi_Object_Tracking       @ Datasets](#multi_object_tracking___datasets_)
+    - [Single_Object_Tracking       @ Datasets](#single_object_tracking___datasets_)
+    - [Video_Understanding_/_Activity_Recognition       @ Datasets](#video_understanding___activity_recognition___datasets_)
+    - [Video_Detection       @ Datasets](#video_detection___datasets_)
+    - [Static_Detection       @ Datasets](#static_detection___datasets_)
+    - [Static_Segmentation       @ Datasets](#static_segmentation___datasets_)
+    - [Video_Segmentation       @ Datasets](#video_segmentation___datasets_)
+    - [Classification       @ Datasets](#classification___datasets_)
+    - [Optical_Flow       @ Datasets](#optical_flow___datasets_)
 - [Collections](#collections_)
 - [Tutorials](#tutorials_)
 - [Code](#cod_e_)
 
 <!-- /MarkdownTOC -->
 
-<a id="static_detectio_n_"></a>
-# Static Detection
+<a id="reading_s_"></a>
+# Readings
+
+<a id="static_detection___readings_"></a>
+## Static_Detection       @ Readings
 
 - Region Proposal
     - **Scalable Object Detection Using Deep Neural Networks**
@@ -92,8 +105,8 @@ Collection of papers, code and other resources for object detection and tracking
     [[notes]](static_detection/notes/IOU-Net.pdf)
     [[code]](https://github.com/vacancy/PreciseRoIPooling)
     
-<a id="video_detectio_n_"></a>
-# Video Detection
+<a id="video_detection___readings_"></a>
+## Video_Detection       @ Readings
 - Tubelet
     - **Object Detection from Video Tubelets with Convolutional Neural Networks**
     [cvpr16]
@@ -129,8 +142,8 @@ Collection of papers, code and other resources for object detection and tracking
     [[pdf]](video_detection/rnn/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf)
     [[notes]](video_detection/notes/Context%20Matters%20Reﬁning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf)
 
-<a id="multi_object_tracking_"></a>
-#  Multi Object Tracking
+<a id="multi_object_tracking___readings_"></a>
+## Multi_Object_Tracking       @ Readings
 - Deep Learning
     - **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
     [ax1704/iccv17]
@@ -181,8 +194,8 @@ Collection of papers, code and other resources for object detection and tracking
     [[notes]](multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf)
     [[code]](https://github.com/bochinski/iou-tracker)
       
-<a id="single_object_tracking_"></a>
-# Single Object Tracking
+<a id="single_object_tracking___readings_"></a>
+## Single_Object_Tracking       @ Readings
 - Reinforcement Learning
     - **Deep Reinforcement Learning for Visual Object Tracking in Videos**
     [ax1704] [USC-Santa Barbara, Samsung Research]
@@ -224,8 +237,9 @@ Collection of papers, code and other resources for object detection and tracking
 [[pdf]](single_object_tracking/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
 [[notes]](single_object_tracking/notes/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
 [[code]](https://github.com/visionml/pytracking)
-<a id="deep_learning_"></a>
-#  Deep Learning
+
+<a id="deep_learning___readings_"></a>
+## Deep_Learning       @ Readings
 - **Do Deep Nets Really Need to be Deep**
 [nips14]
 [[pdf]](deep_learning/theory/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%20ax1410%20nips14.pdf)
@@ -240,23 +254,23 @@ Collection of papers, code and other resources for object detection and tracking
     [[pdf]](deep_learning/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf)
     [[notes]](deep_learning/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf)
     
-<a id="unsupervised_learning_"></a>
-#  Unsupervised Learning
+<a id="unsupervised_learning___readings_"></a>
+## Unsupervised_Learning       @ Readings
 - **Learning Features by Watching Objects Move**
 (cvpr17)
 [[pdf]](unsupervised/segmentation/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf)
 [[notes]](unsupervised/notes/Learning%20Features%20by%20Watching%20Objects%20Move%20ax170412%20cvpr17.pdf)
     
-<a id="interpolation_"></a>
-#  Interpolation
+<a id="interpolation___readings_"></a>
+## Interpolation       @ Readings
 - **Video Frame Interpolation via Adaptive Convolution**
 [cvpr17 / iccv17]
 [[pdf (cvpr17)]](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf)
 [[pdf (iccv17)]](interpolation/Video%20Frame%20Interpolation%20via%20Adaptive%20Separable%20Convolution%20iccv17.pdf)
 [[ppt]](interpolation/notes/Video%20Frame%20Interpolation%20via%20Adaptive%20Convolution%20ax1703.pdf)
 
-<a id="autoencoder_"></a>
-# Autoencoder
+<a id="autoencoder___readings_"></a>
+## Autoencoder       @ Readings
 - Variational
     - **beta-VAE Learning Basic Visual Concepts with a Constrained Variational Framework** [iclr17]
     [[pdf]](autoencoder/variational/beta-VAE%20Learning%20Basic%20Visual%20Concepts%20with%20a%20Constrained%20Variational%20Framework%20iclr17.pdf)
@@ -267,7 +281,8 @@ Collection of papers, code and other resources for object detection and tracking
     
 <a id="dataset_s_"></a>
 # Datasets
-- Multi Object Tracking
+<a id="multi_object_tracking___datasets_"></a>
+## Multi_Object_Tracking       @ Datasets
     + [IDOT](https://www.cs.uic.edu/Bits/YanziJin)
     + [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)
     + [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
@@ -286,20 +301,24 @@ Collection of papers, code and other resources for object detection and tracking
     + [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
     + [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) (pedestrian detection and tracking)
     + [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) (intersection traffic/stereo setup/moving camera)
-- Single Object Tracking
+<a id="single_object_tracking___datasets_"></a>
+## Single_Object_Tracking       @ Datasets
     + [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](https://tracking-net.org/) [eccv18]
     + [LaSOT: Large-scale Single Object Tracking](https://cis.temple.edu/lasot/) [cvpr19]
     + [Need for speed: A benchmark for higher frame rate object tracking](http://ci2cv.net/nfs/index.html) [iccv17]
     + [Long-term Tracking in the Wild A Benchmark](https://oxuva.github.io/long-term-tracking-benchmark/) [eccv18]
     + [UAV123: A benchmark and simulator for UAV tracking](https://uav123.org/) [eccv16] [[project]](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx)
     + [Sim4CV A Photo-Realistic Simulator for Computer Vision Applications](https://sim4cv.org/) [ijcv18]   
-- Video Understanding / Activity Recognition
+<a id="video_understanding___activity_recognition___datasets_"></a>
+## Video_Understanding_/_Activity_Recognition       @ Datasets
     + [YouTube-8M](https://research.google.com/youtube8m/)
     + [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
     + [VIRAT Video Dataset](http://www.viratdata.org/)
-- Video Detection
+<a id="video_detection___datasets_"></a>
+## Video_Detection       @ Datasets
     + [YouTube-BB](https://research.google.com/youtube-bb/download.html)
-- Static Detection
+<a id="static_detection___datasets_"></a>
+## Static_Detection       @ Datasets
     + [A Large-Scale Dataset for Vehicle Re-Identification in the Wild](https://github.com/PKU-IMRE/VERI-Wild)
     [cvpr19]
     + [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
@@ -310,17 +329,21 @@ Collection of papers, code and other resources for object detection and tracking
         [cvpr11]
         + [The Oxford-IIIT Pet Dataset)](http://www.robots.ox.ac.uk/~vgg/data/pets/)
         [cvpr12]
-- Static Segmentation
+<a id="static_segmentation___datasets_"></a>
+## Static_Segmentation       @ Datasets
     + [COCO - Common Objects in Context](http://cocodataset.org/#download)
     + [UC Berkeley Computer Vision Group - Contour Detection and Image Segmentation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
     + [SYNTHIA](http://synthia-dataset.net/download-2/) [cvpr16]
-- Video Segmentation
+<a id="video_segmentation___datasets_"></a>
+## Video_Segmentation       @ Datasets
     + [DAVIS: Densely Annotated VIdeo Segmentation](https://davischallenge.org/)
-- Classification
+<a id="classification___datasets_"></a>
+## Classification       @ Datasets
     + [ImageNet Large Scale Visual Recognition Competition 2012](http://www.image-net.org/challenges/LSVRC/2012/)
     + [Animals with Attributes 2](https://cvml.ist.ac.at/AwA2/)
     + [CompCars Dataset](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
-- Optical Flow
+<a id="optical_flow___datasets_"></a>
+## Optical_Flow       @ Datasets
     + [Middlebury](http://vision.middlebury.edu/flow/data/)
     + [MPI Sintel](http://sintel.is.tue.mpg.de/)
 
