@@ -1,5 +1,5 @@
 <!-- No Heading Fix -->
-Collection of papers, code and other resources for object detection and tracking using deep learning
+Collection of papers, datasets, code and other resources for object detection and tracking using deep learning
 <!-- MarkdownTOC -->
 
 - [Papers](#paper_s_)
