@@ -23,6 +23,12 @@ Collection of papers, code and other resources for object detection and tracking
     - [Classification](#classificatio_n_)
     - [Optical Flow](#optical_flow_)
 - [Collections](#collections_)
+    - [Datasets](#dataset_s_-1)
+    - [Single Object Tracking](#single_object_tracking_-2)
+    - [Multi Object Tracking](#multi_object_tracking_-2)
+    - [Segmentation](#segmentatio_n_)
+    - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
+    - [Misc](#mis_c_)
 - [Tutorials](#tutorials_)
 - [Code](#cod_e_)
 
@@ -372,36 +378,53 @@ Collection of papers, code and other resources for object detection and tracking
 
 <a id="collections_"></a>
 # Collections
-- Datasets
-    - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
-    - [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
-    - [Machine learning datasets: A list of the biggest machine learning datasets from across the web](https://www.datasetlist.com/) 
-    - [Labeled Information Library of Alexandria: Biology and Conservation](http://lila.science/datasets)
-    [[other conservation data sets]](http://lila.science/otherdatasets) 
-    - [THOTH: Data Sets & Images](https://thoth.inrialpes.fr/data) 
-    - [Google AI Datasets](https://ai.google/tools/datasets/) 
-    - [Google Cloud Storage public datasets](https://cloud.google.com/storage/docs/public-datasets/) 
-    - [Microsoft Research Open Data](https://msropendata.com/) 
-    - [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/) 
-    - [Registry of Open Data on AWS](https://registry.opendata.aws/) 
-    - [Kaggle Datasets](https://www.kaggle.com/datasets)    
-- Single Object Tracking
-    - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
-    - [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
-    - [Collection of Correlation Filter based trackers with links to papers, codes, etc](https://github.com/lukaswals/cf-trackers)
-    - [VOT2018 Trackers repository](http://www.votchallenge.net/vot2018/trackers.html)
-    - [CUHK Datasets](http://mmlab.ie.cuhk.edu.hk.login.ezproxy.library.ualberta.ca/datasets.html)
-- Multi Object Tracking
-    - [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
-    - [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
-- Segmentation
-    - [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)   
-- Deep Compressed Sensing
-    - [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)   
-- Misc 
-    - [Awesome Deep Ecology](https://github.com/patrickcgray/awesome-deep-ecology)
-    - [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
-    - [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+
+<a id="dataset_s_-1"></a>
+## Datasets
+
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
+* [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
+* [Machine learning datasets: A list of the biggest machine learning datasets from across the web](https://www.datasetlist.com/) 
+* [Labeled Information Library of Alexandria: Biology and Conservation](http://lila.science/datasets)
+[[other conservation data sets]](http://lila.science/otherdatasets) 
+* [THOTH: Data Sets & Images](https://thoth.inrialpes.fr/data) 
+* [Google AI Datasets](https://ai.google/tools/datasets/) 
+* [Google Cloud Storage public datasets](https://cloud.google.com/storage/docs/public-datasets/) 
+* [Microsoft Research Open Data](https://msropendata.com/) 
+* [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/) 
+* [Registry of Open Data on AWS](https://registry.opendata.aws/) 
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+
+<a id="single_object_tracking_-2"></a>
+## Single Object Tracking
+- [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
+- [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
+- [Collection of Correlation Filter based trackers with links to papers, codes, etc](https://github.com/lukaswals/cf-trackers)
+- [VOT2018 Trackers repository](http://www.votchallenge.net/vot2018/trackers.html)
+- [CUHK Datasets](http://mmlab.ie.cuhk.edu.hk.login.ezproxy.library.ualberta.ca/datasets.html)
+    
+<a id="multi_object_tracking_-2"></a>
+## Multi Object Tracking
+
+* [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
+* [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
+
+<a id="segmentatio_n_"></a>
+## Segmentation
+
+* [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
+
+<a id="deep_compressed_sensin_g_"></a>
+## Deep Compressed Sensing
+
+* [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)  
+
+<a id="mis_c_"></a>
+## Misc 
+
+* [Awesome Deep Ecology](https://github.com/patrickcgray/awesome-deep-ecology)
+* [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
+* [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 
 <a id="tutorials_"></a>
 # Tutorials
