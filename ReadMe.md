@@ -287,7 +287,7 @@ Collection of papers, code and other resources for object detection and tracking
 
 <a id="multi_object_tracking_-1"></a>
 ## Multi Object Tracking
-- 
+
 - [IDOT](https://www.cs.uic.edu/Bits/YanziJin)
 - [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)
 - [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
