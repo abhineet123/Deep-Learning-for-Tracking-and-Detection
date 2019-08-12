@@ -457,6 +457,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 - [Middlebury](http://vision.middlebury.edu/flow/data/)
 - [MPI Sintel](http://sintel.is.tue.mpg.de/)
+- [KITTI Flow](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow)
 
 <a id="collections_"></a>
 # Collections
