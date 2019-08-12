@@ -427,9 +427,9 @@ Collection of papers, datasets, code and other resources for object detection an
 
 - [Wildlife Image and Localization Dataset (species and bounding box labels)](https://lev.cs.rpi.edu/public/datasets/wild.tar.gz)
 [wacv18]
-- [Stanford Dogs Dataset)](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+- [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 [cvpr11]
-- [The Oxford-IIIT Pet Dataset)](http://www.robots.ox.ac.uk/~vgg/data/pets/)
+- [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 [cvpr12]
 
 <a id="static_segmentation_"></a>
