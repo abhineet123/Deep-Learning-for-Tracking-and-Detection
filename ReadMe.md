@@ -436,7 +436,7 @@ Collection of papers, code and other resources for object detection and tracking
 ## Static Segmentation
 
 - [COCO - Common Objects in Context](http://cocodataset.org/#download)
-- [Open Images Dataset V5](https://storage.googleapis.com/openimages/web/index.html)
+- [Open Images](https://storage.googleapis.com/openimages/web/index.html)
 - [UC Berkeley Computer Vision Group - Contour Detection and Image Segmentation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 - [SYNTHIA](http://synthia-dataset.net/download-2/) [cvpr16]
 
