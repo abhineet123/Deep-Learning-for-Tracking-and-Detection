@@ -433,6 +433,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [cvpr11]
 - [Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 [cvpr12]
+- [Caltech-UCSD Birds 200](http://www.vision.caltech.edu/visipedia/CUB-200.html) [rough segmentation] [attributes]
 
 <a id="static_segmentation_"></a>
 ## Static Segmentation
