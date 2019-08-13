@@ -382,17 +382,18 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
 - [TRANCOS](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
 - [Urban Tracker](https://www.jpjodoin.com/urbantracker/dataset.html)
-- [DARPA VIVID / PETS 2005](http://vision.cse.psu.edu/data/vividEval/datasets/datasets.html) (Non stationary camera)
-- [KIT-AKS](http://i21www.ira.uka.de/image_sequences/) (No ground truth)
-- [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/) (No top down viewpoint)
-- [MOT 2015](https://motchallenge.net/data/2D_MOT_2015/) (mostly street level camera viewpoint)
-- [MOT 2016](https://motchallenge.net/data/MOT16/) (mostly street level camera viewpoint)
-- [MOT 2017](https://motchallenge.net/data/MOT17/) (mostly street level camera viewpoint)
-- [PETS 2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) (No vehicles)
-- [PETS 2017](https://motchallenge.net/data/PETS2017/) (Low density; mostly pedestrians)
-- [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) (No top down viewpoint; non stationary camera)
-- [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) (pedestrian detection and tracking)
-- [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) (intersection traffic/stereo setup/moving camera)
+- [DARPA VIVID / PETS 2005](http://vision.cse.psu.edu/data/vividEval/datasets/datasets.html) [Non stationary camera]
+- [KIT-AKS](http://i21www.ira.uka.de/image_sequences/) [No ground truth]
+- [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/) [No top down viewpoint]
+- [MOT 2015](https://motchallenge.net/data/2D_MOT_2015/) [mostly street level viewpoint]
+- [MOT 2016](https://motchallenge.net/data/MOT16/) [mostly street level viewpoint]
+- [MOT 2017](https://motchallenge.net/data/MOT17/) [mostly street level viewpoint]
+- [PETS 2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) [No vehicles]
+- [PETS 2017](https://motchallenge.net/data/PETS2017/) [Low density] [mostly pedestrians]
+- [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) [No top down viewpoint] [non stationary camera]
+- [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) [pedestrian detection and tracking]
+- [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) [intersection traffic] [stereo setup] [moving camera]
+- [LOST : Longterm Observation of Scenes with Tracks](http://lost.cse.wustl.edu/) [top down and street level viewpoint] [no annotations]
  
 <a id="single_object_tracking__1"></a>
 ## Single Object Tracking
