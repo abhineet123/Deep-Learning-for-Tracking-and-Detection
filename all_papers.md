@@ -1,4 +1,4 @@
-Updated on: 190625 184812
+Updated on: 190815 084852
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -164,16 +164,13 @@ Updated on: 190625 184812
     - A Public Video Dataset for Road Transportation Applications (2013) .pdf
     - Beyond Standard Benchmarks Parameterizing Performance Evaluation in Visual Object Tracking_iccv17.pdf
     - Cats and Dogs cvpr12.pdf
-    - LaSOT A High-quality Benchmark for Large-scale Single Object Tracking ax1809.07845.pdf
-    - Long-term Tracking in the Wild A Benchmark ax180810_eccv18.pdf
     - Microsoft COCO Common Objects in Context ax1502 eccv14.pdf
-    - Need for Speed A Benchmark for Higher Frame Rate Object Tracking_iccv17.pdf
+    - Semantic Understanding of Scenes through ADE20K Dataset ax1608.05442 cvpr17 ijcv19.pdf
+    - Semantic Understanding of Scenes through the ADE20K Dataset ax1608.05442.pdf
+    - Sim4CV A Photo-Realistic Simulator for Computer Vision Applications ijcv18.pdf
     - The Unmanned Aerial Vehicle Benchmark Object Detection and Tracking_eccv18.pdf
-    - TrackingNet A Large-Scale Dataset and Benchmark for Object Tracking in the Wild_eccv18.pdf
     - Training a Convolutional Neural Network for Multi-Class Object Detection Using Solely Virtual World Data icavss16_8.pdf
     - Vehicle Tracking by Simultaneous Detection and Viewpoint Estimation iwinac13.pdf
-    - WILDTRACK A Multi-camera HD Dataset for Dense Unscripted Pedestrian Detection_cvpr18.pdf
-    - YouTube-BoundingBoxes A Large High-Precision Human-Annotated Data Set for Object Detection in Video ax170324.pdf
     - animal/
         - The iNaturalist Species Classification and Detection Dataset ax1804.pdf
         - The INaturalist Species Classification and Detection Dataset_cvpr18-supp.pdf
@@ -190,6 +187,20 @@ Updated on: 190625 184812
         - Fully Automatic, Real-Time Vehicle Tracking for Surveillance Video crv17.pdf
         - MOT16 A Benchmark for Multi-Object Tracking ax16_5.pdf
         - MOTChallenge 2015 Towards a Benchmark for Multi-Target Tracking ax15_8.pdf
+        - WILDTRACK A Multi-camera HD Dataset for Dense Unscripted Pedestrian Detection_cvpr18.pdf
+    - segmentation/
+        - The SYNTHIA Dataset A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes cvpr16.pdf
+    - single_object_tracking/
+        - LaSOT A High-quality Benchmark for Large-scale Single Object Tracking ax1809.07845.pdf
+        - LaSOT A High-quality Benchmark for Large-scale Single Object Tracking ax190327 cvpr19.pdf
+        - Long-term Tracking in the Wild A Benchmark ax180810_eccv18.pdf
+        - Need for Speed A Benchmark for Higher Frame Rate Object Tracking_iccv17.pdf
+        - TrackingNet A Large-Scale Dataset and Benchmark for Object Tracking in the Wild ax1803.10794 eccv18.pdf
+        - TrackingNet A Large-Scale Dataset and Benchmark for Object Tracking in the Wild_eccv18.pdf
+        - UAV123 A Benchmark and Simulator for UAV Tracking eccv16 supp.pdf
+        - UAV123 A Benchmark and Simulator for UAV Tracking eccv16.pdf
+    - video_detection/
+        - YouTube-BoundingBoxes A Large High-Precision Human-Annotated Data Set for Object Detection in Video ax170324.pdf
 - deblurring/
     - Blind Image Deblurring Using Dark Channel Prior  cvpr16.pdf
     - DeblurGAN Blind Motion Deblurring Using Conditional Adversarial Networks ax1804_cvpr18.pdf
@@ -209,6 +220,7 @@ Updated on: 190625 184812
         - A Gift from Knowledge Distillation Fast Optimization, Network Minimization and Transfer Learning CVPR17.pdf
         - Compression of Deep Neural Networks by combining pruning and low rank decomposition nips18.pdf
         - Domain-adaptive deep network compression ax1709.01041.pdf
+        - Domain-Adaptive Deep Network Compression iccv17.pdf
         - FitNets Hints for Thin Deep Nets ax1505.pdf
         - Learning Efficient Convolutional Networks through Network Slimming ax1708.06519 iccv17.pdf
         - Paying More Attention to Attention Improving the Performance of Convolutional Neural Networks via Attention Transfer ax1702.pdf
@@ -218,6 +230,8 @@ Updated on: 190625 184812
         - ThiNet A Filter Level Pruning Method for Deep Neural Network Compression ICCV17.pdf
     - densenet/
         - Densely Connected Convolutional Networks ax1801 cvpr17.pdf
+    - domain_adaptation/
+        - Deep visual domain adaptation A survey neurocomputing1810_sd.pdf
     - dropout/
         - Dropout A Simple Way to Prevent Neural Networks from Overfitting jmlr14.pdf
         - Dropout as a Bayesian Approximation Appendix ax1605.pdf
@@ -252,6 +266,8 @@ Updated on: 190625 184812
     - large_models/
         - GPipe Efficient Training of Giant Neural Networks using Pipeline Parallelism 181212.pdf
         - Lingvo a Modular and Scalable Framework for Sequence-to-Sequence Modeling ax190221.pdf
+    - mixed_precision/
+        - Mixed Precision Training ax1802 iclr18.pdf
     - nas/
         - DARTS Differentiable Architecture Search ax180624.pdf
         - Efficient Neural Architecture Search with Network Morphism ax1806.pdf
@@ -315,6 +331,7 @@ Updated on: 190625 184812
             - Saliency maps and attention selection in scale and spatial coordinates an information theoretic approach iccv95.pdf
     - transfer/
         - Domain Adaptive Neural Networks for Object Recognition ax1409.6041.pdf
+        - Transfer Learning handbook09.pdf
     - unsorted/
         - Adaptive deconvolutional networks for mid and high level feature learning iccv11.pdf
         - Convolutional neural networks on graphs with fast localized spectral filtering nips16.pdf
@@ -373,6 +390,7 @@ Updated on: 190625 184812
     - Low-Shot Learning with Imprinted Weights ax1804 cvpr18.pdf
     - Matching Networks for One Shot Learning ax171229.pdf
     - Prototypical Networks for Few-shot Learning ax1707.pdf
+    - Webly Supervised Learning Meets Zero-shot Learning A Hybrid Approach for Fine-grained Classification cvpr18.pdf
 - GAN/
     - #Group meeting Wed Jun 6 1pm Daniel on generative models.pdf
     - A Note on the Inception Score ax1801.pdf
@@ -551,6 +569,8 @@ Updated on: 190625 184812
         - Tracklet Association Tracker An End-to-End Learning-based Association Approach for Multi-Object Tracking  ax1808.01562.pdf
     - traffic/
         - Multiple Object Tracking in Urban Traffic Scenes with a Multiclass Object Detector  ax1809.02073.pdf
+    - unsupervised/
+        - Tracking by Animation Unsupervised Learning of Multi-Object Attentive Trackers cvpr19 ax1809.03137.pdf
 - neuro_dynamic_programming/
     - Comparing neuro-dynamic programming algorithms for the vehicle routing problem with stochastic demands cor00.pdf
     - Neuro-Dynamic Programming An Overview 1995 Slides.pdf
@@ -759,6 +779,8 @@ Updated on: 190625 184812
     - Fusion of color images and LiDAR data for lane classification acm2015.pdf
     - Multi-channel lidar processing for lane detection and estimation  its09.pdf
 - single_object_tracking/
+    - ATOM Accurate Tracking by Overlap Maximization ax1811.07628 cvpr19.pdf
+    - Learning Discriminative Model Prediction for Tracking ax1904.07220 iccv19.pdf
     - 3d/
         - 3D Pose Tracking Using a Recovered 3D Model jcsc18_ws.pdf
         - A Direct 3D Object Tracking Method Based on Dynamic Textured Model Rendering and Extended Dense Feature Fields tcsvt1707.pdf
@@ -860,6 +882,7 @@ Updated on: 190625 184812
         - Two-granularity tracking Mediating trajectory and detection graphs for tracking under occlusions eccv12.pdf
     - notes/
         - Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17.pdf
+        - ATOM Accurate Tracking by Overlap Maximization ax1811.07628 cvpr19.pdf
         - Deep_Reinforcement_Learning_for_Visual_Object_Tracking_in_Videos.pdf
         - High Performance Visual Tracking with Siamese Region Proposal Network_cvpr18.pdf
         - SiameseFC.pdf
@@ -930,6 +953,7 @@ Updated on: 190625 184812
         - Multi-Branch Siamese Networks with Online Selection for Object Tracking  ax1808.07349.pdf
         - Once for All a Two-flow Convolutional Neural Network for Visual Tracking ax1604.07507.pdf
         - Siamese Instance Search for Tracking cvpr16 ax16_5.pdf
+        - SiamRPN++ Evolution of Siamese Visual Tracking with Very Deep Networks ax1812.11703 cvpr19.pdf
         - SiamRPN++ Evolution of Siamese Visual Tracking with Very Deep Networks ax1812.11703.pdf
         - Structured Siamese Network for Real-Time Visual Tracking_eccv18.pdf
         - Triplet Loss in Siamese Network for Object Tracking_eccv18.pdf
@@ -947,8 +971,10 @@ Updated on: 190625 184812
     - DeepTAM Deep Tracking and Mapping  1808.01900.pdf
     - Efficient ConvNet Feature Extraction with Multiple RoI Pooling for Landmark-based Visual Localization of Autonomous Vehicles mis17.pdf
 - static_detection/
+    - Acquisition of Localization Confidence for Accurate Object Detection 1807.11590 eccv18.pdf
     - Bag of Freebies for Training Object Detection Neural Networks ax190412.pdf
     - Beyond Skip Connections Top-Down Modulation for Object Detection ax1612.06851.pdf
+    - Deep Neural Networks for Object Detection nips13.pdf
     - Deep Regionlets for Object Detection ax1712.pdf
     - Enriching object detection with 2D-3D registration and continuous viewpoint estimation cvpr15.pdf
     - Learning Region Features for Object Detection ax180319.pdf
@@ -960,14 +986,63 @@ Updated on: 190625 184812
     - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition ax150423 tpami15.pdf
     - Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection wacv17 ax17_3.pdf
     - animal/
+        - An Animal Detection Pipeline for Identification wacv18.pdf
         - Animal Recognition and Identification with Deep Convolutional Neural Networks for Automated Wildlife Monitoring  DSAA17.pdf
         - Animal Recognition System Based  on Convolutional Neural Network aeee17.pdf
         - Automated Detection and Recognition of Wildlife Using Thermal Cameras sensors14.pdf
+        - Automated Detection of Animals in Context to Indian Scenario isms14 .pdf
         - Automatic Detection and Recognition of Individuals in Patterned Species ecmlpkdd17_iiitd.pdf
         - Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning ax171115.pdf
-        - Deep Learning Object Detection Methods for Ecological Camera Trap Data ax1803.10842.pdf
+        - From Tiger to Panda Animal Head Detection tip1106.pdf
+        - Night vision animal detection ivsp14.pdf
+        - Semantic Part Segmentation using Compositional Model combining Shape and Appearance 1412.6124.pdf
         - Where's the Bear - Automating Wildlife Image Processing Using IoT and Edge Cloud Systems  ioTDI17.pdf
+        - aerial/
+            - Adapting astronomical source detection software to help detect animals in thermal images obtained by unmanned aerial systems ax1701.01611 ijrs.pdf
+            - Background Categorization for Automatic Animal Detection in Aerial Videos Using Neural Networks annpr16_sl.pdf
+            - Best Practices to Train Deep Models on Imbalanced Datasets—A Case Study on Animal Detection in Aerial Imagery.pdf
+            - Detecting animals in African Savanna with UAVs and the crowds ax1710 rse1710_sd.pdf
+            - Detecting mammals in UAV images Best practices to address a substantially imbalanced dataset with deep learning rse18_sd.pdf
+            - Fast animal detection in UAV images using convolutional neural networks igarrs17.pdf
+            - Half a Percent of Labels is Enough Efficient Animal Detection in UAV Imagery using Deep CNNs and Active Learning tgrs19 ax1907.07319.pdf
+            - Motion Based Animal Detection in Aerial Videos pcs16_sd.pdf
+        - camera_trap/
+            - A novel system for automatic detection and classification of animal elektro14.pdf
+            - A Support Vector Machine with Gabor Features for Animal Intrusion Detection in Agriculture Fields pcs18_sd.pdf
+            - Animal Detection From Highly Cluttered Natural Scenes Using Spatiotemporal Object Region Proposals and Patch Verification tim1610.pdf
+            - AnimalFinder A semi-automated system for animal detection in time-lapse camera trap images ei1611_sd.pdf
+            - Automatic Recognition of Mammal Genera on Camera-Trap Images using Multi-Layer Robust Principal Component Analysis and Mixture Neural Networks ax1705.02727.pdf
+            - Camera-trap images segmentation using multi-layer robust principal component analysis ax1701.08180.pdf
+            - Deep Learning Object Detection Methods for Ecological Camera Trap Data ax1803.10842.pdf
+            - Fast human-animal detection from highly cluttered camera-trap images using joint background modeling and deep learning classification iscas17.pdf
+            - Identifying animal species in camera trap images using deep learning and citizen science 2019-Methods_in_Ecology_and_Evolution.pdf
+            - Object detection from dynamic scene using joint background modeling and fast deep learning classification jvcir1808_sd.pdf
+            - Omni-supervised joint detection and pose estimation for wild animals orl1811_sd.pdf
+            - Past, Present, and Future Approaches Using Computer Vision for Animal Re-Identification from Camera Trap Data ax1811.07749.pdf
+            - Recognition in Terra Incognita ax1807.04975 eccv178.pdf
+            - Towards Automatic Wild Animal Detection in Low Quality Camera-Trap Images Using Two-Channeled Perceiving Residual Pyramid Networks iccvw17.pdf
+            - Wild Animal Detection from Highly Cluttered Forest Images Using Deep Residual Networks ihci18_sl.pdf
+            - Wild Animal Detection Using Deep Convolutional Neural Network cvip17_sl.pdf
+        - datasets/
+        - no_vision/
+            - A standardised framework for analysing animal detections from automated tracking arrays an_bio1812_sl.pdf
+            - Animal intrusion detection based on convolutional neural network iscit17.pdf
+            - Animal-vehicle collisions in Texas How to protect travelers and animals on roadways aap1910_sd.pdf
+            - How do amplitude spectra influence rapid animal detection vr0910_sd.pdf
+            - Internet of Things Applications Animal Monitoring with Unmanned Aerial Vehicle ax1610.05287.pdf
+            - Reducing the threat of wildlife-vehicle collisions during peak tourism periods using a Roadside Animal Detection System aap1712_sd.pdf
+        - video/
+            - Amur Tiger Re-identification in the Wild ax1906.05586.pdf
+            - Analysing animal behaviour in wildlife videos using face detection and tracking visp06_iet.pdf
+            - BioSense Real-Time Object Tracking for Animal Movement and Behavior Research aipr18.pdf
+            - BioTracker An Open-Source Computer Vision Framework for Visual Animal Tracking ax1803.07985.pdf
+            - Building models of animals from video tpami0608.pdf
+            - idtracker.ai Tracking all individuals in large collectives of unmarked animals ax1803.04351.pdf
+            - MARGO (Massively Automated Real-time GUI for Object-tracking), a platform for high-throughput ethology bioax190330.pdf
+            - Tracktor Image-based automated tracking of animal movement and behaviour 190215.pdf
     - anomaly/
+    - augmentation/
+        - Learning Data Augmentation Strategies for Object Detection ax1906.11172.pdf
     - background_subtraction/
         - ANOMALY DETECTION IN SURVEILLANCE VIDEOS USING DEEP RESIDUAL NETWORKS mscthes1702.pdf
     - boundary/
@@ -984,6 +1059,11 @@ Updated on: 190625 184812
         - dpm-slides-ross-girshick.pdf
         - Object Detection with Discriminatively Trained Part Based Models tpami10.pdf
         - Regionlets for Generic Object Detection iccv13.pdf
+    - domain_adaptation/
+        - Adapting Object Detectors via Selective Cross-Domain Alignment cvpr19.pdf
+        - Diversify and Match A Domain Adaptive Representation Learning Paradigm for Object Detection cvpr19.pdf
+        - Domain Adaptive Faster R-CNN for Object Detection in the Wild cvpr18.pdf
+        - Strong-Weak Distribution Alignment for Adaptive Object Detection cvpr19.pdf
     - fence/
         - Automatic Fence Segmentation in Videos of Dynamic Scenes  cvpr16.pdf
         - Automatic inpainting by removing fence-like structures in RGBD images mva1410_springer.pdf
@@ -1013,6 +1093,7 @@ Updated on: 190625 184812
         - Faster_R-CNN.pdf
         - focal_loss.pdf
         - FPN.pdf
+        - IOU-Net.pdf
         - LSDA Large scale detection through adaptation nips14 ax14_11.pdf
         - Mask R-CNN ax17_4 iccv17.pdf
         - OverFeat Integrated Recognition, Localization and Detection using Convolutional Networks ax1402 iclr14.pdf
@@ -1026,6 +1107,7 @@ Updated on: 190625 184812
         - You Only Look Once Unified, Real-Time Object Detection ax1605.pdf
     - post_processing/
         - Assessing post-detection filters for a generic pedestrian detector in a tracking-by-detection scheme avss17.pdf
+        - Soft-NMS -- Improving Object Detection With One Line of Code 1704.04503 iccv17.pdf
     - rcnn/
         - Fast R-CNN ax1509 iccv15.pdf
         - Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks nips15 arxiv15.pdf
@@ -1053,7 +1135,7 @@ Updated on: 190625 184812
         - Feature Pyramid Networks for Object Detection ax170419.pdf
         - Focal Loss for Dense Object Detection ax180207 iccv17.pdf
     - review/
-        - Application of Deep Learning for Object Detection pcs18_sd.pdf
+        - Application of Deep Learning for Object Detection pcs18_sd_kiit.pdf
         - Deep Learning for Generic Object Detection A Survey ax1809.02165.pdf
         - Speed accuracy trade-offs for modern convolutional object detectors ax1704 cvpr17.pdf
     - RNN/
@@ -1096,6 +1178,7 @@ Updated on: 190625 184812
     - Fully Convolutional Networks for Semantic Segmentation ax1504 cvpr15.pdf
     - ICNet for Real-Time Semantic Segmentation on High-Resolution Images ax1704.pdf
     - Interactive image segmentation by maximal similarity based region merging pr09.pdf
+    - Learning from Synthetic Data Addressing Domain Shift for Semantic Segmentation ax1711 cvpr18.pdf
     - Multi-Scale Context Aggregation by Dilated Convolutions ax160430 iclr16.pdf
     - ParseNet Looking Wider to See Better ax1511 iclr16.pdf
     - PixelNet Representation of the pixels, by the pixels, and for the pixels.  17.pdf
@@ -1111,6 +1194,7 @@ Updated on: 190625 184812
     - instance/
         - Fully Convolutional Instance-aware Semantic Segmentation ax1704 cvpr17.pdf
         - Instance-sensitive Fully Convolutional Networks ax1603.08678.pdf
+        - Large-scale interactive object segmentation with human annotators ax1903.10830 cvpr19.pdf
     - medical_imaging/
         - Deep Fusion Net for Multi-Atlas Segmentation Application to Cardiac MR Images.pdf
         - End-to-end Learning of Convolutional Neural Net and Dynamic Programming for Left Ventricle Segmentation 1812.00328.pdf
