@@ -627,6 +627,7 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="semantic_segmentation_"></a>
 ## Semantic Segmentation
 * [Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation](https://github.com/swamiviv/LSD-seg) [cvpr18] [spotlight] [pytorch]
+* [Few-shot Segmentation Propagation with Guided Networks](https://github.com/shelhamer/revolver) [ax1806] [pytorch] [incomplete]
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
