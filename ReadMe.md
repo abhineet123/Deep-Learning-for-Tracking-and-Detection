@@ -681,6 +681,7 @@ Collection of papers, datasets, code and other resources for object detection an
 ## Segmentation
 
 * [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
+* [Segmentation.X : Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation](https://github.com/wutianyiRosun/Segmentation.X)  
 
 <a id="deep_compressed_sensin_g_"></a>
 ## Deep Compressed Sensing
