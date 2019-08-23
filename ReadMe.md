@@ -59,6 +59,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Optical Flow](#optical_flow__1)
     - [Instance Segmentation](#instance_segmentation_)
     - [Semantic Segmentation](#semantic_segmentation_)
+    - [Video Segmentation](#video_segmentation__1)
     - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
     - [Misc](#mis_c__3)
@@ -631,6 +632,12 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Pytorch-segmentation-toolbox](https://github.com/speedinghzl/pytorch-segmentation-toolbox) [DeeplabV3 and PSPNet] [pytorch]
 * [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab) [tensorflow]
 * [Auto-DeepLab](https://github.com/MenghaoGuo/AutoDeeplab) [pytorch]
+* [DeepLab v3+](https://github.com/jfzhang95/pytorch-deeplab-xception) [pytorch]
+
+<a id="video_segmentation__1"></a>
+## Video Segmentation
+* [Improving Semantic Segmentation via Video Prediction and Label Relaxation
+](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [spotlight] [pytorch] [nvidia]
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
