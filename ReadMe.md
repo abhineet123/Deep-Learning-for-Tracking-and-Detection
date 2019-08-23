@@ -637,7 +637,7 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="video_segmentation__1"></a>
 ## Video Segmentation
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation
-](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [spotlight] [pytorch] [nvidia]
+](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
