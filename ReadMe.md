@@ -630,6 +630,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Few-shot Segmentation Propagation with Guided Networks](https://github.com/shelhamer/revolver) [ax1806] [pytorch] [incomplete]
 * [Pytorch-segmentation-toolbox](https://github.com/speedinghzl/pytorch-segmentation-toolbox) [DeeplabV3 and PSPNet] [pytorch]
 * [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab) [tensorflow]
+* [Auto-DeepLab](https://github.com/MenghaoGuo/AutoDeeplab) [pytorch]
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
