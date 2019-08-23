@@ -628,6 +628,8 @@ Collection of papers, datasets, code and other resources for object detection an
 ## Semantic Segmentation
 * [Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation](https://github.com/swamiviv/LSD-seg) [cvpr18] [spotlight] [pytorch]
 * [Few-shot Segmentation Propagation with Guided Networks](https://github.com/shelhamer/revolver) [ax1806] [pytorch] [incomplete]
+* [Pytorch-segmentation-toolbox](https://github.com/speedinghzl/pytorch-segmentation-toolbox) [DeeplabV3 and PSPNet] [pytorch]
+* [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab) [tensorflow]
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
@@ -692,6 +694,7 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="mis_c__4"></a>
 ## Misc 
 
+* [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
 * [Awesome Deep Ecology](https://github.com/patrickcgray/awesome-deep-ecology)
 * [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 * [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
