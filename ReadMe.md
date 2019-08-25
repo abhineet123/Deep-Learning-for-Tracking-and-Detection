@@ -36,7 +36,8 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Detection](#video_detectio_n__1)
         - [Video Understanding / Activity Recognition](#video_understanding___activity_recognitio_n_)
     - [Static Detection](#static_detectio_n__1)
-        - [Animal Detection](#animal_detectio_n_)
+        - [Animals](#animals_)
+    - [Boundary Detection](#boundary_detectio_n_)
     - [Static Segmentation](#static_segmentation_)
     - [Video Segmentation](#video_segmentation_)
     - [Classification](#classificatio_n_)
@@ -55,7 +56,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [YOLO](#yol_o__1)
         - [Misc](#mis_c__2)
         - [Matching](#matchin_g_)
-        - [Boundary Detection](#boundary_detectio_n_)
+        - [Boundary Detection](#boundary_detectio_n__1)
     - [Optical Flow](#optical_flow__1)
     - [Instance Segmentation](#instance_segmentation_)
     - [Semantic Segmentation](#semantic_segmentation_)
@@ -425,8 +426,8 @@ Collection of papers, datasets, code and other resources for object detection an
 [cvpr19]
 - [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
  
-<a id="animal_detectio_n_"></a>
-### Animal Detection
+<a id="animals_"></a>
+### Animals
 
 - [Wildlife Image and Localization Dataset (species and bounding box labels)](https://lev.cs.rpi.edu/public/datasets/wild.tar.gz)
 [wacv18]
@@ -436,6 +437,11 @@ Collection of papers, datasets, code and other resources for object detection an
 [cvpr12]
 - [Caltech-UCSD Birds 200](http://www.vision.caltech.edu/visipedia/CUB-200.html) [rough segmentation] [attributes]
 - [Gold Standard Snapshot Serengeti Bounding Box Coordinates](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP/TPB5ID)
+
+<a id="boundary_detectio_n_"></a>
+## Boundary Detection
+
+- [Semantic Boundaries Dataset and Benchmark](http://home.bharathh.info/pubs/codes/SBD/download.html)
 
 <a id="static_segmentation_"></a>
 ## Static Segmentation
@@ -601,7 +607,7 @@ Collection of papers, datasets, code and other resources for object detection an
 + [Matchnet](https://github.com/hanxf/matchnet)
 + [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://github.com/jzbontar/mc-cnn)
 
-<a id="boundary_detectio_n_"></a>
+<a id="boundary_detectio_n__1"></a>
 ### Boundary Detection  
 + [Holistically-Nested Edge Detection (HED) (iccv15)](https://github.com/s9xie/hed) [caffe]       
 + [Edge-Detection-using-Deep-Learning (HED)](https://github.com/Akuanchang/Edge-Detection-using-Deep-Learning) [tensorflow]
