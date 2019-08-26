@@ -456,6 +456,7 @@ Collection of papers, datasets, code and other resources for object detection an
 ## Video Segmentation
 
 - [DAVIS: Densely Annotated VIdeo Segmentation](https://davischallenge.org/)
+- [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas?pKey=0_xJqX3-c-KyTb90oG_8HQ&lat=20&lng=0&z=1.5)
 
 <a id="classificatio_n_"></a>
 ## Classification
