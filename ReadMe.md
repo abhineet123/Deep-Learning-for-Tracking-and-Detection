@@ -716,6 +716,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Awesome Deep Ecology](https://github.com/patrickcgray/awesome-deep-ecology)
 * [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 * [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+* [A Month of Machine Learning Paper Summaries](https://medium.com/@hyponymous/a-month-of-machine-learning-paper-summaries-ddd4dcf6cfa5)
 
 <a id="tutorials_"></a>
 # Tutorials
