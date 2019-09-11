@@ -59,6 +59,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Boundary Detection](#boundary_detectio_n__1)
     - [Optical Flow](#optical_flow__1)
     - [Instance Segmentation](#instance_segmentation_)
+        - [Frameworks](#framework_s__1)
     - [Semantic Segmentation](#semantic_segmentation_)
     - [Video Segmentation](#video_segmentation__1)
     - [Autoencoders](#autoencoder_s_)
@@ -635,6 +636,10 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://github.com/daijifeng001/MNC) [cvpr16] [caffe] [coco15 winner]    
 * [DeepMask/SharpMask](https://arxiv.org/abs/1603.08695) [nips15/eccv16] [facebook] [[torch]](https://github.com/facebookresearch/deepmask) [[tensorflow]](https://github.com/aby2s/sharpmask)  [[pytorch/deepmask]](https://github.com/foolwood/deepmask-pytorch/) 
 * [Simultaneous Detection and Segmentation](https://github.com/bharath272/sds_eccv2014) [eccv14] [matlab] [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/)    
+
+<a id="framework_s__1"></a>
+### Frameworks
+* [Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch](https://github.com/facebookresearch/maskrcnn-benchmark) [pytorch] [facebook]
 
 <a id="semantic_segmentation_"></a>
 ## Semantic Segmentation
