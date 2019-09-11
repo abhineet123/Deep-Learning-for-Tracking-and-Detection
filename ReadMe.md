@@ -571,6 +571,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Light-head R-CNN](https://github.com/zengarden/light_head_rcnn) [cvpr18] [tensorflow]    
 * [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [caffe/python]
 * [Cascade R-CNN (cvpr18)](http://www.svcl.ucsd.edu/publications/conference/2018/cvpr/cascade-rcnn.pdf) [[detectron]](https://github.com/zhaoweicai/Detectron-Cascade-RCNN) [[caffe]](https://github.com/zhaoweicai/cascade-rcnn)  
+* [A MultiPath Network for Object Detection](https://arxiv.org/abs/1604.02135) [[pytorch]](https://github.com/facebookresearch/multipathnet) [bmvc16] [facebook]
 
 <a id="ssd__1"></a>
 ### SSD
