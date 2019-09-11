@@ -754,6 +754,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Analyzing The Papers Behind Facebook's Computer Vision Approach](https://adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/)
 * [Review: MNC — Multi-task Network Cascade, Winner in 2015 COCO Segmentation](https://towardsdatascience.com/review-mnc-multi-task-network-cascade-winner-in-2015-coco-segmentation-instance-segmentation-42a9334e6a34)
 * [Review: FCIS — Winner in 2016 COCO Segmentation](https://towardsdatascience.com/review-fcis-winner-in-2016-coco-segmentation-instance-segmentation-ee2d61f465e2)
+* [Review: InstanceFCN — Instance-Sensitive Score Maps](https://towardsdatascience.com/review-instancefcn-instance-sensitive-score-maps-instance-segmentation-dbfe67d4ee92)
 
 <a id="deep_rl_"></a>
 ## Deep RL
