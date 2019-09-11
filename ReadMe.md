@@ -739,6 +739,7 @@ Collection of papers, datasets, code and other resources for object detection an
 ## Instance Segmentation
 * [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
 * [Simple Understanding of Mask RCNN](https://medium.com/@alittlepain833/simple-understanding-of-mask-rcnn-134b5b330e95)
+* [Analyzing The Papers Behind Facebook's Computer Vision Approach](https://adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/)
 
 <a id="deep_rl_"></a>
 ## Deep RL
