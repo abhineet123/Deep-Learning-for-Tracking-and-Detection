@@ -74,6 +74,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Tutorials](#tutorials_)
     - [Static Detection](#static_detectio_n__2)
     - [Video Detection](#video_detectio_n__3)
+    - [Instance Segmentation](#instance_segmentation__1)
     - [Deep RL](#deep_rl_)
     - [Autoencoders](#autoencoder_s__1)
 
@@ -733,6 +734,11 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="video_detectio_n__3"></a>
 ## Video Detection
 * [How Microsoft Does Video Object Detection - Unifying the Best Techniques in Video Object Detection Architectures in a Single Model](https://medium.com/nurture-ai/how-microsoft-does-video-object-detection-unifying-the-best-techniques-in-video-object-detection-b78b63e3f1d8)
+
+<a id="instance_segmentation__1"></a>
+## Instance Segmentation
+* [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
+* [Simple Understanding of Mask RCNN](https://medium.com/@alittlepain833/simple-understanding-of-mask-rcnn-134b5b330e95)
 
 <a id="deep_rl_"></a>
 ## Deep RL
