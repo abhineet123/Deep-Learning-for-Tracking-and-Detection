@@ -605,6 +605,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
 * [SNIPER: Efficient Multi-Scale Training](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18]  [mxnet]
 * [Multi-scale Location-aware Kernel Representation for Object Detection](https://github.com/Hwang64/MLKP) [cvpr18]  [caffe/python]
+* [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [cvpr19] [pytorch]
 
 <a id="matchin_g_"></a>
 ### Matching  
@@ -637,7 +638,6 @@ Collection of papers, datasets, code and other resources for object detection an
 * [DeepMask/SharpMask](https://arxiv.org/abs/1603.08695) [nips15/eccv16] [facebook] [[torch]](https://github.com/facebookresearch/deepmask) [[tensorflow]](https://github.com/aby2s/sharpmask)  [[pytorch/deepmask]](https://github.com/foolwood/deepmask-pytorch/) 
 * [Simultaneous Detection and Segmentation](https://github.com/bharath272/sds_eccv2014) [eccv14] [matlab] [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/)    
 * [RetinaMask](https://github.com/chengyangfu/retinamask) [arxviv1901] [pytorch]
-* [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [cvpr19] [pytorch]
 * [Mask Scoring R-CNN](https://github.com/zjhuang22/maskscoring_rcnn) [cvpr19] [pytorch]
 
 <a id="framework_s__1"></a>
