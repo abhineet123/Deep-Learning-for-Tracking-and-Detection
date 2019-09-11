@@ -638,6 +638,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Simultaneous Detection and Segmentation](https://github.com/bharath272/sds_eccv2014) [eccv14] [matlab] [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/)    
 * [RetinaMask](https://github.com/chengyangfu/retinamask) [arxviv1901] [pytorch]
 * [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [cvpr19] [pytorch]
+* [Mask Scoring R-CNN](https://github.com/zjhuang22/maskscoring_rcnn) [cvpr19] [pytorch]
 
 <a id="framework_s__1"></a>
 ### Frameworks
