@@ -744,6 +744,8 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Simple Understanding of Mask RCNN](https://medium.com/@alittlepain833/simple-understanding-of-mask-rcnn-134b5b330e95)
 * [Learning to Segment](https://research.fb.com/blog/2016/08/learning-to-segment/)
 * [Analyzing The Papers Behind Facebook's Computer Vision Approach](https://adeshpande3.github.io/Analyzing-the-Papers-Behind-Facebook's-Computer-Vision-Approach/)
+* [Review: MNC — Multi-task Network Cascade, Winner in 2015 COCO Segmentation](https://towardsdatascience.com/review-mnc-multi-task-network-cascade-winner-in-2015-coco-segmentation-instance-segmentation-42a9334e6a34)
+* [Review: FCIS — Winner in 2016 COCO Segmentation](https://towardsdatascience.com/review-fcis-winner-in-2016-coco-segmentation-instance-segmentation-ee2d61f465e2)
 
 <a id="deep_rl_"></a>
 ## Deep RL
