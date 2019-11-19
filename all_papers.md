@@ -1,4 +1,4 @@
-Updated on: 190910 151611
+Updated on: 191118 192449
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
     - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
@@ -274,6 +274,8 @@ Updated on: 190910 151611
     - large_models/
         - GPipe Efﬁcient Training of Giant Neural Networks using Pipeline Parallelism 181212.pdf
         - Lingvo a Modular and Scalable Framework for Sequence-to-Sequence Modeling ax190221.pdf
+    - libraries/
+        - Technical Report on the CleverHans v2.1.0 Adversarial Examples Library 1610.00768.pdf
     - mixed_precision/
         - Mixed Precision Training ax1802 iclr18.pdf
     - nas/
@@ -299,7 +301,11 @@ Updated on: 190910 151611
         - An overview of gradient descent optimization algorithms ax1609.04747.pdf
         - Backpropagation through time what it does and how to do it ieee90.pdf
         - Deep learning via Hessian-free optimization.pdf
+        - Delving Deep into Rectifiers Surpassing Human-Level Performance on ImageNet Classification ax1502.01852.pdf
         - Don't Decay the Learning Rate, Increase the Batch Size iclr18.pdf
+        - On the Variance of the Adaptive Learning Rate and Beyond ax1908.03265.pdf
+    - ordinal regression/
+        - Ordinal Regression with Multiple Output CNN for Age Estimation cvpr16.pdf
     - resnet/
         - Aggregated Residual Transformations for Deep Neural Networks ax170411 cvpr17.pdf
         - Deep Residual Learning for Image Recognition ax1512.pdf
@@ -326,10 +332,11 @@ Updated on: 190910 151611
         - Building Machines That Learn and Think Like People ax1611.pdf
         - Deep Learning and the Information Bottleneck Principle ax1503.02406 ite15.pdf
         - Do Deep Nets Really Need to be Deep ax1410 nips14.pdf
-        - Intriguing properties of neural networks ax1312.6199.pdf
+        - Explainable AI Interpreting, Explaining and Visualizing Deep Learning lncs19_sl.pdf
         - On the Expressive Power of Deep Neural Networks ax1706.pdf
         - On the Number of Linear Regions of Deep Neural Networks ax1406 nips14.pdf
         - Opening the black box of Deep Neural Networks via Information ax1703.00810.pdf
+        - Practical Black-Box Attacks against Machine Learning ax1703.pdf
         - Provable Bounds for Learning Some Deep Representations icml14.pdf
         - Sensitivity and Generalization in Neural Networks An Empirical Study iclr18.pdf
         - Understanding Deep Neural Networks with Rectified Linear Units ax1707.pdf
@@ -337,6 +344,16 @@ Updated on: 190910 151611
         - Visualizing and understanding convolutional neural networks ECCV2014.pdf
         - #old/
             - Saliency maps and attention selection in scale and spatial coordinates an information theoretic approach iccv95.pdf
+        - adversarial/
+            - Adversarial examples in the physical world ax1702.pdf
+            - Boosting Adversarial Attacks with Momentum} ax1710.06081 cvpr18.pdf
+            - DeepFool a simple and accurate method to fool deep neural networks 1511.04599.pdf
+            - Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser ax1803.pdf
+            - Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks ax1511.04508.pdf
+            - Ensemble Adversarial Training Attacks and Defenses ax1807.pdf
+            - Explaining and Harnessing Adversarial Examples ax1503.pdf
+            - Intriguing properties of neural networks ax1312.6199.pdf
+            - Towards Evaluating the Robustness of Neural Networks ax1703.pdf
     - transfer/
         - Domain Adaptive Neural Networks for Object Recognition ax1409.6041.pdf
         - Transfer Learning handbook09.pdf
@@ -457,6 +474,7 @@ Updated on: 190910 151611
 - misc/
     - A simple method for fitting of bounding rectangle to closed regions pr07.pdf
     - Algorithms for the assignment and transportation problems jsiam57.pdf
+    - Google’s Hybrid Approach to Research.pdf
     - The Multiplicative Weights Update Method A Meta-Algorithm and Applications toc1205.pdf
     - line_intersections/
         - x06-sweepline.pdf
@@ -473,6 +491,7 @@ Updated on: 190910 151611
         - Online Multi-Object Tracking based on Hierarchical Association Framework  cvprw16_7.pdf
         - Online multi-object tracking by detection based on generative appearance models cviu16_11.pdf
     - baseline/
+        - Aerial multi-object tracking by detection using deep association networks ax1909.01547.pdf
         - Deep SORT  Simple Online Realtime Tracking with a Deep Association Metric ax1703.07402 icip17.pdf
         - High-Speed Tracking-by-Detection Without Using Image Information avss17.pdf
         - Simple Online and Realtime Tracking ax1707 icip16.pdf
@@ -498,7 +517,8 @@ Updated on: 190910 151611
         - Multi-Object Tracking with Quadruplet Convolutional Neural Networks cvpr17.pdf
         - Multi-Object Tracking with Quadruplet Convolutional Neural Networks_cvpr17.pdf
         - Multiple Object Tracking in Videos Based on LSTM  hindawi.pdf
-        - Online Multi-Object Tracking Using CNN-Based Single Object Tracker With Spatial-Temporal Attention Mechanism_iccv17.pdf
+        - Online Multi-Object Tracking Using CNN-based Single Object Tracker with Spatial-Temporal Attention Mechanism 1708.02843 iccv17.pdf
+        - Online multi-object tracking with dual matching attention networks 1902.00749 eccv18.pdf
         - Online Multi-Object Tracking with Dual Matching Attention Networks_eccv18.pdf
         - Online Multi-Target Tracking Using Recurrent Neural Networks ax1612 aaai17.pdf
         - Online Multi-Target Tracking Using Recurrent Neural Networks ax16_12 aaai17_2.pdf
@@ -515,14 +535,20 @@ Updated on: 190910 151611
         - Deep Learning-Based Multiple Object Visual Tracking on Embedded System for IoT and Mobile Edge Computing Applications  1808.01356.pdf
     - energy/
         - Continuous energy minimization for multitarget tracking tpami14_1.pdf
+    - ensemble/
+        - A fast multi-object tracking system using an object detector ensemble ax1908.04349 ColCACI19.pdf
     - graph/
         - A Graph Transduction Game for Multi-target Tracking  ax1806.07227.pdf
         - Subgraph decomposition for multi-object tracking cvpr15.pdf
     - misc/
         - Cyclist Detection, Tracking, and Trajectory Analysis in Urban Traffic Video Data msc_thes1708.pdf
         - Measurement-wise Occlusion in Multi-object Tracking ax1805.08324.pdf
+        - Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification ax1901.06129.pdf
         - Multiple Object Tracking with Kernelized Correlation Filters in Urban Mixed Trafﬁc crv17.pdf
         - PoseTrack Joint Multi-Person Pose Estimation and Tracking_cvpr17.pdf
+    - multi_camera/
+        - Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking cvpr19.pdf
+        - Robust Multi-Modality Multi-Object Tracking 1909.03850 iccv19.pdf
     - network_flow/
         - Deep Network Flow for Multi-Object Tracking cvpr17.pdf
         - Deep Network Flow for Multi-Object Tracking cvpr17_supplemental.pdf
@@ -557,25 +583,32 @@ Updated on: 190910 151611
         - Multiobject Tracking in Videos Based on LSTM and Deep Reinforcement Learning hindawi1803.pdf
     - rnn/
         - Multi-object Tracking with Neural Gating Using Bilinear LSTM_eccv18.pdf
+        - Online Multi-Target Tracking Using Recurrent Neural Networks 1604.03635 aaai17.pdf
     - segmentation/
         - Joint tracking and segmentation of multiple targets cvpr15.pdf
+        - MOTS Multi-Object Tracking and Segmentation CVPR19.pdf
+        - Track, then Decide Category-Agnostic Vision-based Multi-Object Tracking 1712.07920 icra18.pdf
     - siamese/
         - Learning by tracking Siamese CNN for robust target association ax1608 cvprw16.pdf
         - Online Multi-Object Tracking with Historical Appearance Matching and Scene Adaptive Detection Filtering  ax1805.10916 avss18.pdf
     - survey/
         - A Survey on Leveraging Deep Neural Networks for Object Tracking ppt.pdf
+        - Deep Learning in Video Multi-Object Tracking A Survey ax1907.12740.pdf
         - Multiple Object Tracking A Literature Review ax17_5.pdf
         - Multiple Object Tracking A Review ax14.pdf
         - Real-Time Multiple Object Tracking - A Study on the Importance of Speed ax17_10 thesis.pdf
         - Tracking the Trackers An Analysis of the State of the Art in Multiple Object Tracking ax17_4.pdf
     - tracklet/
         - Non-Markovian Globally Consistent Multi-Object Tracking_iccv17.pdf
+        - Spatial-Temporal Relation Networks for Multi-Object Tracking 1904.11489.pdf
         - The way they move Tracking multiple targets with similar appearance iccv13.pdf
         - Tracking multi-object using tracklet and Faster R-CNN icdsc16_9.pdf
         - Tracklet association by online target-speciﬁc metric learning and coherent dynamics estimation tpami17.pdf
-        - Tracklet Association Tracker An End-to-End Learning-based Association Approach for Multi-Object Tracking  ax1808.01562.pdf
+        - Tracklet Association Tracker An End-to-End Learning-based Association Approach for Multi-Object Tracking ax1808.01562.pdf
     - traffic/
         - Multiple Object Tracking in Urban Traffic Scenes with a Multiclass Object Detector  ax1809.02073.pdf
+    - uav/
+        - Aerial multi-object tracking by detection using deep association networks ax1909.01547.pdf
     - unsupervised/
         - Tracking by Animation Unsupervised Learning of Multi-Object Attentive Trackers cvpr19 ax1809.03137.pdf
 - neuro_dynamic_programming/
@@ -628,53 +661,6 @@ Updated on: 190910 151611
 - readings/
 - reconstruction/
     - A Theory of Fermat Paths for Non-Line-Of-Sight Shape Reconstruction cvpr19.pdf
-- recurrent_neural_networks/
-    - A Clockwork RNN ax1402.pdf
-    - A Critical Review of Recurrent Neural Networks for Sequence Learning.pdf
-    - A Recurrent Latent Variable Model for Sequential Data ax1506.pdf
-    - A Theoretically Grounded Application of Dropout in Recurrent Neural Networks ax1610.pdf
-    - Adaptive Computation Time for Recurrent Neural Networks ax1603.08983.pdf
-    - An Empirical Exploration of Recurrent Network Architectures icml15.pdf
-    - Conditional Random Fields as Recurrent Neural Networks  iccv15.pdf
-    - Generalization without systematicity On the compositional skills of sequence-to-sequence recurrent networks ax1802121.pdf
-    - Grid Long Short-Term Memory ax1507.pdf
-    - Learning Fast Approximations of Sparse Coding-icml-10.pdf
-    - Learning long-term dependencies with gradient descent is difficult tnn94.pdf
-    - LEARNING STOCHASTIC RECURRENT NETWORKS x1503.pdf
-    - Long-term recurrent convolutional networks for visual recognition and description cvpr15.pdf
-    - Neural Programmer Inducing Latent Programs with Gradient Descent  ax1511.04834.pdf
-    - Neural Turing Machines ax1410.5401.pdf
-    - Recurrent nets that time and count IJCNN2000.pdf
-    - Recurrent Network Models for Human Dynamics  iccv15.pdf
-    - Still not systematic after all these years On the compositional skills of sequence-to-sequence recurrent networks 1710.pdf
-    - Structural-RNN Deep Learning on Spatio-Temporal Graphs cvpr16 ax16_4.pdf
-    - Training Recurrent Neural Networks phd_thesis13.pdf
-    - Visualizing and Understanding Recurrent Networks ax15_11.pdf
-    - attention/
-        - Recurrent Models of Visual Attention arxiv14_6.pdf
-        - Show, Attend and Tell Neural Image Caption Generation with Visual Attention ax15_2.pdf
-    - generative/
-        - DRAW A Recurrent Neural Network For Image Generation 1505.pdf
-        - Show, Attend and Tell Neural Image Caption Generation with Visual Attention ax1502.pdf
-    - gru/
-        - Depth-Gated Recurrent Neural Networks ax1508.pdf
-        - Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling ax1412 nips14.pdf
-        - Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.pdf
-        - Gated Feedback Recurrent Neural Networks.pdf
-        - Learning Phrase Representations using RNN Encoder-Decoder ax14_9 (GRU).pdf
-        - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation emnlp14.pdf
-        - On the Properties of Neural Machine Translation Encoder-Decoder Approaches ax1410 ssst8.pdf
-    - lstm/
-        - Convolutional LSTM Network A Machine Learning Approach for Precipitation Nowcasting nips15.pdf
-        - Grid Long Short-Term Memory ax15_7.pdf
-        - LONG SHORT-TERM MEMORY jnc97.pdf
-        - LSTM A Search Space Odyssey ax15_3.pdf
-        - LSTM A Search Space Odyssey ax1710.pdf
-        - Propagating LSTM 3D Pose Estimation based on Joint Interdependency_eccv18.pdf
-        - Recurrent Batch Normalization ax1603.09025.pdf
-        - Sequence to sequence learning with neural networks nips14.pdf
-        - Unsupervised Learning of Video Representations using LSTMs ax1502.04681 icml15.pdf
-        - Video (language) modeling a baseline for generative models of natural videos ax1412.6604.pdf
 - registration/
     - An Unsupervised Learning Model for Deformable Medical Image Registration cvpr18.pdf
     - Deep Image Homography Estimation ax1606.pdf
@@ -780,6 +766,55 @@ Updated on: 190910 151611
         - Toward off-policy learning control with function approximation icml10.pdf
         - Trust Region Policy Optimization arxiv16_6.pdf
         - Using Advice to Transfer Knowledge Acquired in One Reinforcement Learning Task to Another sl ecml05.pdf
+- RNN/
+    - A Clockwork RNN ax1402.pdf
+    - A Critical Review of Recurrent Neural Networks for Sequence Learning.pdf
+    - A Recurrent Latent Variable Model for Sequential Data ax1506.pdf
+    - A Theoretically Grounded Application of Dropout in Recurrent Neural Networks ax1610.pdf
+    - Adaptive Computation Time for Recurrent Neural Networks ax1603.08983.pdf
+    - An Empirical Exploration of Recurrent Network Architectures icml15.pdf
+    - Conditional Random Fields as Recurrent Neural Networks  iccv15.pdf
+    - Generalization without systematicity On the compositional skills of sequence-to-sequence recurrent networks ax1802121.pdf
+    - Grid Long Short-Term Memory ax1507.pdf
+    - Learning Fast Approximations of Sparse Coding-icml-10.pdf
+    - Learning long-term dependencies with gradient descent is difficult tnn94.pdf
+    - LEARNING STOCHASTIC RECURRENT NETWORKS x1503.pdf
+    - Long-term recurrent convolutional networks for visual recognition and description cvpr15.pdf
+    - Neural Programmer Inducing Latent Programs with Gradient Descent  ax1511.04834.pdf
+    - Neural Turing Machines ax1410.5401.pdf
+    - Recurrent nets that time and count IJCNN2000.pdf
+    - Recurrent Network Models for Human Dynamics  iccv15.pdf
+    - Still not systematic after all these years On the compositional skills of sequence-to-sequence recurrent networks 1710.pdf
+    - Structural-RNN Deep Learning on Spatio-Temporal Graphs cvpr16 ax16_4.pdf
+    - Training Recurrent Neural Networks phd_thesis13.pdf
+    - Visualizing and Understanding Recurrent Networks ax15_11.pdf
+    - attention/
+        - Recurrent Models of Visual Attention arxiv14_6.pdf
+        - Show, Attend and Tell Neural Image Caption Generation with Visual Attention ax15_2.pdf
+    - ConvLSTM/
+        - Convolutional LSTM Network A Machine Learning Approach for Precipitation Nowcasting nips15.pdf
+    - generative/
+        - DRAW A Recurrent Neural Network For Image Generation 1505.pdf
+        - Show, Attend and Tell Neural Image Caption Generation with Visual Attention ax1502.pdf
+    - GRU/
+        - Depth-Gated Recurrent Neural Networks ax1508.pdf
+        - Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling ax1412 nips14.pdf
+        - Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.pdf
+        - Gated Feedback Recurrent Neural Networks.pdf
+        - Learning Phrase Representations using RNN Encoder-Decoder ax14_9 (GRU).pdf
+        - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation emnlp14.pdf
+        - On the Properties of Neural Machine Translation Encoder-Decoder Approaches ax1410 ssst8.pdf
+    - LSTM/
+        - Convolutional LSTM Network A Machine Learning Approach for Precipitation Nowcasting nips15.pdf
+        - Grid Long Short-Term Memory ax15_7.pdf
+        - LONG SHORT-TERM MEMORY jnc97.pdf
+        - LSTM A Search Space Odyssey ax15_3.pdf
+        - LSTM A Search Space Odyssey ax1710.pdf
+        - Propagating LSTM 3D Pose Estimation based on Joint Interdependency_eccv18.pdf
+        - Recurrent Batch Normalization ax1603.09025.pdf
+        - Sequence to sequence learning with neural networks nips14.pdf
+        - Unsupervised Learning of Video Representations using LSTMs ax1502.04681 icml15.pdf
+        - Video (language) modeling a baseline for generative models of natural videos ax1412.6604.pdf
 - sensor_fusion/
     - Automatic registration of lidar and optical images of urban scenes cvpr09.pdf
     - AVM  LiDAR sensor based lane marking detection method for automated driving on complex urban roads  ivs17.pdf
@@ -1118,6 +1153,7 @@ Updated on: 190910 151611
         - Assessing post-detection ﬁlters for a generic pedestrian detector in a tracking-by-detection scheme avss17.pdf
         - Soft-NMS -- Improving Object Detection With One Line of Code 1704.04503 iccv17.pdf
     - RCNN/
+        - A MultiPath Network for Object Detection ax1604.02135 facebook.pdf
         - Fast R-CNN ax1509 iccv15.pdf
         - Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks nips15 arxiv15.pdf
         - Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks tpami17 ax16_1.pdf
@@ -1184,6 +1220,7 @@ Updated on: 190910 151611
         - YOLOv3 An Incremental Improvement ax180408.pdf
         - You Only Look Once Unified, Real-Time Object Detection ax1605.pdf
 - static_segmentation/
+    - Fast-SCNN Fast Semantic Segmentation Network 1902.04502.pdf
     - Fully Convolutional Networks for Semantic Segmentation ax1504 cvpr15.pdf
     - ICNet for Real-Time Semantic Segmentation on High-Resolution Images ax1704.pdf
     - Interactive image segmentation by maximal similarity based region merging pr09.pdf
@@ -1203,9 +1240,13 @@ Updated on: 190910 151611
     - few_shot/
         - Few-Shot Segmentation Propagation with Guided Networks ax1806.07373.pdf
     - instance/
+        - FCOS Fully Convolutional One-Stage Object Detection 1904.01355.pdf
         - Fully Convolutional Instance-aware Semantic Segmentation ax1704 cvpr17.pdf
+        - Instance-aware Semantic Segmentation via Multi-task Network Cascades ax1512.04412.pdf
         - Instance-sensitive Fully Convolutional Networks ax1603.08678.pdf
         - Large-scale interactive object segmentation with human annotators ax1903.10830 cvpr19.pdf
+        - Mask Scoring R-CNN 1903.00241.pdf
+        - RetinaMask Learning to predict masks improves state-of-the-art single-shot detection for free 1901.03353.pdf
     - medical_imaging/
         - Deep Fusion Net for Multi-Atlas Segmentation Application to Cardiac MR Images.pdf
         - End-to-end Learning of Convolutional Neural Net and Dynamic Programming for Left Ventricle Segmentation 1812.00328.pdf
@@ -1366,6 +1407,7 @@ Updated on: 190910 151611
         - Video object proposals cvprw12.pdf
     - rnn/
         - Context Matters Reﬁning Object Detection in Video with Recurrent Neural Networks bmvc16.pdf
+        - Looking Fast and Slow Memory-Guided Mobile Video Object Detection ax1903.10172.pdf
         - Mobile Video Object Detection with Temporally-Aware Feature Maps cvpr18.pdf
         - Online Video Object Detection using Association LSTM iccv17.pdf
         - Recurrent neural networks for object detection in video sequences msc_thes170321.pdf
