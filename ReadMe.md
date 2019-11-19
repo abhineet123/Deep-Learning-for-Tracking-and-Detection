@@ -654,6 +654,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab) [tensorflow]
 * [Auto-DeepLab](https://github.com/MenghaoGuo/AutoDeeplab) [pytorch]
 * [DeepLab v3+](https://github.com/jfzhang95/pytorch-deeplab-xception) [pytorch]
+* [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://github.com/wuhuikai/FastFCN)[ax1903][[project]](http://wuhuikai.me/FastFCNProject/) [pytorch]
 
 <a id="video_segmentation__1"></a>
 ## Video Segmentation
