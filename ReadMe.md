@@ -226,6 +226,11 @@ Collection of papers, datasets, code and other resources for object detection an
 [[arxiv]](https://arxiv.org/abs/1701.01909)
 [[project]](http://web.stanford.edu/~alahi/),
 [[notes]](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
+* **Online Multi-Object Tracking Using CNN-based Single Object Tracker with Spatial-Temporal Attention Mechanism**
+[ax1708/iccv17]
+[[pdf]](multi_object_tracking/deep_learning/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf)
+[[arxiv]](https://arxiv.org/abs/1708.02843)
+[[notes]](multi_object_tracking/notes/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf)
 
 <a id="reinforcement_learning_"></a>
 ### Reinforcement Learning
@@ -392,6 +397,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [MOT 2015](https://motchallenge.net/data/2D_MOT_2015/) [mostly street level viewpoint]
 - [MOT 2016](https://motchallenge.net/data/MOT16/) [mostly street level viewpoint]
 - [MOT 2017](https://motchallenge.net/data/MOT17/) [mostly street level viewpoint]
+- [CVPR 2019](https://motchallenge.net/data/11) [mostly street level viewpoint]
 - [PETS 2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) [No vehicles]
 - [PETS 2017](https://motchallenge.net/data/PETS2017/) [Low density] [mostly pedestrians]
 - [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) [No top down viewpoint] [non stationary camera]
