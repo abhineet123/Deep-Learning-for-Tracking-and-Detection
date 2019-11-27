@@ -506,7 +506,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Combined Image- and World-Space Tracking in Traffic Scenes](https://github.com/aljosaosep/ciwt) [icra 2017] [c++]
 * [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss17] [python]    
 * [Online Multi-Target Tracking with Recurrent Neural Networks](https://bitbucket.org/amilan/rnntracking/src/default/) [aaai17] [lua/torch7]    
-* [Online Multi-Object Tracking with Dual Matching Attention Network](https://github.com/jizhu1023/DMAN_MOT) [eccv18] [matlab/twnsorflow]    
+* [Online Multi-Object Tracking with Dual Matching Attention Network](https://github.com/jizhu1023/DMAN_MOT) [eccv18] [matlab/tensorflow]    
 * [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch(TBA)]    
 * [TrackR-CNN - Multi-Object Tracking and Segmentation](https://github.com/VisualComputingInstitute/TrackR-CNN) [cvpr19] [tensorflow]    
 
