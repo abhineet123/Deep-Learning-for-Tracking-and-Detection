@@ -231,6 +231,12 @@ Collection of papers, datasets, code and other resources for object detection an
 [[pdf]](multi_object_tracking/deep_learning/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf)
 [[arxiv]](https://arxiv.org/abs/1708.02843)
 [[notes]](multi_object_tracking/notes/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf)
+* **Online multi-object tracking with dual matching attention networks**
+[ax1902/eccv18]
+[[pdf]](multi_object_tracking/deep_learning/Online%20multi-object%20tracking%20with%20dual%20matching%20attention%20networks%201902.00749%20eccv18.pdf)
+[[arxiv]](https://arxiv.org/abs/1902.00749)
+[[notes]](multi_object_tracking/notes/Online%20multi-object%20tracking%20with%20dual%20matching%20attention%20networks%201902.00749%20eccv18.pdf)
+[[code]](https://github.com/jizhu1023/DMAN_MOT)
 
 <a id="reinforcement_learning_"></a>
 ### Reinforcement Learning
