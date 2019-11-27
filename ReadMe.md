@@ -243,7 +243,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * **Learning to Track: Online Multi-object Tracking by Decision Making**
 [iccv15]
 [Stanford]
-[[pdf]](multi_object_tracking/reinforcement_learning/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf)
+[[pdf]](multi_object_tracking/rl/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf)
 [[code (matlab)]](https://github.com/yuxng/MDP_Tracking)
 [[project]](https://yuxng.github.io/)
 [[notes]](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf)
