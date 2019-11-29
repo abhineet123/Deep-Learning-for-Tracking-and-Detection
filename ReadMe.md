@@ -237,6 +237,12 @@ Collection of papers, datasets, code and other resources for object detection an
 [[arxiv]](https://arxiv.org/abs/1902.00749)
 [[notes]](multi_object_tracking/notes/Online%20multi-object%20tracking%20with%20dual%20matching%20attention%20networks%201902.00749%20eccv18.pdf)
 [[code]](https://github.com/jizhu1023/DMAN_MOT)
+* **Tracking by Animation Unsupervised Learning of Multi-Object Attentive Trackers**
+[ax1809/cvpr19]
+[[pdf]](multi_object_tracking/deep_learning/Tracking%20by%20Animation%20Unsupervised%20Learning%20of%20Multi-Object%20Attentive%20Trackers%20cvpr19%20ax1809.03137.pdf)
+[[arxiv]](https://arxiv.org/abs/1809.03137)
+[[notes]](multi_object_tracking/notes/Tracking%20by%20Animation%20Unsupervised%20Learning%20of%20Multi-Object%20Attentive%20Trackers%20cvpr19%20ax1809.03137.pdf)
+[[code]](https://github.com/zhen-he/tracking-by-animation)
 
 <a id="reinforcement_learning_"></a>
 ### Reinforcement Learning
