@@ -261,8 +261,6 @@ Collection of papers, datasets, code and other resources for object detection an
 [eccv18]
 [[pdf]](multi_object_tracking/rl/Collaborative%20Deep%20Reinforcement%20Learning%20for%20Multi-Object%20Tracking_eccv18.pdf)
 [[notes]](multi_object_tracking/notes/Collaborative%20Deep%20Reinforcement%20Learning%20for%20Multi-Object%20Tracking_eccv18.pdf)
-[[code (matlab)]](https://github.com/yuxng/MDP_Tracking)
-[[project]](https://yuxng.github.io/)
 
 <a id="network_flow_"></a>
 ### Network Flow
