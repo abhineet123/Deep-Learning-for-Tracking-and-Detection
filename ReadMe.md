@@ -254,9 +254,15 @@ Collection of papers, datasets, code and other resources for object detection an
 [iccv15]
 [Stanford]
 [[pdf]](multi_object_tracking/rl/Learning%20to%20Track%20Online%20Multi-object%20Tracking%20by%20Decision%20Making%20%20iccv15.pdf)
+[[notes]](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf)
 [[code (matlab)]](https://github.com/yuxng/MDP_Tracking)
 [[project]](https://yuxng.github.io/)
-[[notes]](multi_object_tracking/notes/Learning_to_Track_Online_Multi-object_Tracking_by_Decision_Making__iccv15.pdf)
+* **Collaborative Deep Reinforcement Learning for Multi-Object Tracking**
+[eccv18]
+[[pdf]](multi_object_tracking/rl/Collaborative%20Deep%20Reinforcement%20Learning%20for%20Multi-Object%20Tracking_eccv18.pdf)
+[[notes]](multi_object_tracking/notes/Collaborative%20Deep%20Reinforcement%20Learning%20for%20Multi-Object%20Tracking_eccv18.pdf)
+[[code (matlab)]](https://github.com/yuxng/MDP_Tracking)
+[[project]](https://yuxng.github.io/)
 
 <a id="network_flow_"></a>
 ### Network Flow
