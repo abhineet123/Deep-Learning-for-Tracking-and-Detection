@@ -294,7 +294,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [icip16]
 [[pdf]](multi_object_tracking/baseline/Simple%20Online%20and%20Realtime%20Tracking%20ax1707%20icip16.pdf)
 [[notes]](multi_object_tracking/notes/Simple%20Online%20and%20Realtime%20Tracking%20ax1707%20icip16.pdf)
-[[code]](https://github.com/abewley/sort))
+[[code]](https://github.com/abewley/sort)
 * **High-Speed Tracking-by-Detection Without Using Image Information**
 [avss17]
 [[pdf]](multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf)
