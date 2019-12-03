@@ -420,6 +420,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [CVPR 2019](https://motchallenge.net/data/11) [mostly street level viewpoint]
 - [PETS 2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) [No vehicles]
 - [PETS 2017](https://motchallenge.net/data/PETS2017/) [Low density] [mostly pedestrians]
+- [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) [multi camera] [static background] [pedestrians] [above-street level viewpoint] [website not working]
 - [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) [No top down viewpoint] [non stationary camera]
 - [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) [pedestrian detection and tracking]
 - [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) [intersection traffic] [stereo setup] [moving camera]
