@@ -523,6 +523,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Online Multi-Object Tracking with Dual Matching Attention Network](https://github.com/jizhu1023/DMAN_MOT) [eccv18] [matlab/tensorflow]    
 * [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch(TBA)]    
 * [TrackR-CNN - Multi-Object Tracking and Segmentation](https://github.com/VisualComputingInstitute/TrackR-CNN) [cvpr19] [tensorflow]    
+* [Robust Multi-Modality Multi-Object Tracking](https://github.com/ZwwWayne/mmMOT) [iccv19] [pytorch]    
 
 <a id="single_object_tracking__2"></a>
 ## Single Object Tracking
