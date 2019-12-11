@@ -417,6 +417,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [MOT 2015](https://motchallenge.net/data/2D_MOT_2015/) [mostly street level viewpoint]
 - [MOT 2016](https://motchallenge.net/data/MOT16/) [mostly street level viewpoint]
 - [MOT 2017](https://motchallenge.net/data/MOT17/) [mostly street level viewpoint]
+- [MOTS: Multi-Object Tracking and Segmentation](https://www.vision.rwth-aachen.de/page/mots) [MOT and KITTI]
 - [CVPR 2019](https://motchallenge.net/data/11) [mostly street level viewpoint]
 - [PETS 2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) [No vehicles]
 - [PETS 2017](https://motchallenge.net/data/PETS2017/) [Low density] [mostly pedestrians]
