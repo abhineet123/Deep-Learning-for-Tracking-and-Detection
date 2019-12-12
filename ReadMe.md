@@ -68,13 +68,14 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Misc](#mis_c__3)
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
+    - [Static Detection](#static_detectio_n__2)
     - [Single Object Tracking](#single_object_tracking__3)
     - [Multi Object Tracking](#multi_object_tracking__3)
     - [Segmentation](#segmentatio_n_)
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__4)
 - [Tutorials](#tutorials_)
-    - [Static Detection](#static_detectio_n__2)
+    - [Static Detection](#static_detectio_n__3)
     - [Video Detection](#video_detectio_n__3)
     - [Instance Segmentation](#instance_segmentation__1)
     - [Deep RL](#deep_rl_)
@@ -525,6 +526,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Combined Image- and World-Space Tracking in Traffic Scenes](https://github.com/aljosaosep/ciwt) [icra 2017] [c++]
 * [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss17] [python]    
 * [Online Multi-Target Tracking with Recurrent Neural Networks](https://bitbucket.org/amilan/rnntracking/src/default/) [aaai17] [lua/torch7]    
+* [Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking](https://github.com/JunaidCS032/MOTBeyondPixels) [icra18] [matlab]    
 * [Online Multi-Object Tracking with Dual Matching Attention Network](https://github.com/jizhu1023/DMAN_MOT) [eccv18] [matlab/tensorflow]    
 * [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch]    
 * [TrackR-CNN - Multi-Object Tracking and Segmentation](https://github.com/VisualComputingInstitute/TrackR-CNN) [cvpr19] [tensorflow] [[project]](https://www.vision.rwth-aachen.de/page/mots) 
@@ -729,6 +731,10 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Registry of Open Data on AWS](https://registry.opendata.aws/) 
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
 
+<a id="static_detectio_n__2"></a>
+## Static Detection
+- [Object Detection with Deep Learning](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
+
 <a id="single_object_tracking__3"></a>
 ## Single Object Tracking
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
@@ -766,7 +772,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 <a id="tutorials_"></a>
 # Tutorials
-<a id="static_detectio_n__2"></a>
+<a id="static_detectio_n__3"></a>
 ## Static Detection
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)  
