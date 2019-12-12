@@ -643,6 +643,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [SNIPER: Efficient Multi-Scale Training](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18]  [mxnet]
 * [Multi-scale Location-aware Kernel Representation for Object Detection](https://github.com/Hwang64/MLKP) [cvpr18]  [caffe/python]
 * [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch]
+* [FoveaBox: Beyond Anchor-based Object Detector](https://github.com/taokong/FoveaBox) [ax1904] [pytorch/mmdetection]
 
 <a id="matchin_g_"></a>
 ### Matching  
