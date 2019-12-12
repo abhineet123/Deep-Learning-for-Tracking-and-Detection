@@ -638,7 +638,7 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="mis_c__2"></a>
 ### Misc
 
-* [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [MXNet]
+* [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [mxnet]
 * [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
 * [SNIPER: Efficient Multi-Scale Training](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18]  [mxnet]
 * [Multi-scale Location-aware Kernel Representation for Object Detection](https://github.com/Hwang64/MLKP) [cvpr18]  [caffe/python]
