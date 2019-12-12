@@ -498,6 +498,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [ImageNet Large Scale Visual Recognition Competition 2012](http://www.image-net.org/challenges/LSVRC/2012/)
 - [Animals with Attributes 2](https://cvml.ist.ac.at/AwA2/)
 - [CompCars Dataset](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
+- [ObjectNet](https://objectnet.dev/) [only test set]
 
 <a id="optical_flow_"></a>
 ## Optical Flow
