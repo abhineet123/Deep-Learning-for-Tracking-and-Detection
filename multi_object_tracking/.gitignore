@@ -4,9 +4,8 @@
 !network_flow/
 !notes/
 !reinforcement_learning/
-!rnn/
 !survey/
 !tracklet/
 !baseline/
 !unsupervised/
-!RNN/
+!LSTM/

@@ -16,7 +16,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [RNN](#rnn_)
     - [Multi Object Tracking](#multi_object_tracking_)
         - [Deep Learning](#deep_learning_)
-        - [RNN](#rnn__1)
+        - [LSTM](#lst_m_)
         - [Unsupervised Learning](#unsupervised_learning_)
         - [Reinforcement Learning](#reinforcement_learning_)
         - [Network Flow](#network_flow_)
@@ -243,18 +243,18 @@ Collection of papers, datasets, code and other resources for object detection an
 [[pdf]](multi_object_tracking/deep_learning/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
 [[notes]](multi_object_tracking/notes/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
 
-<a id="rnn__1"></a>
-### RNN
+<a id="lst_m_"></a>
+### LSTM
 * **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
 [ax1704/iccv17]
 [Stanford]
-[[pdf]](multi_object_tracking/RNN/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf)
+[[pdf]](multi_object_tracking/LSTM/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf)
 [[arxiv]](https://arxiv.org/abs/1701.01909)
 [[project]](http://web.stanford.edu/~alahi/),
 [[notes]](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
 * **Multi-object Tracking with Neural Gating Using Bilinear LSTM**
 [eccv18]
-[[pdf]](multi_object_tracking/RNN/Multi-object%20Tracking%20with%20Neural%20Gating%20Using%20Bilinear%20LSTM_eccv18.pdf)
+[[pdf]](multi_object_tracking/LSTM/Multi-object%20Tracking%20with%20Neural%20Gating%20Using%20Bilinear%20LSTM_eccv18.pdf)
 [[notes]](multi_object_tracking/notes/Multi-object%20Tracking%20with%20Neural%20Gating%20Using%20Bilinear%20LSTM_eccv18.pdf)
 
 <a id="unsupervised_learning_"></a>
