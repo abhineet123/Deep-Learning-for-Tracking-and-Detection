@@ -242,6 +242,8 @@ Collection of papers, datasets, code and other resources for object detection an
 [cvpr19]
 [[pdf]](multi_object_tracking/deep_learning/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
 [[notes]](multi_object_tracking/notes/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
+[[code]](https://github.com/VisualComputingInstitute/TrackR-CNN)
+[[project/data]](https://www.vision.rwth-aachen.de/page/mots)
 
 <a id="rnn__1"></a>
 ### RNN
