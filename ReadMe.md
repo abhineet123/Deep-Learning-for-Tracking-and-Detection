@@ -16,6 +16,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [RNN](#rnn_)
     - [Multi Object Tracking](#multi_object_tracking_)
         - [Deep Learning](#deep_learning_)
+        - [RNN](#rnn__1)
         - [Unsupervised Learning](#unsupervised_learning_)
         - [Reinforcement Learning](#reinforcement_learning_)
         - [Network Flow](#network_flow_)
@@ -221,13 +222,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 <a id="deep_learning_"></a>
 ### Deep Learning
-* **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
-[ax1704/iccv17]
-[Stanford]
-[[pdf]](multi_object_tracking/deep_learning/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf)
-[[arxiv]](https://arxiv.org/abs/1701.01909)
-[[project]](http://web.stanford.edu/~alahi/),
-[[notes]](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
+
 * **Online Multi-Object Tracking Using CNN-based Single Object Tracker with Spatial-Temporal Attention Mechanism**
 [ax1708/iccv17]
 [[pdf]](multi_object_tracking/deep_learning/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf)
@@ -239,6 +234,28 @@ Collection of papers, datasets, code and other resources for object detection an
 [[arxiv]](https://arxiv.org/abs/1902.00749)
 [[notes]](multi_object_tracking/notes/Online%20multi-object%20tracking%20with%20dual%20matching%20attention%20networks%201902.00749%20eccv18.pdf)
 [[code]](https://github.com/jizhu1023/DMAN_MOT)
+* **FAMNet Joint Learning of Feature, Affinity and Multi-Dimensional Assignment for Online Multiple Object Tracking**
+[iccv19]
+[[pdf]](multi_object_tracking/deep_learning/FAMNet%20Joint%20Learning%20of%20Feature,%20Affinity%20and%20Multi-Dimensional%20Assignment%20for%20Online%20Multiple%20Object%20Tracking%20iccv19.pdf)
+[[notes]](multi_object_tracking/notes/FAMNet%20Joint%20Learning%20of%20Feature,%20Affinity%20and%20Multi-Dimensional%20Assignment%20for%20Online%20Multiple%20Object%20Tracking%20iccv19.pdf)
+* **MOTS Multi-Object Tracking and Segmentation**
+[cvpr19]
+[[pdf]](multi_object_tracking/deep_learning/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
+[[notes]](multi_object_tracking/notes/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
+
+<a id="rnn__1"></a>
+### RNN
+* **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
+[ax1704/iccv17]
+[Stanford]
+[[pdf]](multi_object_tracking/RNN/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf)
+[[arxiv]](https://arxiv.org/abs/1701.01909)
+[[project]](http://web.stanford.edu/~alahi/),
+[[notes]](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
+* **Multi-object Tracking with Neural Gating Using Bilinear LSTM**
+[eccv18]
+[[pdf]](multi_object_tracking/RNN/Multi-object%20Tracking%20with%20Neural%20Gating%20Using%20Bilinear%20LSTM_eccv18.pdf)
+[[notes]](multi_object_tracking/notes/Multi-object%20Tracking%20with%20Neural%20Gating%20Using%20Bilinear%20LSTM_eccv18.pdf)
 
 <a id="unsupervised_learning_"></a>
 ### Unsupervised Learning
