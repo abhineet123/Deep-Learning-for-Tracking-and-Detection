@@ -248,10 +248,10 @@ Collection of papers, datasets, code and other resources for object detection an
 * **Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies**
 [ax1704/iccv17]
 [Stanford]
-[[pdf]](multi_object_tracking/rnn/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4.pdf)
+[[pdf]](multi_object_tracking/rnn/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4_iccv17.pdf)
+[[notes]](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
 [[arxiv]](https://arxiv.org/abs/1701.01909)
 [[project]](http://web.stanford.edu/~alahi/),
-[[notes]](multi_object_tracking/notes/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf)
 * **Multi-object Tracking with Neural Gating Using Bilinear LSTM**
 [eccv18]
 [[pdf]](multi_object_tracking/rnn/Multi-object%20Tracking%20with%20Neural%20Gating%20Using%20Bilinear%20LSTM_eccv18.pdf)
