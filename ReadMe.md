@@ -9,6 +9,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [YOLO](#yol_o_)
         - [SSD](#ssd_)
         - [RetinaNet](#retinanet_)
+        - [Anchor Free](#anchor_free_)
         - [Misc](#mis_c_)
     - [Video Detection](#video_detectio_n_)
         - [Tubelet](#tubelet_)
@@ -56,7 +57,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [RCNN](#rcn_n__1)
         - [SSD](#ssd__1)
         - [YOLO](#yol_o__1)
-        - [Anchor Free](#anchor_free_)
+        - [Anchor Free](#anchor_free__1)
         - [Misc](#mis_c__2)
         - [Matching](#matchin_g_)
         - [Boundary Detection](#boundary_detectio_n__1)
@@ -158,6 +159,21 @@ Collection of papers, datasets, code and other resources for object detection an
 [ax180207/iccv17]
 [[pdf]](static_detection/retinanet/Focal%20Loss%20for%20Dense%20Object%20Detection%20ax180207%20iccv17.pdf)
 [[notes]](static_detection/notes/focal_loss.pdf) 
+
+<a id="anchor_free_"></a>
+### Anchor Free
+
+- **FoveaBox: Beyond Anchor-based Object Detector**
+[ax1904]
+[[pdf]](static_detection/anchor_free/FoveaBox%20Beyond%20Anchor-based%20Object%20Detector%20ax1904.03797.pdf)
+[[notes]](static_detection/notes/FoveaBox%20Beyond%20Anchor-based%20Object%20Detector%20ax1904.03797.pdf)
+[[code]](https://github.com/taokong/FoveaBox)
+
+- **CornerNet: Detecting Objects as Paired Keypoints**
+[ax1903/ijcv19]
+[[pdf]](static_detection/anchor_free/CornerNet%20Detecting%20Objects%20as%20Paired%20Keypoints%20ax1903%20ijcv19.pdf)
+[[notes]](static_detection/notes/CornerNet%20Detecting%20Objects%20as%20Paired%20Keypoints%20ax1903%20ijcv19.pdf)
+[[code]](https://github.com/princeton-vl/CornerNet)
 
 <a id="mis_c_"></a>
 ### Misc
@@ -656,7 +672,7 @@ Collection of papers, datasets, code and other resources for object detection an
 + [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) [tensorflow slim]
 + [keras-yolov3](https://github.com/qqwweee/keras-yolo3) [keras]  
 
-<a id="anchor_free_"></a>
+<a id="anchor_free__1"></a>
 ### Anchor Free
 
 * [FoveaBox: Beyond Anchor-based Object Detector](https://github.com/taokong/FoveaBox) [ax1904] [pytorch/mmdetection]
