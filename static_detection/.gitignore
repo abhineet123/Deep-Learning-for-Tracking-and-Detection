@@ -10,4 +10,5 @@
 !single_stage/
 !ssd/
 !yolo/
+!anchor_free/
 
