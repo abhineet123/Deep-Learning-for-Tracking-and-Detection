@@ -676,16 +676,14 @@ Collection of papers, datasets, code and other resources for object detection an
 
 * [FoveaBox: Beyond Anchor-based Object Detector](https://github.com/taokong/FoveaBox) [ax1904] [pytorch/mmdetection]
 * [Cornernet: Detecting objects as paired keypoints](https://github.com/princeton-vl/CornerNet) [ax1903/eccv18] [pytorch]
-
+* [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch]
+* [SNIPER: Efficient Multi-Scale Training/An Analysis of Scale Invariance in Object Detection ­ SNIP](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18/cvpr18]  [mxnet]
 
 <a id="mis_c__2"></a>
 ### Misc
-
 * [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [mxnet]
 * [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
-* [SNIPER: Efficient Multi-Scale Training](https://github.com/mahyarnajibi/SNIPER) [cvpr18 / nips18]  [mxnet]
 * [Multi-scale Location-aware Kernel Representation for Object Detection](https://github.com/Hwang64/MLKP) [cvpr18]  [caffe/python]
-* [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch]
 
 <a id="matchin_g_"></a>
 ### Matching  
