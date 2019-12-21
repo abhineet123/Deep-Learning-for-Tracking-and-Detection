@@ -168,7 +168,6 @@ Collection of papers, datasets, code and other resources for object detection an
 [[pdf]](static_detection/anchor_free/FoveaBox%20Beyond%20Anchor-based%20Object%20Detector%20ax1904.03797.pdf)
 [[notes]](static_detection/notes/FoveaBox%20Beyond%20Anchor-based%20Object%20Detector%20ax1904.03797.pdf)
 [[code]](https://github.com/taokong/FoveaBox)
-
 - **CornerNet: Detecting Objects as Paired Keypoints**
 [ax1903/ijcv19]
 [[pdf]](static_detection/anchor_free/CornerNet%20Detecting%20Objects%20as%20Paired%20Keypoints%20ax1903%20ijcv19.pdf)
