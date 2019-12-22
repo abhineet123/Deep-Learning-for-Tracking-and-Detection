@@ -676,7 +676,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 * [FoveaBox: Beyond Anchor-based Object Detector](https://github.com/taokong/FoveaBox) [ax1904] [pytorch/mmdetection]
 * [Cornernet: Detecting objects as paired keypoints](https://github.com/princeton-vl/CornerNet) [ax1903/eccv18] [pytorch]
-* [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch]
+* [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch][[VoVNet]](https://github.com/vov-net/VoVNet-FCOS)[[HRNet]](https://github.com/HRNet/HRNet-FCOS)[[NAS]](https://github.com/Lausannen/NAS-FCOS)
 * [SNIPER: Efficient Multi-Scale Training/An Analysis of Scale Invariance in Object Detection-SNIP](https://github.com/mahyarnajibi/SNIPER) [nips18/cvpr18]  [mxnet]
 
 <a id="mis_c__2"></a>
