@@ -56,6 +56,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [FPN](#fpn_)
         - [RCNN](#rcn_n__1)
         - [SSD](#ssd__1)
+        - [RetinaNet](#retinanet__1)
         - [YOLO](#yol_o__1)
         - [Anchor Free](#anchor_free__1)
         - [Misc](#mis_c__2)
@@ -656,6 +657,13 @@ Collection of papers, datasets, code and other resources for object detection an
 * [SSD-Pytorch](https://github.com/amdegroot/ssd.pytorch) [pytorch]
 * [Enhanced SSD with Feature Fusion and Visual Reasoning](https://github.com/CVlengjiaxu/Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning) [nca18] [tensorflow]
 * [RefineDet - Single-Shot Refinement Neural Network for Object Detection](https://github.com/sfzhang15/RefineDet) [cvpr18] [caffe]
+
+<a id="retinanet__1"></a>
+### RetinaNet
+* [9.277.41](https://github.com/c0nn3r/RetinaNet) [pytorch]
+* [31.857.212](https://github.com/kuangliu/pytorch-retinanet) [pytorch]
+* [25.274.84](https://github.com/NVIDIA/retinanet-examples) [pytorch] [nvidia]
+* [22.869.302](https://github.com/yhenon/pytorch-retinanet) [pytorch]
 
 <a id="yol_o__1"></a>
 ### YOLO  
