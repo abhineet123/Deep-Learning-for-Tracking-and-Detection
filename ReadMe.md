@@ -176,8 +176,8 @@ Collection of papers, datasets, code and other resources for object detection an
 [[code]](https://github.com/princeton-vl/CornerNet)
 - **FCOS Fully Convolutional One-Stage Object Detection**
 [ax1908/iccv19]
-[[pdf]](static_detection/anchor_free/FCOS Fully Convolutional One-Stage Object Detection ax1908 iccv19.pdf)
-[[notes]](static_detection/notes/FCOS Fully Convolutional One-Stage Object Detection ax1908 iccv19.pdf)
+[[pdf]](static_detection/anchor_free/FCOS%20Fully%20Convolutional%20One-Stage%20Object%20Detection%20ax1908%20iccv19.pdf)
+[[notes]](static_detection/notes/FCOS%20Fully%20Convolutional%20One-Stage%20Object%20Detection%20ax1908%20iccv19.pdf)
 [[code]](https://github.com/tianzhi0549/FCOS)
 [[code/FCOS_PLUS]](https://github.com/yqyao/FCOS_PLUS)
 [[code/VoVNet]](https://github.com/vov-net/VoVNet-FCOS)
