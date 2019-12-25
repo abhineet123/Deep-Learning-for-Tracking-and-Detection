@@ -174,6 +174,15 @@ Collection of papers, datasets, code and other resources for object detection an
 [[pdf]](static_detection/anchor_free/CornerNet%20Detecting%20Objects%20as%20Paired%20Keypoints%20ax1903%20ijcv19.pdf)
 [[notes]](static_detection/notes/CornerNet%20Detecting%20Objects%20as%20Paired%20Keypoints%20ax1903%20ijcv19.pdf)
 [[code]](https://github.com/princeton-vl/CornerNet)
+- **FCOS Fully Convolutional One-Stage Object Detection**
+[ax1908/iccv19]
+[[pdf]](static_detection/anchor_free/FCOS Fully Convolutional One-Stage Object Detection ax1908 iccv19.pdf)
+[[notes]](static_detection/notes/FCOS Fully Convolutional One-Stage Object Detection ax1908 iccv19.pdf)
+[[code]](https://github.com/tianzhi0549/FCOS)
+[[code/FCOS_PLUS]](https://github.com/yqyao/FCOS_PLUS)
+[[code/VoVNet]](https://github.com/vov-net/VoVNet-FCOS)
+[[code/HRNet]](https://github.com/HRNet/HRNet-FCOS)
+[[code/NAS]](https://github.com/Lausannen/NAS-FCOS)
 
 <a id="mis_c_"></a>
 ### Misc
