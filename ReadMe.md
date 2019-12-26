@@ -185,8 +185,8 @@ Collection of papers, datasets, code and other resources for object detection an
 [[code/NAS]](https://github.com/Lausannen/NAS-FCOS)
 - **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
 [ax1903/cvpr19]
-[[pdf]](static_detection/anchor_free/Feature Selective Anchor-Free Module for Single-Shot Object Detection ax1903.00621 cvpr199.pdf)
-[[notes]](static_detection/notes/Feature Selective Anchor-Free Module for Single-Shot Object Detection ax1903.00621 cvpr19.pdf)
+[[pdf]](static_detection/anchor_free/Feature%20Selective%20Anchor-Free%20Module%20for%20Single-Shot%20Object%20Detection%20ax1903.00621%20cvpr199.pdf)
+[[notes]](static_detection/notes/Feature%20Selective%20Anchor-Free%20Module%20for%20Single-Shot%20Object%20Detection%20ax1903.00621%20cvpr19.pdf)
 [[code]](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection)
 
 <a id="mis_c_"></a>
