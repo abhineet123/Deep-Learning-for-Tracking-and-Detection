@@ -183,7 +183,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [[code/VoVNet]](https://github.com/vov-net/VoVNet-FCOS)
 [[code/HRNet]](https://github.com/HRNet/HRNet-FCOS)
 [[code/NAS]](https://github.com/Lausannen/NAS-FCOS)
-- ** **
+- **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
 [ax1903/cvpr19]
 [[pdf]](static_detection/anchor_free/Feature Selective Anchor-Free Module for Single-Shot Object Detection ax1903.00621 cvpr199.pdf)
 [[notes]](static_detection/notes/Feature Selective Anchor-Free Module for Single-Shot Object Detection ax1903.00621 cvpr19.pdf)
