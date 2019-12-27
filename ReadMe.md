@@ -73,6 +73,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
     - [Static Detection](#static_detectio_n__2)
+    - [Video Detection](#video_detectio_n__3)
     - [Single Object Tracking](#single_object_tracking__3)
     - [Multi Object Tracking](#multi_object_tracking__3)
     - [Segmentation](#segmentatio_n_)
@@ -80,7 +81,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Misc](#mis_c__4)
 - [Tutorials](#tutorials_)
     - [Static Detection](#static_detectio_n__3)
-    - [Video Detection](#video_detectio_n__3)
+    - [Video Detection](#video_detectio_n__4)
     - [Instance Segmentation](#instance_segmentation__1)
     - [Deep RL](#deep_rl_)
     - [Autoencoders](#autoencoder_s__1)
@@ -799,6 +800,10 @@ Collection of papers, datasets, code and other resources for object detection an
 ## Static Detection
 - [Object Detection with Deep Learning](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 
+<a id="video_detectio_n__3"></a>
+## Video Detection
+- [Video Object Detection with Deep Learning](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html#video-object-detection)
+
 <a id="single_object_tracking__3"></a>
 ## Single Object Tracking
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
@@ -849,7 +854,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Fast object detection with SqueezeDet on Keras](https://medium.com/omnius/fast-object-detection-with-squeezedet-on-keras-5cdd124b46ce)
 * [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
 
-<a id="video_detectio_n__3"></a>
+<a id="video_detectio_n__4"></a>
 ## Video Detection
 * [How Microsoft Does Video Object Detection - Unifying the Best Techniques in Video Object Detection Architectures in a Single Model](https://medium.com/nurture-ai/how-microsoft-does-video-object-detection-unifying-the-best-techniques-in-video-object-detection-b78b63e3f1d8)
 
