@@ -662,6 +662,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Evolving Boxes for Fast Vehicle Detection](https://github.com/Willy0919/Evolving_Boxes) [icme18] [caffe/python]
 * [Cascade R-CNN (cvpr18)](http://www.svcl.ucsd.edu/publications/conference/2018/cvpr/cascade-rcnn.pdf) [[detectron]](https://github.com/zhaoweicai/Detectron-Cascade-RCNN) [[caffe]](https://github.com/zhaoweicai/cascade-rcnn)  
 * [A MultiPath Network for Object Detection](https://arxiv.org/abs/1604.02135) [[torch]](https://github.com/facebookresearch/multipathnet) [bmvc16] [facebook]
+* [SNIPER: Efficient Multi-Scale Training/An Analysis of Scale Invariance in Object Detection-SNIP](https://github.com/mahyarnajibi/SNIPER) [nips18/cvpr18] [mxnet]
 
 <a id="ssd__1"></a>
 ### SSD
@@ -700,7 +701,6 @@ Collection of papers, datasets, code and other resources for object detection an
 * [FoveaBox: Beyond Anchor-based Object Detector](https://github.com/taokong/FoveaBox) [ax1904] [pytorch/mmdetection]
 * [Cornernet: Detecting objects as paired keypoints](https://github.com/princeton-vl/CornerNet) [ax1903/eccv18] [pytorch]
 * [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch] [[VoVNet]](https://github.com/vov-net/VoVNet-FCOS) [[HRNet]](https://github.com/HRNet/HRNet-FCOS) [[NAS]](https://github.com/Lausannen/NAS-FCOS) [[FCOS_PLUS]](https://github.com/yqyao/FCOS_PLUS)
-* [SNIPER: Efficient Multi-Scale Training/An Analysis of Scale Invariance in Object Detection-SNIP](https://github.com/mahyarnajibi/SNIPER) [nips18/cvpr18] [mxnet]
 * [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection) [cvpr19] [pytorch]
 
 <a id="mis_c__2"></a>
