@@ -124,6 +124,12 @@ Collection of papers, datasets, code and other resources for object detection an
 [[arxiv]](https://arxiv.org/abs/1703.06870)
 [[code (keras)]](https://github.com/matterport/Mask_RCNN)
 [[code (tensorflow)]](https://github.com/CharlesShang/FastMaskRCNN)
+- **SNIPER Efficient Multi-Scale Training**
+[ax1812/nips18]
+[[pdf]](static_detection/rcnn/SNIPER%20Efficient%20Multi-Scale%20Training%20ax181213%20nips18.pdf)
+[[notes]](static_detection/notes/SNIPER%20Efficient%20Multi-Scale%20Training%20ax181213%20nips18.pdf)
+[[code]](https://github.com/mahyarnajibi/SNIPER)
+
 
 <a id="yol_o_"></a>
 ### YOLO
