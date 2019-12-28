@@ -109,24 +109,24 @@ Collection of papers, datasets, code and other resources for object detection an
 ### RCNN
 - **Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks**
 [tpami17]
-[[pdf]](static_detection/rcnn/Faster%20R-CNN%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks%20tpami17%20ax16_1.pdf)
+[[pdf]](static_detection/RCNN/Faster%20R-CNN%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks%20tpami17%20ax16_1.pdf)
 [[notes]](static_detection/notes/Faster_R-CNN.pdf)
 - **RFCN - Object Detection via Region-based Fully Convolutional Networks**
 [nips16]
 [Microsoft Research]
-[[pdf]](static_detection/rcnn/RFCN-Object%20Detection%20via%20Region-based%20Fully%20Convolutional%20Networks%20nips16.pdf)
+[[pdf]](static_detection/RCNN/RFCN-Object%20Detection%20via%20Region-based%20Fully%20Convolutional%20Networks%20nips16.pdf)
 [[notes]](static_detection/notes/RFCN.pdf)  
 - **Mask R-CNN**
 [iccv17]
 [Facebook AI Research]
-[[pdf]](static_detection/rcnn/Mask%20R-CNN%20ax17_4%20iccv17.pdf)
+[[pdf]](static_detection/RCNN/Mask%20R-CNN%20ax17_4%20iccv17.pdf)
 [[notes]](static_detection/notes/Mask%20R-CNN%20ax17_4%20iccv17.pdf)
 [[arxiv]](https://arxiv.org/abs/1703.06870)
 [[code (keras)]](https://github.com/matterport/Mask_RCNN)
 [[code (tensorflow)]](https://github.com/CharlesShang/FastMaskRCNN)
 - **SNIPER Efficient Multi-Scale Training**
 [ax1812/nips18]
-[[pdf]](static_detection/rcnn/SNIPER%20Efficient%20Multi-Scale%20Training%20ax181213%20nips18.pdf)
+[[pdf]](static_detection/RCNN/SNIPER%20Efficient%20Multi-Scale%20Training%20ax181213%20nips18.pdf)
 [[notes]](static_detection/notes/SNIPER%20Efficient%20Multi-Scale%20Training%20ax181213%20nips18.pdf)
 [[code]](https://github.com/mahyarnajibi/SNIPER)
 
