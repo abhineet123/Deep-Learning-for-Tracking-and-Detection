@@ -824,6 +824,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
 * [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
 * [Papers with Code : Multiple Object Tracking](https://paperswithcode.com/task/multiple-object-tracking/codeless)  
+* [Paper list and source code for multi-object-tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)  
 
 <a id="segmentatio_n_"></a>
 ## Segmentation
