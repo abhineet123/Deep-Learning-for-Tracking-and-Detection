@@ -794,8 +794,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
 * [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 * [Machine learning datasets: A list of the biggest machine learning datasets from across the web](https://www.datasetlist.com/) 
-* [Labeled Information Library of Alexandria: Biology and Conservation](http://lila.science/datasets)
-[[other conservation data sets]](http://lila.science/otherdatasets) 
+* [Labeled Information Library of Alexandria: Biology and Conservation](http://lila.science/datasets) [[other conservation data sets]](http://lila.science/otherdatasets) 
 * [THOTH: Data Sets & Images](https://thoth.inrialpes.fr/data) 
 * [Google AI Datasets](https://ai.google/tools/datasets/) 
 * [Google Cloud Storage public datasets](https://cloud.google.com/storage/docs/public-datasets/) 
@@ -803,6 +802,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/) 
 * [Registry of Open Data on AWS](https://registry.opendata.aws/) 
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm) 
 
 <a id="static_detectio_n__2"></a>
 ## Static Detection
