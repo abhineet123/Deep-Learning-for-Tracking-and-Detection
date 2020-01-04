@@ -282,6 +282,10 @@ Collection of papers, datasets, code and other resources for object detection an
 [[notes]](multi_object_tracking/notes/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
 [[code]](https://github.com/VisualComputingInstitute/TrackR-CNN)
 [[project/data]](https://www.vision.rwth-aachen.de/page/mots)
+* **Exploit the Connectivity Multi-Object Tracking with TrackletNet**
+[ ax1811/mm19]
+[[pdf]](multi_object_tracking/deep_learning/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf)
+[[notes]](multi_object_tracking/notes/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf)
 
 <a id="rnn__1"></a>
 ### RNN
