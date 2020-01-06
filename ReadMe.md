@@ -45,7 +45,6 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Segmentation](#video_segmentation_)
     - [Classification](#classificatio_n_)
     - [Optical Flow](#optical_flow_)
-    - [Annotation](#annotatio_n_)
 - [Code](#cod_e_)
     - [Multi Object Tracking](#multi_object_tracking__2)
     - [Single Object Tracking](#single_object_tracking__2)
@@ -70,6 +69,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Segmentation](#video_segmentation__1)
     - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
+    - [Annotation](#annotatio_n_)
     - [Misc](#mis_c__3)
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
@@ -571,22 +571,6 @@ Collection of papers, datasets, code and other resources for object detection an
 - [MPI Sintel](http://sintel.is.tue.mpg.de/)
 - [KITTI Flow](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow)
 
-<a id="annotatio_n_"></a>
-## Annotation
-
-- [LabelImg](https://github.com/tzutalin/labelImg)
-- [ByLabel: A Boundary Based Semi-Automatic Image Annotation Tool](https://github.com/NathanUA/ByLabel)
-- [Bounding Box Editor and Exporter](https://github.com/persts/BBoxEE)
-- [VGG Image Annotator](http://www.robots.ox.ac.uk/~vgg/software/via/)
-- [Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos](https://github.com/Microsoft/VoTT)
-- [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)
-- [labelme : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)](https://github.com/wkentaro/labelme)
-- [VATIC - Video Annotation Tool from Irvine, California)](https://github.com/cvondrick/vatic) [ijcv12] [[project]](http://www.cs.columbia.edu/~vondrick/vatic/)
-- [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat)
-- [Image labelling tool](https://bitbucket.org/ueacomputervision/image-labelling-tool/)
-- [Labelbox](https://github.com/Labelbox/Labelbox) [paid]
-- [RectLabel An image annotation tool to label images for bounding box object detection and segmentation.](https://rectlabel.com/) [paid]
-
 
 <a id="cod_e_"></a>
 # Code
@@ -801,6 +785,22 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Learning Efficient Convolutional Networks Through Network Slimming](https://github.com/miyosuda/async_deep_reinforce) [iccv17] [pytorch]
 * Deep RL
 * [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
+
+<a id="annotatio_n_"></a>
+## Annotation
+
+- [LabelImg](https://github.com/tzutalin/labelImg)
+- [ByLabel: A Boundary Based Semi-Automatic Image Annotation Tool](https://github.com/NathanUA/ByLabel)
+- [Bounding Box Editor and Exporter](https://github.com/persts/BBoxEE)
+- [VGG Image Annotator](http://www.robots.ox.ac.uk/~vgg/software/via/)
+- [Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos](https://github.com/Microsoft/VoTT)
+- [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)
+- [labelme : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)](https://github.com/wkentaro/labelme)
+- [VATIC - Video Annotation Tool from Irvine, California)](https://github.com/cvondrick/vatic) [ijcv12] [[project]](http://www.cs.columbia.edu/~vondrick/vatic/)
+- [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat)
+- [Image labelling tool](https://bitbucket.org/ueacomputervision/image-labelling-tool/)
+- [Labelbox](https://github.com/Labelbox/Labelbox) [paid]
+- [RectLabel An image annotation tool to label images for bounding box object detection and segmentation.](https://rectlabel.com/) [paid]
 
 <a id="mis_c__3"></a>
 ## Misc
