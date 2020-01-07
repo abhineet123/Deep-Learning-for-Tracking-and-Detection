@@ -69,6 +69,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Segmentation](#video_segmentation__1)
     - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
+    - [Deep RL](#deep_rl_)
     - [Annotation](#annotatio_n_)
     - [Misc](#mis_c__3)
 - [Collections](#collections_)
@@ -84,7 +85,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Static Detection](#static_detectio_n__3)
     - [Video Detection](#video_detectio_n__4)
     - [Instance Segmentation](#instance_segmentation__1)
-    - [Deep RL](#deep_rl_)
+    - [Deep RL](#deep_rl__1)
     - [Autoencoders](#autoencoder_s__1)
 
 <!-- /MarkdownTOC -->
@@ -772,8 +773,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 <a id="video_segmentation__1"></a>
 ## Video Segmentation
-* [Improving Semantic Segmentation via Video Prediction and Label Relaxation
-](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
+* [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
@@ -783,7 +783,9 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="classificatio_n__1"></a>
 ## Classification
 * [Learning Efficient Convolutional Networks Through Network Slimming](https://github.com/miyosuda/async_deep_reinforce) [iccv17] [pytorch]
-* Deep RL
+
+<a id="deep_rl_"></a>
+## Deep RL
 * [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
 
 <a id="annotatio_n_"></a>
@@ -806,6 +808,7 @@ Collection of papers, datasets, code and other resources for object detection an
 ## Misc
 * [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 * [RNNexp](https://github.com/asheshjain399/RNNexp)
+* [Grad-CAM: Gradient-weighted Class Activation Mapping](https://github.com/ramprs/grad-cam/)
 
 <a id="collections_"></a>
 # Collections
@@ -899,7 +902,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Review: FCIS — Winner in 2016 COCO Segmentation](https://towardsdatascience.com/review-fcis-winner-in-2016-coco-segmentation-instance-segmentation-ee2d61f465e2)
 * [Review: InstanceFCN — Instance-Sensitive Score Maps](https://towardsdatascience.com/review-instancefcn-instance-sensitive-score-maps-instance-segmentation-dbfe67d4ee92)
 
-<a id="deep_rl_"></a>
+<a id="deep_rl__1"></a>
 ## Deep RL
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 * [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
