@@ -302,6 +302,10 @@ Collection of papers, datasets, code and other resources for object detection an
 [eccv18]
 [[pdf]](multi_object_tracking/rnn/Multi-object%20Tracking%20with%20Neural%20Gating%20Using%20Bilinear%20LSTM_eccv18.pdf)
 [[notes]](multi_object_tracking/notes/Multi-object%20Tracking%20with%20Neural%20Gating%20Using%20Bilinear%20LSTM_eccv18.pdf)
+* **Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking**
+[cvpr19]
+[[pdf]](multi_object_tracking/rnn/Eliminating%20Exposure%20Bias%20and%20Metric%20Mismatch%20in%20Multiple%20Object%20Tracking%20cvpr19.pdf)
+[[notes]](multi_object_tracking/notes/Eliminating%20Exposure%20Bias%20and%20Metric%20Mismatch%20in%20Multiple%20Object%20Tracking%20cvpr19.pdf)
 
 <a id="unsupervised_learning_"></a>
 ### Unsupervised Learning
