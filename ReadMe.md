@@ -497,6 +497,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [LOST : Longterm Observation of Scenes with Tracks](http://lost.cse.wustl.edu/) [top down and street level viewpoint] [no ground truth]
 - [JTA](http://imagelab.ing.unimore.it/imagelab/page.asp?IdPage=25) [top down and street level viewpoint] [synthetic/GTA 5] [pedestrian] [3D annotations]
 - [PathTrack: Fast Trajectory Annotation with Path Supervision](http://people.ee.ethz.ch/~daid/pathtrack/) [top down and street level viewpoint] [iccv17] [pedestrian] 
+- [AI CITY CHALLENGE](http://people.ee.ethz.ch/~daid/pathtrack/) [pole mounted] [intersections] [vehicles] [re-id]  [cvpr19]
  
 <a id="single_object_tracking__1"></a>
 ## Single Object Tracking
