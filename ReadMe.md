@@ -306,6 +306,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [cvpr19]
 [[pdf]](multi_object_tracking/rnn/Eliminating%20Exposure%20Bias%20and%20Metric%20Mismatch%20in%20Multiple%20Object%20Tracking%20cvpr19.pdf)
 [[notes]](multi_object_tracking/notes/Eliminating%20Exposure%20Bias%20and%20Metric%20Mismatch%20in%20Multiple%20Object%20Tracking%20cvpr19.pdf)
+[[code]](https://github.com/maksay/seq-train)
 
 <a id="unsupervised_learning_"></a>
 ### Unsupervised Learning
@@ -601,6 +602,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Online Multi-Object Tracking with Dual Matching Attention Network](https://github.com/jizhu1023/DMAN_MOT) [eccv18] [matlab/tensorflow]    
 * [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch]    
 * [TrackR-CNN - Multi-Object Tracking and Segmentation](https://github.com/VisualComputingInstitute/TrackR-CNN) [cvpr19] [tensorflow] [[project]](https://www.vision.rwth-aachen.de/page/mots) 
+* [Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking](https://github.com/maksay/seq-train) [cvpr19] [tensorflow]    
 * [Robust Multi-Modality Multi-Object Tracking](https://github.com/ZwwWayne/mmMOT) [iccv19] [pytorch]    
 
 <a id="single_object_tracking__2"></a>
