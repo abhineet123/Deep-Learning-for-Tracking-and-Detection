@@ -634,6 +634,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
 * [Fast Online Object Tracking and Segmentation: A Unifying Approach (SiamMask)](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 * [PyTracking: A general python framework for training and running visual object trackers, based on PyTorch](https://github.com/visionml/pytracking) [ECO/ATOM/DiMP] [cvpr17/cvpr19/iccv19] [pytorch] 
+* [Unsupervised Deep Tracking](https://github.com/594422814/UDT) [cvpr19] [matlab/matconvnet] [[pytorch]](https://github.com/594422814/UDT_pytorch)
 
 <a id="gui_application___large_scale_tracking___animal_s_"></a>
 ### GUI Application / Large Scale Tracking / Animals
@@ -850,6 +851,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Collection of Correlation Filter based trackers with links to papers, codes, etc](https://github.com/lukaswals/cf-trackers)
 - [VOT2018 Trackers repository](http://www.votchallenge.net/vot2018/trackers.html)
 - [CUHK Datasets](http://mmlab.ie.cuhk.edu.hk.login.ezproxy.library.ualberta.ca/datasets.html)
+- [A Summary of CVPR19 Visual Tracking Paperss](https://linkinpark213.com/2019/06/11/cvpr19-track/ )
     
 <a id="multi_object_tracking__3"></a>
 ## Multi Object Tracking
