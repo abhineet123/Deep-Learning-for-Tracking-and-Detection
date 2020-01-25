@@ -607,7 +607,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [TrackR-CNN - Multi-Object Tracking and Segmentation](https://github.com/VisualComputingInstitute/TrackR-CNN) [cvpr19] [tensorflow] [[project]](https://www.vision.rwth-aachen.de/page/mots) 
 * [Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking](https://github.com/maksay/seq-train) [cvpr19] [tensorflow]    
 * [Robust Multi-Modality Multi-Object Tracking](https://github.com/ZwwWayne/mmMOT) [iccv19] [pytorch]    
-* [Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) [ax1909] [pytorch]    
+* [Towards Real-Time Multi-Object Tracking / Joint Detection and Embedding](https://github.com/Zhongdao/Towards-Realtime-MOT) [ax1909] [pytorch]    
 
 <a id="single_object_tracking__2"></a>
 ## Single Object Tracking
