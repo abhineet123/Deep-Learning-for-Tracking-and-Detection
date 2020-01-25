@@ -82,6 +82,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__4)
 - [Tutorials](#tutorials_)
+    - [Multi Object Tracking](#multi_object_tracking__4)
     - [Static Detection](#static_detectio_n__3)
     - [Video Detection](#video_detectio_n__4)
     - [Instance Segmentation](#instance_segmentation__1)
@@ -887,7 +888,14 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="tutorials_"></a>
 # Tutorials
 <a id="static_detectio_n__3"></a>
+
+<a id="multi_object_tracking__4"></a>
+## Multi Object Tracking
+* [What is the Multi-Object Tracking (MOT) system?](https://deepomatic.com/en/moving-beyond-deepomatic-learns-how-to-track-multiple-objects/)
+
+<a id="static_detectio_n__3"></a>
 ## Static Detection
+
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)  
 * [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)    
