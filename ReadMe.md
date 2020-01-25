@@ -608,6 +608,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking](https://github.com/maksay/seq-train) [cvpr19] [tensorflow]    
 * [Robust Multi-Modality Multi-Object Tracking](https://github.com/ZwwWayne/mmMOT) [iccv19] [pytorch]    
 * [Towards Real-Time Multi-Object Tracking / Joint Detection and Embedding](https://github.com/Zhongdao/Towards-Realtime-MOT) [ax1909] [pytorch]    
+* [Deep Affinity Network for Multiple Object Tracking](https://github.com/shijieS/SST) [tpami19] [pytorch]    
 
 <a id="single_object_tracking__2"></a>
 ## Single Object Tracking
