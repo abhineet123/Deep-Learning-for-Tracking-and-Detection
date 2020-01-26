@@ -609,6 +609,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Robust Multi-Modality Multi-Object Tracking](https://github.com/ZwwWayne/mmMOT) [iccv19] [pytorch]    
 * [Towards Real-Time Multi-Object Tracking / Joint Detection and Embedding](https://github.com/Zhongdao/Towards-Realtime-MOT) [ax1909] [pytorch]    
 * [Deep Affinity Network for Multiple Object Tracking](https://github.com/shijieS/SST) [tpami19] [pytorch]    
+* [Tracking without bells and whistles](https://github.com/phil-bergmann/tracking_wo_bnw) [iccv19] [pytorch]    
 
 <a id="single_object_tracking__2"></a>
 ## Single Object Tracking
