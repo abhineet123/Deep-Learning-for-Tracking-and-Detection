@@ -293,7 +293,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [ax1903/iccv19]
 [[pdf]](multi_object_tracking/deep_learning/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf)
 [[notes]](multi_object_tracking/notes/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf)
-[[code]](https://github.com/phil-bergmann/tracking_wo_bnw) [[pytorch]]
+[[code]](https://github.com/phil-bergmann/tracking_wo_bnw) [pytorch]
 
 <a id="rnn__1"></a>
 ### RNN
