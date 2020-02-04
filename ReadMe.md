@@ -289,6 +289,11 @@ Collection of papers, datasets, code and other resources for object detection an
 [ax1811/mm19]
 [[pdf]](multi_object_tracking/deep_learning/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf)
 [[notes]](multi_object_tracking/notes/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf)
+* **Tracking without bells and whistles**
+[ax1903/iccv19]
+[[pdf]](multi_object_tracking/deep_learning/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf)
+[[notes]](multi_object_tracking/notes/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf)
+[[code]](https://github.com/phil-bergmann/tracking_wo_bnw) [[pytorch]]
 
 <a id="rnn__1"></a>
 ### RNN
