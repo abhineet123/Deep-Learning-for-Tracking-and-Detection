@@ -533,6 +533,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [A Large-Scale Dataset for Vehicle Re-Identification in the Wild](https://github.com/PKU-IMRE/VERI-Wild)
 [cvpr19]
 - [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
+- [MIO-TCD: A new benchmark dataset for vehicle classification and localization](http://podoce.dinf.usherbrooke.ca/challenge/dataset/) [tip18]
  
 <a id="animals_"></a>
 ### Animals
