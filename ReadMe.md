@@ -674,6 +674,7 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="framework_s_"></a>
 ### Frameworks
 + [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
++ [Detectron2](https://github.com/facebookresearch/detectron2)
 + [Detectron](https://github.com/facebookresearch/Detectron)
 + [Open MMLab Detection Toolbox with PyTorch](https://github.com/open-mmlab/mmdetection)
 
