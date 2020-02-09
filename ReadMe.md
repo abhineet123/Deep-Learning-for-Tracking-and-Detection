@@ -534,6 +534,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [cvpr19]
 - [Object Detection-based annotations for some frames of the VIRAT dataset](https://github.com/ahrnbom/ViratAnnotationObjectDetection)
 - [MIO-TCD: A new benchmark dataset for vehicle classification and localization](http://podoce.dinf.usherbrooke.ca/challenge/dataset/) [tip18]
+- [Tiny ImageNet](https://tiny-imagenet.herokuapp.com/)
  
 <a id="animals_"></a>
 ### Animals
