@@ -16,6 +16,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [FGFA](#fgf_a_)
         - [RNN](#rnn_)
     - [Multi Object Tracking](#multi_object_tracking_)
+        - [Association](#association_)
         - [Deep Learning](#deep_learning_)
         - [RNN](#rnn__1)
         - [Unsupervised Learning](#unsupervised_learning_)
@@ -260,6 +261,15 @@ Collection of papers, datasets, code and other resources for object detection an
 
 <a id="multi_object_tracking_"></a>
 ##  Multi Object Tracking
+
+<a id="association_"></a>
+### Association
+
+* **Deep Affinity Network for Multiple Object Tracking**
+[ax1810/tpami19]
+[[pdf]](multi_object_tracking/association/Deep Affinity Network for Multiple Object Tracking ax1810.11780 tpami19.pdf)
+[[notes]](multi_object_tracking/notes/Deep Affinity Network for Multiple Object Tracking ax1810.11780 tpami19.pdf)
+[[code]](https://github.com/shijieS/SST) [pytorch]
 
 <a id="deep_learning_"></a>
 ### Deep Learning
