@@ -842,6 +842,7 @@ Collection of papers, datasets, code and other resources for object detection an
 ### Augmentation
 
 - [Augmentor: Image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
+- [Albumentations: Fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albumentations-team/albumentations)
 
 
 <a id="mis_c__3"></a>
