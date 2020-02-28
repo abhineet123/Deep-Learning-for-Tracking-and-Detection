@@ -75,6 +75,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Misc](#mis_c__3)
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
+    - [Deep Learning](#deep_learning__2)
     - [Static Detection](#static_detectio_n__2)
     - [Video Detection](#video_detectio_n__3)
     - [Single Object Tracking](#single_object_tracking__3)
@@ -860,6 +861,10 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Registry of Open Data on AWS](https://registry.opendata.aws/) 
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
 * [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm) 
+
+<a id="deep_learning__2"></a>
+## Deep Learning
+- [Model Zoo : Discover open source deep learning code and pretrained models](https://modelzoo.co/)
 
 <a id="static_detectio_n__2"></a>
 ## Static Detection
