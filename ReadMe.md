@@ -72,6 +72,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Classification](#classificatio_n__1)
     - [Deep RL](#deep_rl_)
     - [Annotation](#annotatio_n_)
+        - [Augmentation](#augmentatio_n_)
     - [Misc](#mis_c__3)
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
@@ -836,6 +837,12 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Image labelling tool](https://bitbucket.org/ueacomputervision/image-labelling-tool/)
 - [Labelbox](https://github.com/Labelbox/Labelbox) [paid]
 - [RectLabel An image annotation tool to label images for bounding box object detection and segmentation.](https://rectlabel.com/) [paid]
+
+<a id="augmentatio_n_"></a>
+### Augmentation
+
+- [Augmentor: Image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
+
 
 <a id="mis_c__3"></a>
 ## Misc
