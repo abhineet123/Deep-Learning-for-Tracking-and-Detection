@@ -531,6 +531,7 @@ Collection of papers, datasets, code and other resources for object detection an
 ## Video Detection
 
 - [YouTube-BB](https://research.google.com/youtube-bb/download.html)
+- [Imagenet-VID](http://bvisionweb1.cs.unc.edu/ilsvrc2015/download-videos-3j16.php)
 
 <a id="video_understanding___activity_recognitio_n_"></a>
 ### Video Understanding / Activity Recognition
