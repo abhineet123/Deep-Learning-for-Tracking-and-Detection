@@ -656,6 +656,7 @@ Collection of papers, datasets, code and other resources for object detection an
 [pytorch](https://github.com/visionml/pytracking)
 * [Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning](https://github.com/ildoonet/tf-adnet-tracking) [cvpr17] [tensorflow]
 * [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv17] [matlab]
+* [Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers](https://github.com/silverbottlep/meta_trackers) [eccv18] [pytorch]
 * [Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking](https://github.com/lifeng9472/STRCF) [cvpr18] [matlab]
 * High Performance Visual Tracking with Siamese Region Proposal Network [cvpr18] [[pytorch]](https://github.com/zkisthebest/Siamese-RPN) [[pytorch]](https://github.com/songdejia/Siamese-RPN-pytorch)  [[pytorch/no_train]](https://github.com/huanglianghua/siamrpn-pytorch) [[pytorch]](https://github.com/HelloRicky123/Siamese-RPN) 
 * [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
