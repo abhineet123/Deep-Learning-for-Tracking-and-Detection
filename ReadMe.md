@@ -639,7 +639,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv15] [matlab]
 * [Visual Tracking with Fully Convolutional Networks](https://github.com/scott89/FCNT) [iccv15] [matlab]
 * [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](https://github.com/pondruska/DeepTracking) [aaai16] [torch 7]
-* Learning Multi-Domain Convolutional Neural Networks for Visual Tracking [cvpr16] [vot2015 winner] [matlab/matconvnet](https://github.com/HyeonseobNam/MDNet) [pytorch](https://github.com/HyeonseobNam/py-MDNet)
+* Learning Multi-Domain Convolutional Neural Networks for Visual Tracking [cvpr16] [vot2015 winner] [[matlab/matconvnet]](https://github.com/HyeonseobNam/MDNet) [[pytorch]](https://github.com/HyeonseobNam/py-MDNet)
 * [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [eccv 2016] [matlab]
 * [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/bertinetto/siamese-fc) [eccvw 2016] [matlab/matconvnet] [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html) [[pytorch]](https://github.com/huanglianghua/siamfc-pytorch) [[pytorch (only training)]](https://github.com/rafellerc/Pytorch-SiamFC)
 * [DCFNet: Discriminant Correlation Filters Network for Visual Tracking](https://arxiv.org/abs/1704.04057) [ax1704] [[matlab/matconvnet]](https://github.com/foolwood/DCFNet/) [[pytorch]](https://github.com/foolwood/DCFNet_pytorch/)
@@ -651,9 +651,9 @@ Collection of papers, datasets, code and other resources for object detection an
 * [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [iscas 2017] [tensorfow]
 * [ECO: Efficient Convolution Operators for Tracking](https://arxiv.org/abs/1611.09224)
 [cvpr17]
-[https://github.com/martin-danelljan/ECO[matlab]]()
-[python/cuda](https://github.com/StrangerZhang/pyECO)
-[pytorch](https://github.com/visionml/pytracking)
+[[matlab]](https://github.com/martin-danelljan/ECO)
+[[python/cuda]](https://github.com/StrangerZhang/pyECO)
+[[pytorch]](https://github.com/visionml/pytracking)
 * [Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning](https://github.com/ildoonet/tf-adnet-tracking) [cvpr17] [tensorflow]
 * [Detect to Track and Track to Detect](https://github.com/feichtenhofer/Detect-Track) [iccv17] [matlab]
 * [Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers](https://github.com/silverbottlep/meta_trackers) [eccv18] [pytorch]
