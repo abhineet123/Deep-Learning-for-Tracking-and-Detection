@@ -516,6 +516,8 @@ Collection of papers, datasets, code and other resources for object detection an
 - [JTA](http://imagelab.ing.unimore.it/imagelab/page.asp?IdPage=25) [top down and street level viewpoint] [synthetic/GTA 5] [pedestrian] [3D annotations]
 - [PathTrack: Fast Trajectory Annotation with Path Supervision](http://people.ee.ethz.ch/~daid/pathtrack/) [top down and street level viewpoint] [iccv17] [pedestrian] 
 - [CityFlow](https://www.aicitychallenge.org/) [pole mounted] [intersections] [vehicles] [re-id]  [cvpr19]
+- [UAVDT - The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking
+](https://sites.google.com/site/daviddo0323/projects/uavdt) [uav] [intersections/highways] [vehicles]  [eccv18]
  
 <a id="single_object_tracking__1"></a>
 ## Single Object Tracking
@@ -526,6 +528,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Long-term Tracking in the Wild A Benchmark](https://oxuva.github.io/long-term-tracking-benchmark/) [eccv18]
 - [UAV123: A benchmark and simulator for UAV tracking](https://uav123.org/) [eccv16] [[project]](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx)
 - [Sim4CV A Photo-Realistic Simulator for Computer Vision Applications](https://sim4cv.org/) [ijcv18]   
+- [CDTB: A Color and Depth Visual Object Tracking and Benchmark](https://www.vicos.si/Projects/CDTB) [iccv19]   [RGBD]
 
 <a id="video_detectio_n__1"></a>
 ## Video Detection
