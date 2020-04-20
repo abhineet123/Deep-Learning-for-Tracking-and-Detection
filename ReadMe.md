@@ -889,6 +889,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 <a id="single_object_tracking__3"></a>
 ## Single Object Tracking
+- [Visual Tracking Paper List](https://github.com/foolwood/benchmark_results)
 - [List of deep learning based tracking papers](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-tracking.md)
 - [List of single object trackers with results on OTB](https://github.com/foolwood/benchmark_results)
 - [Collection of Correlation Filter based trackers with links to papers, codes, etc](https://github.com/lukaswals/cf-trackers)
