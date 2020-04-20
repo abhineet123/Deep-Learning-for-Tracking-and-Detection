@@ -664,6 +664,10 @@ Collection of papers, datasets, code and other resources for object detection an
 * [PyTracking: A general python framework for training and running visual object trackers, based on PyTorch](https://github.com/visionml/pytracking) [ECO/ATOM/DiMP] [cvpr17/cvpr19/iccv19] [pytorch] 
 * [Unsupervised Deep Tracking](https://github.com/594422814/UDT) [cvpr19] [matlab/matconvnet] [[pytorch]](https://github.com/594422814/UDT_pytorch)
 * [Deeper and Wider Siamese Networks for Real-Time Visual Tracking](https://github.com/researchmm/SiamDW) [cvpr19] [pytorch]
+* [GradNet: Gradient-Guided Network for Visual Object Tracking](https://github.com/LPXTT/GradNet-Tensorflow) [iccv19] [tensorflow]
+* [`Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-term Tracking](https://github.com/iiau-tracker/SPLT) [iccv19] [tensorflow]
+* [Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking](https://github.com/vision4robotics/ARCF-tracker) [iccv19] [matlab]
+* [Learning the Model Update for Siamese Trackers](https://github.com/zhanglichao/updatenet) [iccv19] [pytorch]
 
 <a id="gui_application___large_scale_tracking___animal_s_"></a>
 ### GUI Application / Large Scale Tracking / Animals
