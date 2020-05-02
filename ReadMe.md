@@ -673,6 +673,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking](https://github.com/vision4robotics/ARCF-tracker) [iccv19] [matlab]
 * [Learning the Model Update for Siamese Trackers](https://github.com/zhanglichao/updatenet) [iccv19] [pytorch]
 * [Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking](https://github.com/XU-TIANYANG/GFS-DCF) [iccv19] [matlab]
+* [Siam R-CNN: Visual Tracking by Re-Detection](https://github.com/VisualComputingInstitute/SiamR-CNN) [cvpr20] [tensorflow]
 
 <a id="gui_application___large_scale_tracking___animal_s_"></a>
 ### GUI Application / Large Scale Tracking / Animals
