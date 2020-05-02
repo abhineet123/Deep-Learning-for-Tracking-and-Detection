@@ -784,7 +784,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 <a id="text_detectio_n_"></a>
 ### Text Detection  
-+ [Real-time Scene Text Detection with Differentiable Binarization](https://github.com/s9xie/hed) [pytorch] [aaai20] 
++ [Real-time Scene Text Detection with Differentiable Binarization](https://github.com/MhLiao/DB) [pytorch] [aaai20] 
 
 <a id="optical_flow__1"></a>
 ## Optical Flow
