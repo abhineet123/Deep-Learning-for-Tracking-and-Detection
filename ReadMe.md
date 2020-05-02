@@ -63,6 +63,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Misc](#mis_c__2)
         - [Matching](#matchin_g_)
         - [Boundary Detection](#boundary_detectio_n__1)
+        - [Text Detection](#text_detectio_n_)
     - [Optical Flow](#optical_flow__1)
     - [Instance Segmentation](#instance_segmentation_)
         - [Frameworks](#framework_s__1)
@@ -781,6 +782,10 @@ Collection of papers, datasets, code and other resources for object detection an
 + [Holistically-Nested Edge Detection (HED) in OpenCV](https://github.com/opencv/opencv/blob/master/samples/dnn/edge_detection.py) [python/c++]       
 + [Crisp Boundary Detection Using Pointwise Mutual Information (eccv14)](https://github.com/phillipi/crisp-boundaries) [matlab]
 
+<a id="text_detectio_n_"></a>
+### Text Detection  
++ [Real-time Scene Text Detection with Differentiable Binarization](https://github.com/s9xie/hed) [pytorch] [aaai20] 
+
 <a id="optical_flow__1"></a>
 ## Optical Flow
 * [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks (cvpr17)](https://arxiv.org/abs/1612.01925) [[caffe]](https://github.com/lmb-freiburg/flownet2) [[pytorch/nvidia]](https://github.com/NVIDIA/flownet2-pytorch)
@@ -819,6 +824,7 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="video_segmentation__1"></a>
 ## Video Segmentation
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
+* [PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://github.com/JonathonLuiten/PReMVOS) [accv18/cvprw18/eccvw18] [tensorflow]
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
