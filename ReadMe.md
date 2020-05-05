@@ -434,7 +434,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * **Siam R-CNN Visual Tracking by Re-Detection**
 [cvpr20]
 [[pdf]](single_object_tracking/siamese/Siam%20R-CNN%20Visual%20Tracking%20by%20Re-Detection%201911.12836%20cvpr20.pdf)
-[[notes]](single_object_tracking/notes/Siam%20R-CNN%20Visual%20Tracking%20by%20Re-Detection%201911.12836%20cvpr20)
+[[notes]](single_object_tracking/notes/Siam%20R-CNN%20Visual%20Tracking%20by%20Re-Detection%201911.12836%20cvpr20.pdf)
 [[project]](https://www.vision.rwth-aachen.de/page/siamrcnn)
 [[code]](https://github.com/VisualComputingInstitute/SiamR-CNN)  
 
