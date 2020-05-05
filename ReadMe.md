@@ -431,6 +431,12 @@ Collection of papers, datasets, code and other resources for object detection an
 [[pdf]](single_object_tracking/siamese/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)
 [[author]](http://www.robots.ox.ac.uk/~qwang/)
 [[notes]](single_object_tracking/notes/High%20Performance%20Visual%20Tracking%20with%20Siamese%20Region%20Proposal%20Network_cvpr18.pdf)  
+* **Siam R-CNN Visual Tracking by Re-Detection**
+[cvpr20]
+[[pdf]](single_object_tracking/siamese/Siam R-CNN Visual Tracking by Re-Detection 1911.12836 cvpr20.pdf)
+[[project]](https://www.vision.rwth-aachen.de/page/siamrcnn)
+[[notes]](single_object_tracking/notes/Siam R-CNN Visual Tracking by Re-Detection 1911.12836 cvpr20)  
+[[code]](https://github.com/VisualComputingInstitute/SiamR-CNN)  
 
 <a id="mis_c__1"></a>
 ### Misc
@@ -439,6 +445,10 @@ Collection of papers, datasets, code and other resources for object detection an
 [[pdf]](single_object_tracking/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
 [[notes]](single_object_tracking/notes/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
 [[code]](https://github.com/visionml/pytracking)
+* **Bridging the Gap Between Detection and Tracking A Unified Approach**
+[iccv19]
+[[pdf]](single_object_tracking/Bridging the Gap Between Detection and Tracking A Unified Approach iccv19.pdf)
+[[notes]](single_object_tracking/notes/Bridging the Gap Between Detection and Tracking A Unified Approach iccv19.pdf)
 
 <a id="deep_learning__1"></a>
 ##  Deep Learning
