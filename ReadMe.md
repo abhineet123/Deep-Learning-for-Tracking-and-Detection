@@ -446,7 +446,6 @@ Collection of papers, datasets, code and other resources for object detection an
 [[pdf]](single_object_tracking/correlation/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
 [[notes]](single_object_tracking/notes/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
 [[code]](https://github.com/visionml/pytracking)
-
 * **DiMP Learning Discriminative Model Prediction for Tracking**
 [iccv19]
 [[pdf]](single_object_tracking/correlation/DiMP%20Learning%20Discriminative%20Model%20Prediction%20for%20Tracking%20ax1904.07220%20iccv19.pdf)
