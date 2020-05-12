@@ -27,6 +27,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Single Object Tracking](#single_object_tracking_)
         - [Reinforcement Learning](#reinforcement_learning__1)
         - [Siamese](#siamese_)
+        - [Correlation](#correlation_)
         - [Misc](#mis_c__1)
     - [Deep Learning](#deep_learning__1)
         - [Synthetic Gradients](#synthetic_gradient_s_)
@@ -438,13 +439,24 @@ Collection of papers, datasets, code and other resources for object detection an
 [[project]](https://www.vision.rwth-aachen.de/page/siamrcnn)
 [[code]](https://github.com/VisualComputingInstitute/SiamR-CNN)  
 
-<a id="mis_c__1"></a>
-### Misc
+<a id="correlation_"></a>
+### Correlation
 * **ATOM Accurate Tracking by Overlap Maximization**
 [cvpr19]
-[[pdf]](single_object_tracking/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
+[[pdf]](single_object_tracking/correlation/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
 [[notes]](single_object_tracking/notes/ATOM%20Accurate%20Tracking%20by%20Overlap%20Maximization%20ax1811.07628%20cvpr19.pdf)
 [[code]](https://github.com/visionml/pytracking)
+
+* **DiMP Learning Discriminative Model Prediction for Tracking**
+[iccv19]
+[[pdf]](single_object_tracking/correlation/DiMP%20Learning%20Discriminative%20Model%20Prediction%20for%20Tracking%20ax1904.07220%20iccv19.pdf)
+[[notes]](single_object_tracking/notes/DiMP%20Learning%20Discriminative%20Model%20Prediction%20for%20Tracking%20ax1904.07220%20iccv19.pdf)
+[[code]](https://github.com/visionml/pytracking)
+
+
+<a id="mis_c__1"></a>
+### Misc
+
 * **Bridging the Gap Between Detection and Tracking A Unified Approach**
 [iccv19]
 [[pdf]](single_object_tracking/Bridging%20the%20Gap%20Between%20Detection%20and%20Tracking%20A%20Unified%20Approach%20iccv19.pdf)
