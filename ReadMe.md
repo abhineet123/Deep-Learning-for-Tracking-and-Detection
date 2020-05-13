@@ -452,6 +452,12 @@ Collection of papers, datasets, code and other resources for object detection an
 [[notes]](single_object_tracking/notes/DiMP%20Learning%20Discriminative%20Model%20Prediction%20for%20Tracking%20ax1904.07220%20iccv19.pdf)
 [[code]](https://github.com/visionml/pytracking)
 
+* **D3S – A Discriminative Single Shot Segmentation Tracker**
+[cvpr20]
+[[pdf]](single_object_tracking/correlation/D3S – A Discriminative Single Shot Segmentation Tracker 1911.08862v1 cvpr20.pdf)
+[[notes]](single_object_tracking/notes/D3S – A Discriminative Single Shot Segmentation Tracker 1911.08862v1 cvpr20.pdf)
+[[code]](https://github.com/alanlukezic/d3s)
+
 
 <a id="mis_c__1"></a>
 ### Misc
@@ -695,6 +701,7 @@ Collection of papers, datasets, code and other resources for object detection an
 * [Learning the Model Update for Siamese Trackers](https://github.com/zhanglichao/updatenet) [iccv19] [pytorch]
 * [Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking](https://github.com/XU-TIANYANG/GFS-DCF) [iccv19] [matlab]
 * [Siam R-CNN: Visual Tracking by Re-Detection](https://github.com/VisualComputingInstitute/SiamR-CNN) [cvpr20] [tensorflow]
+* [D3S - Discriminative Single Shot Segmentation Tracker ](https://github.com/alanlukezic/d3s) [cvpr20] [pytorch/pytracking]
 
 <a id="gui_application___large_scale_tracking___animal_s_"></a>
 ### GUI Application / Large Scale Tracking / Animals
