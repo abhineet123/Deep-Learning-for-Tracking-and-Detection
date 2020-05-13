@@ -451,13 +451,11 @@ Collection of papers, datasets, code and other resources for object detection an
 [[pdf]](single_object_tracking/correlation/DiMP%20Learning%20Discriminative%20Model%20Prediction%20for%20Tracking%20ax1904.07220%20iccv19.pdf)
 [[notes]](single_object_tracking/notes/DiMP%20Learning%20Discriminative%20Model%20Prediction%20for%20Tracking%20ax1904.07220%20iccv19.pdf)
 [[code]](https://github.com/visionml/pytracking)
-
 * **D3S – A Discriminative Single Shot Segmentation Tracker**
 [cvpr20]
 [[pdf]](single_object_tracking/correlation/D3S%20–%20A%20Discriminative%20Single%20Shot%20Segmentation%20Tracker%201911.08862v1%20cvpr20.pdf)
 [[notes]](single_object_tracking/notes/D3S%20–%20A%20Discriminative%20Single%20Shot%20Segmentation%20Tracker%201911.08862v1%20cvpr20.pdf)
 [[code]](https://github.com/alanlukezic/d3s)
-
 
 <a id="mis_c__1"></a>
 ### Misc
