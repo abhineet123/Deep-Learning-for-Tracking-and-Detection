@@ -454,8 +454,8 @@ Collection of papers, datasets, code and other resources for object detection an
 
 * **D3S – A Discriminative Single Shot Segmentation Tracker**
 [cvpr20]
-[[pdf]](single_object_tracking/correlation/D3S – A Discriminative Single Shot Segmentation Tracker 1911.08862v1 cvpr20.pdf)
-[[notes]](single_object_tracking/notes/D3S – A Discriminative Single Shot Segmentation Tracker 1911.08862v1 cvpr20.pdf)
+[[pdf]](single_object_tracking/correlation/D3S%20–%20A%20Discriminative%20Single%20Shot%20Segmentation%20Tracker%201911.08862v1%20cvpr20.pdf)
+[[notes]](single_object_tracking/notes/D3S%20–%20A%20Discriminative%20Single%20Shot%20Segmentation%20Tracker%201911.08862v1%20cvpr20.pdf)
 [[code]](https://github.com/alanlukezic/d3s)
 
 
