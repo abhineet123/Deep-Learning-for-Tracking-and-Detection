@@ -568,6 +568,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [YouTube-8M](https://research.google.com/youtube8m/)
 - [AVA: A Video Dataset of Atomic Visual Action](https://research.google.com/ava/)
 - [VIRAT Video Dataset](http://www.viratdata.org/)
+- [Kinetics Action Recognition Dataset](https://deepmind.com/research/open-source/kinetics)
 
 <a id="static_detectio_n__1"></a>
 ## Static Detection
