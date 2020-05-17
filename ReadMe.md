@@ -111,7 +111,7 @@ You will also need to import my user preferences (**File** -> **Import** -> **Im
 -  [User Preferences](https://drive.google.com/open?id=16TZLhNGPguTuAevEY5TUZKMmJTpG3N-A)
 -  [Entry Export File](https://drive.google.com/file/d/1xwNlchCPop5eS_e43m3e7abQ7p7O--Fd/view?usp=sharing)
 
-I also provide my Journal global options file [here](https://drive.google.com/open?id=1GktSXEu7qUIkzcv5wJATOHTno62eDmHd) for those interested in a dark theme.
+I also provide my [Journal global options file](https://drive.google.com/open?id=1GktSXEu7qUIkzcv5wJATOHTno62eDmHd) for those interested in a dark theme.
 
 
 <a id="paper_s_"></a>
