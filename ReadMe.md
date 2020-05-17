@@ -109,7 +109,7 @@ It needs Jounal 8 and can be imported using **File** -> **Import** -> **Sync fro
 You will also need to import my user preferences (**File** -> **Import** -> **Import User Preferences**) _before_ importing the entries for the tagged topics to work correctly.
 
 -  [User Preferences](https://drive.google.com/open?id=16TZLhNGPguTuAevEY5TUZKMmJTpG3N-A)
--  [Entry Export File](https://drive.google.com/file/d/1xwNlchCPop5eS_e43m3e7abQ7p7O--Fd/view?usp=sharing)
+-  [Entry Export File](https://drive.google.com/open?id=1xwNlchCPop5eS_e43m3e7abQ7p7O--Fd)
 
 I also provide my [Journal global options file](https://drive.google.com/open?id=1GktSXEu7qUIkzcv5wJATOHTno62eDmHd) for those interested in a dark theme.
 
