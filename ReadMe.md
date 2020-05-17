@@ -2,6 +2,9 @@
 Collection of papers, datasets, code and other resources for object detection and tracking using deep learning
 <!-- MarkdownTOC -->
 
+- [Research Data](#research_data_)
+    - [Journal User Preferences](#journal_user_preference_s_)
+    - [Journal Entry Export File](#journal_entry_export_file_)
 - [Papers](#paper_s_)
     - [Static Detection](#static_detectio_n_)
         - [Region Proposal](#region_proposal_)
@@ -95,6 +98,25 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Autoencoders](#autoencoder_s__1)
 
 <!-- /MarkdownTOC -->
+
+<a id="research_data_"></a>
+# Research Data
+
+I use [DavidRM Journal](http://www.davidrm.com/) for managing my research data as it provides excellent hierarchical organization, cross-linking and tagging capabilities.
+
+I make available a Journal entry export file that contains tagged and categorized collection of papers, articles and notes about computer vision and deep learning that I have collected over the last few years.
+I hope it will be useful for others to avoid repeating the same research effort and encourage other researchers to share their data too.
+
+It needs Jounal 8 and can be imported using **File** -> **Import** -> **Sync from The Journal Export File**.
+You will also need to import my user preferences (**File** -> **Import** -> **Import User Preferences**) _before_ importing the entries for the tagged topics to work correctly.
+
+<a id="journal_user_preference_s_"></a>
+## [Journal User Preferences](https://drive.google.com/open?id=16TZLhNGPguTuAevEY5TUZKMmJTpG3N-A)
+<a id="journal_entry_export_file_"></a>
+## [Journal Entry Export File](https://drive.google.com/file/d/1xwNlchCPop5eS_e43m3e7abQ7p7O--Fd/view?usp=sharing)
+
+I also provide my Journal global options file [here](https://drive.google.com/open?id=1GktSXEu7qUIkzcv5wJATOHTno62eDmHd) for those interested in a dark theme.
+
 
 <a id="paper_s_"></a>
 # Papers
