@@ -100,7 +100,7 @@ Collection of papers, datasets, code and other resources for object detection an
 <a id="research_data_"></a>
 # Research Data
 
-I use [DavidRM Journal](http://www.davidrm.com/) for managing my research data as it provides excellent hierarchical organization, cross-linking and tagging capabilities.
+I use [DavidRM Journal](http://www.davidrm.com/) for managing my research data for its excellent hierarchical organization, cross-linking and tagging capabilities.
 
 I make available a Journal entry export file that contains tagged and categorized collection of papers, articles and notes about computer vision and deep learning that I have collected over the last few years.
 
