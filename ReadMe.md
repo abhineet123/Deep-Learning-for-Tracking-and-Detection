@@ -105,7 +105,7 @@ I use [DavidRM Journal](http://www.davidrm.com/) for managing my research data f
 I make available a Journal entry export file that contains tagged and categorized collection of papers, articles and notes about computer vision and deep learning that I have collected over the last few years.
 
 It needs Jounal 8 and can be imported using **File** -> **Import** -> **Sync from The Journal Export File**.
-You will also need to import my user preferences (**File** -> **Import** -> **Import User Preferences**) _before_ importing the entries for the tagged topics to work correctly.
+My user preferences also need to be imported (**File** -> **Import** -> **Import User Preferences**) _before_ importing the entries for the tagged topics to work correctly.
 
 -  [User Preferences](https://drive.google.com/open?id=16TZLhNGPguTuAevEY5TUZKMmJTpG3N-A)
 -  [Entry Export File](https://drive.google.com/open?id=1xwNlchCPop5eS_e43m3e7abQ7p7O--Fd)
