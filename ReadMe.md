@@ -983,6 +983,8 @@ I also provide my [Journal global options file](https://drive.google.com/open?id
 * [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
 * [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 * [A Month of Machine Learning Paper Summaries](https://medium.com/@hyponymous/a-month-of-machine-learning-paper-summaries-ddd4dcf6cfa5)
+* [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md)
+* [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
 
 <a id="tutorials_"></a>
 # Tutorials
