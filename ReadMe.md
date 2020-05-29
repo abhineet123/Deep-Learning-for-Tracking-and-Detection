@@ -1052,3 +1052,4 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Deep Learning Wizard](https://www.deeplearningwizard.com/)
 * [Towards Data Science](https://towardsdatascience.com/)
 * [Jay Alammar : Visualizing machine learning one concept at a time](https://jalammar.github.io/)
+* [Inside Machine Learning: Deep-dive articles about machine learning, cloud, and data. Curated by IBM](https://medium.com/inside-machine-learning)
