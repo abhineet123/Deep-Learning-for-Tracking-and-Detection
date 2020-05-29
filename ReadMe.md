@@ -1026,7 +1026,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 <a id="deep_learning__3"></a>
 ## Deep Learning
 * [Learning Rate Scheduling](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/lr_scheduling/)
-* 
+
 <a id="deep_rl__1"></a>
 ## Deep RL
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
