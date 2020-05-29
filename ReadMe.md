@@ -813,6 +813,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Relation Networks for Object Detection](https://github.com/msracver/Relation-Networks-for-Object-Detection) [cvpr18] [mxnet]
 * [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://github.com/lachlants/denet) [iccv17(poster)] [theano]
 * [Multi-scale Location-aware Kernel Representation for Object Detection](https://github.com/Hwang64/MLKP) [cvpr18]  [caffe/python]
+* [DE⫶TR: End-to-End Object Detection with Transformers](https://github.com/facebookresearch/detr) [ax200528]  [pytorch] [facebook]
 
 <a id="matchin_g_"></a>
 ### Matching  
