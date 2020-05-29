@@ -1047,5 +1047,6 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 # Blogs
 
 * [Facebook AI](https://ai.facebook.com/blog/)
+* [Google AI](https://ai.googleblog.com/)
 * [Google DeepMind](https://deepmind.com/blog)
 * [Deep Learning Wizard](https://www.deeplearningwizard.com/)
