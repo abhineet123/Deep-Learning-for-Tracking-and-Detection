@@ -94,6 +94,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Instance Segmentation](#instance_segmentation__1)
     - [Deep RL](#deep_rl__1)
     - [Autoencoders](#autoencoder_s__1)
+    - [Deep Learning](#deep_learning__3)
 - [Blogs](#blogs_)
 
 <!-- /MarkdownTOC -->
@@ -1036,6 +1037,11 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 * [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
 * [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
+
+<a id="deep_learning__3"></a>
+## Deep Learning
+
+* [Deep Learning Wizard](https://www.deeplearningwizard.com/)
 
 <a id="blogs_"></a>
 # Blogs
