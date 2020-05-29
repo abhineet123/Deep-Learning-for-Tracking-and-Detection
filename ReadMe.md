@@ -87,7 +87,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Segmentation](#segmentatio_n_)
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__4)
-- [Tutorials](#tutorials_)
+- [Tutorials and Blogs](#tutorials_and_blog_s_)
     - [Multi Object Tracking](#multi_object_tracking__4)
     - [Static Detection](#static_detectio_n__3)
     - [Video Detection](#video_detectio_n__4)
@@ -986,8 +986,8 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md)
 * [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
 
-<a id="tutorials_"></a>
-# Tutorials
+<a id="tutorials_and_blog_s_"></a>
+# Tutorials and Blogs
 <a id="static_detectio_n__3"></a>
 
 <a id="multi_object_tracking__4"></a>
@@ -997,6 +997,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 <a id="static_detectio_n__3"></a>
 ## Static Detection
 
+* [End-to-end object detection with Transformers](https://ai.facebook.com/blog/end-to-end-object-detection-with-transformers)
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)  
 * [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)    
