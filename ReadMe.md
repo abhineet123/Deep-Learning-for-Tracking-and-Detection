@@ -92,9 +92,9 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Static Detection](#static_detectio_n__3)
     - [Video Detection](#video_detectio_n__4)
     - [Instance Segmentation](#instance_segmentation__1)
+    - [Deep Learning](#deep_learning__3)
     - [Deep RL](#deep_rl__1)
     - [Autoencoders](#autoencoder_s__1)
-    - [Deep Learning](#deep_learning__3)
 - [Blogs](#blogs_)
 
 <!-- /MarkdownTOC -->
@@ -1023,6 +1023,10 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Review: FCIS — Winner in 2016 COCO Segmentation](https://towardsdatascience.com/review-fcis-winner-in-2016-coco-segmentation-instance-segmentation-ee2d61f465e2)
 * [Review: InstanceFCN — Instance-Sensitive Score Maps](https://towardsdatascience.com/review-instancefcn-instance-sensitive-score-maps-instance-segmentation-dbfe67d4ee92)
 
+<a id="deep_learning__3"></a>
+## Deep Learning
+* [Learning Rate Scheduling](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/lr_scheduling/)
+* 
 <a id="deep_rl__1"></a>
 ## Deep RL
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
@@ -1038,13 +1042,10 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
 * [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
 
-<a id="deep_learning__3"></a>
-## Deep Learning
-
-* [Deep Learning Wizard](https://www.deeplearningwizard.com/)
 
 <a id="blogs_"></a>
 # Blogs
 
 * [Facebook AI](https://ai.facebook.com/blog/)
 * [Google DeepMind](https://deepmind.com/blog)
+* [Deep Learning Wizard](https://www.deeplearningwizard.com/)
