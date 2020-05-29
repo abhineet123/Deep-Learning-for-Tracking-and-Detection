@@ -87,13 +87,14 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Segmentation](#segmentatio_n_)
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__4)
-- [Tutorials and Blogs](#tutorials_and_blog_s_)
+- [Tutorials](#tutorials_)
     - [Multi Object Tracking](#multi_object_tracking__4)
     - [Static Detection](#static_detectio_n__3)
     - [Video Detection](#video_detectio_n__4)
     - [Instance Segmentation](#instance_segmentation__1)
     - [Deep RL](#deep_rl__1)
     - [Autoencoders](#autoencoder_s__1)
+- [Blogs](#blogs_)
 
 <!-- /MarkdownTOC -->
 
@@ -986,9 +987,8 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md)
 * [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
 
-<a id="tutorials_and_blog_s_"></a>
-# Tutorials and Blogs
-<a id="static_detectio_n__3"></a>
+<a id="tutorials_"></a>
+# Tutorials
 
 <a id="multi_object_tracking__4"></a>
 ## Multi Object Tracking
@@ -996,7 +996,6 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 
 <a id="static_detectio_n__3"></a>
 ## Static Detection
-
 * [End-to-end object detection with Transformers](https://ai.facebook.com/blog/end-to-end-object-detection-with-transformers)
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)  
@@ -1037,3 +1036,9 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 * [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
 * [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
+
+<a id="blogs_"></a>
+# Blogs
+
+* [Facebook AI](https://ai.facebook.com/blog/)
+* [Google DeepMind](https://deepmind.com/blog)
