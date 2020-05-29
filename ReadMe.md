@@ -1050,3 +1050,4 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Google AI](https://ai.googleblog.com/)
 * [Google DeepMind](https://deepmind.com/blog)
 * [Deep Learning Wizard](https://www.deeplearningwizard.com/)
+* [Jay Alammar : Visualizing machine learning one concept at a time](https://jalammar.github.io/)
