@@ -48,6 +48,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Segmentation](#video_segmentation_)
     - [Classification](#classificatio_n_)
     - [Optical Flow](#optical_flow_)
+    - [Motion Prediction](#motion_prediction_)
 - [Code](#cod_e_)
     - [Multi Object Tracking](#multi_object_tracking__2)
     - [Single Object Tracking](#single_object_tracking__2)
@@ -71,7 +72,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Frameworks](#framework_s__1)
     - [Semantic Segmentation](#semantic_segmentation_)
     - [Video Segmentation](#video_segmentation__1)
-    - [Motion Prediction](#motion_prediction_)
+    - [Motion Prediction](#motion_prediction__1)
     - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
     - [Deep RL](#deep_rl_)
@@ -86,7 +87,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Single Object Tracking](#single_object_tracking__3)
     - [Multi Object Tracking](#multi_object_tracking__3)
     - [Segmentation](#segmentatio_n_)
-    - [Motion Prediction](#motion_prediction__1)
+    - [Motion Prediction](#motion_prediction__2)
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__4)
 - [Tutorials](#tutorials_)
@@ -649,6 +650,12 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 - [MPI Sintel](http://sintel.is.tue.mpg.de/)
 - [KITTI Flow](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow)
 
+<a id="motion_prediction_"></a>
+## Motion Prediction
+
+- [Trajnet++ (A Trajectory Forecasting Challenge)](https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge)
+- [Trajectory Forecasting Challenge](http://trajnet.stanford.edu/)
+
 
 <a id="cod_e_"></a>
 # Code
@@ -875,11 +882,33 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 * [PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://github.com/JonathonLuiten/PReMVOS) [accv18/cvprw18/eccvw18] [tensorflow]
 
-<a id="motion_prediction_"></a>
+<a id="motion_prediction__1"></a>
 ## Motion Prediction
 * [Self-Supervised Learning via Conditional Motion Propagation](https://github.com/XiaohangZhan/conditional-motion-propagation) [cvpr19] [pytorch]
 * [A Neural Temporal Model for Human Motion Prediction](https://github.com/cr7anand/neural_temporal_models) [cvpr19] [tensorflow]   
 * [Learning Trajectory Dependencies for Human Motion Prediction](https://github.com/wei-mao-2019/LearnTrajDep) [iccv19] [pytorch]   
+* [Structural-RNN: Deep Learning on Spatio-Temporal Graphs](https://github.com/zhaolongkzz/human_motion) [cvpr15] [tensorflow]   
+* [A Keras multi-input multi-output LSTM-based RNN for object trajectory forecasting](https://github.com/MarlonCajamarca/Keras-LSTM-Trajectory-Prediction) [keras]   
+* [Transformer Networks for Trajectory Forecasting](https://github.com/FGiuliari/Trajectory-Transformer) [ax2003] [pytorch]  
+* [Regularizing neural networks for future trajectory prediction via IRL framework](https://github.com/d1024choi/traj-pred-irl) [ietcv1907] [tensorflow]  
+* [Peeking into the Future: Predicting Future Person Activities and Locations in Videos](https://github.com/JunweiLiang/next-prediction) [cvpr19] [tensorflow]  
+* [DAG-Net: Double Attentive Graph Neural Network for Trajectory Forecasting](https://github.com/alexmonti19/dagnet) [ax200526] [pytorch]  
+* [MCENET: Multi-Context Encoder Network for Homogeneous Agent Trajectory Prediction in Mixed Traffic](https://github.com/sugmichaelyang/MCENET) [ax200405] [tensorflow]  
+* [Human Trajectory Prediction in Socially Interacting Crowds Using a CNN-based Architecture](https://github.com/biy001/social-cnn-pytorch) [pytorch]  
+* [A tool set for trajectory prediction, ready for pip install](https://github.com/xuehaouwa/Trajectory-Prediction-Tools) [icai19/wacv19]  [pytorch]  
+* [RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs](https://github.com/xuehaouwa/Trajectory-Prediction-Tools) [acmcscs19]  [pytorch/tensorflow]  
+* [The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction](https://github.com/JunweiLiang/Multiverse) [cvpr20] [dummy] 
+* [Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction](https://github.com/lmb-freiburg/Multimodal-Future-Prediction) [cvpr19] [tensorflow] 
+* [Adversarial Loss for Human Trajectory Prediction](https://github.com/vita-epfl/AdversarialLoss-SGAN) [hEART19] [pytorch] 
+* [Social GAN: SSocially Acceptable Trajectories with Generative Adversarial Networks](https://github.com/agrimgupta92/sgan) [cvpr18] [pytorch] 
+* [Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs](https://github.com/rohanchandra30/Spectral-Trajectory-and-Behavior-Prediction) [ax1912] [pytorch] 
+* [Study of attention mechanisms for trajectory prediction in Deep Learning](https://github.com/xuehaouwa/Trajectory-Prediction-Tools) [msc thesis]  [python]  
+* [A python implementation of multi-model estimation algorithm for trajectory tracking and prediction, research project from BMW ABSOLUT self-driving bus project.](https://github.com/chrisHuxi/Trajectory_Predictor) [python]  
+* [Prediciting Human Trajectories](https://github.com/karthik4444/nn-trajectory-prediction) [theano]  
+* [Implementation of Recurrent Neural Networks for future trajectory prediction of pedestrians](https://github.com/aroongta/Pedestrian_Trajectory_Prediction) [pytorch]  
+*
+ 
+ 
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
@@ -980,7 +1009,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
 * [Segmentation.X : Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation](https://github.com/wutianyiRosun/Segmentation.X)  
 
-<a id="motion_prediction__1"></a>
+<a id="motion_prediction__2"></a>
 ## Motion Prediction
 
 * [Awesome-Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction/blob/master/README.md)  
