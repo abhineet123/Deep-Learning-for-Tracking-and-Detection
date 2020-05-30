@@ -906,9 +906,6 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [A python implementation of multi-model estimation algorithm for trajectory tracking and prediction, research project from BMW ABSOLUT self-driving bus project.](https://github.com/chrisHuxi/Trajectory_Predictor) [python]  
 * [Prediciting Human Trajectories](https://github.com/karthik4444/nn-trajectory-prediction) [theano]  
 * [Implementation of Recurrent Neural Networks for future trajectory prediction of pedestrians](https://github.com/aroongta/Pedestrian_Trajectory_Prediction) [pytorch]  
-*
- 
- 
 
 <a id="autoencoder_s_"></a>
 ## Autoencoders
