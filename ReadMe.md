@@ -983,6 +983,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 <a id="motion_prediction__1"></a>
 ## Motion Prediction
 
+* [Awesome-Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction/blob/master/README.md)  
 * [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)  
 * [Human Trajectory Prediction Datasets](https://github.com/amiryanj/OpenTraj)  
 
