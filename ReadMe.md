@@ -71,6 +71,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Frameworks](#framework_s__1)
     - [Semantic Segmentation](#semantic_segmentation_)
     - [Video Segmentation](#video_segmentation__1)
+    - [Motion Prediction](#motion_prediction_)
     - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
     - [Deep RL](#deep_rl_)
@@ -85,6 +86,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Single Object Tracking](#single_object_tracking__3)
     - [Multi Object Tracking](#multi_object_tracking__3)
     - [Segmentation](#segmentatio_n_)
+    - [Motion Prediction](#motion_prediction__1)
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__4)
 - [Tutorials](#tutorials_)
@@ -873,6 +875,12 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 * [PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://github.com/JonathonLuiten/PReMVOS) [accv18/cvprw18/eccvw18] [tensorflow]
 
+<a id="motion_prediction_"></a>
+## Motion Prediction
+* [Self-Supervised Learning via Conditional Motion Propagation](https://github.com/XiaohangZhan/conditional-motion-propagation) [cvpr19] [pytorch]
+* [A Neural Temporal Model for Human Motion Prediction](https://github.com/cr7anand/neural_temporal_models) [cvpr19] [tensorflow]   
+* [Learning Trajectory Dependencies for Human Motion Prediction](https://github.com/wei-mao-2019/LearnTrajDep) [iccv19] [pytorch]   
+
 <a id="autoencoder_s_"></a>
 ## Autoencoders
 * [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl) [iclr17] [deepmind] [[tensorflow]](https://github.com/miyosuda/disentangled_vae) [[tensorflow]](https://github.com/LynnHo/VAE-Tensorflow) [[pytorch]](https://github.com/1Konny/Beta-VAE)
@@ -971,6 +979,12 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 
 * [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
 * [Segmentation.X : Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation](https://github.com/wutianyiRosun/Segmentation.X)  
+
+<a id="motion_prediction__1"></a>
+## Motion Prediction
+
+* [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)  
+* [Human Trajectory Prediction Datasets](https://github.com/amiryanj/OpenTraj)  
 
 <a id="deep_compressed_sensin_g_"></a>
 ## Deep Compressed Sensing
