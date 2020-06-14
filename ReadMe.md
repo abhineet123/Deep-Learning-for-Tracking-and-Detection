@@ -96,6 +96,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Detection](#video_detectio_n__4)
     - [Instance Segmentation](#instance_segmentation__1)
     - [Deep Learning](#deep_learning__3)
+    - [RNN](#rnn__2)
     - [Deep RL](#deep_rl__1)
     - [Autoencoders](#autoencoder_s__1)
 - [Blogs](#blogs_)
@@ -818,6 +819,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Cornernet: Detecting objects as paired keypoints](https://github.com/princeton-vl/CornerNet) [ax1903/eccv18] [pytorch]
 * [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch] [[VoVNet]](https://github.com/vov-net/VoVNet-FCOS) [[HRNet]](https://github.com/HRNet/HRNet-FCOS) [[NAS]](https://github.com/Lausannen/NAS-FCOS) [[FCOS_PLUS]](https://github.com/yqyao/FCOS_PLUS)
 * [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection) [cvpr19] [pytorch]
+* [CenterNet: Objects as Points](https://github.com/xingyizhou/CenterNet) [ax1904] [pytorch]
 
 <a id="mis_c__2"></a>
 ### Misc
@@ -1068,6 +1070,11 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 ## Deep Learning
 * [Learning Rate Scheduling](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/lr_scheduling/)
 
+<a id="rnn__2"></a>
+## RNN
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 <a id="deep_rl__1"></a>
 ## Deep RL
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
@@ -1094,3 +1101,5 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Towards Data Science](https://towardsdatascience.com/)
 * [Jay Alammar : Visualizing machine learning one concept at a time](https://jalammar.github.io/)
 * [Inside Machine Learning: Deep-dive articles about machine learning, cloud, and data. Curated by IBM](https://medium.com/inside-machine-learning)
+* [colah's blog](http://colah.github.io/)
+
