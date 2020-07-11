@@ -9,6 +9,7 @@
 !interpolation/
 !deep_learning/
 !autoencoder/
+!research_data/
 *.bat
 *.dat
 *.lnk
