@@ -983,6 +983,8 @@ Updated: 200711_142021
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
 * [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm) 
 * [Synthetic for Computer Vision: A list of synthetic dataset and tools for computer vision](https://github.com/unrealcv/synthetic-computer-vision) 
+* [pgram machine learning datasets](https://pgram.com/category/vision/) 
+* [pgram vision datasets](https://pgram.com/) 
 
 <a id="deep_learning__2"></a>
 ## Deep Learning
