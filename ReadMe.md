@@ -114,9 +114,9 @@ It needs Jounal 8 and can be imported using **File** -> **Import** -> **Sync fro
 My user preferences also need to be imported (**File** -> **Import** -> **Import User Preferences**) _before_ importing the entries for the tagged topics to work correctly.
  My global options file is also provided for those interested in a dark theme.
 
--  [User Preferences](https://drive.google.com/open?id=13Ows4cP5zoI-Ue3Ft6qzAA7hDOC7luho)
--  [Entry Export File](https://drive.google.com/open?id=1xwNlchCPop5eS_e43m3e7abQ7p7O--Fd)
--  [Global Options](https://drive.google.com/open?id=1O_f9JYtlOiRRs2uTQXy9k-LYA7hCvkgw)
+-  [User Preferences](research_data/user_settings.juser)
+-  [Entry Export File](research_data/phd_literature_readings.tjexp)
+-  [Global Options](research_data/global_options.tjglobal)
 
 <a id="paper_s_"></a>
 # Papers
