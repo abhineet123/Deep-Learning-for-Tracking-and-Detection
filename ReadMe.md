@@ -566,6 +566,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 - [CityFlow](https://www.aicitychallenge.org/) [pole mounted] [intersections] [vehicles] [re-id]  [cvpr19]
 - [UAVDT - The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking](https://sites.google.com/site/daviddo0323/projects/uavdt) [uav] [intersections/highways] [vehicles]  [eccv18]
 - [JackRabbot Dataset ](https://jrdb.stanford.edu/)  [RGBD] [head-on][indoor/outdoor][stanford]
+- [MNIST-MOT / MNIST-Sprites ](https://github.com/zhen-he/tracking-by-animation)  [synthetic] [cvpr19]
  
 <a id="single_object_tracking__1"></a>
 ## Single Object Tracking
