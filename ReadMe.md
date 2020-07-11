@@ -38,6 +38,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Variational](#variational_)
 - [Datasets](#dataset_s_)
     - [Multi Object Tracking](#multi_object_tracking__1)
+        - [Synthetic](#synthetic_)
     - [Single Object Tracking](#single_object_tracking__1)
     - [Video Detection](#video_detectio_n__1)
         - [Video Understanding / Activity Recognition](#video_understanding___activity_recognitio_n_)
@@ -568,7 +569,12 @@ Updated: 200711_142021
 - [CityFlow](https://www.aicitychallenge.org/) [pole mounted] [intersections] [vehicles] [re-id]  [cvpr19]
 - [UAVDT - The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking](https://sites.google.com/site/daviddo0323/projects/uavdt) [uav] [intersections/highways] [vehicles]  [eccv18]
 - [JackRabbot Dataset ](https://jrdb.stanford.edu/)  [RGBD] [head-on][indoor/outdoor][stanford]
-- [MNIST-MOT / MNIST-Sprites ](https://github.com/zhen-he/tracking-by-animation)  [synthetic] [cvpr19]
+
+<a id="synthetic_"></a>
+### Synthetic
+
+- [MNIST-MOT / MNIST-Sprites ](https://github.com/zhen-he/tracking-by-animation)  [script generated] [cvpr19]
+- [TUB Multi-Object and Multi-Camera Tracking Dataset ](https://www.nue.tu-berlin.de/menue/forschung/software_und_datensaetze/mocat/)  [avss16]
  
 <a id="single_object_tracking__1"></a>
 ## Single Object Tracking
