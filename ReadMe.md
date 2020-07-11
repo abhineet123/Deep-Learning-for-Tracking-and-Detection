@@ -972,6 +972,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 * [Registry of Open Data on AWS](https://registry.opendata.aws/) 
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
 * [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm) 
+* [Synthetic for Computer Vision: A list of synthetic dataset and tools for computer vision](https://github.com/unrealcv/synthetic-computer-vision) 
 
 <a id="deep_learning__2"></a>
 ## Deep Learning
