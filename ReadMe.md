@@ -575,7 +575,7 @@ Updated: 200711_142021
 
 - [MNIST-MOT / MNIST-Sprites ](https://github.com/zhen-he/tracking-by-animation)  [script generated] [cvpr19]
 - [TUB Multi-Object and Multi-Camera Tracking Dataset ](https://www.nue.tu-berlin.de/menue/forschung/software_und_datensaetze/mocat/)  [avss16]
-- [Virtual Worlds as Proxy for Multi-Object Tracking Analysis ](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Proxy-Virtual-Worlds) [arxiv](https://arxiv.org/abs/1605.06457)   [cvpr16] [link seems broken]
+- [Virtual Worlds as Proxy for Multi-Object Tracking Analysis ](http://www.xrce.xerox.com/Research-Development/Computer-Vision/Proxy-Virtual-Worlds) [[arxiv]](https://arxiv.org/abs/1605.06457)   [cvpr16] [link seems broken]
  
 <a id="single_object_tracking__1"></a>
 ## Single Object Tracking
