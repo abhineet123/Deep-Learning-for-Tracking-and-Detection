@@ -745,7 +745,7 @@ Updated: 200711_142021
 * [SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking](https://github.com/microsoft/SPM-Tracker) [cvpr19] [pytorch] [inference-only]
 * [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv15] [matlab] 
 * [Siamese Box Adaptive Network for Visual Tracking](https://github.com/hqucv/siamban) [cvpr20] [pytorch/pysot]
-* [VITAL: VIsual Tracking via Adversarial Learning](https://github.com/ybsong00/Vital_release) [cvpr18] [matlab] [[pytorch]](https://github.com/abnerwang/py-Vital)
+* [VITAL: VIsual Tracking via Adversarial Learning](https://github.com/ybsong00/Vital_release) [cvpr18] [matlab] [[pytorch]](https://github.com/abnerwang/py-Vital) [[project]](https://ybsong00.github.io/cvpr18_tracking/index.html)
 
 <a id="gui_application___large_scale_tracking___animal_s_"></a>
 ### GUI Application / Large Scale Tracking / Animals
