@@ -707,6 +707,7 @@ Updated: 200711_142021
 * [In Defense of Color-based Model-free Tracking](https://github.com/jbhuang0604/CF2) [cvpr15] [c++]
 * [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv15] [matlab]
 * [Visual Tracking with Fully Convolutional Networks](https://github.com/scott89/FCNT) [iccv15] [matlab]
+* [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv15] [matlab] 
 * [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](https://github.com/pondruska/DeepTracking) [aaai16] [torch 7]
 * Learning Multi-Domain Convolutional Neural Networks for Visual Tracking [cvpr16] [vot2015 winner] [[matlab/matconvnet]](https://github.com/HyeonseobNam/MDNet) [[pytorch]](https://github.com/HyeonseobNam/py-MDNet)
 * [Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://github.com/martin-danelljan/Continuous-ConvOp) [eccv 2016] [matlab]
@@ -715,6 +716,7 @@ Updated: 200711_142021
 * [End-to-end representation learning for Correlation Filter based tracking](https://arxiv.org/abs/1704.06036)
 [cvpr17]
 [[matlab/matconvnet]](https://github.com/bertinetto/cfnet) [[tensorflow/inference_only]](https://github.com/torrvision/siamfc-tf) [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
+* [Dual Deep Network for Visual Tracking](https://github.com/chizhizhen/DNT) [tip1704] [caffe]
 * [A simplified PyTorch implementation of Siamese networks for tracking: SiamFC, SiamRPN, SiamRPN++, SiamVGG, SiamDW, SiamRPN-VGG](https://github.com/zllrunning/SiameseX.PyTorch) [pytorch]
 * [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [cvprw17] [python]
 * [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [iscas 2017] [tensorfow]
@@ -729,6 +731,7 @@ Updated: 200711_142021
 * [Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking](https://github.com/lifeng9472/STRCF) [cvpr18] [matlab]
 * High Performance Visual Tracking with Siamese Region Proposal Network [cvpr18] [[pytorch/195]](https://github.com/zkisthebest/Siamese-RPN) [[pytorch/313]](https://github.com/songdejia/Siamese-RPN-pytorch)  [[pytorch/no_train/104]](https://github.com/huanglianghua/siamrpn-pytorch) [[pytorch/177]](https://github.com/HelloRicky123/Siamese-RPN) 
 * [Distractor-aware Siamese Networks for Visual Object Tracking](https://github.com/foolwood/DaSiamRPN) [eccv18] [vot18 winner] [pytorch]
+* [VITAL: VIsual Tracking via Adversarial Learning](https://github.com/ybsong00/Vital_release) [cvpr18] [matlab] [[pytorch]](https://github.com/abnerwang/py-Vital) [[project]](https://ybsong00.github.io/cvpr18_tracking/index.html)
 * [Fast Online Object Tracking and Segmentation: A Unifying Approach (SiamMask)](https://github.com/foolwood/SiamMask) [cvpr19] [pytorch] [[project]](http://www.robots.ox.ac.uk/~qwang/SiamMask/)
 * [PyTracking: A general python framework for training and running visual object trackers, based on PyTorch](https://github.com/visionml/pytracking) [ECO/ATOM/DiMP/PrDiMP] [cvpr17/cvpr19/iccv19/cvpr20] [pytorch] 
 * [Unsupervised Deep Tracking](https://github.com/594422814/UDT) [cvpr19] [matlab/matconvnet] [[pytorch]](https://github.com/594422814/UDT_pytorch)
@@ -737,15 +740,12 @@ Updated: 200711_142021
 * [`Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-term Tracking](https://github.com/iiau-tracker/SPLT) [iccv19] [tensorflow]
 * [Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking](https://github.com/vision4robotics/ARCF-tracker) [iccv19] [matlab]
 * [Learning the Model Update for Siamese Trackers](https://github.com/zhanglichao/updatenet) [iccv19] [pytorch]
+* [SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking](https://github.com/microsoft/SPM-Tracker) [cvpr19] [pytorch] [inference-only]
 * [Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking](https://github.com/XU-TIANYANG/GFS-DCF) [iccv19] [matlab]
 * [Siam R-CNN: Visual Tracking by Re-Detection](https://github.com/VisualComputingInstitute/SiamR-CNN) [cvpr20] [tensorflow]
 * [D3S - Discriminative Single Shot Segmentation Tracker](https://github.com/alanlukezic/d3s) [cvpr20] [pytorch/pytracking]
 * [Discriminative and Robust Online Learning for Siamese Visual Tracking](https://github.com/shallowtoil/DROL) [aaai20] [pytorch/pysot]
-* [Dual Deep Network for Visual Tracking](https://github.com/chizhizhen/DNT) [ti1704] [caffe]
-* [SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking](https://github.com/microsoft/SPM-Tracker) [cvpr19] [pytorch] [inference-only]
-* [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv15] [matlab] 
 * [Siamese Box Adaptive Network for Visual Tracking](https://github.com/hqucv/siamban) [cvpr20] [pytorch/pysot]
-* [VITAL: VIsual Tracking via Adversarial Learning](https://github.com/ybsong00/Vital_release) [cvpr18] [matlab] [[pytorch]](https://github.com/abnerwang/py-Vital) [[project]](https://ybsong00.github.io/cvpr18_tracking/index.html)
 
 <a id="gui_application___large_scale_tracking___animal_s_"></a>
 ### GUI Application / Large Scale Tracking / Animals
