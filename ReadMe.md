@@ -739,7 +739,13 @@ Updated: 200711_142021
 * [Learning the Model Update for Siamese Trackers](https://github.com/zhanglichao/updatenet) [iccv19] [pytorch]
 * [Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking](https://github.com/XU-TIANYANG/GFS-DCF) [iccv19] [matlab]
 * [Siam R-CNN: Visual Tracking by Re-Detection](https://github.com/VisualComputingInstitute/SiamR-CNN) [cvpr20] [tensorflow]
-* [D3S - Discriminative Single Shot Segmentation Tracker ](https://github.com/alanlukezic/d3s) [cvpr20] [pytorch/pytracking]
+* [D3S - Discriminative Single Shot Segmentation Tracker](https://github.com/alanlukezic/d3s) [cvpr20] [pytorch/pytracking]
+* [Discriminative and Robust Online Learning for Siamese Visual Tracking](https://github.com/shallowtoil/DROL) [aaai20] [pytorch/pysot]
+* [Dual Deep Network for Visual Tracking](https://github.com/chizhizhen/DNT) [ti1704] [caffe]
+* [SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking](https://github.com/microsoft/SPM-Tracker) [cvpr19] [pytorch] [inference-only]
+* [Hierarchical Convolutional Features for Visual Tracking](https://github.com/jbhuang0604/CF2) [iccv15] [matlab] 
+* [Siamese Box Adaptive Network for Visual Tracking](https://github.com/hqucv/siamban) [cvpr20] [pytorch/pysot]
+* [Learning multi-domain convolutional neural networks for visual tracking](https://github.com/ybsong00/Vital_release) [cvpr16] [matlab] [[pytorch]](https://github.com/abnerwang/py-Vital)
 
 <a id="gui_application___large_scale_tracking___animal_s_"></a>
 ### GUI Application / Large Scale Tracking / Animals
@@ -1006,7 +1012,8 @@ Updated: 200711_142021
 - [Collection of Correlation Filter based trackers with links to papers, codes, etc](https://github.com/lukaswals/cf-trackers)
 - [VOT2018 Trackers repository](http://www.votchallenge.net/vot2018/trackers.html)
 - [CUHK Datasets](http://mmlab.ie.cuhk.edu.hk.login.ezproxy.library.ualberta.ca/datasets.html)
-- [A Summary of CVPR19 Visual Tracking Paperss](https://linkinpark213.com/2019/06/11/cvpr19-track/ )
+- [A Summary of CVPR19 Visual Tracking Papers](https://linkinpark213.com/2019/06/11/cvpr19-track/ )
+- [Visual Trackers for Single Object](https://github.com/czla/daily-paper-visual-tracking)
     
 <a id="multi_object_tracking__3"></a>
 ## Multi Object Tracking
