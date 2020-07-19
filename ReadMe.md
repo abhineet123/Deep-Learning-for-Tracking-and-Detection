@@ -701,8 +701,8 @@ Updated: 200711_142021
 * [Tracking without bells and whistles](https://github.com/phil-bergmann/tracking_wo_bnw) [iccv19] [pytorch]    
 * [Lifted Disjoint Paths with Application in Multiple Object Tracking](https://github.com/AndreaHor/LifT_Solver) [icml20] [matlab] [mot15#1,mot16 #3,mot17#2]   
 * [Learning a Neural Solver for Multiple Object Tracking](https://github.com/dvl-tum/mot_neural_solver) [cvpr20] [pytorch] [mot15#2]   
-* [A simple baseline for one-shot multi-object tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] [mot15#2]   
-* [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack) [ax2004] [pytorch] [mot15#2]   
+* [A simple baseline for one-shot multi-object tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] 
+* [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack) [ax2004] [pytorch]
 
 <a id="single_object_tracking__2"></a>
 ## Single Object Tracking
