@@ -18,7 +18,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [RNN](#rnn_)
     - [Multi Object Tracking](#multi_object_tracking_)
         - [Joint-Detection](#joint_detection_)
-        - [Embedding vector](#embedding_vector_)
+            - [Embedding vector](#embedding_vector_)
         - [Association](#association_)
         - [Deep Learning](#deep_learning_)
         - [RNN](#rnn__1)
@@ -304,7 +304,7 @@ Updated: 200711_142021
 
 
 <a id="embedding_vector_"></a>
-### Embedding vector
+#### Embedding vector
 
 * **MOTS Multi-Object Tracking and Segmentation**
 [cvpr19]
