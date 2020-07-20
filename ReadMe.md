@@ -297,9 +297,9 @@ Updated: 200711_142021
 
 * **Tracking Objects as Points**
 [ax2004]
-[[pdf]](multi_object_tracking/association/Deep%20Affinity%20Network%20for%20Multiple%20Object%20Tracking%20ax1810.11780%20tpami19.pdf)
-[[notes]](multi_object_tracking/notes/Deep%20Affinity%20Network%20for%20Multiple%20Object%20Tracking%20ax1810.11780%20tpami19.pdf)
-[[code]](https://github.com/shijieS/SST) [pytorch]
+[[pdf]](multi_object_tracking/joint_detection/Tracking Objects as Points 2004.01177.pdf)
+[[notes]](multi_object_tracking/notes/Tracking Objects as Points 2004.01177.pdf)
+[[code]](https://github.com/xingyizhou/CenterTrack) [pytorch]
 
 <a id="association_"></a>
 ### Association
