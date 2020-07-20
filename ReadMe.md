@@ -299,7 +299,7 @@ Updated: 200711_142021
 [ax2004]
 [[pdf]](multi_object_tracking/joint_detection/Tracking%20Objects%20as%20Points%202004.01177.pdf)
 [[notes]](multi_object_tracking/notes/Tracking%20Objects%20as%20Points%202004.01177.pdf)
-[[code]](https://github.com/xingyizhou/CenterTrack)%20[pytorch]
+[[code]](https://github.com/xingyizhou/CenterTrack)[pytorch]
 
 <a id="association_"></a>
 ### Association
