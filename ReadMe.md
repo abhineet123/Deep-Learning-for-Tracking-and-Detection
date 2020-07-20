@@ -17,6 +17,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [FGFA](#fgf_a_)
         - [RNN](#rnn_)
     - [Multi Object Tracking](#multi_object_tracking_)
+        - [Joint-Detection](#joint_detection_)
         - [Association](#association_)
         - [Deep Learning](#deep_learning_)
         - [RNN](#rnn__1)
@@ -290,6 +291,15 @@ Updated: 200711_142021
 
 <a id="multi_object_tracking_"></a>
 ##  Multi Object Tracking
+
+<a id="joint_detection_"></a>
+### Joint-Detection
+
+* **Tracking Objects as Points**
+[ax2004]
+[[pdf]](multi_object_tracking/association/Deep%20Affinity%20Network%20for%20Multiple%20Object%20Tracking%20ax1810.11780%20tpami19.pdf)
+[[notes]](multi_object_tracking/notes/Deep%20Affinity%20Network%20for%20Multiple%20Object%20Tracking%20ax1810.11780%20tpami19.pdf)
+[[code]](https://github.com/shijieS/SST) [pytorch]
 
 <a id="association_"></a>
 ### Association
