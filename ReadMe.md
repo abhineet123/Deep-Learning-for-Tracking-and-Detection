@@ -18,6 +18,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [RNN](#rnn_)
     - [Multi Object Tracking](#multi_object_tracking_)
         - [Joint-Detection](#joint_detection_)
+        - [Embedding vector](#embedding_vector_)
         - [Association](#association_)
         - [Deep Learning](#deep_learning_)
         - [RNN](#rnn__1)
@@ -301,6 +302,24 @@ Updated: 200711_142021
 [[notes]](multi_object_tracking/notes/Tracking%20Objects%20as%20Points%202004.01177.pdf)
 [[code]](https://github.com/xingyizhou/CenterTrack)[pytorch]
 
+
+<a id="embedding_vector_"></a>
+### Embedding vector
+
+* **MOTS Multi-Object Tracking and Segmentation**
+[cvpr19]
+[[pdf]](multi_object_tracking/joint_detection/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
+[[notes]](multi_object_tracking/notes/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
+[[code]](https://github.com/VisualComputingInstitute/TrackR-CNN)
+[[project/data]](https://www.vision.rwth-aachen.de/page/mots)
+
+* **Towards Real-Time Multi-Object Tracking**
+[ax1909]
+[[pdf]](multi_object_tracking/joint_detection/Towards%20Real-Time%20Multi-Object%20Tracking%20ax1909.12605v1.pdf)
+[[notes]](multi_object_tracking/notes/Towards%20Real-Time%20Multi-Object%20Tracking%20ax1909.12605v1.pdf)
+
+
+
 <a id="association_"></a>
 ### Association
 
@@ -328,12 +347,7 @@ Updated: 200711_142021
 [iccv19]
 [[pdf]](multi_object_tracking/deep_learning/FAMNet%20Joint%20Learning%20of%20Feature,%20Affinity%20and%20Multi-Dimensional%20Assignment%20for%20Online%20Multiple%20Object%20Tracking%20iccv19.pdf)
 [[notes]](multi_object_tracking/notes/FAMNet%20Joint%20Learning%20of%20Feature,%20Affinity%20and%20Multi-Dimensional%20Assignment%20for%20Online%20Multiple%20Object%20Tracking%20iccv19.pdf)
-* **MOTS Multi-Object Tracking and Segmentation**
-[cvpr19]
-[[pdf]](multi_object_tracking/deep_learning/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
-[[notes]](multi_object_tracking/notes/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
-[[code]](https://github.com/VisualComputingInstitute/TrackR-CNN)
-[[project/data]](https://www.vision.rwth-aachen.de/page/mots)
+
 * **Exploit the Connectivity: Multi-Object Tracking with TrackletNet**
 [ax1811/mm19]
 [[pdf]](multi_object_tracking/deep_learning/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf)
