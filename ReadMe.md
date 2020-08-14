@@ -1166,4 +1166,5 @@ Updated: 200711_142021
 * [Jay Alammar : Visualizing machine learning one concept at a time](https://jalammar.github.io/)
 * [Inside Machine Learning: Deep-dive articles about machine learning, cloud, and data. Curated by IBM](https://medium.com/inside-machine-learning)
 * [colah's blog](http://colah.github.io/)
+* [Jeremy Jordan](https://www.jeremyjordan.me/)
 
