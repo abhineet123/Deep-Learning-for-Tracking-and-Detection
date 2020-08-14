@@ -1131,6 +1131,7 @@ Updated: 200711_142021
 * [Dealing with Imbalanced Data](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18) [towardsdatascience]
 * [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes) [elitedatascience]
 * [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html) [kdnuggets]
+* [10 Techniques to deal with Imbalanced Classes in Machine Learning](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/) [analyticsvidhya]
 
 <a id="rnn__2"></a>
 ## RNN
