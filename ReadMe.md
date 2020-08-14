@@ -1128,6 +1128,7 @@ Updated: 200711_142021
 <a id="class_imbalanc_e_"></a>
 ### Class Imbalance
 * [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
+* [Learning from Imbalanced Classes](https://www.svds.com/learning-imbalanced-classes/)
 * [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28) [medium]
 * [How to handle Class Imbalance Problem](https://medium.com/quantyca/how-to-handle-class-imbalance-problem-9ee3062f2499) [medium]
 * [Dealing with Imbalanced Data](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18) [towardsdatascience]
@@ -1168,4 +1169,5 @@ Updated: 200711_142021
 * [Inside Machine Learning: Deep-dive articles about machine learning, cloud, and data. Curated by IBM](https://medium.com/inside-machine-learning)
 * [colah's blog](http://colah.github.io/)
 * [Jeremy Jordan](https://www.jeremyjordan.me/)
+* [Silicon Valley Data Science](https://www.svds.com/tag/data-science/)
 
