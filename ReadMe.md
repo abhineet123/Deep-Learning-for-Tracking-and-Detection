@@ -99,6 +99,8 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Detection](#video_detectio_n__4)
     - [Instance Segmentation](#instance_segmentation__1)
     - [Deep Learning](#deep_learning__3)
+        - [Optimization](#optimizatio_n_)
+        - [Class Imbalance](#class_imbalanc_e_)
     - [RNN](#rnn__2)
     - [Deep RL](#deep_rl__1)
     - [Autoencoders](#autoencoder_s__1)
@@ -1118,7 +1120,17 @@ Updated: 200711_142021
 
 <a id="deep_learning__3"></a>
 ## Deep Learning
+
+<a id="optimizatio_n_"></a>
+### Optimization
 * [Learning Rate Scheduling](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/lr_scheduling/)
+
+<a id="class_imbalanc_e_"></a>
+### Class Imbalance
+* [How to handle Class Imbalance Problem](https://medium.com/quantyca/how-to-handle-class-imbalance-problem-9ee3062f2499) [medium]
+* [Dealing with Imbalanced Data](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18) [towardsdatascience]
+* [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes) [elitedatascience]
+* [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html) [kdnuggets]
 
 <a id="rnn__2"></a>
 ## RNN
