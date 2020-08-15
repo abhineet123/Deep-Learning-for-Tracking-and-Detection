@@ -81,10 +81,11 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Deep RL](#deep_rl_)
     - [Annotation](#annotatio_n_)
         - [Augmentation](#augmentatio_n_)
-    - [Misc](#mis_c__3)
+    - [Deep Learning](#deep_learning__2)
+        - [Class Imbalance](#class_imbalanc_e_)
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
-    - [Deep Learning](#deep_learning__2)
+    - [Deep Learning](#deep_learning__3)
     - [Static Detection](#static_detectio_n__2)
     - [Video Detection](#video_detectio_n__3)
     - [Single Object Tracking](#single_object_tracking__3)
@@ -92,15 +93,15 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Segmentation](#segmentatio_n_)
     - [Motion Prediction](#motion_prediction__2)
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
-    - [Misc](#mis_c__4)
+    - [Misc](#mis_c__3)
 - [Tutorials](#tutorials_)
     - [Multi Object Tracking](#multi_object_tracking__4)
     - [Static Detection](#static_detectio_n__3)
     - [Video Detection](#video_detectio_n__4)
     - [Instance Segmentation](#instance_segmentation__1)
-    - [Deep Learning](#deep_learning__3)
+    - [Deep Learning](#deep_learning__4)
         - [Optimization](#optimizatio_n_)
-        - [Class Imbalance](#class_imbalanc_e_)
+        - [Class Imbalance](#class_imbalanc_e__1)
     - [RNN](#rnn__2)
     - [Deep RL](#deep_rl__1)
     - [Autoencoders](#autoencoder_s__1)
@@ -995,11 +996,16 @@ Updated: 200711_142021
 - [solt: Image Streaming over lightweight data transformations](https://github.com/MIPT-Oulu/solt)
 
 
-<a id="mis_c__3"></a>
-## Misc
+<a id="deep_learning__2"></a>
+## Deep Learning
 * [Deformable Convolutional Networks](https://github.com/msracver/Deformable-ConvNets)
 * [RNNexp](https://github.com/asheshjain399/RNNexp)
 * [Grad-CAM: Gradient-weighted Class Activation Mapping](https://github.com/ramprs/grad-cam/)
+
+<a id="class_imbalanc_e_"></a>
+### Class Imbalance
+* [Imbalanced Dataset Sampler](https://github.com/ufoym/imbalanced-dataset-sampler) [pytorch]
+* [Iterable dataset resampling in PyTorch](https://github.com/MaxHalford/pytorch-resample) [pytorch]
 
 <a id="collections_"></a>
 # Collections
@@ -1023,7 +1029,7 @@ Updated: 200711_142021
 * [pgram machine learning datasets](https://pgram.com/category/vision/) 
 * [pgram vision datasets](https://pgram.com/) 
 
-<a id="deep_learning__2"></a>
+<a id="deep_learning__3"></a>
 ## Deep Learning
 - [Model Zoo : Discover open source deep learning code and pretrained models](https://modelzoo.co/)
 
@@ -1072,7 +1078,7 @@ Updated: 200711_142021
 
 * [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)  
 
-<a id="mis_c__4"></a>
+<a id="mis_c__3"></a>
 ## Misc 
 
 * [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
@@ -1118,14 +1124,14 @@ Updated: 200711_142021
 * [Review: FCIS — Winner in 2016 COCO Segmentation](https://towardsdatascience.com/review-fcis-winner-in-2016-coco-segmentation-instance-segmentation-ee2d61f465e2)
 * [Review: InstanceFCN — Instance-Sensitive Score Maps](https://towardsdatascience.com/review-instancefcn-instance-sensitive-score-maps-instance-segmentation-dbfe67d4ee92)
 
-<a id="deep_learning__3"></a>
+<a id="deep_learning__4"></a>
 ## Deep Learning
 
 <a id="optimizatio_n_"></a>
 ### Optimization
 * [Learning Rate Scheduling](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/lr_scheduling/)
 
-<a id="class_imbalanc_e_"></a>
+<a id="class_imbalanc_e__1"></a>
 ### Class Imbalance
 * [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
 * [Learning from Imbalanced Classes](https://www.svds.com/learning-imbalanced-classes/)
