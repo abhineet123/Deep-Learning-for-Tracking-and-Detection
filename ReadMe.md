@@ -1176,4 +1176,5 @@ Updated: 200711_142021
 * [colah's blog](http://colah.github.io/)
 * [Jeremy Jordan](https://www.jeremyjordan.me/)
 * [Silicon Valley Data Science](https://www.svds.com/tag/data-science/)
+* [Illarion’s Notes](https://ikhlestov.github.io/pages/)
 
