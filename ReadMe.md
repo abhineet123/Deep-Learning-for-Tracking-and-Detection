@@ -249,6 +249,9 @@ Updated: 200711_142021
 [[pdf]](static_detection/Acquisition%20of%20Localization%20Confidence%20for%20Accurate%20Object%20Detection%201807.11590%20eccv18.pdf)
 [[notes]](static_detection/notes/IOU-Net.pdf)
 [[code]](https://github.com/vacancy/PreciseRoIPooling)
+- **EfficientDet: Scalable and Efficient Object Detection
+[cvpr2020]
+[[pdf]](static_detection/EfficientDet_Scalable%20and%20efficient%20object%20detection.pdf)
     
 <a id="video_detectio_n_"></a>
 ## Video Detection
@@ -536,6 +539,11 @@ Updated: 200711_142021
 [[pdf]](deep_learning/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf)
 [[notes]](deep_learning/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf)
 
+### Efficient
+- **EfficientNet:Rethinking Model Scaling for Convolutional Neural Networks**
+[icml2019]
+[[pdf]](deep_learning/Efficient/EfficientNet_Rethinking%20model%20scaling%20for%20CNNs.pdf)
+[[notes]](deep_learning/notes/EfficientNet_%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks.pdf)
 <a id="unsupervised_learning__1"></a>
 ## Unsupervised Learning
 - **Learning Features by Watching Objects Move**
