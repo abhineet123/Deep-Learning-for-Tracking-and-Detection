@@ -544,8 +544,9 @@ Updated: 200711_142021
 ### Efficient
 - **EfficientNet:Rethinking Model Scaling for Convolutional Neural Networks**
 [icml2019]
-[[pdf]](deep_learning/Efficient/EfficientNet_Rethinking%20model%20scaling%20for%20CNNs.pdf)
+[[pdf]](deep_learning/Efficient/efficientNet_Rethinking%20model%20scaling%20for%20CNNs.pdf)
 [[notes]](deep_learning/notes/EfficientNet_%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks.pdf)
+
 <a id="unsupervised_learning__1"></a>
 ## Unsupervised Learning
 - **Learning Features by Watching Objects Move**
