@@ -34,6 +34,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Misc](#mis_c__1)
     - [Deep Learning](#deep_learning__1)
         - [Synthetic Gradients](#synthetic_gradient_s_)
+        - [Efficient](#efficient_)
     - [Unsupervised Learning](#unsupervised_learning__1)
     - [Interpolation](#interpolation_)
     - [Autoencoder](#autoencoder_)
@@ -539,6 +540,7 @@ Updated: 200711_142021
 [[pdf]](deep_learning/synthetic_gradients/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf)
 [[notes]](deep_learning/notes/Understanding%20Synthetic%20Gradients%20and%20Decoupled%20Neural%20Interfaces%20ax1703.00522.pdf)
 
+<a id="efficient_"></a>
 ### Efficient
 - **EfficientNet:Rethinking Model Scaling for Convolutional Neural Networks**
 [icml2019]
