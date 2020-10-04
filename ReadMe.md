@@ -184,7 +184,7 @@ Updated: 200711_142021
 [ax1804]
 [[pdf]](static_detection/yolo/YOLOv3%20An%20Incremental%20Improvement%20ax180408.pdf)
 [[notes]](static_detection/notes/YOLOv3%20An%20Incremental%20Improvement%20ax180408.pdf)
-- **YOLOV4 Optimal Speed and Accuracy of Object Detection**
+- **YOLOv4 Optimal Speed and Accuracy of Object Detection**
 [ax2004]
 [[pdf]](static_detection/yolo/YOLOV4_Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection%20ax200423.pdf)
 [[notes]](static_detection/notes/YOLOV4_Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection%20ax200423.pdf)
