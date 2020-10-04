@@ -876,7 +876,7 @@ Updated: 200711_142021
 + [tensorflow-yolo-v3](https://github.com/mystic123/tensorflow-yolo-v3) [tensorflow slim]
 + [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) [tensorflow slim]
 + [keras-yolov3](https://github.com/qqwweee/keras-yolo3) [keras]  
-+ YOLOv4 [[darknet - c/python]](https://github.com/AlexeyAB/darknet) [[tensorflow]](https://github.com/hunglc007/tensorflow-yolov4-tflite) [[pytorch 2]](https://github.com/WongKinYiu/PyTorch_YOLOv4) [[pytorch 1]](https://github.com/maudzung/Complex-YOLOv4-Pytorch) [[pytorch 3]](https://github.com/Tianxiaomo/pytorch-YOLOv4)
++ YOLOv4 [[darknet - c/python]](https://github.com/AlexeyAB/darknet) [[tensorflow]](https://github.com/hunglc007/tensorflow-yolov4-tflite) [[pytorch 1]](https://github.com/WongKinYiu/PyTorch_YOLOv4) [[pytorch 2]](https://github.com/maudzung/Complex-YOLOv4-Pytorch) [[pytorch 3]](https://github.com/Tianxiaomo/pytorch-YOLOv4)
 
 <a id="anchor_free__1"></a>
 ### Anchor Free
