@@ -886,6 +886,7 @@ Updated: 200711_142021
 * [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch] [[VoVNet]](https://github.com/vov-net/VoVNet-FCOS) [[HRNet]](https://github.com/HRNet/HRNet-FCOS) [[NAS]](https://github.com/Lausannen/NAS-FCOS) [[FCOS_PLUS]](https://github.com/yqyao/FCOS_PLUS)
 * [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection) [cvpr19] [pytorch]
 * [CenterNet: Objects as Points](https://github.com/xingyizhou/CenterNet) [ax1904] [pytorch]
+* [Bottom-up Object Detection by Grouping Extreme and Center Points,](https://github.com/xingyizhou/ExtremeNet) [cvpr19]  [pytorch]
 * [DE⫶TR: End-to-End Object Detection with Transformers](https://github.com/facebookresearch/detr) [ax200528]  [pytorch] [facebook]
 
 <a id="mis_c__2"></a>
@@ -943,6 +944,7 @@ Updated: 200711_142021
 * [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab) [tensorflow]
 * [Auto-DeepLab](https://github.com/MenghaoGuo/AutoDeeplab) [pytorch]
 * [DeepLab v3+](https://github.com/jfzhang95/pytorch-deeplab-xception) [pytorch]
+* [Deep Extreme Cut (DEXTR): From Extreme Points to Object Segmentation](https://github.com/scaelles/DEXTR-PyTorch)[cvpr18][[project]](https://cvlsegmentation.github.io/dextr/) [pytorch]
 * [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://github.com/wuhuikai/FastFCN)[ax1903][[project]](http://wuhuikai.me/FastFCNProject/) [pytorch]
 
 <a id="video_segmentation__1"></a>
