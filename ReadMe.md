@@ -888,6 +888,7 @@ Updated: 200711_142021
 * [CenterNet: Objects as Points](https://github.com/xingyizhou/CenterNet) [ax1904] [pytorch]
 * [Bottom-up Object Detection by Grouping Extreme and Center Points,](https://github.com/xingyizhou/ExtremeNet) [cvpr19]  [pytorch]
 * [DE⫶TR: End-to-End Object Detection with Transformers](https://github.com/facebookresearch/detr) [ax200528]  [pytorch] [facebook]
+* [Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection](https://github.com/sfzhang15/ATSS) [cvpr20]  [pytorch]
 
 <a id="mis_c__2"></a>
 ### Misc
