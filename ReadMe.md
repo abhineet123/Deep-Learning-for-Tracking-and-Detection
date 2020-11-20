@@ -239,6 +239,16 @@ Updated: 200711_142021
 [[pdf]](static_detection/anchor_free/Feature%20Selective%20Anchor-Free%20Module%20for%20Single-Shot%20Object%20Detection%20ax1903.00621%20cvpr19.pdf)
 [[notes]](static_detection/notes/Feature%20Selective%20Anchor-Free%20Module%20for%20Single-Shot%20Object%20Detection%20ax1903.00621%20cvpr19.pdf)
 [[code]](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection)
+- **Bottom-up object detection by grouping extreme and center points**
+[ax1901]
+[[pdf]](static_detection/anchor_free/Bottom-up%20object%20detection%20by%20grouping%20extreme%20and%20center%20points%201901.08043.pdf)
+[[notes]](static_detection/notes/Bottom-up%20object%20detection%20by%20grouping%20extreme%20and%20center%20points%201901.08043.pdf)
+[[code]](https://github.com/xingyizhou/ExtremeNet)
+- **Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection**
+[ax1912/cvpr20]
+[[pdf]](static_detection/anchor_free/Bridging%20the%20Gap%20Between%20Anchor-based%20and%20Anchor-free%20Detection%20via%20Adaptive%20Training%20Sample%20Selection%201912.02424%20cvpr20.pdf)
+[[notes]](static_detection/notes/Bridging%20the%20Gap%20Between%20Anchor-based%20and%20Anchor-free%20Detection%20via%20Adaptive%20Training%20Sample%20Selection%201912.02424%20cvpr20.pdf)
+[[code]](https://github.com/sfzhang15/ATSS)
 
 <a id="mis_c_"></a>
 ### Misc
