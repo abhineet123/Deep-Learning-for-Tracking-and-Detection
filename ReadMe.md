@@ -1006,6 +1006,7 @@ Updated: 200711_142021
 - [Image labelling tool](https://bitbucket.org/ueacomputervision/image-labelling-tool/)
 - [Labelbox](https://github.com/Labelbox/Labelbox) [paid]
 - [RectLabel An image annotation tool to label images for bounding box object detection and segmentation.](https://rectlabel.com/) [paid]
+- [Onepanel: Production scale vision AI platform with fully integrated components for model building, automated labeling, data processing and model training pipelines.](https://github.com/onepanelio/core) [[docs]](https://docs.onepanel.ai/docs/getting-started/quickstart/)
 
 <a id="augmentatio_n_"></a>
 ### Augmentation
