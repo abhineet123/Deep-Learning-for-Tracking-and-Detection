@@ -275,7 +275,7 @@ Updated: 200711_142021
 [[pdf]](static_detection/Generalized%20Intersection%20over%20Union%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression%201902.09630%20cvpr19.pdf)
 [[notes]](static_detection/notes/Generalized%20Intersection%20over%20Union%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression%201902.09630%20cvpr19.pdf)
 [[code]](https://github.com/generalized-iou)
-[[code]](https://giou.stanford.edu/)
+[[project]](https://giou.stanford.edu/)
 
 <a id="video_detectio_n_"></a>
 ## Video Detection
