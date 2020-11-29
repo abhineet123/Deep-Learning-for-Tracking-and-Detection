@@ -342,13 +342,10 @@ Updated: 200711_142021
 [[notes]](multi_object_tracking/notes/MOTS%20Multi-Object%20Tracking%20and%20Segmentation%20ax1904%20cvpr19.pdf)
 [[code]](https://github.com/VisualComputingInstitute/TrackR-CNN)
 [[project/data]](https://www.vision.rwth-aachen.de/page/mots)
-
 * **Towards Real-Time Multi-Object Tracking**
 [ax1909]
 [[pdf]](multi_object_tracking/joint_detection/Towards%20Real-Time%20Multi-Object%20Tracking%20ax1909.12605v1.pdf)
 [[notes]](multi_object_tracking/notes/Towards%20Real-Time%20Multi-Object%20Tracking%20ax1909.12605v1.pdf)
-
-
 * **A Simple Baseline for Multi-Object Tracking**
 [ax2004]
 [[pdf]](multi_object_tracking/joint_detection/A%20Simple%20Baseline%20for%20Multi-Object%20Tracking%202004.01888.pdf)
