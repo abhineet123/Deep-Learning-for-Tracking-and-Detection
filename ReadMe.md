@@ -18,7 +18,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [RNN](#rnn_)
     - [Multi Object Tracking](#multi_object_tracking_)
         - [Joint-Detection](#joint_detection_)
-            - [Embedding vector](#embedding_vector_)
+            - [Identity Embedding](#identity_embeddin_g_)
         - [Association](#association_)
         - [Deep Learning](#deep_learning_)
         - [RNN](#rnn__1)
@@ -333,8 +333,8 @@ Updated: 200711_142021
 [[code]](https://github.com/xingyizhou/CenterTrack)[pytorch]
 
 
-<a id="embedding_vector_"></a>
-#### Embedding vector
+<a id="identity_embeddin_g_"></a>
+#### Identity Embedding 
 
 * **MOTS Multi-Object Tracking and Segmentation**
 [cvpr19]
