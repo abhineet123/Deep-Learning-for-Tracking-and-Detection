@@ -349,6 +349,13 @@ Updated: 200711_142021
 [[notes]](multi_object_tracking/notes/Towards%20Real-Time%20Multi-Object%20Tracking%20ax1909.12605v1.pdf)
 
 
+* **A Simple Baseline for Multi-Object Tracking**
+[ax2004]
+[[pdf]](multi_object_tracking/joint_detection/A%20Simple%20Baseline%20for%20Multi-Object%20Tracking%202004.01888.pdf)
+[[notes]](multi_object_tracking/notes/A%20Simple%20Baseline%20for%20Multi-Object%20Tracking%202004.01888.pdf)
+[[code]](https://github.com/ifzhang/FairMOT)
+
+
 
 <a id="association_"></a>
 ### Association
