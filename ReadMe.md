@@ -420,6 +420,10 @@ Updated: 200711_142021
 [[arxiv]](https://arxiv.org/abs/1809.03137)
 [[notes]](multi_object_tracking/notes/Tracking%20by%20Animation%20Unsupervised%20Learning%20of%20Multi-Object%20Attentive%20Trackers%20cvpr19%20ax1809.03137.pdf)
 [[code]](https://github.com/zhen-he/tracking-by-animation)
+* **Simple Unsupervised Multi-Object Tracking**
+[ax2006]
+[[pdf]](multi_object_tracking/unsupervised/Simple%20Unsupervised%20Multi-Object%20Tracking%202006.02609.pdf)
+[[notes]](multi_object_tracking/notes/Simple%20Unsupervised%20Multi-Object%20Tracking%202006.02609.pdf)
 
 <a id="reinforcement_learning_"></a>
 ### Reinforcement Learning
