@@ -55,6 +55,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Motion Prediction](#motion_prediction_)
 - [Code](#cod_e_)
     - [Multi Object Tracking](#multi_object_tracking__2)
+        - [Re-ID](#re_id_)
     - [Single Object Tracking](#single_object_tracking__2)
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
     - [Video Detection](#video_detectio_n__2)
@@ -769,6 +770,10 @@ Updated: 200711_142021
 * [Learning a Neural Solver for Multiple Object Tracking](https://github.com/dvl-tum/mot_neural_solver) [cvpr20] [pytorch] [mot15#2]   
 * [A simple baseline for one-shot multi-object tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] [winner of mot15,16,17,20]
 * [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack) [ax2004] [pytorch]
+
+<a id="re_id_"></a>
+### Re-ID
+* [Torchreid: Deep learning person re-identification in PyTorch](https://github.com/KaiyangZhou/deep-person-reid) [ax1910] [pytorch]
 
 <a id="single_object_tracking__2"></a>
 ## Single Object Tracking
