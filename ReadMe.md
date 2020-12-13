@@ -353,6 +353,11 @@ Updated: 200711_142021
 [[notes]](multi_object_tracking/notes/A%20Simple%20Baseline%20for%20Multi-Object%20Tracking%202004.01888.pdf)
 [[code]](https://github.com/ifzhang/FairMOT)
 
+* **Integrated Object Detection and Tracking with Tracklet-Conditioned Detection**
+[ax1811]
+[[pdf]](multi_object_tracking/joint_detection/Integrated%20Object%20Detection%20and%20Tracking%20with%20Tracklet-Conditioned%20Detection%201811.11167.pdf)
+[[notes]](multi_object_tracking/notes/Integrated%20Object%20Detection%20and%20Tracking%20with%20Tracklet-Conditioned%20Detection%201811.11167.pdf)
+
 
 
 <a id="association_"></a>
