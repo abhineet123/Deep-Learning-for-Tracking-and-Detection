@@ -466,6 +466,7 @@ Updated: 200711_142021
 [ax1912/cvpr20]
 [[pdf]](multi_object_tracking/network_flow/Learning%20a%20Neural%20Solver%20for%20Multiple%20Object%20Tracking%201912.07515%20cvpr20.pdf)
 [[notes]](multi_object_tracking/notes/Learning%20a%20Neural%20Solver%20for%20Multiple%20Object%20Tracking%201912.07515%20cvpr20.pdf)
+[[code]](https://github.com/dvl-tum/mot_neural_solver)
 
 <a id="graph_optimization_"></a>
 ### Graph Optimization
