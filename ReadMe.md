@@ -732,7 +732,7 @@ Updated: 200711_142021
 - [BDD100K](https://bair.berkeley.edu/blog/2018/05/30/bdd/) [street scenes] [autonomous driving]
 - [ApolloScape](http://apolloscape.auto/) [street scenes] [autonomous driving]
 - [Cityscapes](https://www.cityscapes-dataset.com/) [street scenes] [instance-level]
-* [YouTube-VOS](https://youtube-vos.org/dataset/vis/) [iccv19]
+-  [YouTube-VOS](https://youtube-vos.org/dataset/vis/) [iccv19]
 
 <a id="classificatio_n_"></a>
 ## Classification
