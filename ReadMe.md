@@ -732,6 +732,7 @@ Updated: 200711_142021
 - [BDD100K](https://bair.berkeley.edu/blog/2018/05/30/bdd/) [street scenes] [autonomous driving]
 - [ApolloScape](http://apolloscape.auto/) [street scenes] [autonomous driving]
 - [Cityscapes](https://www.cityscapes-dataset.com/) [street scenes] [instance-level]
+* [YouTube-VOS](https://youtube-vos.org/dataset/vis/) [iccv19]
 
 <a id="classificatio_n_"></a>
 ## Classification
@@ -998,6 +999,7 @@ Updated: 200711_142021
 ## Video Segmentation
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 * [PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://github.com/JonathonLuiten/PReMVOS) [accv18/cvprw18/eccvw18] [tensorflow]
+* [MaskTrackRCNN for video instance segmentation](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
 
 <a id="motion_prediction__1"></a>
 ## Motion Prediction
