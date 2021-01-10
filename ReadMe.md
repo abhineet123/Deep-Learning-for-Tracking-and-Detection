@@ -55,6 +55,8 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Motion Prediction](#motion_prediction_)
 - [Code](#cod_e_)
     - [Multi Object Tracking](#multi_object_tracking__2)
+        - [Baseline](#baselin_e__1)
+        - [Unsupervised](#unsupervise_d_)
         - [Re-ID](#re_id_)
         - [Metrics](#metrics_)
     - [Single Object Tracking](#single_object_tracking__2)
@@ -772,15 +774,11 @@ Updated: 200711_142021
 * [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking) [iccv15] [matlab]
 * [Joint Tracking and Segmentation of Multiple Targets](https://bitbucket.org/amilan/segtracking) [cvpr15] [matlab]
 * [Multiple Hypothesis Tracking Revisited](http://rehg.org/mht/) [iccv15] [highest MT on MOT2015 among open source trackers] [matlab]
-* [Simple Online and Realtime Tracking](https://github.com/abewley/sort) [icip 2016] [python]
-* [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort) [icip17] [python]
 * [Combined Image- and World-Space Tracking in Traffic Scenes](https://github.com/aljosaosep/ciwt) [icra 2017] [c++]
-* [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss17] [python]    
 * [Online Multi-Target Tracking with Recurrent Neural Networks](https://bitbucket.org/amilan/rnntracking/src/default/) [aaai17] [lua/torch7]
 * [Real-Time Multiple Object Tracking - A Study on the Importance of Speed](https://github.com/samuelmurray/tracking-by-detection) [ax1710/masters thesis] [c++]        
 * [Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking](https://github.com/JunaidCS032/MOTBeyondPixels) [icra18] [matlab]    
 * [Online Multi-Object Tracking with Dual Matching Attention Network](https://github.com/jizhu1023/DMAN_MOT) [eccv18] [matlab/tensorflow]    
-* [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch]    
 * [TrackR-CNN - Multi-Object Tracking and Segmentation](https://github.com/VisualComputingInstitute/TrackR-CNN) [cvpr19] [tensorflow] [[project]](https://www.vision.rwth-aachen.de/page/mots) 
 * [Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking](https://github.com/maksay/seq-train) [cvpr19] [tensorflow]    
 * [Robust Multi-Modality Multi-Object Tracking](https://github.com/ZwwWayne/mmMOT) [iccv19] [pytorch]    
@@ -789,8 +787,19 @@ Updated: 200711_142021
 * [Tracking without bells and whistles](https://github.com/phil-bergmann/tracking_wo_bnw) [iccv19] [pytorch]    
 * [Lifted Disjoint Paths with Application in Multiple Object Tracking](https://github.com/AndreaHor/LifT_Solver) [icml20] [matlab] [mot15#1,mot16 #3,mot17#2]   
 * [Learning a Neural Solver for Multiple Object Tracking](https://github.com/dvl-tum/mot_neural_solver) [cvpr20] [pytorch] [mot15#2]   
-* [A simple baseline for one-shot multi-object tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] [winner of mot15,16,17,20]
 * [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack) [ax2004] [pytorch]
+
+<a id="baselin_e__1"></a>
+### Baseline
+* [Simple Online and Realtime Tracking](https://github.com/abewley/sort) [icip 2016] [python]
+* [Deep SORT : Simple Online Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort) [icip17] [python]
+* [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss17] [python]  
+* [A simple baseline for one-shot multi-object tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] [winner of mot15,16,17,20]
+
+<a id="unsupervise_d_"></a>
+### Unsupervised
+* [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch]    
+
 
 <a id="re_id_"></a>
 ### Re-ID
