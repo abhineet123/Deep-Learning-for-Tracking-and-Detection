@@ -56,6 +56,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Code](#cod_e_)
     - [Multi Object Tracking](#multi_object_tracking__2)
         - [Re-ID](#re_id_)
+        - [Metrics](#metrics_)
     - [Single Object Tracking](#single_object_tracking__2)
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
     - [Video Detection](#video_detectio_n__2)
@@ -794,6 +795,10 @@ Updated: 200711_142021
 <a id="re_id_"></a>
 ### Re-ID
 * [Torchreid: Deep learning person re-identification in PyTorch](https://github.com/KaiyangZhou/deep-person-reid) [ax1910] [pytorch]
+
+<a id="metrics_"></a>
+### Metrics
+* [HOTA: A Higher Order Metric for Evaluating Multi-Object Tracking](https://github.com/JonathonLuiten/HOTA-metrics) [ijcv20] [python]
 
 <a id="single_object_tracking__2"></a>
 ## Single Object Tracking
