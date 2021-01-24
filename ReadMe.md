@@ -500,8 +500,8 @@ Updated: 200711_142021
 ### Metrics
 * **HOTA A Higher Order Metric for Evaluating Multi-object Tracking**
 [ijcv20/08]
-[[pdf]](multi_object_tracking/metrics/HOTA A Higher Order Metric for Evaluating Multi-object Tracking sl_open_2010_ijcv2008.pdf)
-[[notes]](multi_object_tracking/notes/HOTA A Higher Order Metric for Evaluating Multi-object Tracking sl_open_2010_ijcv2008.pdf)
+[[pdf]](multi_object_tracking/metrics/HOTA%20A%20Higher%20Order%20Metric%20for%20Evaluating%20Multi-object%20Tracking%20sl_open_2010_ijcv2008.pdf)
+[[notes]](multi_object_tracking/notes/HOTA%20A%20Higher%20Order%20Metric%20for%20Evaluating%20Multi-object%20Tracking%20sl_open_2010_ijcv2008.pdf)
 [[code]](https://github.com/JonathonLuiten/HOTA-metrics)
 
 <a id="single_object_tracking_"></a>
