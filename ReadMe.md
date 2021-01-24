@@ -27,6 +27,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Network Flow](#network_flow_)
         - [Graph Optimization](#graph_optimization_)
         - [Baseline](#baselin_e_)
+        - [Metrics](#metrics_)
     - [Single Object Tracking](#single_object_tracking_)
         - [Reinforcement Learning](#reinforcement_learning__1)
         - [Siamese](#siamese_)
@@ -58,7 +59,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Baseline](#baselin_e__1)
         - [Unsupervised](#unsupervise_d_)
         - [Re-ID](#re_id_)
-        - [Metrics](#metrics_)
+        - [Metrics](#metrics__1)
     - [Single Object Tracking](#single_object_tracking__2)
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
     - [Video Detection](#video_detectio_n__2)
@@ -494,7 +495,15 @@ Updated: 200711_142021
 [[pdf]](multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf)
 [[notes]](multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf)
 [[code]](https://github.com/bochinski/iou-tracker)
-      
+     
+<a id="metrics_"></a>
+### Metrics
+* **HOTA A Higher Order Metric for Evaluating Multi-object Tracking**
+[ijcv20/08]
+[[pdf]](multi_object_tracking/metrics/HOTA A Higher Order Metric for Evaluating Multi-object Tracking sl_open_2010_ijcv2008.pdf)
+[[notes]](multi_object_tracking/notes/HOTA A Higher Order Metric for Evaluating Multi-object Tracking sl_open_2010_ijcv2008.pdf)
+[[code]](https://github.com/JonathonLuiten/HOTA-metrics)
+
 <a id="single_object_tracking_"></a>
 ## Single Object Tracking
 
@@ -805,7 +814,7 @@ Updated: 200711_142021
 ### Re-ID
 * [Torchreid: Deep learning person re-identification in PyTorch](https://github.com/KaiyangZhou/deep-person-reid) [ax1910] [pytorch]
 
-<a id="metrics_"></a>
+<a id="metrics__1"></a>
 ### Metrics
 * [HOTA: A Higher Order Metric for Evaluating Multi-Object Tracking](https://github.com/JonathonLuiten/HOTA-metrics) [ijcv20] [python]
 
