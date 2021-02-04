@@ -824,6 +824,7 @@ Updated: 200711_142021
 <a id="microscopy___cell_tracking__1"></a>
 ### Microscopy / cell tracking
 * [ Baxter Algorithms / Viterbi Tracking](https://github.com/klasma/BaxterAlgorithms) [tmi14] [matlab]
+* [ Deepcell: Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning](https://github.com/vanvalenlab/deepcell-tracking) [biorxiv1910] [tensorflow]
 
 <a id="metrics__1"></a>
 ### Metrics
