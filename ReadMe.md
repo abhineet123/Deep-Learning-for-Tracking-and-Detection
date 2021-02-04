@@ -60,6 +60,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Baseline](#baselin_e__1)
         - [Unsupervised](#unsupervise_d_)
         - [Re-ID](#re_id_)
+        - [Microscopy / cell tracking](#microscopy___cell_tracking__1)
         - [Metrics](#metrics__1)
     - [Single Object Tracking](#single_object_tracking__2)
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
@@ -816,10 +817,13 @@ Updated: 200711_142021
 ### Unsupervised
 * [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch]    
 
-
 <a id="re_id_"></a>
 ### Re-ID
 * [Torchreid: Deep learning person re-identification in PyTorch](https://github.com/KaiyangZhou/deep-person-reid) [ax1910] [pytorch]
+
+<a id="microscopy___cell_tracking__1"></a>
+### Microscopy / cell tracking
+* [ Baxter Algorithms / Viterbi Tracking](https://github.com/klasma/BaxterAlgorithms) [tmi14] [matlab]
 
 <a id="metrics__1"></a>
 ### Metrics
