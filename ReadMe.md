@@ -667,8 +667,9 @@ Updated: 200711_142021
 - [PathTrack: Fast Trajectory Annotation with Path Supervision](http://people.ee.ethz.ch/~daid/pathtrack/) [top down and street level viewpoint] [iccv17] [pedestrian] 
 - [CityFlow](https://www.aicitychallenge.org/) [pole mounted] [intersections] [vehicles] [re-id]  [cvpr19]
 - [UAVDT - The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking](https://sites.google.com/site/daviddo0323/projects/uavdt) [uav] [intersections/highways] [vehicles]  [eccv18]
-- [JackRabbot Dataset ](https://jrdb.stanford.edu/)  [RGBD] [head-on][indoor/outdoor][stanford]
-- [TAO: A Large-Scale Benchmark for Tracking Any Object ](http://taodataset.org/)  [eccv20] [[code]](https://github.com/TAO-Dataset/tao)
+- [JackRabbot Dataset](https://jrdb.stanford.edu/)  [RGBD] [head-on][indoor/outdoor][stanford]
+- [TAO: A Large-Scale Benchmark for Tracking Any Object](http://taodataset.org/)  [eccv20] [[code]](https://github.com/TAO-Dataset/tao)
+- [Edinburgh office monitoring video dataset](http://homepages.inf.ed.ac.uk/rbf/OFFICEDATA/)  [indoors][long term][mostly static people]
 
 <a id="synthetic_"></a>
 ### Synthetic
