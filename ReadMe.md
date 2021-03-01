@@ -287,11 +287,9 @@ Updated: 200711_142021
 [[pdf]](static_detection/Acquisition%20of%20Localization%20Confidence%20for%20Accurate%20Object%20Detection%201807.11590%20eccv18.pdf)
 [[notes]](static_detection/notes/IOU-Net.pdf)
 [[code]](https://github.com/vacancy/PreciseRoIPooling)
-
 - **EfficientDet: Scalable and Efficient Object Detection**
 [cvpr20]
 [[pdf]](static_detection/EfficientDet_Scalable%20and%20efficient%20object%20detection.pdf)
-
  - **Generalized Intersection over Union A Metric and A Loss for Bounding Box Regression**
 [ax1902/cvpr19]
 [[pdf]](static_detection/Generalized%20Intersection%20over%20Union%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression%201902.09630%20cvpr19.pdf)
