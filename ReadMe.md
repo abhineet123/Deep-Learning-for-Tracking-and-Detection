@@ -256,6 +256,21 @@ Updated: 200711_142021
 [[pdf]](static_detection/anchor_free/Bridging%20the%20Gap%20Between%20Anchor-based%20and%20Anchor-free%20Detection%20via%20Adaptive%20Training%20Sample%20Selection%201912.02424%20cvpr20.pdf)
 [[notes]](static_detection/notes/Bridging%20the%20Gap%20Between%20Anchor-based%20and%20Anchor-free%20Detection%20via%20Adaptive%20Training%20Sample%20Selection%201912.02424%20cvpr20.pdf)
 [[code]](https://github.com/sfzhang15/ATSS)
+- **End-to-end object detection with Transformers**
+[ax200528]
+[[pdf]](static_detection/anchor_free/End-to-End%20Object%20Detection%20with%20Transformers%20ax200528.pdf)
+[[notes]](static_detection/notes/End-to-End%20Object%20Detection%20with%20Transformers%20ax200528.pdf)
+[[code]](https://github.com/facebookresearch/detr)
+- **Objects as Points**
+[ax1904]
+[[pdf]](static_detection/anchor_free/Objects%20as%20Points%20ax1904.07850.pdf)
+[[notes]](static_detection/notes/Objects%20as%20Points%20ax1904.07850.pdf)
+[[code]](https://github.com/xingyizhou/CenterNet)
+- **RepPoints Point Set Representation for Object Detection**
+[iccv19]
+[[pdf]](static_detection/anchor_free/RepPoints%20Point%20Set%20Representation%20for%20Object%20Detection%201904.11490%20iccv19.pdf)
+[[notes]](static_detection/notes/RepPoints%20Point%20Set%20Representation%20for%20Object%20Detection%201904.11490%20iccv19.pdf)
+[[code]](https://github.com/microsoft/RepPoints)
 
 <a id="mis_c_"></a>
 ### Misc
@@ -971,6 +986,7 @@ Updated: 200711_142021
 * [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection) [cvpr19] [pytorch]
 * [CenterNet: Objects as Points](https://github.com/xingyizhou/CenterNet) [ax1904] [pytorch]
 * [Bottom-up Object Detection by Grouping Extreme and Center Points,](https://github.com/xingyizhou/ExtremeNet) [cvpr19]  [pytorch]
+* [RepPoints Point Set Representation for Object Detection](https://github.com/microsoft/RepPoints) [iccv19]  [pytorch] [microsoft]
 * [DE⫶TR: End-to-End Object Detection with Transformers](https://github.com/facebookresearch/detr) [ax200528]  [pytorch] [facebook]
 * [Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection](https://github.com/sfzhang15/ATSS) [cvpr20]  [pytorch]
 
