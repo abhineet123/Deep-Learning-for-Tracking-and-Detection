@@ -259,7 +259,7 @@ Updated: 200711_142021
 - **End-to-end object detection with Transformers**
 [ax200528]
 [[pdf]](static_detection/anchor_free/End-to-End%20Object%20Detection%20with%20Transformers%20ax200528.pdf)
-[[notes]](static_detection/notes/End-to-End%20Object%20Detection%20with%20Transformers%20ax200528.pdf)
+[[notes]](static_detection/notes/End-to-end%20object%20detection%20with%20Transformers%20ax200528.pdf)
 [[code]](https://github.com/facebookresearch/detr)
 - **Objects as Points**
 [ax1904]
