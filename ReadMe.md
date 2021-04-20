@@ -683,6 +683,7 @@ Updated: 200711_142021
 - [JackRabbot Dataset](https://jrdb.stanford.edu/)  [RGBD] [head-on][indoor/outdoor][stanford]
 - [TAO: A Large-Scale Benchmark for Tracking Any Object](http://taodataset.org/)  [eccv20] [[code]](https://github.com/TAO-Dataset/tao)
 - [Edinburgh office monitoring video dataset](http://homepages.inf.ed.ac.uk/rbf/OFFICEDATA/)  [indoors][long term][mostly static people]
+- [Waymo Open Dataset](https://waymo.com/open/)  [outdoors][vehicles]
 
 <a id="synthetic_"></a>
 ### Synthetic
