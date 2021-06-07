@@ -829,7 +829,7 @@ Updated: 200711_142021
 * [TrackR-CNN - Multi-Object Tracking and Segmentation](https://github.com/VisualComputingInstitute/TrackR-CNN) [cvpr19] [tensorflow] [[project]](https://www.vision.rwth-aachen.de/page/mots) 
 * [Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking](https://github.com/maksay/seq-train) [cvpr19] [tensorflow]    
 * [Robust Multi-Modality Multi-Object Tracking](https://github.com/ZwwWayne/mmMOT) [iccv19] [pytorch]    
-* [Towards Real-Time Multi-Object Tracking / Joint Detection and Embedding](https://github.com/Zhongdao/Towards-Realtime-MOT) [ax1909] [pytorch]    
+* [Towards Real-Time Multi-Object Tracking / Joint Detection and Embedding](https://github.com/Zhongdao/Towards-Realtime-MOT) [ax1909] [pytorch] [[CMU]](https://github.com/JunweiLiang/Object_Detection_Tracking)
 * [Deep Affinity Network for Multiple Object Tracking](https://github.com/shijieS/SST) [tpami19] [pytorch]    
 * [Tracking without bells and whistles](https://github.com/phil-bergmann/tracking_wo_bnw) [iccv19] [pytorch]    
 * [Lifted Disjoint Paths with Application in Multiple Object Tracking](https://github.com/AndreaHor/LifT_Solver) [icml20] [matlab] [mot15#1,mot16 #3,mot17#2]   
@@ -837,6 +837,8 @@ Updated: 200711_142021
 * [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack) [ax2004] [pytorch]
 * [Quasi-Dense Similarity Learning for Multiple Object Tracking](https://github.com/SysCV/qdtrack) [ax2006] [pytorch]
 * [DEFT: Detection Embeddings for Tracking](https://github.com/MedChaabane/DEFT) [ax2102] [pytorch]
+* [How To Train Your Deep Multi-Object Tracker](https://github.com/yihongXU/deepMOT) [ax1906/cvpr20] [pytorch] [[traktor/gitlab]](https://gitlab.inria.fr/yixu/deepmot)
+
 
 <a id="baselin_e__1"></a>
 ### Baseline
