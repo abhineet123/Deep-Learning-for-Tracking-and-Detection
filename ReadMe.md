@@ -1168,7 +1168,7 @@ Updated: 200711_142021
 
 <a id="static_detectio_n__2"></a>
 ## Static Detection
-[mxnet]- [Object Detection with Deep Learning](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
+- [Object Detection with Deep Learning](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 
 <a id="video_detectio_n__3"></a>
 ## Video Detection
