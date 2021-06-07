@@ -63,6 +63,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Re-ID](#re_id_)
         - [Graph NN](#graph_nn_)
         - [Microscopy / cell tracking](#microscopy___cell_tracking__1)
+        - [3D](#3_d_)
         - [Metrics](#metrics__1)
     - [Single Object Tracking](#single_object_tracking__2)
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
@@ -852,6 +853,10 @@ Updated: 200711_142021
 ### Microscopy / cell tracking
 * [ Baxter Algorithms / Viterbi Tracking](https://github.com/klasma/BaxterAlgorithms) [tmi14] [matlab]
 * [ Deepcell: Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning](https://github.com/vanvalenlab/deepcell-tracking) [biorxiv1910] [tensorflow]
+
+<a id="3_d_"></a>
+### 3D
+* [3D Multi-Object Tracking: A Baseline and New Evaluation Metrics ](https://github.com/xinshuoweng/AB3DMOT) [iros20/eccvw20] [pytorch]
 
 <a id="metrics__1"></a>
 ### Metrics
