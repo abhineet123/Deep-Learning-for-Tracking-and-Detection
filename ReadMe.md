@@ -42,6 +42,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Variational](#variational_)
 - [Datasets](#dataset_s_)
     - [Multi Object Tracking](#multi_object_tracking__1)
+        - [UAV](#uav_)
         - [Synthetic](#synthetic_)
         - [Microscopy / Cell Tracking](#microscopy___cell_tracking_)
     - [Single Object Tracking](#single_object_tracking__1)
@@ -59,6 +60,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [General Vision](#general_vision_)
     - [Multi Object Tracking](#multi_object_tracking__2)
         - [Baseline](#baselin_e__1)
+        - [Siamese](#siamese__1)
         - [Unsupervised](#unsupervise_d_)
         - [Re-ID](#re_id_)
         - [Graph NN](#graph_nn_)
@@ -85,6 +87,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Instance Segmentation](#instance_segmentation_)
         - [Frameworks](#framework_s__1)
     - [Semantic Segmentation](#semantic_segmentation_)
+        - [polyp](#polyp_)
     - [Video Segmentation](#video_segmentation__1)
     - [Motion Prediction](#motion_prediction__1)
     - [Autoencoders](#autoencoder_s_)
@@ -659,7 +662,6 @@ Updated: 200711_142021
 - [IDOT](https://www.cs.uic.edu/Bits/YanziJin)
 - [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)
 - [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
-- [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
 - [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
 - [TRANCOS](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
 - [Urban Tracker](https://www.jpjodoin.com/urbantracker/dataset.html)
@@ -682,11 +684,17 @@ Updated: 200711_142021
 - [JTA](http://imagelab.ing.unimore.it/imagelab/page.asp?IdPage=25) [top down and street level viewpoint] [synthetic/GTA 5] [pedestrian] [3D annotations]
 - [PathTrack: Fast Trajectory Annotation with Path Supervision](http://people.ee.ethz.ch/~daid/pathtrack/) [top down and street level viewpoint] [iccv17] [pedestrian] 
 - [CityFlow](https://www.aicitychallenge.org/) [pole mounted] [intersections] [vehicles] [re-id]  [cvpr19]
-- [UAVDT - The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking](https://sites.google.com/site/daviddo0323/projects/uavdt) [uav] [intersections/highways] [vehicles]  [eccv18]
 - [JackRabbot Dataset](https://jrdb.stanford.edu/)  [RGBD] [head-on][indoor/outdoor][stanford]
 - [TAO: A Large-Scale Benchmark for Tracking Any Object](http://taodataset.org/)  [eccv20] [[code]](https://github.com/TAO-Dataset/tao)
 - [Edinburgh office monitoring video dataset](http://homepages.inf.ed.ac.uk/rbf/OFFICEDATA/)  [indoors][long term][mostly static people]
 - [Waymo Open Dataset](https://waymo.com/open/)  [outdoors][vehicles]
+
+<a id="uav_"></a>
+### UAV
+
+- [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
+- [UAVDT - The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking](https://sites.google.com/site/daviddo0323/projects/uavdt) [uav] [intersections/highways] [vehicles]  [eccv18]
+- [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) 
 
 <a id="synthetic_"></a>
 ### Synthetic
@@ -827,6 +835,8 @@ Updated: 200711_142021
 * [Lifted Disjoint Paths with Application in Multiple Object Tracking](https://github.com/AndreaHor/LifT_Solver) [icml20] [matlab] [mot15#1,mot16 #3,mot17#2]   
 * [Learning a Neural Solver for Multiple Object Tracking](https://github.com/dvl-tum/mot_neural_solver) [cvpr20] [pytorch] [mot15#2]   
 * [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack) [ax2004] [pytorch]
+* [Quasi-Dense Similarity Learning for Multiple Object Tracking](https://github.com/SysCV/qdtrack) [ax2006] [pytorch]
+* [DEFT: Detection Embeddings for Tracking](https://github.com/MedChaabane/DEFT) [ax2102] [pytorch]
 
 <a id="baselin_e__1"></a>
 ### Baseline
@@ -835,15 +845,20 @@ Updated: 200711_142021
 * [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker) [avss17] [python]  
 * [A simple baseline for one-shot multi-object tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] [winner of mot15,16,17,20]
 
+<a id="siamese__1"></a>
+### Siamese
+* [SiamMOT: Siamese Multi-Object Tracking](https://github.com/amazon-research/siam-mot) [ax2105] [pytorch]
+    
 <a id="unsupervise_d_"></a>
 ### Unsupervised
-* [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch]    
-
+* [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://github.com/zhen-he/tracking-by-animation) [cvpr19] [python/c++/pytorch]
+    
 <a id="re_id_"></a>
 ### Re-ID
 * [Torchreid: Deep learning person re-identification in PyTorch](https://github.com/KaiyangZhou/deep-person-reid) [ax1910] [pytorch]
 * [SMOT: Single-Shot Multi Object Tracking](https://github.com/dmlc/gluon-cv/tree/master/gluoncv/model_zoo/smot) [ax2010] [pytorch] [gluon-cv]
 * [FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] [[microsoft]](https://github.com/microsoft/FairMOT) [[BDD100K]](https://github.com/dingwoai/FairMOT-BDD100K) [[face tracking]](https://github.com/zengwb-lx/Face-Tracking-usingFairMOT)
+* [Rethinking the competition between detection and ReID in Multi-Object Tracking](https://github.com/JudasDie/SOTS) [ax2010] [pytorch] 
 
 <a id="graph_nn_"></a>
 ### Graph NN
@@ -851,16 +866,17 @@ Updated: 200711_142021
 
 <a id="microscopy___cell_tracking__1"></a>
 ### Microscopy / cell tracking
-* [ Baxter Algorithms / Viterbi Tracking](https://github.com/klasma/BaxterAlgorithms) [tmi14] [matlab]
-* [ Deepcell: Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning](https://github.com/vanvalenlab/deepcell-tracking) [biorxiv1910] [tensorflow]
+* [Baxter Algorithms / Viterbi Tracking](https://github.com/klasma/BaxterAlgorithms) [tmi14] [matlab]
+* [Deepcell: Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning](https://github.com/vanvalenlab/deepcell-tracking) [biorxiv1910] [tensorflow]
 
 <a id="3_d_"></a>
 ### 3D
 * [3D Multi-Object Tracking: A Baseline and New Evaluation Metrics ](https://github.com/xinshuoweng/AB3DMOT) [iros20/eccvw20] [pytorch]
+* [GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with Multi-Feature Learning ](https://github.com/xinshuoweng/GNN3DMOT) [iros20/eccvw20] [pytorch]
 
 <a id="metrics__1"></a>
 ### Metrics
-* [HOTA: A Higher Order Metric for Evaluating Multi-Object Tracking](https://github.com/JonathonLuiten/HOTA-metrics) [ijcv20] [python]
+* [HOTA: A Higher Order Metric for Evaluating Multi-Object Tracking](https://github.com/JonathonLuiten/HOTA-metrics) [cvpr20] [python]
 
 <a id="single_object_tracking__2"></a>
 ## Single Object Tracking
@@ -908,6 +924,7 @@ Updated: 200711_142021
 * [D3S - Discriminative Single Shot Segmentation Tracker](https://github.com/alanlukezic/d3s) [cvpr20] [pytorch/pytracking]
 * [Discriminative and Robust Online Learning for Siamese Visual Tracking](https://github.com/shallowtoil/DROL) [aaai20] [pytorch/pysot]
 * [Siamese Box Adaptive Network for Visual Tracking](https://github.com/hqucv/siamban) [cvpr20] [pytorch/pysot]
+* [Ocean: Object-aware Anchor-free Tracking](https://github.com/JudasDie/SOTS) [ax2010] [pytorch] 
 
 <a id="gui_application___large_scale_tracking___animal_s_"></a>
 ### GUI Application / Large Scale Tracking / Animals
@@ -1064,6 +1081,14 @@ Updated: 200711_142021
 * [DeepLab v3+](https://github.com/jfzhang95/pytorch-deeplab-xception) [pytorch]
 * [Deep Extreme Cut (DEXTR): From Extreme Points to Object Segmentation](https://github.com/scaelles/DEXTR-PyTorch)[cvpr18][[project]](https://cvlsegmentation.github.io/dextr/) [pytorch]
 * [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://github.com/wuhuikai/FastFCN)[ax1903][[project]](http://wuhuikai.me/FastFCNProject/) [pytorch]
+
+<a id="polyp_"></a>
+### polyp
+
+* [PraNet: Parallel Reverse Attention Network for Polyp Segmentation](https://github.com/DengPingFan/PraNet)[miccai20]
+* [PHarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS](https://github.com/james128333/HarDNet-MSEG)[ax2101]
+
+
 
 <a id="video_segmentation__1"></a>
 ## Video Segmentation
