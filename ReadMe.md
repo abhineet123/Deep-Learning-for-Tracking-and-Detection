@@ -60,6 +60,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Baseline](#baselin_e__1)
         - [Unsupervised](#unsupervise_d_)
         - [Re-ID](#re_id_)
+        - [Graph NN](#graph_nn_)
         - [Microscopy / cell tracking](#microscopy___cell_tracking__1)
         - [Metrics](#metrics__1)
     - [Single Object Tracking](#single_object_tracking__2)
@@ -94,6 +95,7 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
     - [Deep Learning](#deep_learning__3)
+    - [Computer Vision](#computer_vision_)
     - [Static Detection](#static_detectio_n__2)
     - [Video Detection](#video_detectio_n__3)
     - [Single Object Tracking](#single_object_tracking__3)
@@ -835,6 +837,12 @@ Updated: 200711_142021
 <a id="re_id_"></a>
 ### Re-ID
 * [Torchreid: Deep learning person re-identification in PyTorch](https://github.com/KaiyangZhou/deep-person-reid) [ax1910] [pytorch]
+* [SMOT: Single-Shot Multi Object Tracking](https://github.com/dmlc/gluon-cv/tree/master/gluoncv/model_zoo/smot) [ax2010] [pytorch] [gluon-cv]
+* [FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] [[microsoft]](https://github.com/microsoft/FairMOT) [[BDD100K]](https://github.com/dingwoai/FairMOT-BDD100K) [[face tracking]](https://github.com/zengwb-lx/Face-Tracking-usingFairMOT)
+
+<a id="graph_nn_"></a>
+### Graph NN
+* [Joint Object Detection and Multi-Object Tracking with Graph Neural Networks](https://github.com/yongxinw/GSDT) [ax2006/ icra21] [pytorch]
 
 <a id="microscopy___cell_tracking__1"></a>
 ### Microscopy / cell tracking
@@ -1153,6 +1161,10 @@ Updated: 200711_142021
 <a id="deep_learning__3"></a>
 ## Deep Learning
 - [Model Zoo : Discover open source deep learning code and pretrained models](https://modelzoo.co/)
+
+<a id="computer_vision_"></a>
+## Computer Vision
+- [Gluon CV Toolkit](https://modelzoo.co/)
 
 <a id="static_detectio_n__2"></a>
 ## Static Detection
