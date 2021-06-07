@@ -56,6 +56,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Optical Flow](#optical_flow_)
     - [Motion Prediction](#motion_prediction_)
 - [Code](#cod_e_)
+    - [General Vision](#general_vision_)
     - [Multi Object Tracking](#multi_object_tracking__2)
         - [Baseline](#baselin_e__1)
         - [Unsupervised](#unsupervise_d_)
@@ -95,7 +96,6 @@ Collection of papers, datasets, code and other resources for object detection an
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
     - [Deep Learning](#deep_learning__3)
-    - [Computer Vision](#computer_vision_)
     - [Static Detection](#static_detectio_n__2)
     - [Video Detection](#video_detectio_n__3)
     - [Single Object Tracking](#single_object_tracking__3)
@@ -796,6 +796,10 @@ Updated: 200711_142021
 <a id="cod_e_"></a>
 # Code
 
+<a id="general_vision_"></a>
+## General Vision
+- [Gluon CV Toolkit](https://github.com/dmlc/gluon-cv) [mxnet] [pytorch]
+
 <a id="multi_object_tracking__2"></a>
 ## Multi Object Tracking
 * [Globally-optimal greedy algorithms for tracking a variable number of objects](http://www.csee.umbc.edu/~hpirsiav/papers/tracking_release_v1.0.tar.gz) [cvpr11] [matlab] [[author]](https://www.csee.umbc.edu/~hpirsiav/)    
@@ -1043,6 +1047,7 @@ Updated: 200711_142021
 <a id="framework_s__1"></a>
 ### Frameworks
 * [Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch](https://github.com/facebookresearch/maskrcnn-benchmark) [pytorch] [facebook]
+* [PaddleDetection, Object detection and instance segmentation toolkit based on PaddlePaddle.](https://github.com/PaddlePaddle/PaddleDetection) [2019]
 
 <a id="semantic_segmentation_"></a>
 ## Semantic Segmentation
@@ -1161,10 +1166,6 @@ Updated: 200711_142021
 <a id="deep_learning__3"></a>
 ## Deep Learning
 - [Model Zoo : Discover open source deep learning code and pretrained models](https://modelzoo.co/)
-
-<a id="computer_vision_"></a>
-## Computer Vision
-- [Gluon CV Toolkit](https://github.com/dmlc/gluon-cv) [mxnet] [pytorch]
 
 <a id="static_detectio_n__2"></a>
 ## Static Detection
