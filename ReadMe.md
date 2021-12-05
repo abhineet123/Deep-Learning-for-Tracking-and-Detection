@@ -87,8 +87,9 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Instance Segmentation](#instance_segmentation_)
         - [Frameworks](#framework_s__1)
     - [Semantic Segmentation](#semantic_segmentation_)
-        - [polyp](#polyp_)
+        - [Polyp](#polyp_)
     - [Video Segmentation](#video_segmentation__1)
+        - [Panoptic](#panopti_c_)
     - [Motion Prediction](#motion_prediction__1)
     - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
@@ -1065,9 +1066,11 @@ Updated: 200711_142021
 * [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://github.com/daijifeng001/MNC) [cvpr16] [caffe] [coco15 winner]    
 * [DeepMask/SharpMask](https://arxiv.org/abs/1603.08695) [nips15/eccv16] [facebook] [[torch]](https://github.com/facebookresearch/deepmask) [[tensorflow]](https://github.com/aby2s/sharpmask)  [[pytorch/deepmask]](https://github.com/foolwood/deepmask-pytorch/) 
 * [Simultaneous Detection and Segmentation](https://github.com/bharath272/sds_eccv2014) [eccv14] [matlab] [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/)    
+* [PANet](https://github.com/ShuLiu1993/PANet) [cvpr18] [pytorch]
 * [RetinaMask](https://github.com/chengyangfu/retinamask) [arxviv1901] [pytorch]
 * [Mask Scoring R-CNN](https://github.com/zjhuang22/maskscoring_rcnn) [cvpr19] [pytorch]
 * [DeepMAC](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/deepmac.md) [ax2104] [tensorflow]
+* [Swin Transformer](https://github.com/microsoft/Swin-Transformer) [iccv21] [pytorch] [microsoft]
 
 <a id="framework_s__1"></a>
 ### Frameworks
@@ -1086,11 +1089,10 @@ Updated: 200711_142021
 * [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://github.com/wuhuikai/FastFCN)[ax1903][[project]](http://wuhuikai.me/FastFCNProject/) [pytorch]
 
 <a id="polyp_"></a>
-### polyp
+### Polyp
 
 * [PraNet: Parallel Reverse Attention Network for Polyp Segmentation](https://github.com/DengPingFan/PraNet)[miccai20]
 * [PHarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS](https://github.com/james128333/HarDNet-MSEG)[ax2101]
-
 
 
 <a id="video_segmentation__1"></a>
@@ -1098,6 +1100,11 @@ Updated: 200711_142021
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 * [PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://github.com/JonathonLuiten/PReMVOS) [accv18/cvprw18/eccvw18] [tensorflow]
 * [MaskTrackRCNN for video instance segmentation](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
+
+<a id="panopti_c_"></a>
+### Panoptic
+* [ViP-DeepLab](https://github.com/joe-siyuan-qiao/ViP-DeepLab) [cvpr21] 
+
 
 <a id="motion_prediction__1"></a>
 ## Motion Prediction
