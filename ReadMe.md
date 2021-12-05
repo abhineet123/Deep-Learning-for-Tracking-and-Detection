@@ -1239,7 +1239,9 @@ Updated: 200711_142021
 ## Segmentation
 
 * [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
-* [Segmentation.X : Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation](https://github.com/wutianyiRosun/Segmentation.X)  
+* [Segmentation.X : Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation](https://github.com/wutianyiRosun/Segmentation.X) 
+* [Instance Segmentation Papers with Code](https://paperswithcode.com/task/instance-segmentation) 
+*  
 
 <a id="motion_prediction__2"></a>
 ## Motion Prediction
