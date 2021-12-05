@@ -1100,6 +1100,7 @@ Updated: 200711_142021
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 * [PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://github.com/JonathonLuiten/PReMVOS) [accv18/cvprw18/eccvw18] [tensorflow]
 * [MaskTrackRCNN for video instance segmentation](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
+* [Video Swin Transformer](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
 
 <a id="panopti_c_"></a>
 ### Panoptic
