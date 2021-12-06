@@ -70,8 +70,10 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Single Object Tracking](#single_object_tracking__2)
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
     - [Video Detection](#video_detectio_n__2)
+        - [action detection](#action_detectio_n_)
+            - [Frameworks](#framework_s_)
     - [Static Detection and Matching](#static_detection_and_matching_)
-        - [Frameworks](#framework_s_)
+        - [Frameworks](#framework_s__1)
         - [Region Proposal](#region_proposal__1)
         - [FPN](#fpn_)
         - [RCNN](#rcn_n__1)
@@ -83,20 +85,28 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Matching](#matchin_g_)
         - [Boundary Detection](#boundary_detectio_n__1)
         - [Text Detection](#text_detectio_n_)
+            - [Frameworks](#framework_s__2)
+        - [3D Detection](#3d_detectio_n_)
+            - [Frameworks](#framework_s__3)
     - [Optical Flow](#optical_flow__1)
+        - [Frameworks](#framework_s__4)
     - [Instance Segmentation](#instance_segmentation_)
-        - [Frameworks](#framework_s__1)
+        - [Frameworks](#framework_s__5)
     - [Semantic Segmentation](#semantic_segmentation_)
-        - [Frameworks](#framework_s__2)
+        - [Frameworks](#framework_s__6)
         - [Polyp](#polyp_)
-    - [Panoptic  Segmentation](#panoptic_segmentation_)
+    - [Panoptic Segmentation](#panoptic_segmentation_)
     - [Video Segmentation](#video_segmentation__1)
-        - [Panoptic](#panopti_c_)
+        - [Panoptic Video Segmentation](#panoptic_video_segmentation_)
     - [Motion Prediction](#motion_prediction__1)
+    - [Pose Estimation](#pose_estimation_)
+        - [Frameworks](#framework_s__7)
     - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
+        - [Frameworks](#framework_s__8)
     - [Deep RL](#deep_rl_)
     - [Annotation](#annotatio_n_)
+        - [Editing](#editing_)
         - [Augmentation](#augmentatio_n_)
     - [Deep Learning](#deep_learning__2)
         - [Class Imbalance](#class_imbalanc_e_)
@@ -811,6 +821,7 @@ Updated: 200711_142021
 <a id="general_vision_"></a>
 ## General Vision
 - [Gluon CV Toolkit](https://github.com/dmlc/gluon-cv) [mxnet] [pytorch]
+- [OpenMMLab Computer Vision Foundation](https://github.com/open-mmlab/mmcv) [pytorch]
 
 <a id="multi_object_tracking__2"></a>
 ## Multi Object Tracking
@@ -940,7 +951,6 @@ Updated: 200711_142021
 [tensorflow]
 [[project]](https://idtracker.ai/)
     
-
 <a id="video_detectio_n__2"></a>
 ## Video Detection
 * [Flow-Guided Feature Aggregation for Video Object Detection](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
@@ -949,12 +959,17 @@ Updated: 200711_142021
 * [T-CNN: Tubelets with Convolution Neural Networks](https://github.com/myfavouritekk/T-CNN) [cvpr16] [python]  
 * [TPN: Tubelet Proposal Network](https://github.com/myfavouritekk/TPN) [cvpr17] [python]
 * [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow) [cvpr17] [mxnet]
-* [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr18] [Google] [tensorflow]    
+* [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/tensorflow/models/tree/master/research/lstm_object_detection) [cvpr18] [Google] [tensorflow]  
+
+<a id="action_detectio_n_"></a>
+### action detection
+<a id="framework_s_"></a>
+#### Frameworks
++ [OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark](https://github.com/open-mmlab/mmaction2) [pytorch]
 
 <a id="static_detection_and_matching_"></a>
 ## Static Detection and Matching
-
-<a id="framework_s_"></a>
+<a id="framework_s__1"></a>
 ### Frameworks
 + [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection) [tensorflow]
 + [Detectron2](https://github.com/facebookresearch/detectron2) [pytorch]
@@ -1049,6 +1064,17 @@ Updated: 200711_142021
 ### Text Detection  
 + [Real-time Scene Text Detection with Differentiable Binarization](https://github.com/MhLiao/DB) [pytorch] [aaai20] 
 
+<a id="framework_s__2"></a>
+#### Frameworks
++ [ OpenMMLab Text Detection, Recognition and Understanding Toolbox ](https://github.com/open-mmlab/mmocr) [pytorch]
+
+<a id="3d_detectio_n_"></a>
+### 3D Detection  
+<a id="framework_s__3"></a>
+#### Frameworks
++ [OpenMMLab's next-generation platform for general 3D object detection](https://github.com/open-mmlab/mmdetection3d) [pytorch]
++ [OpenPCDet Toolbox for LiDAR-based 3D Object Detection](https://github.com/open-mmlab/OpenPCDet) [pytorch]
+
 <a id="optical_flow__1"></a>
 ## Optical Flow
 * [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks (cvpr17)](https://arxiv.org/abs/1612.01925) [[caffe]](https://github.com/lmb-freiburg/flownet2) [[pytorch/nvidia]](https://github.com/NVIDIA/flownet2-pytorch)
@@ -1060,6 +1086,11 @@ Updated: 200711_142021
 * [Piecewise Rigid Scene Flow](https://github.com/vogechri/PRSM) [iccv13/eccv14/ijcv15] [c++/matlab]
 * [DeepFlow v2](https://arxiv.org/abs/1611.00850) [iccv13] [[c++/python/matlab]](https://github.com/zimenglan-sysu-512/deep-flow), [[project]](http://lear.inrialpes.fr/src/deepflow/)
 * [An Evaluation of Data Costs for Optical Flow](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
+
+<a id="framework_s__4"></a>
+### Frameworks
++ [OpenMMLab optical flow toolbox and benchmark ](https://github.com/open-mmlab/mmflow) [pytorch]
+
 
 <a id="instance_segmentation_"></a>
 ## Instance Segmentation
@@ -1073,7 +1104,7 @@ Updated: 200711_142021
 * [DeepMAC](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/deepmac.md) [ax2104] [tensorflow]
 * [Swin Transformer](https://github.com/microsoft/Swin-Transformer) [iccv21] [pytorch] [microsoft]
 
-<a id="framework_s__1"></a>
+<a id="framework_s__5"></a>
 ### Frameworks
 * [Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch](https://github.com/facebookresearch/maskrcnn-benchmark) [pytorch] [facebook]
 * [PaddleDetection, Object detection and instance segmentation toolkit based on PaddlePaddle.](https://github.com/PaddlePaddle/PaddleDetection) [2019]
@@ -1089,10 +1120,10 @@ Updated: 200711_142021
 * [Deep Extreme Cut (DEXTR): From Extreme Points to Object Segmentation](https://github.com/scaelles/DEXTR-PyTorch)[cvpr18][[project]](https://cvlsegmentation.github.io/dextr/) [pytorch]
 * [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://github.com/wuhuikai/FastFCN)[ax1903][[project]](http://wuhuikai.me/FastFCNProject/) [pytorch]
 
-<a id="framework_s__2"></a>
+<a id="framework_s__6"></a>
 ### Frameworks
 + [ OpenMMLab Semantic Segmentation Toolbox and Benchmark](https://github.com/open-mmlab/mmsegmentation) [pytorch]
-* 
+
 <a id="polyp_"></a>
 ### Polyp
 
@@ -1100,7 +1131,7 @@ Updated: 200711_142021
 * [PHarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS](https://github.com/james128333/HarDNet-MSEG)[ax2101]
 
 <a id="panoptic_segmentation_"></a>
-## Panoptic  Segmentation
+## Panoptic Segmentation
 * [Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation](https://github.com/facebookresearch/detectron2/tree/main/projects/Panoptic-DeepLab) [cvpr20] [pytorch]
 
 <a id="video_segmentation__1"></a>
@@ -1110,8 +1141,8 @@ Updated: 200711_142021
 * [MaskTrackRCNN for video instance segmentation](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
 * [Video Swin Transformer](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
 
-<a id="panopti_c_"></a>
-### Panoptic
+<a id="panoptic_video_segmentation_"></a>
+### Panoptic Video Segmentation
 * [ViP-DeepLab](https://github.com/joe-siyuan-qiao/ViP-DeepLab) [cvpr21] 
 
 <a id="motion_prediction__1"></a>
@@ -1139,6 +1170,12 @@ Updated: 200711_142021
 * [Prediciting Human Trajectories](https://github.com/karthik4444/nn-trajectory-prediction) [theano]  
 * [Implementation of Recurrent Neural Networks for future trajectory prediction of pedestrians](https://github.com/aroongta/Pedestrian_Trajectory_Prediction) [pytorch]  
 
+<a id="pose_estimation_"></a>
+## Pose Estimation
+<a id="framework_s__7"></a>
+### Frameworks
++ [OpenMMLab Pose Estimation Toolbox and Benchmark. ](https://github.com/open-mmlab/mmpose) [pytorch]
+
 <a id="autoencoder_s_"></a>
 ## Autoencoders
 * [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl) [iclr17] [deepmind] [[tensorflow]](https://github.com/miyosuda/disentangled_vae) [[tensorflow]](https://github.com/LynnHo/VAE-Tensorflow) [[pytorch]](https://github.com/1Konny/Beta-VAE)
@@ -1148,13 +1185,16 @@ Updated: 200711_142021
 ## Classification
 * [Learning Efficient Convolutional Networks Through Network Slimming](https://github.com/miyosuda/async_deep_reinforce) [iccv17] [pytorch]
 
+<a id="framework_s__8"></a>
+### Frameworks
++ [OpenMMLab Image Classification Toolbox and Benchmark](https://github.com/open-mmlab/mmclassification) [pytorch]
+
 <a id="deep_rl_"></a>
 ## Deep RL
 * [Asynchronous Methods for Deep Reinforcement Learning ](https://github.com/miyosuda/async_deep_reinforce)
 
 <a id="annotatio_n_"></a>
 ## Annotation
-
 - [LabelImg](https://github.com/tzutalin/labelImg)
 - [ByLabel: A Boundary Based Semi-Automatic Image Annotation Tool](https://github.com/NathanUA/ByLabel)
 - [Bounding Box Editor and Exporter](https://github.com/persts/BBoxEE)
@@ -1169,14 +1209,16 @@ Updated: 200711_142021
 - [RectLabel An image annotation tool to label images for bounding box object detection and segmentation.](https://rectlabel.com/) [paid]
 - [Onepanel: Production scale vision AI platform with fully integrated components for model building, automated labeling, data processing and model training pipelines.](https://github.com/onepanelio/core) [[docs]](https://docs.onepanel.ai/docs/getting-started/quickstart/)
 
+<a id="editing_"></a>
+### Editing
+- [OpenMMLab Image and Video Editing Toolbox](https://github.com/open-mmlab/mmediting)
+
 <a id="augmentatio_n_"></a>
 ### Augmentation
-
 - [Augmentor: Image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 - [Albumentations: Fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albumentations-team/albumentations)
 - [imgaug: Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
 - [solt: Image Streaming over lightweight data transformations](https://github.com/MIPT-Oulu/solt)
-
 
 <a id="deep_learning__2"></a>
 ## Deep Learning
@@ -1194,7 +1236,6 @@ Updated: 200711_142021
 
 <a id="dataset_s__1"></a>
 ## Datasets
-
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
 * [List of traffic surveillance datasets](https://github.com/gustavovelascoh/traffic-surveillance-dataset) 
 * [Machine learning datasets: A list of the biggest machine learning datasets from across the web](https://www.datasetlist.com/) 
