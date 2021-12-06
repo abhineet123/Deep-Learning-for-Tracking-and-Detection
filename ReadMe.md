@@ -65,6 +65,7 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Siamese](#siamese__1)
         - [Unsupervised](#unsupervise_d_)
         - [Re-ID](#re_id_)
+            - [Frameworks](#framework_s__1)
         - [Graph NN](#graph_nn_)
         - [Microscopy / cell tracking](#microscopy___cell_tracking__1)
         - [3D](#3_d_)
@@ -73,9 +74,9 @@ Collection of papers, datasets, code and other resources for object detection an
         - [GUI Application / Large Scale Tracking / Animals](#gui_application___large_scale_tracking___animal_s_)
     - [Video Detection](#video_detectio_n__2)
         - [Action Detection](#action_detectio_n_)
-            - [Frameworks](#framework_s__1)
+            - [Frameworks](#framework_s__2)
     - [Static Detection and Matching](#static_detection_and_matching_)
-        - [Frameworks](#framework_s__2)
+        - [Frameworks](#framework_s__3)
         - [Region Proposal](#region_proposal__1)
         - [FPN](#fpn_)
         - [RCNN](#rcn_n__1)
@@ -87,25 +88,25 @@ Collection of papers, datasets, code and other resources for object detection an
         - [Matching](#matchin_g_)
         - [Boundary Detection](#boundary_detectio_n__1)
         - [Text Detection](#text_detectio_n_)
-            - [Frameworks](#framework_s__3)
-        - [3D Detection](#3d_detectio_n_)
             - [Frameworks](#framework_s__4)
+        - [3D Detection](#3d_detectio_n_)
+            - [Frameworks](#framework_s__5)
     - [Optical Flow](#optical_flow__1)
-        - [Frameworks](#framework_s__5)
-    - [Instance Segmentation](#instance_segmentation_)
         - [Frameworks](#framework_s__6)
-    - [Semantic Segmentation](#semantic_segmentation_)
+    - [Instance Segmentation](#instance_segmentation_)
         - [Frameworks](#framework_s__7)
+    - [Semantic Segmentation](#semantic_segmentation_)
+        - [Frameworks](#framework_s__8)
         - [Polyp](#polyp_)
     - [Panoptic Segmentation](#panoptic_segmentation_)
     - [Video Segmentation](#video_segmentation__1)
         - [Panoptic Video Segmentation](#panoptic_video_segmentation_)
     - [Motion Prediction](#motion_prediction__1)
     - [Pose Estimation](#pose_estimation_)
-        - [Frameworks](#framework_s__8)
+        - [Frameworks](#framework_s__9)
     - [Autoencoders](#autoencoder_s_)
     - [Classification](#classificatio_n__1)
-        - [Frameworks](#framework_s__9)
+        - [Frameworks](#framework_s__10)
     - [Deep RL](#deep_rl_)
     - [Annotation](#annotatio_n_)
         - [Editing](#editing_)
@@ -113,6 +114,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Deep Learning](#deep_learning__2)
         - [Class Imbalance](#class_imbalanc_e_)
         - [Few shot learning](#few_shot_learning_)
+        - [Unsupervised learning](#unsupervised_learning__2)
 - [Collections](#collections_)
     - [Datasets](#dataset_s__1)
     - [Deep Learning](#deep_learning__3)
@@ -886,6 +888,11 @@ Updated: 200711_142021
 * [FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking](https://github.com/ifzhang/FairMOT) [ax2004] [pytorch] [[microsoft]](https://github.com/microsoft/FairMOT) [[BDD100K]](https://github.com/dingwoai/FairMOT-BDD100K) [[face tracking]](https://github.com/zengwb-lx/Face-Tracking-usingFairMOT)
 * [Rethinking the competition between detection and ReID in Multi-Object Tracking](https://github.com/JudasDie/SOTS) [ax2010] [pytorch] 
 
+<a id="framework_s__1"></a>
+#### Frameworks
+* [PyTorch open-source toolbox for unsupervised or domain adaptive object re-ID](https://github.com/open-mmlab/OpenUnReID) [pytorch] 
+
+
 <a id="graph_nn_"></a>
 ### Graph NN
 * [Joint Object Detection and Multi-Object Tracking with Graph Neural Networks](https://github.com/yongxinw/GSDT) [ax2006/ icra21] [pytorch]
@@ -973,13 +980,13 @@ Updated: 200711_142021
 
 <a id="action_detectio_n_"></a>
 ### Action Detection
-<a id="framework_s__1"></a>
+<a id="framework_s__2"></a>
 #### Frameworks
 + [OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark](https://github.com/open-mmlab/mmaction2) [pytorch]
 
 <a id="static_detection_and_matching_"></a>
 ## Static Detection and Matching
-<a id="framework_s__2"></a>
+<a id="framework_s__3"></a>
 ### Frameworks
 + [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection) [tensorflow]
 + [Detectron2](https://github.com/facebookresearch/detectron2) [pytorch]
@@ -1074,13 +1081,13 @@ Updated: 200711_142021
 ### Text Detection  
 + [Real-time Scene Text Detection with Differentiable Binarization](https://github.com/MhLiao/DB) [pytorch] [aaai20] 
 
-<a id="framework_s__3"></a>
+<a id="framework_s__4"></a>
 #### Frameworks
 + [ OpenMMLab Text Detection, Recognition and Understanding Toolbox ](https://github.com/open-mmlab/mmocr) [pytorch]
 
 <a id="3d_detectio_n_"></a>
 ### 3D Detection  
-<a id="framework_s__4"></a>
+<a id="framework_s__5"></a>
 #### Frameworks
 + [OpenMMLab's next-generation platform for general 3D object detection](https://github.com/open-mmlab/mmdetection3d) [pytorch]
 + [OpenPCDet Toolbox for LiDAR-based 3D Object Detection](https://github.com/open-mmlab/OpenPCDet) [pytorch]
@@ -1097,7 +1104,7 @@ Updated: 200711_142021
 * [DeepFlow v2](https://arxiv.org/abs/1611.00850) [iccv13] [[c++/python/matlab]](https://github.com/zimenglan-sysu-512/deep-flow), [[project]](http://lear.inrialpes.fr/src/deepflow/)
 * [An Evaluation of Data Costs for Optical Flow](https://github.com/vogechri/DataFlow) [gcpr13] [matlab]
 
-<a id="framework_s__5"></a>
+<a id="framework_s__6"></a>
 ### Frameworks
 + [OpenMMLab optical flow toolbox and benchmark ](https://github.com/open-mmlab/mmflow) [pytorch]
 
@@ -1114,7 +1121,7 @@ Updated: 200711_142021
 * [DeepMAC](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/deepmac.md) [ax2104] [tensorflow]
 * [Swin Transformer](https://github.com/microsoft/Swin-Transformer) [iccv21] [pytorch] [microsoft]
 
-<a id="framework_s__6"></a>
+<a id="framework_s__7"></a>
 ### Frameworks
 * [Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch](https://github.com/facebookresearch/maskrcnn-benchmark) [pytorch] [facebook]
 * [PaddleDetection, Object detection and instance segmentation toolkit based on PaddlePaddle.](https://github.com/PaddlePaddle/PaddleDetection) [2019]
@@ -1130,7 +1137,7 @@ Updated: 200711_142021
 * [Deep Extreme Cut (DEXTR): From Extreme Points to Object Segmentation](https://github.com/scaelles/DEXTR-PyTorch)[cvpr18][[project]](https://cvlsegmentation.github.io/dextr/) [pytorch]
 * [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://github.com/wuhuikai/FastFCN)[ax1903][[project]](http://wuhuikai.me/FastFCNProject/) [pytorch]
 
-<a id="framework_s__7"></a>
+<a id="framework_s__8"></a>
 ### Frameworks
 + [ OpenMMLab Semantic Segmentation Toolbox and Benchmark](https://github.com/open-mmlab/mmsegmentation) [pytorch]
 
@@ -1182,7 +1189,7 @@ Updated: 200711_142021
 
 <a id="pose_estimation_"></a>
 ## Pose Estimation
-<a id="framework_s__8"></a>
+<a id="framework_s__9"></a>
 ### Frameworks
 + [OpenMMLab Pose Estimation Toolbox and Benchmark. ](https://github.com/open-mmlab/mmpose) [pytorch]
 
@@ -1195,7 +1202,7 @@ Updated: 200711_142021
 ## Classification
 * [Learning Efficient Convolutional Networks Through Network Slimming](https://github.com/miyosuda/async_deep_reinforce) [iccv17] [pytorch]
 
-<a id="framework_s__9"></a>
+<a id="framework_s__10"></a>
 ### Frameworks
 + [OpenMMLab Image Classification Toolbox and Benchmark](https://github.com/open-mmlab/mmclassification) [pytorch]
 
@@ -1244,7 +1251,10 @@ Updated: 200711_142021
 <a id="few_shot_learning_"></a>
 ### Few shot learning
 * [OpenMMLab FewShot Learning Toolbox and Benchmark](https://github.com/open-mmlab/mmfewshot) [pytorch]
-* [Iterable dataset resampling in PyTorch](https://github.com/MaxHalford/pytorch-resample) [pytorch]
+
+<a id="unsupervised_learning__2"></a>
+### Unsupervised learning
+* [Self-Supervised Learning Toolbox and Benchmark](https://github.com/open-mmlab/OpenSelfSup) [pytorch]
 
 <a id="collections_"></a>
 # Collections
