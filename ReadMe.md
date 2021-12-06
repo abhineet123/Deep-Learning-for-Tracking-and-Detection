@@ -87,7 +87,9 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Instance Segmentation](#instance_segmentation_)
         - [Frameworks](#framework_s__1)
     - [Semantic Segmentation](#semantic_segmentation_)
+        - [Frameworks](#framework_s__2)
         - [Polyp](#polyp_)
+    - [Panoptic  Segmentation](#panoptic_segmentation_)
     - [Video Segmentation](#video_segmentation__1)
         - [Panoptic](#panopti_c_)
     - [Motion Prediction](#motion_prediction__1)
@@ -954,10 +956,10 @@ Updated: 200711_142021
 
 <a id="framework_s_"></a>
 ### Frameworks
-+ [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection)
-+ [Detectron2](https://github.com/facebookresearch/detectron2)
-+ [Detectron](https://github.com/facebookresearch/Detectron)
-+ [Open MMLab Detection Toolbox with PyTorch](https://github.com/open-mmlab/mmdetection)
++ [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/object_detection) [tensorflow]
++ [Detectron2](https://github.com/facebookresearch/detectron2) [pytorch]
++ [Detectron](https://github.com/facebookresearch/Detectron) [pytorch]
++ [Open MMLab Detection Toolbox with PyTorch](https://github.com/open-mmlab/mmdetection) [pytorch]
 
 <a id="region_proposal__1"></a>
 ### Region Proposal   
@@ -1015,7 +1017,6 @@ Updated: 200711_142021
 
 <a id="anchor_free__1"></a>
 ### Anchor Free
-
 * [FoveaBox: Beyond Anchor-based Object Detector](https://github.com/taokong/FoveaBox) [ax1904] [pytorch/mmdetection]
 * [Cornernet: Detecting objects as paired keypoints](https://github.com/princeton-vl/CornerNet) [ax1903/eccv18] [pytorch]
 * [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS) [iccv19] [pytorch] [[VoVNet]](https://github.com/vov-net/VoVNet-FCOS) [[HRNet]](https://github.com/HRNet/HRNet-FCOS) [[NAS]](https://github.com/Lausannen/NAS-FCOS) [[FCOS_PLUS]](https://github.com/yqyao/FCOS_PLUS)
@@ -1088,12 +1089,19 @@ Updated: 200711_142021
 * [Deep Extreme Cut (DEXTR): From Extreme Points to Object Segmentation](https://github.com/scaelles/DEXTR-PyTorch)[cvpr18][[project]](https://cvlsegmentation.github.io/dextr/) [pytorch]
 * [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://github.com/wuhuikai/FastFCN)[ax1903][[project]](http://wuhuikai.me/FastFCNProject/) [pytorch]
 
+<a id="framework_s__2"></a>
+### Frameworks
++ [ OpenMMLab Semantic Segmentation Toolbox and Benchmark](https://github.com/open-mmlab/mmsegmentation) [pytorch]
+* 
 <a id="polyp_"></a>
 ### Polyp
 
 * [PraNet: Parallel Reverse Attention Network for Polyp Segmentation](https://github.com/DengPingFan/PraNet)[miccai20]
 * [PHarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS](https://github.com/james128333/HarDNet-MSEG)[ax2101]
 
+<a id="panoptic_segmentation_"></a>
+## Panoptic  Segmentation
+* [Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation](https://github.com/facebookresearch/detectron2/tree/main/projects/Panoptic-DeepLab) [cvpr20] [pytorch]
 
 <a id="video_segmentation__1"></a>
 ## Video Segmentation
@@ -1105,7 +1113,6 @@ Updated: 200711_142021
 <a id="panopti_c_"></a>
 ### Panoptic
 * [ViP-DeepLab](https://github.com/joe-siyuan-qiao/ViP-DeepLab) [cvpr21] 
-
 
 <a id="motion_prediction__1"></a>
 ## Motion Prediction
