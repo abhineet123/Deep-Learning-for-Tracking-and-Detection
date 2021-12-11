@@ -1076,6 +1076,7 @@ Updated: 200711_142021
 + [Edge-Detection-using-Deep-Learning (HED)](https://github.com/Akuanchang/Edge-Detection-using-Deep-Learning) [tensorflow]
 + [Holistically-Nested Edge Detection (HED) in OpenCV](https://github.com/opencv/opencv/blob/master/samples/dnn/edge_detection.py) [python/c++]       
 + [Crisp Boundary Detection Using Pointwise Mutual Information (eccv14)](https://github.com/phillipi/crisp-boundaries) [matlab]
++ [Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection](https://github.com/phillipi/crisp-boundaries) [wacv20] [tensorflow](https://github.com/xavysp/DexiNed/tree/master/legacy) [pytorch](https://github.com/xavysp/DexiNed)
 
 <a id="text_detectio_n_"></a>
 ### Text Detection  
