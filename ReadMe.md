@@ -864,6 +864,8 @@ Updated: 200711_142021
 * [Quasi-Dense Similarity Learning for Multiple Object Tracking](https://github.com/SysCV/qdtrack) [ax2006] [pytorch]
 * [DEFT: Detection Embeddings for Tracking](https://github.com/MedChaabane/DEFT) [ax2102] [pytorch]
 * [How To Train Your Deep Multi-Object Tracker](https://github.com/yihongXU/deepMOT) [ax1906/cvpr20] [pytorch] [[traktor/gitlab]](https://gitlab.inria.fr/yixu/deepmot)
+* [Track To Detect and Segment: An Online Multi-Object Tracker ](https://github.com/JialianW/TraDeS) [cvpr21] [pytorch] [[project]](https://jialianwu.com/projects/TraDeS.html)
+* [MOTR: End-to-End Multiple-Object Tracking with Transformer](https://github.com/megvii-model/MOTR) [ax2202] [pytorch]
 
 
 <a id="baselin_e__1"></a>
