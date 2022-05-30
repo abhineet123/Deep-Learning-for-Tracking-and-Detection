@@ -930,7 +930,7 @@ Updated: 200711_142021
 [cvpr17]
 [[matlab/matconvnet]](https://github.com/bertinetto/cfnet) [[tensorflow/inference_only]](https://github.com/torrvision/siamfc-tf) [[project]](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)
 * [Dual Deep Network for Visual Tracking](https://github.com/chizhizhen/DNT) [tip1704] [caffe]
-* [A simplified PyTorch implementation of Siamese networks for tracking: SiamFC, SiamRPN, SiamRPN++, SiamVGG, SiamDW, SiamRPN-VGG](https://github.com/zllrunning/SiameseX.PyTorch) [pytorch]
+* [SiameseX: A simplified PyTorch implementation of Siamese networks for tracking: SiamFC, SiamRPN, SiamRPN++, SiamVGG, SiamDW, SiamRPN-VGG](https://github.com/zllrunning/SiameseX.PyTorch) [pytorch]
 * [RATM: Recurrent Attentive Tracking Model](https://github.com/saebrahimi/RATM) [cvprw17] [python]
 * [ROLO : Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://github.com/Guanghan/ROLO) [iscas 2017] [tensorfow]
 * [ECO: Efficient Convolution Operators for Tracking](https://arxiv.org/abs/1611.09224)
