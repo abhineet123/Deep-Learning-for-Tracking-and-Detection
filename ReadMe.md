@@ -1156,10 +1156,16 @@ Updated: 200711_142021
 
 <a id="video_segmentation__1"></a>
 ## Video Segmentation
+* [Video Instance Segmentation on YouTube-VIS validation](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-1?p=seqformer-a-frustratingly-simple-model-for)
+* 
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 * [PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://github.com/JonathonLuiten/PReMVOS) [accv18/cvprw18/eccvw18] [tensorflow]
 * [MaskTrackRCNN for video instance segmentation](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
 * [Video Swin Transformer](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
+* [Video Instance Segmentation using Inter-Frame Communication Transformers](https://github.com/sukjunhwang/IFC) [nips21] [pytorch/detectron]
+* [VNext: SeqFormer / IDOL](https://github.com/wjf5203/VNext) [eccv22] [pytorch/detectron2]
+* [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://github.com/wjf5203/SeqFormer) [eccv22] [pytorch/detectron2]
+* [VITA: Video Instance Segmentation via Object Token Association](https://github.com/sukjunhwang/vita) [nips22] [pytorch/detectron2]
 
 <a id="panoptic_video_segmentation_"></a>
 ### Panoptic Video Segmentation
