@@ -122,7 +122,8 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Video Detection](#video_detectio_n__3)
     - [Single Object Tracking](#single_object_tracking__3)
     - [Multi Object Tracking](#multi_object_tracking__3)
-    - [Segmentation](#segmentatio_n_)
+    - [Static Segmentation](#static_segmentation__1)
+    - [Video Segmentation](#video_segmentation__2)
     - [Motion Prediction](#motion_prediction__2)
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__3)
@@ -1156,12 +1157,10 @@ Updated: 200711_142021
 
 <a id="video_segmentation__1"></a>
 ## Video Segmentation
-* [Video Instance Segmentation on YouTube-VIS validation](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-1?p=seqformer-a-frustratingly-simple-model-for)
-* 
 * [Improving Semantic Segmentation via Video Prediction and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation) [cvpr19] [pytorch] [nvidia]
 * [PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://github.com/JonathonLuiten/PReMVOS) [accv18/cvprw18/eccvw18] [tensorflow]
 * [MaskTrackRCNN for video instance segmentation](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
-* [Video Swin Transformer](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
+* [MaskTrackRCNN](https://github.com/youtubevos/MaskTrackRCNN) [iccv19] [pytorch/detectron]
 * [Video Instance Segmentation using Inter-Frame Communication Transformers](https://github.com/sukjunhwang/IFC) [nips21] [pytorch/detectron]
 * [VNext: SeqFormer / IDOL](https://github.com/wjf5203/VNext) [eccv22] [pytorch/detectron2]
 * [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://github.com/wjf5203/SeqFormer) [eccv22] [pytorch/detectron2]
@@ -1317,13 +1316,18 @@ Updated: 200711_142021
 * [Papers with Code : Multiple Object Tracking](https://paperswithcode.com/task/multiple-object-tracking/codeless)  
 * [Paper list and source code for multi-object-tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)  
 
-<a id="segmentatio_n_"></a>
-## Segmentation
+<a id="static_segmentation__1"></a>
+## Static Segmentation
 
 * [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
 * [Segmentation.X : Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation](https://github.com/wutianyiRosun/Segmentation.X) 
 * [Instance Segmentation Papers with Code](https://paperswithcode.com/task/instance-segmentation) 
-*  
+
+<a id="video_segmentation__2"></a>
+## Video Segmentation
+
+* [Video Instance Segmentation on YouTube-VIS validation](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-1?p=seqformer-a-frustratingly-simple-model-for)
+
 
 <a id="motion_prediction__2"></a>
 ## Motion Prediction
