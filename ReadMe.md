@@ -128,6 +128,7 @@ Collection of papers, datasets, code and other resources for object detection an
     - [Deep Compressed Sensing](#deep_compressed_sensin_g_)
     - [Misc](#mis_c__3)
 - [Tutorials](#tutorials_)
+    - [Collections](#collections__1)
     - [Multi Object Tracking](#multi_object_tracking__4)
     - [Static Detection](#static_detectio_n__3)
     - [Video Detection](#video_detectio_n__4)
@@ -1349,6 +1350,10 @@ Updated: 200711_142021
 
 <a id="tutorials_"></a>
 # Tutorials
+
+<a id="collections__1"></a>
+## Collections
+* [Deep Tutorials for PyTorch](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch
 
 <a id="multi_object_tracking__4"></a>
 ## Multi Object Tracking
