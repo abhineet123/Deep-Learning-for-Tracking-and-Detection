@@ -1353,7 +1353,7 @@ Updated: 200711_142021
 
 <a id="collections__1"></a>
 ## Collections
-* [Deep Tutorials for PyTorch](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch
+* [Deep Tutorials for PyTorch](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)
 
 <a id="multi_object_tracking__4"></a>
 ## Multi Object Tracking
