@@ -995,6 +995,7 @@ Updated: 200711_142021
 + [Detectron2](https://github.com/facebookresearch/detectron2) [pytorch]
 + [Detectron](https://github.com/facebookresearch/Detectron) [pytorch]
 + [Open MMLab Detection Toolbox with PyTorch](https://github.com/open-mmlab/mmdetection) [pytorch]
++ [SimpleDet](https://github.com/tusen-ai/simpledet) [mxnet]
 
 <a id="region_proposal__1"></a>
 ### Region Proposal   
@@ -1310,7 +1311,6 @@ Updated: 200711_142021
     
 <a id="multi_object_tracking__3"></a>
 ## Multi Object Tracking
-
 * [List of multi object tracking papers](http://perception.yale.edu/Brian/refGuides/MOT.html)   
 * [A collection of Multiple Object Tracking (MOT) papers in recent years, with notes](https://github.com/huanglianghua/mot-papers)  
 * [Papers with Code : Multiple Object Tracking](https://paperswithcode.com/task/multiple-object-tracking/codeless)  
@@ -1318,32 +1318,27 @@ Updated: 200711_142021
 
 <a id="static_segmentation__1"></a>
 ## Static Segmentation
-
 * [Segmentation Papers and Code](https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html)  
 * [Segmentation.X : Papers and Benchmarks about semantic segmentation, instance segmentation, panoptic segmentation and video segmentation](https://github.com/wutianyiRosun/Segmentation.X) 
 * [Instance Segmentation Papers with Code](https://paperswithcode.com/task/instance-segmentation) 
 
 <a id="video_segmentation__2"></a>
 ## Video Segmentation
-
 * [Video Instance Segmentation on YouTube-VIS validation](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-1?p=seqformer-a-frustratingly-simple-model-for)
 
 
 <a id="motion_prediction__2"></a>
 ## Motion Prediction
-
 * [Awesome-Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction/blob/master/README.md)  
 * [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)  
 * [Human Trajectory Prediction Datasets](https://github.com/amiryanj/OpenTraj)  
 
 <a id="deep_compressed_sensin_g_"></a>
 ## Deep Compressed Sensing
-
 * [Reproducible Deep Compressive Sensing](https://github.com/AtenaKid/Reproducible-Deep-Compressive-Sensing)  
 
 <a id="mis_c__3"></a>
 ## Misc 
-
 * [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
 * [Awesome Deep Ecology](https://github.com/patrickcgray/awesome-deep-ecology)
 * [List of Matlab frameworks, libraries and software](https://github.com/uhub/awesome-matlab)
