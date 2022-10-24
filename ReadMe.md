@@ -1050,7 +1050,8 @@ Updated: 200711_142021
 + [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) [tensorflow slim]
 + [keras-yolov3](https://github.com/qqwweee/keras-yolo3) [keras]  
 + YOLOv4 [[darknet - c/python]](https://github.com/AlexeyAB/darknet) [[tensorflow]](https://github.com/hunglc007/tensorflow-yolov4-tflite) [[pytorch/711]](https://github.com/WongKinYiu/PyTorch_YOLOv4) [[pytorch/ONNX/TensorRT/1.9k]](https://github.com/Tianxiaomo/pytorch-YOLOv4) [[pytorch 3D]](https://github.com/maudzung/Complex-YOLOv4-Pytorch)
-+ [YOLOv5](https://github.com/ultralytics/yolov5) [pytorch]  
++ [YOLOv5](https://github.com/ultralytics/yolov5) [pytorch] 
++ [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) [pytorch] [MegEngine](https://github.com/MegEngine/YOLOX) [ax2107]
 
 <a id="anchor_free__1"></a>
 ### Anchor Free
