@@ -150,6 +150,9 @@ I use [DavidRM Journal](http://www.davidrm.com/) for managing my research data f
 
 I make available a Journal entry export file that contains tagged and categorized collection of papers, articles, tutorials, code and notes about computer vision and deep learning that I have collected over the last few years.
 
+This is what the topic cloud looks like:
+![Alt text](topic_cloud.jpg?raw=true)
+
 It needs Jounal 8 and can be imported using following steps:
  
 - Import my user preferences using **File** -> **Import** -> **Import User Preferences**
