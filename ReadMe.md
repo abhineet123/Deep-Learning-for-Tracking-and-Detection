@@ -155,7 +155,7 @@ It needs Jounal 8 and can be imported using following steps:
 - Import my user preferences using **File** -> **Import** -> **Import User Preferences**
 - Import research data using **File** -> **Import** -> **Sync from The Journal Export File**
 
-Note that my user settings must be imported _before_ the research data for the tagged topics to work correctly.
+Note that my user preferences must be imported _before_ the research data for the tagged topics to work correctly.
 
 (optional) My global options file is also provided for those interested in a dark theme and can be imported using **File** -> **Import** -> **Import Global Options**
 
