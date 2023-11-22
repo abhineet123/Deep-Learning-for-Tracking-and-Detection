@@ -158,7 +158,7 @@ My user preferences also need to be imported (**File** -> **Import** -> **Import
 -  [Entry Export File](research_data/phd_literature_readings.tjexp)
 -  [Global Options](research_data/global_options.tjglobal)
 
-Updated: 200711_142021
+Updated: 2023-11-22
 
 <a id="paper_s_"></a>
 # Papers
