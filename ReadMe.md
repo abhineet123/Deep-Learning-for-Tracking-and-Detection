@@ -148,7 +148,7 @@ Collection of papers, datasets, code and other resources for object detection an
 
 I use [DavidRM Journal](http://www.davidrm.com/) for managing my research data for its excellent hierarchical organization, cross-linking and tagging capabilities.
 
-I make available a Journal entry export file that contains tagged and categorized collection of papers, articles and notes about computer vision and deep learning that I have collected over the last few years.
+I make available a Journal entry export file that contains tagged and categorized collection of papers, articles, tutorials, code and notes about computer vision and deep learning that I have collected over the last few years.
 
 It needs Jounal 8 and can be imported using **File** -> **Import** -> **Sync from The Journal Export File**.
 My user preferences also need to be imported (**File** -> **Import** -> **Import User Preferences**) _before_ importing the entries for the tagged topics to work correctly.
