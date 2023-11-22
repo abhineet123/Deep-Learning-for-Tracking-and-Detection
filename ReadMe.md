@@ -150,9 +150,14 @@ I use [DavidRM Journal](http://www.davidrm.com/) for managing my research data f
 
 I make available a Journal entry export file that contains tagged and categorized collection of papers, articles, tutorials, code and notes about computer vision and deep learning that I have collected over the last few years.
 
-It needs Jounal 8 and can be imported using **File** -> **Import** -> **Sync from The Journal Export File**.
-My user preferences also need to be imported (**File** -> **Import** -> **Import User Preferences**) _before_ importing the entries for the tagged topics to work correctly.
- My global options file is also provided for those interested in a dark theme.
+It needs Jounal 8 and can be imported using following steps:
+ 
+- Import my user preferences using **File** -> **Import** -> **Import User Preferences**
+- Import research data using **File** -> **Import** -> **Sync from The Journal Export File**
+
+Note that my user settings must be imported _before_ the research data for the tagged topics to work correctly.
+
+(optional) My global options file is also provided for those interested in a dark theme and can be imported using **File** -> **Import** -> **Import Global Options**
 
 -  [User Preferences](research_data/user_settings.juser)
 -  [Entry Export File](research_data/phd_literature_readings.tjexp)
