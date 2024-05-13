@@ -687,7 +687,7 @@ Updated: 2023-11-22
 <a id="multi_object_tracking__1"></a>
 ## Multi Object Tracking
 
-- [IDOT](https://www.cs.uic.edu/Bits/YanziJin)
+- [IDOT](https://github.com/bitslab/IDOT_dataset)
 - [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)
 - [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
 - [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
