@@ -689,7 +689,7 @@ Updated: 2023-11-22
 
 - [IDOT](https://github.com/bitslab/IDOT_dataset)
 - [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)
-- [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
+- [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/) [paper](https://link.springer.com/chapter/10.1007/978-3-642-38622-0_32)
 - [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
 - [TRANCOS](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
 - [Urban Tracker](https://www.jpjodoin.com/urbantracker/dataset.html)
