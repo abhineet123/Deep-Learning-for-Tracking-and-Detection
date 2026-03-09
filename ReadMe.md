@@ -166,7 +166,7 @@ Note that my user preferences must be imported _before_ the research data for th
 -  [Entry Export File](research_data/phd_literature_readings.tjexp)
 -  [Global Options](research_data/global_options.tjglobal)
 
-Updated: 2023-11-22
+Updated: 2026-03-09
 
 <a id="paper_s_"></a>
 # Papers

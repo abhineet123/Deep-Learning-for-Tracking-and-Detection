@@ -12,7 +12,7 @@ GOTimerVisible=0
 GOTimerSound=C:\Windows\Media\Windows Ding.WAV
 GOTimerDefaultCountdownStart=1899-12-30 12:15:00 AM
 GOThemeName=Windows10 Dark
-GOThemeFormBorders=0
+GOThemeFormBorders=1
 GOThemeShowUIBorders=1
 GOMinimizeToTray=0
 GOLockToolbars=0
@@ -450,10 +450,10 @@ DockedDockingStyle=2
 DockedLeft=0
 DockedTop=0
 DockingStyle=2
-FloatClientHeight=52
-FloatClientWidth=618
-FloatLeft=27
-FloatTop=0
+FloatClientHeight=62
+FloatClientWidth=746
+FloatLeft=-3914
+FloatTop=-1055
 OneOnRow=0
 Row=0
 Visible=1
@@ -468,7 +468,7 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=133
+UseCount=299
 RecentIndex=0
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink1]
@@ -480,8 +480,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=71
-RecentIndex=4
+UseCount=188
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink2]
 ItemName=SearchdxBarSubItem
@@ -492,8 +492,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=57
-RecentIndex=7
+UseCount=74
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink3]
 ItemName=ViewdxBarSubItem
@@ -504,8 +504,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=64
-RecentIndex=1
+UseCount=780
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink4]
 ItemName=GodxBarSubItem
@@ -528,7 +528,7 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=978
+UseCount=981
 RecentIndex=9
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink6]
@@ -540,7 +540,7 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=35
+UseCount=48
 RecentIndex=6
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink7]
@@ -552,8 +552,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=30
-RecentIndex=10
+UseCount=31
+RecentIndex=12
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink8]
 ItemName=TopicdxBarSubItem
@@ -564,8 +564,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=101
-RecentIndex=5
+UseCount=106
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink9]
 ItemName=ToolsdxBarSubItem
@@ -576,8 +576,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=46
-RecentIndex=2
+UseCount=78
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink10]
 ItemName=EntrydxBarSubItem
@@ -588,8 +588,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=22
-RecentIndex=8
+UseCount=25
+RecentIndex=10
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink11]
 ItemName=CategorydxBarSubItem
@@ -600,8 +600,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=25
-RecentIndex=12
+UseCount=29
+RecentIndex=11
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink12]
 ItemName=UserdxBarSubItem
@@ -612,8 +612,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=59
-RecentIndex=3
+UseCount=66
+RecentIndex=7
 
 [JFMainForm.MaindxBarManager.Bar0.ItemLink13]
 ItemName=HelpdxBarSubItem
@@ -624,13 +624,13 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=25
-RecentIndex=11
+UseCount=28
+RecentIndex=8
 
 [JFMainForm.MaindxBarManager.Bar1]
 Caption=Standard
 DockedDockingStyle=2
-DockedLeft=719
+DockedLeft=807
 DockedTop=0
 DockingStyle=2
 FloatClientHeight=30
@@ -843,8 +843,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=46
-RecentIndex=2
+UseCount=53
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.Bar1.ItemLink17]
 ItemName=InsertDatedxBarButton
@@ -855,8 +855,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=716
-RecentIndex=1
+UseCount=2529
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.Bar1.ItemLink18]
 ItemName=InsertTimedxBarButton
@@ -867,8 +867,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=1027
-RecentIndex=0
+UseCount=2841
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.Bar1.ItemLink19]
 ItemName=GoForwarddxBarButton
@@ -897,7 +897,7 @@ RecentIndex=17
 [JFMainForm.MaindxBarManager.Bar2]
 Caption=Formatting
 DockedDockingStyle=2
-DockedLeft=886
+DockedLeft=998
 DockedTop=0
 DockingStyle=2
 FloatClientHeight=249
@@ -907,7 +907,7 @@ FloatTop=-569
 OneOnRow=0
 Row=0
 Visible=1
-ItemLinkCount=23
+ItemLinkCount=19
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink0]
 ItemName=SearchSearchEntriesdxBarButton
@@ -918,8 +918,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=20
-RecentIndex=11
+UseCount=22
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink1]
 ItemName=TopicSearchdxBarButton
@@ -930,8 +930,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=20
-RecentIndex=12
+UseCount=22
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink2]
 ItemName=ToggleCalendardxBarButton
@@ -942,8 +942,8 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=44
-RecentIndex=7
+UseCount=48
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink3]
 ItemName=ToggleTreedxBarButton
@@ -968,7 +968,7 @@ Position=0
 ViewLevels=0808
 Visible=1
 UseCount=22
-RecentIndex=16
+RecentIndex=12
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink5]
 ItemName=FormatdxBarFontNameCombo
@@ -981,7 +981,7 @@ Position=0
 ViewLevels=0808
 Visible=1
 UseCount=20
-RecentIndex=17
+RecentIndex=13
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink6]
 ItemName=FormatFontSizedxBarCombo
@@ -994,7 +994,7 @@ Position=0
 ViewLevels=0808
 Visible=1
 UseCount=32
-RecentIndex=1
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink7]
 ItemName=FormatBolddxBarButton
@@ -1006,7 +1006,7 @@ Position=0
 ViewLevels=0000
 Visible=1
 UseCount=20
-RecentIndex=18
+RecentIndex=14
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink8]
 ItemName=FormatItalicdxBarButton
@@ -1018,7 +1018,7 @@ Position=0
 ViewLevels=0000
 Visible=1
 UseCount=20
-RecentIndex=19
+RecentIndex=15
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink9]
 ItemName=FormatUnderdxBarButton
@@ -1042,7 +1042,7 @@ Position=0
 ViewLevels=0000
 Visible=1
 UseCount=24
-RecentIndex=13
+RecentIndex=11
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink11]
 ItemName=FormatLeftdxBarButton
@@ -1054,7 +1054,7 @@ Position=0
 ViewLevels=0000
 Visible=1
 UseCount=21
-RecentIndex=5
+RecentIndex=8
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink12]
 ItemName=FormatCenterdxBarButton
@@ -1066,7 +1066,7 @@ Position=0
 ViewLevels=0000
 Visible=1
 UseCount=21
-RecentIndex=2
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink13]
 ItemName=FormatRightdxBarButton
@@ -1078,7 +1078,7 @@ Position=0
 ViewLevels=0000
 Visible=1
 UseCount=21
-RecentIndex=4
+RecentIndex=7
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink14]
 ItemName=FormatBlockdxBarButton
@@ -1090,35 +1090,11 @@ Position=0
 ViewLevels=0000
 Visible=1
 UseCount=20
-RecentIndex=3
+RecentIndex=6
 
 [JFMainForm.MaindxBarManager.Bar2.ItemLink15]
-ItemName=FormatNumberdxBarButton
-BeginGroup=1
-UserDefine=00
-UserString=
-ButtonGroup=0
-Position=0
-ViewLevels=0000
-Visible=1
-UseCount=21
-RecentIndex=14
-
-[JFMainForm.MaindxBarManager.Bar2.ItemLink16]
-ItemName=FormatBulletdxBarButton
-BeginGroup=0
-UserDefine=00
-UserString=
-ButtonGroup=0
-Position=0
-ViewLevels=0000
-Visible=1
-UseCount=57
-RecentIndex=8
-
-[JFMainForm.MaindxBarManager.Bar2.ItemLink17]
 ItemName=FormatUnindentdxBarButton
-BeginGroup=0
+BeginGroup=1
 UserDefine=00
 UserString=
 ButtonGroup=0
@@ -1126,21 +1102,9 @@ Position=0
 ViewLevels=0000
 Visible=1
 UseCount=20
-RecentIndex=20
+RecentIndex=16
 
-[JFMainForm.MaindxBarManager.Bar2.ItemLink18]
-ItemName=FormatIndentdxBarButton
-BeginGroup=1
-UserDefine=00
-UserString=
-ButtonGroup=0
-Position=0
-ViewLevels=0000
-Visible=1
-UseCount=21
-RecentIndex=15
-
-[JFMainForm.MaindxBarManager.Bar2.ItemLink19]
+[JFMainForm.MaindxBarManager.Bar2.ItemLink16]
 ItemName=FontColordxBarButton
 BeginGroup=1
 UserDefine=00
@@ -1149,10 +1113,10 @@ ButtonGroup=0
 Position=0
 ViewLevels=0000
 Visible=1
-UseCount=86
-RecentIndex=6
+UseCount=104
+RecentIndex=0
 
-[JFMainForm.MaindxBarManager.Bar2.ItemLink20]
+[JFMainForm.MaindxBarManager.Bar2.ItemLink17]
 ItemName=FontColorItemDown
 BeginGroup=0
 UserDefine=00
@@ -1162,21 +1126,9 @@ Position=0
 ViewLevels=0000
 Visible=0
 UseCount=24
-RecentIndex=21
+RecentIndex=17
 
-[JFMainForm.MaindxBarManager.Bar2.ItemLink21]
-ItemName=HighlightColordxBarButton
-BeginGroup=0
-UserDefine=00
-UserString=
-ButtonGroup=0
-Position=0
-ViewLevels=0000
-Visible=1
-UseCount=47
-RecentIndex=0
-
-[JFMainForm.MaindxBarManager.Bar2.ItemLink22]
+[JFMainForm.MaindxBarManager.Bar2.ItemLink18]
 ItemName=HighlightColorCustomItem
 BeginGroup=0
 UserDefine=00
@@ -1186,7 +1138,7 @@ Position=0
 ViewLevels=0000
 Visible=0
 UseCount=24
-RecentIndex=22
+RecentIndex=18
 
 [JFMainForm.MaindxBarManager.Bar3]
 Caption=Buy The Journal
@@ -1381,8 +1333,190 @@ RecentIndex=2
 [JFMainForm.MaindxBarManager.SubItem_EditDoodledxBarSubItem]
 ItemLinkCount=3
 
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink0]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Lit[datasets\#visualization\FiftyOne]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink1]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Read[#reviews\phd\SPL Two-Space Spatial-Temporal Regularized Correlation Filters]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink2]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Sunday, March 8, 2026 - 12:24 PM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink3]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Misc[python\unix paths on windows]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink4]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Misc[python\vscode]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink5]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Misc[python\tensorflow]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink6]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Misc[misc\vscode]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink7]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Sunday, March 8, 2026 - 12:24 PM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink8]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Saturday, March 7, 2026 - 11:42 AM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink9]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=T[talks]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink10]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Saturday, March 7, 2026 - 11:42 AM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink11]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Saturday, February 7, 2026 - 10:32 AM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink12]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Saturday, February 28, 2026 - 11:26 AM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink13]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Sunday, March 8, 2026 - 12:24 PM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink14]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=T[talks]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink15]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Sunday, March 8, 2026 - 12:24 PM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink16]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=D[documentaries]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink17]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Sunday, March 8, 2026 - 12:24 PM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink18]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=D[documentaries]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink19]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=D[documentaries\to see]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink20]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=T[talks]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink21]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Sunday, March 8, 2026 - 12:24 PM]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink22]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=VC[google\ualberta]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink23]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=VC[google\mj]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink24]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=VC[cvat\gilbert]
+UserString=
+
+[JFMainForm.MaindxBarManager.Button_GoBackdxBarButton.ItemLink25]
+ItemName=GoBackItemdxBarButton
+BeginGroup=0
+UserDefine=01
+UserCaption=Daily[Sunday, March 8, 2026 - 12:24 PM]
+UserString=
+
 [JFMainForm.MaindxBarManager.Button_GoBackdxBarButton]
-ItemLinkCount=0
+ItemLinkCount=26
 
 [JFMainForm.MaindxBarManager.Button_GoForwarddxBarButton]
 ItemLinkCount=0
@@ -1633,14 +1767,14 @@ UserCaption=Lime
 UserString=
 
 [JFMainForm.MaindxBarManager.Button_HighlightColordxBarButton.ItemLink13]
-ItemName=HighlightColorItem
+ItemName=HighlightColorItemDown
 BeginGroup=0
 UserDefine=03
 UserCaption=Yellow
 UserString=
 
 [JFMainForm.MaindxBarManager.Button_HighlightColordxBarButton.ItemLink14]
-ItemName=HighlightColorItemDown
+ItemName=HighlightColorItem
 BeginGroup=0
 UserDefine=03
 UserCaption=Blue
@@ -2029,16 +2163,16 @@ ItemName=JournalSavedxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=21
-RecentIndex=5
+UseCount=24
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_FiledxBarSubItem.ItemLink1]
 ItemName=JournalPrintEntriesdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=24
-RecentIndex=4
+UseCount=25
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_FiledxBarSubItem.ItemLink2]
 ItemName=JournalLogindxBarButton
@@ -2070,7 +2204,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=31
-RecentIndex=2
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_FiledxBarSubItem.ItemLink6]
 ItemName=MaintdxBarSubItem
@@ -2078,7 +2212,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=25
-RecentIndex=3
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.SubItem_FiledxBarSubItem.ItemLink7]
 ItemName=FileImportdxBarSubItem
@@ -2093,7 +2227,7 @@ ItemName=FileExportdxBarSubItem
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=73
+UseCount=198
 RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_FiledxBarSubItem.ItemLink9]
@@ -2109,7 +2243,7 @@ ItemName=JournalExitdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=56
+UseCount=93
 RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_FiledxBarSubItem]
@@ -2120,7 +2254,7 @@ ItemName=EditUndodxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=59
+UseCount=172
 RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_EditdxBarSubItem.ItemLink1]
@@ -2129,23 +2263,23 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=28
-RecentIndex=2
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.SubItem_EditdxBarSubItem.ItemLink2]
 ItemName=EditCutdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=5
+UseCount=21
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_EditdxBarSubItem.ItemLink3]
 ItemName=EditCopydxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=6
+UseCount=21
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_EditdxBarSubItem.ItemLink4]
 ItemName=EditPastedxBarButton
@@ -2160,8 +2294,8 @@ ItemName=PastedxBarSubItem
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=22
-RecentIndex=3
+UseCount=23
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_EditdxBarSubItem.ItemLink6]
 ItemName=EditSelectAlldxBarButton
@@ -2176,8 +2310,8 @@ ItemName=EditSelectParagraphdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=21
-RecentIndex=1
+UseCount=22
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_EditdxBarSubItem.ItemLink8]
 ItemName=EditCVdxBarButton
@@ -2185,7 +2319,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=4
+RecentIndex=6
 
 [JFMainForm.MaindxBarManager.SubItem_EditdxBarSubItem.ItemLink9]
 ItemName=EditLinkdxBarSubItem
@@ -2235,8 +2369,8 @@ ItemName=SearchFinddxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=24
-RecentIndex=0
+UseCount=28
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_SearchdxBarSubItem.ItemLink1]
 ItemName=SearchReplacedxBarButton
@@ -2244,7 +2378,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=22
-RecentIndex=1
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_SearchdxBarSubItem.ItemLink2]
 ItemName=SearchFindNextdxBarButton
@@ -2259,16 +2393,16 @@ ItemName=SearchSearchEntriesdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=36
-RecentIndex=2
+UseCount=46
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_SearchdxBarSubItem.ItemLink4]
 ItemName=TopicSearchdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=35
-RecentIndex=3
+UseCount=38
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_SearchdxBarSubItem.ItemLink5]
 ItemName=BuyJournal2dxBarButton
@@ -2286,7 +2420,7 @@ ItemName=ViewChangeThemedxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=50
+UseCount=760
 RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_ViewdxBarSubItem.ItemLink1]
@@ -2303,7 +2437,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=23
-RecentIndex=5
+RecentIndex=6
 
 [JFMainForm.MaindxBarManager.SubItem_ViewdxBarSubItem.ItemLink3]
 ItemName=ViewSplitEditorHorzdxBarButton
@@ -2319,22 +2453,22 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=22
-RecentIndex=6
+RecentIndex=7
 
 [JFMainForm.MaindxBarManager.SubItem_ViewdxBarSubItem.ItemLink5]
 ItemName=ViewFullscreenEditordxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=22
-RecentIndex=4
+UseCount=23
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_ViewdxBarSubItem.ItemLink6]
 ItemName=ToggleCalendardxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=21
+UseCount=24
 RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_ViewdxBarSubItem.ItemLink7]
@@ -2342,8 +2476,8 @@ ItemName=ToggleTreedxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=21
-RecentIndex=7
+UseCount=23
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_ViewdxBarSubItem.ItemLink8]
 ItemName=VIewEditorRulerdxBarButton
@@ -2351,7 +2485,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=22
-RecentIndex=3
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.SubItem_ViewdxBarSubItem.ItemLink9]
 ItemName=TimerToggledxBarButton
@@ -2359,7 +2493,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=22
-RecentIndex=2
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_ViewdxBarSubItem.ItemLink10]
 ItemName=LanguagedxBarSubItem
@@ -2386,15 +2520,15 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=255
-RecentIndex=3
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_InsertdxBarSubItem.ItemLink1]
 ItemName=InsertTimedxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=733
-RecentIndex=2
+UseCount=734
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_InsertdxBarSubItem.ItemLink2]
 ItemName=InsertEntryDatedxBarButton
@@ -2402,7 +2536,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=4
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.SubItem_InsertdxBarSubItem.ItemLink3]
 ItemName=InsertSymboldxBarButton
@@ -2425,8 +2559,8 @@ ItemName=InsertBookmarkdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=21
-RecentIndex=7
+UseCount=23
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_InsertdxBarSubItem.ItemLink6]
 ItemName=InsertCalendarCharmdxBarButton
@@ -2442,7 +2576,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=6
+RecentIndex=7
 
 [JFMainForm.MaindxBarManager.SubItem_InsertdxBarSubItem.ItemLink8]
 ItemName=InsertPageBreakdxBarButton
@@ -2498,7 +2632,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=22
-RecentIndex=5
+RecentIndex=6
 
 [JFMainForm.MaindxBarManager.SubItem_InsertdxBarSubItem.ItemLink15]
 ItemName=InsertDoodledxBarButton
@@ -2514,7 +2648,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=1
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_InsertdxBarSubItem.ItemLink17]
 ItemName=InsertObjectdxBarButton
@@ -2522,7 +2656,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=0
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_InsertdxBarSubItem.ItemLink18]
 ItemName=BuyJournal2dxBarButton
@@ -2640,15 +2774,15 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=6
+RecentIndex=7
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink1]
 ItemName=FormatParagraphdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=21
-RecentIndex=5
+UseCount=22
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink2]
 ItemName=FormatParaBorderdxBarButton
@@ -2656,15 +2790,15 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=7
+RecentIndex=8
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink3]
 ItemName=FormatStyledxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=30
-RecentIndex=1
+UseCount=40
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink4]
 ItemName=FormatClearFormattingdxBarButton
@@ -2672,7 +2806,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=0
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink5]
 ItemName=FormatDefStyleRetainFormatdxBarButton
@@ -2680,7 +2814,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=8
+RecentIndex=9
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink6]
 ItemName=RemovedxBarSubItem
@@ -2688,7 +2822,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=9
+RecentIndex=10
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink7]
 ItemName=CategoryDefaultFontdxBarButton
@@ -2696,7 +2830,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=3
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink8]
 ItemName=UserDefaultFontEditdxBarButton
@@ -2704,7 +2838,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=4
+RecentIndex=6
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink9]
 ItemName=FormatFontStyledxBarSubItem
@@ -2712,7 +2846,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=10
+RecentIndex=11
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink10]
 ItemName=FormatParaAligndxBarSubItem
@@ -2720,7 +2854,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=11
+RecentIndex=12
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink11]
 ItemName=FormatBulletsNumberdxBarSubItem
@@ -2728,7 +2862,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=12
+RecentIndex=13
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink12]
 ItemName=FormatPainterdxBarButton
@@ -2736,7 +2870,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=2
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink13]
 ItemName=EntryColordxBarSubItem
@@ -2744,15 +2878,15 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=13
+RecentIndex=14
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink14]
 ItemName=EntryBackgroundImagedxBarSubItem
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=14
+UseCount=22
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_FormatdxBarSubItem.ItemLink15]
 ItemName=BuyJournal2dxBarButton
@@ -2771,7 +2905,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=2
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink1]
 ItemName=EntryNewSubLastdxBarButton
@@ -2779,7 +2913,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=3
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink2]
 ItemName=EntryRenamedxBarButton
@@ -2787,14 +2921,14 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=0
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink3]
 ItemName=EntryEditdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=21
+UseCount=23
 RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink4]
@@ -2803,7 +2937,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=4
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink5]
 ItemName=EntryHighlightdxBarButton
@@ -2811,7 +2945,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=5
+RecentIndex=6
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink6]
 ItemName=EntryTemplatedxBarButton
@@ -2819,7 +2953,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=6
+RecentIndex=7
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink7]
 ItemName=EntryChangeDatedxBarButton
@@ -2827,7 +2961,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=7
+RecentIndex=8
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink8]
 ItemName=EntryPropertiesdxBarButton
@@ -2835,7 +2969,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=8
+RecentIndex=9
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink9]
 ItemName=EntryCopyToClipboarddxBarButton
@@ -2843,7 +2977,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=9
+RecentIndex=10
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink10]
 ItemName=EntryLinkCopydxBarButton
@@ -2851,7 +2985,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=10
+RecentIndex=11
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink11]
 ItemName=CopyExtEntryLinkToClipboarddxBarButton
@@ -2867,7 +3001,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=11
+RecentIndex=12
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink13]
 ItemName=EntryPasteFromClipboarddxBarButton
@@ -2875,7 +3009,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=12
+RecentIndex=13
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink14]
 ItemName=EntryPasteSubEntrydxBarButton
@@ -2883,7 +3017,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=13
+RecentIndex=14
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink15]
 ItemName=EntryNewdxBarSubItem
@@ -2891,7 +3025,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=14
+RecentIndex=15
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink16]
 ItemName=EntryRootNewdxBarSubItem
@@ -2899,15 +3033,15 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=15
+RecentIndex=16
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink17]
 ItemName=EntryNewSubdxBarSubItem
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=16
+UseCount=21
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_EntrydxBarSubItem.ItemLink18]
 ItemName=EntryCreateNewTodaydxBarButton
@@ -3120,8 +3254,8 @@ ItemName=OptionsUserPrefdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=56
-RecentIndex=1
+UseCount=62
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_UserdxBarSubItem.ItemLink1]
 ItemName=UserImagesdxBarButton
@@ -3129,7 +3263,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=22
-RecentIndex=2
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_UserdxBarSubItem.ItemLink2]
 ItemName=UserDefaultFontEditdxBarButton
@@ -3137,7 +3271,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=3
+RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_UserdxBarSubItem.ItemLink3]
 ItemName=UserStatisticsdxBarButton
@@ -3145,7 +3279,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=4
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.SubItem_UserdxBarSubItem.ItemLink4]
 ItemName=OptionAutoLogindxBarButton
@@ -3153,7 +3287,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=0
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_UserdxBarSubItem.ItemLink5]
 ItemName=MaintRenameUserdxBarButton
@@ -3161,15 +3295,15 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=5
+RecentIndex=6
 
 [JFMainForm.MaindxBarManager.SubItem_UserdxBarSubItem.ItemLink6]
 ItemName=OptionsChangePassworddxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=6
+UseCount=21
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_UserdxBarSubItem.ItemLink7]
 ItemName=BuyJournal2dxBarButton
@@ -3337,7 +3471,7 @@ ItemName=CategoryPropsdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=21
+UseCount=22
 RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_CategorydxBarSubItem.ItemLink1]
@@ -3353,7 +3487,7 @@ ItemName=CategoryShowTreedxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=22
+UseCount=24
 RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_CategorydxBarSubItem.ItemLink3]
@@ -3361,7 +3495,7 @@ ItemName=CategoryShowTabsdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=22
+UseCount=23
 RecentIndex=14
 
 [JFMainForm.MaindxBarManager.SubItem_CategorydxBarSubItem.ItemLink4]
@@ -3531,7 +3665,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=0
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_EntryNewSubdxBarSubItem.ItemLink1]
 ItemName=EntryNewSubExtObjdxBarButton
@@ -3539,7 +3673,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=1
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_EntryNewSubdxBarSubItem.ItemLink2]
 ItemName=EntryNewSubImgdxBarButton
@@ -3547,15 +3681,15 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=2
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_EntryNewSubdxBarSubItem.ItemLink3]
 ItemName=EntryNewSubLastdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=3
+UseCount=21
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_EntryNewSubdxBarSubItem]
 ItemLinkCount=4
@@ -3795,7 +3929,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=22
-RecentIndex=0
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_HelpdxBarSubItem.ItemLink1]
 ItemName=HelpHowToUsedxBarButton
@@ -3890,8 +4024,8 @@ ItemName=HelpAboutdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=23
-RecentIndex=1
+UseCount=26
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_HelpdxBarSubItem]
 ItemLinkCount=13
@@ -3905,7 +4039,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=5
+RecentIndex=6
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink1]
 ItemName=ToolsThesaurusdxBarButton
@@ -3913,7 +4047,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=6
+RecentIndex=7
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink2]
 ItemName=ToolsWordCountdxBarButton
@@ -3921,7 +4055,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=21
-RecentIndex=3
+RecentIndex=5
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink3]
 ItemName=ToolsCountWordsInSubEntriesdxBarButton
@@ -3929,7 +4063,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=7
+RecentIndex=8
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink4]
 ItemName=ToolsCountWordsInSelectedEntriesdxBarButton
@@ -3937,23 +4071,23 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=20
-RecentIndex=8
+RecentIndex=9
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink5]
 ItemName=NewReminderdxBarSubItem
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=21
-RecentIndex=1
+UseCount=26
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink6]
 ItemName=ReminderViewdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=9
+UseCount=23
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink7]
 ItemName=ToolsReportWizarddxBarButton
@@ -4016,7 +4150,7 @@ ItemName=ToolCustomizeToolbarsdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=21
+UseCount=22
 RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink15]
@@ -4024,15 +4158,15 @@ ItemName=ToolsEditActionsdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=29
-RecentIndex=2
+UseCount=32
+RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink16]
 ItemName=OptionsUserPrefdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=34
+UseCount=54
 RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_ToolsdxBarSubItem.ItemLink17]
@@ -4062,8 +4196,8 @@ ItemName=TableInsertdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=2
+UseCount=21
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_TabledxBarSubItem.ItemLink1]
 ItemName=TableInsertdxBarSubItem
@@ -4103,7 +4237,7 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=24
-RecentIndex=1
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_TabledxBarSubItem.ItemLink6]
 ItemName=TablePropertiesdxBarButton
@@ -4111,7 +4245,7 @@ BeginGroup=1
 UserDefine=00
 UserString=
 UseCount=26
-RecentIndex=0
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_TabledxBarSubItem]
 ItemLinkCount=7
@@ -4145,7 +4279,7 @@ ItemName=TopicSearchdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=49
+UseCount=50
 RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_TopicdxBarSubItem.ItemLink4]
@@ -4153,8 +4287,8 @@ ItemName=TopicClouddxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=29
-RecentIndex=2
+UseCount=32
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_TopicdxBarSubItem.ItemLink5]
 ItemName=TopicMergedxBarButton
@@ -4169,8 +4303,8 @@ ItemName=TopicEditdxBarButton
 BeginGroup=1
 UserDefine=00
 UserString=
-UseCount=53
-RecentIndex=0
+UseCount=54
+RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_TopicdxBarSubItem]
 ItemLinkCount=7
@@ -4378,15 +4512,15 @@ BeginGroup=0
 UserDefine=00
 UserString=
 UseCount=22
-RecentIndex=0
+RecentIndex=1
 
 [JFMainForm.MaindxBarManager.SubItem_PastedxBarSubItem.ItemLink1]
 ItemName=EditPasteTextdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=20
-RecentIndex=1
+UseCount=21
+RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_PastedxBarSubItem]
 ItemLinkCount=2
@@ -4683,7 +4817,7 @@ ItemName=ReminderTaskdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=21
+UseCount=26
 RecentIndex=0
 
 [JFMainForm.MaindxBarManager.SubItem_NewReminderdxBarSubItem.ItemLink3]
@@ -4702,7 +4836,7 @@ ItemName=EntryExportEntriesdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=39
+UseCount=90
 RecentIndex=4
 
 [JFMainForm.MaindxBarManager.SubItem_FileExportdxBarSubItem.ItemLink1]
@@ -4710,7 +4844,7 @@ ItemName=ExportEntriesToFiledxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=24
+UseCount=64
 RecentIndex=2
 
 [JFMainForm.MaindxBarManager.SubItem_FileExportdxBarSubItem.ItemLink2]
@@ -4726,7 +4860,7 @@ ItemName=ReminderExportdxBarButton
 BeginGroup=0
 UserDefine=00
 UserString=
-UseCount=23
+UseCount=57
 RecentIndex=3
 
 [JFMainForm.MaindxBarManager.SubItem_FileExportdxBarSubItem.ItemLink4]
